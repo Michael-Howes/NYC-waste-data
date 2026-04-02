@@ -1,0 +1,5665 @@
+borough,communitydistrict,waste type,month,quantity
+Bronx,1,leaves organic,1,0
+Bronx,1,mgp,1,128.1
+Bronx,1,other organics,1,0
+Bronx,1,paper,1,234.7
+Bronx,1,refuse,1,3201.6
+Bronx,1,res organics,1,9.9
+Bronx,1,school organic,1,95.6
+Bronx,1,xmastree,1,0
+Bronx,10,leaves organic,1,0
+Bronx,10,mgp,1,336.9
+Bronx,10,other organics,1,0
+Bronx,10,paper,1,293.7
+Bronx,10,refuse,1,2472.5
+Bronx,10,res organics,1,41
+Bronx,10,school organic,1,62.2
+Bronx,10,xmastree,1,0
+Bronx,11,leaves organic,1,0
+Bronx,11,mgp,1,324.5
+Bronx,11,other organics,1,0
+Bronx,11,paper,1,286.9
+Bronx,11,refuse,1,2981.6
+Bronx,11,res organics,1,39
+Bronx,11,school organic,1,81.5
+Bronx,11,xmastree,1,0
+Bronx,12,leaves organic,1,0
+Bronx,12,mgp,1,554.1
+Bronx,12,other organics,1,0
+Bronx,12,paper,1,309
+Bronx,12,refuse,1,3572.7
+Bronx,12,res organics,1,67
+Bronx,12,school organic,1,0
+Bronx,12,xmastree,1,0
+Bronx,2,leaves organic,1,0
+Bronx,2,mgp,1,197
+Bronx,2,other organics,1,0
+Bronx,2,paper,1,230
+Bronx,2,refuse,1,7754.2
+Bronx,2,res organics,1,6.4
+Bronx,2,school organic,1,0
+Bronx,2,xmastree,1,0
+Bronx,3,leaves organic,1,0
+Bronx,3,mgp,1,169.3
+Bronx,3,other organics,1,0
+Bronx,3,paper,1,164.3
+Bronx,3,refuse,1,2172.5
+Bronx,3,res organics,1,6.2
+Bronx,3,school organic,1,94.5
+Bronx,3,xmastree,1,0
+Bronx,4,leaves organic,1,0
+Bronx,4,mgp,1,292.8
+Bronx,4,other organics,1,0
+Bronx,4,paper,1,250.5
+Bronx,4,refuse,1,3956.8
+Bronx,4,res organics,1,8.6
+Bronx,4,school organic,1,69.3
+Bronx,4,xmastree,1,0
+Bronx,5,leaves organic,1,0
+Bronx,5,mgp,1,316.1
+Bronx,5,other organics,1,0
+Bronx,5,paper,1,214.8
+Bronx,5,refuse,1,3325.5
+Bronx,5,res organics,1,10.2
+Bronx,5,school organic,1,77.3
+Bronx,5,xmastree,1,0
+Bronx,6,leaves organic,1,0
+Bronx,6,mgp,1,191.8
+Bronx,6,other organics,1,0
+Bronx,6,paper,1,201.3
+Bronx,6,refuse,1,3072.8
+Bronx,6,res organics,1,4.8
+Bronx,6,school organic,1,60
+Bronx,6,xmastree,1,0
+Bronx,7,leaves organic,1,0
+Bronx,7,mgp,1,446.3
+Bronx,7,other organics,1,0
+Bronx,7,paper,1,307.2
+Bronx,7,refuse,1,3753.9
+Bronx,7,res organics,1,7.3
+Bronx,7,school organic,1,44.8
+Bronx,7,xmastree,1,0
+Bronx,8,leaves organic,1,0
+Bronx,8,mgp,1,355.1
+Bronx,8,other organics,1,0
+Bronx,8,paper,1,292.2
+Bronx,8,refuse,1,2286.9
+Bronx,8,res organics,1,61.7
+Bronx,8,school organic,1,0
+Bronx,8,xmastree,1,0
+Bronx,9,leaves organic,1,0
+Bronx,9,mgp,1,374.8
+Bronx,9,other organics,1,0
+Bronx,9,paper,1,221.8
+Bronx,9,refuse,1,3648.8
+Bronx,9,res organics,1,28.6
+Bronx,9,school organic,1,0
+Bronx,9,xmastree,1,0
+Bronx,1,leaves organic,2,0
+Bronx,1,mgp,2,118.2
+Bronx,1,other organics,2,0
+Bronx,1,paper,2,207.8
+Bronx,1,refuse,2,2872.5
+Bronx,1,res organics,2,5.7
+Bronx,1,school organic,2,68.5
+Bronx,1,xmastree,2,0
+Bronx,10,leaves organic,2,0
+Bronx,10,mgp,2,275.4
+Bronx,10,other organics,2,0
+Bronx,10,paper,2,242
+Bronx,10,refuse,2,2103
+Bronx,10,res organics,2,28.3
+Bronx,10,school organic,2,47.4
+Bronx,10,xmastree,2,0
+Bronx,11,leaves organic,2,0
+Bronx,11,mgp,2,260.7
+Bronx,11,other organics,2,0
+Bronx,11,paper,2,240.5
+Bronx,11,refuse,2,2602.2
+Bronx,11,res organics,2,24.2
+Bronx,11,school organic,2,64.3
+Bronx,11,xmastree,2,0
+Bronx,12,leaves organic,2,0
+Bronx,12,mgp,2,455.6
+Bronx,12,other organics,2,0
+Bronx,12,paper,2,249.9
+Bronx,12,refuse,2,3184.4
+Bronx,12,res organics,2,43.1
+Bronx,12,school organic,2,0
+Bronx,12,xmastree,2,0
+Bronx,2,leaves organic,2,0
+Bronx,2,mgp,2,163
+Bronx,2,other organics,2,0
+Bronx,2,paper,2,187
+Bronx,2,refuse,2,6696.1
+Bronx,2,res organics,2,2.3
+Bronx,2,school organic,2,0
+Bronx,2,xmastree,2,0
+Bronx,3,leaves organic,2,0
+Bronx,3,mgp,2,133.2
+Bronx,3,other organics,2,0
+Bronx,3,paper,2,123.3
+Bronx,3,refuse,2,1901.6
+Bronx,3,res organics,2,2.2
+Bronx,3,school organic,2,72.4
+Bronx,3,xmastree,2,0
+Bronx,4,leaves organic,2,0
+Bronx,4,mgp,2,257.7
+Bronx,4,other organics,2,0.3
+Bronx,4,paper,2,212.9
+Bronx,4,refuse,2,3526.6
+Bronx,4,res organics,2,5
+Bronx,4,school organic,2,61.2
+Bronx,4,xmastree,2,0
+Bronx,5,leaves organic,2,0
+Bronx,5,mgp,2,259.6
+Bronx,5,other organics,2,0
+Bronx,5,paper,2,182.7
+Bronx,5,refuse,2,2982.2
+Bronx,5,res organics,2,7.5
+Bronx,5,school organic,2,62.9
+Bronx,5,xmastree,2,0
+Bronx,6,leaves organic,2,0
+Bronx,6,mgp,2,153.8
+Bronx,6,other organics,2,0.1
+Bronx,6,paper,2,167
+Bronx,6,refuse,2,2802
+Bronx,6,res organics,2,4.2
+Bronx,6,school organic,2,42.1
+Bronx,6,xmastree,2,0
+Bronx,7,leaves organic,2,0
+Bronx,7,mgp,2,359.1
+Bronx,7,other organics,2,0
+Bronx,7,paper,2,250.2
+Bronx,7,refuse,2,3370.5
+Bronx,7,res organics,2,4.2
+Bronx,7,school organic,2,33.4
+Bronx,7,xmastree,2,0
+Bronx,8,leaves organic,2,0
+Bronx,8,mgp,2,290.4
+Bronx,8,other organics,2,1
+Bronx,8,paper,2,242.7
+Bronx,8,refuse,2,2013.5
+Bronx,8,res organics,2,43.7
+Bronx,8,school organic,2,0
+Bronx,8,xmastree,2,0
+Bronx,9,leaves organic,2,0
+Bronx,9,mgp,2,304.2
+Bronx,9,other organics,2,0
+Bronx,9,paper,2,187.3
+Bronx,9,refuse,2,3180.4
+Bronx,9,res organics,2,17
+Bronx,9,school organic,2,0
+Bronx,9,xmastree,2,0
+Bronx,1,leaves organic,3,0
+Bronx,1,mgp,3,133.4
+Bronx,1,other organics,3,0
+Bronx,1,paper,3,245.7
+Bronx,1,refuse,3,3348.8
+Bronx,1,res organics,3,7.6
+Bronx,1,school organic,3,95
+Bronx,1,xmastree,3,0
+Bronx,10,leaves organic,3,0
+Bronx,10,mgp,3,309.2
+Bronx,10,other organics,3,0
+Bronx,10,paper,3,270.6
+Bronx,10,refuse,3,2506.7
+Bronx,10,res organics,3,51
+Bronx,10,school organic,3,54.4
+Bronx,10,xmastree,3,0
+Bronx,11,leaves organic,3,0
+Bronx,11,mgp,3,292.2
+Bronx,11,other organics,3,0
+Bronx,11,paper,3,273.8
+Bronx,11,refuse,3,3118.4
+Bronx,11,res organics,3,45.9
+Bronx,11,school organic,3,85.4
+Bronx,11,xmastree,3,0
+Bronx,12,leaves organic,3,0
+Bronx,12,mgp,3,518.8
+Bronx,12,other organics,3,0
+Bronx,12,paper,3,290.2
+Bronx,12,refuse,3,3792.6
+Bronx,12,res organics,3,73.2
+Bronx,12,school organic,3,0
+Bronx,12,xmastree,3,0
+Bronx,2,leaves organic,3,0
+Bronx,2,mgp,3,188
+Bronx,2,other organics,3,0
+Bronx,2,paper,3,216.4
+Bronx,2,refuse,3,7875.2
+Bronx,2,res organics,3,2.5
+Bronx,2,school organic,3,0
+Bronx,2,xmastree,3,0
+Bronx,3,leaves organic,3,0
+Bronx,3,mgp,3,139.2
+Bronx,3,other organics,3,0
+Bronx,3,paper,3,145.4
+Bronx,3,refuse,3,2243.5
+Bronx,3,res organics,3,4.6
+Bronx,3,school organic,3,98.2
+Bronx,3,xmastree,3,0
+Bronx,4,leaves organic,3,0
+Bronx,4,mgp,3,300
+Bronx,4,other organics,3,0
+Bronx,4,paper,3,258.5
+Bronx,4,refuse,3,4102.8
+Bronx,4,res organics,3,7.6
+Bronx,4,school organic,3,67
+Bronx,4,xmastree,3,0
+Bronx,5,leaves organic,3,0
+Bronx,5,mgp,3,312.8
+Bronx,5,other organics,3,0
+Bronx,5,paper,3,233.2
+Bronx,5,refuse,3,3487.9
+Bronx,5,res organics,3,7.4
+Bronx,5,school organic,3,77.1
+Bronx,5,xmastree,3,0
+Bronx,6,leaves organic,3,0
+Bronx,6,mgp,3,169
+Bronx,6,other organics,3,0
+Bronx,6,paper,3,190.2
+Bronx,6,refuse,3,3272.7
+Bronx,6,res organics,3,3.6
+Bronx,6,school organic,3,51.6
+Bronx,6,xmastree,3,0
+Bronx,7,leaves organic,3,0
+Bronx,7,mgp,3,406.7
+Bronx,7,other organics,3,0
+Bronx,7,paper,3,290.6
+Bronx,7,refuse,3,3843.5
+Bronx,7,res organics,3,5.5
+Bronx,7,school organic,3,46.5
+Bronx,7,xmastree,3,0
+Bronx,8,leaves organic,3,0
+Bronx,8,mgp,3,317.1
+Bronx,8,other organics,3,0
+Bronx,8,paper,3,261.7
+Bronx,8,refuse,3,2283.7
+Bronx,8,res organics,3,64.7
+Bronx,8,school organic,3,0
+Bronx,8,xmastree,3,0
+Bronx,9,leaves organic,3,0
+Bronx,9,mgp,3,356.8
+Bronx,9,other organics,3,0
+Bronx,9,paper,3,217.3
+Bronx,9,refuse,3,3789.2
+Bronx,9,res organics,3,27
+Bronx,9,school organic,3,0
+Bronx,9,xmastree,3,0
+Bronx,1,leaves organic,4,0
+Bronx,1,mgp,4,147
+Bronx,1,other organics,4,0
+Bronx,1,paper,4,236.7
+Bronx,1,refuse,4,3232.7
+Bronx,1,res organics,4,17.6
+Bronx,1,school organic,4,80.3
+Bronx,1,xmastree,4,0
+Bronx,10,leaves organic,4,0
+Bronx,10,mgp,4,323.7
+Bronx,10,other organics,4,0
+Bronx,10,paper,4,275.1
+Bronx,10,refuse,4,2456.5
+Bronx,10,res organics,4,165.2
+Bronx,10,school organic,4,52.2
+Bronx,10,xmastree,4,0
+Bronx,11,leaves organic,4,0
+Bronx,11,mgp,4,310.9
+Bronx,11,other organics,4,0
+Bronx,11,paper,4,265.9
+Bronx,11,refuse,4,2987
+Bronx,11,res organics,4,141
+Bronx,11,school organic,4,73.9
+Bronx,11,xmastree,4,0
+Bronx,12,leaves organic,4,0
+Bronx,12,mgp,4,544.7
+Bronx,12,other organics,4,0
+Bronx,12,paper,4,305.3
+Bronx,12,refuse,4,3686.5
+Bronx,12,res organics,4,234.8
+Bronx,12,school organic,4,0
+Bronx,12,xmastree,4,0
+Bronx,2,leaves organic,4,0
+Bronx,2,mgp,4,203.3
+Bronx,2,other organics,4,0
+Bronx,2,paper,4,215.9
+Bronx,2,refuse,4,7838.1
+Bronx,2,res organics,4,14.7
+Bronx,2,school organic,4,0
+Bronx,2,xmastree,4,0
+Bronx,3,leaves organic,4,0
+Bronx,3,mgp,4,175.3
+Bronx,3,other organics,4,0
+Bronx,3,paper,4,171.3
+Bronx,3,refuse,4,2235.1
+Bronx,3,res organics,4,16.5
+Bronx,3,school organic,4,85.2
+Bronx,3,xmastree,4,0
+Bronx,4,leaves organic,4,0
+Bronx,4,mgp,4,309.5
+Bronx,4,other organics,4,1.3
+Bronx,4,paper,4,256.6
+Bronx,4,refuse,4,4059.4
+Bronx,4,res organics,4,15.7
+Bronx,4,school organic,4,59.8
+Bronx,4,xmastree,4,0
+Bronx,5,leaves organic,4,0
+Bronx,5,mgp,4,321.2
+Bronx,5,other organics,4,0
+Bronx,5,paper,4,225.5
+Bronx,5,refuse,4,3495.8
+Bronx,5,res organics,4,16.5
+Bronx,5,school organic,4,69.2
+Bronx,5,xmastree,4,0
+Bronx,6,leaves organic,4,0
+Bronx,6,mgp,4,216.7
+Bronx,6,other organics,4,0.6
+Bronx,6,paper,4,206.9
+Bronx,6,refuse,4,3205
+Bronx,6,res organics,4,11.4
+Bronx,6,school organic,4,45.5
+Bronx,6,xmastree,4,0
+Bronx,7,leaves organic,4,0
+Bronx,7,mgp,4,428.3
+Bronx,7,other organics,4,0
+Bronx,7,paper,4,289.1
+Bronx,7,refuse,4,3805.4
+Bronx,7,res organics,4,32
+Bronx,7,school organic,4,41.2
+Bronx,7,xmastree,4,0
+Bronx,8,leaves organic,4,0
+Bronx,8,mgp,4,348.8
+Bronx,8,other organics,4,0
+Bronx,8,paper,4,285.3
+Bronx,8,refuse,4,2266.2
+Bronx,8,res organics,4,134
+Bronx,8,school organic,4,0
+Bronx,8,xmastree,4,0
+Bronx,9,leaves organic,4,0
+Bronx,9,mgp,4,351.1
+Bronx,9,other organics,4,0
+Bronx,9,paper,4,226.4
+Bronx,9,refuse,4,3714
+Bronx,9,res organics,4,79.8
+Bronx,9,school organic,4,0
+Bronx,9,xmastree,4,0
+Bronx,1,leaves organic,5,0
+Bronx,1,mgp,5,137.4
+Bronx,1,other organics,5,0
+Bronx,1,paper,5,252.9
+Bronx,1,refuse,5,3433.3
+Bronx,1,res organics,5,19.8
+Bronx,1,school organic,5,91.9
+Bronx,1,xmastree,5,0
+Bronx,10,leaves organic,5,0
+Bronx,10,mgp,5,373.4
+Bronx,10,other organics,5,0
+Bronx,10,paper,5,321.8
+Bronx,10,refuse,5,2719.9
+Bronx,10,res organics,5,219.3
+Bronx,10,school organic,5,62.1
+Bronx,10,xmastree,5,0
+Bronx,11,leaves organic,5,0
+Bronx,11,mgp,5,351.3
+Bronx,11,other organics,5,0
+Bronx,11,paper,5,306.5
+Bronx,11,refuse,5,3298.3
+Bronx,11,res organics,5,202.1
+Bronx,11,school organic,5,91
+Bronx,11,xmastree,5,0
+Bronx,12,leaves organic,5,0
+Bronx,12,mgp,5,580.3
+Bronx,12,other organics,5,0
+Bronx,12,paper,5,346.5
+Bronx,12,refuse,5,3959.1
+Bronx,12,res organics,5,357
+Bronx,12,school organic,5,0
+Bronx,12,xmastree,5,0
+Bronx,2,leaves organic,5,0
+Bronx,2,mgp,5,228.5
+Bronx,2,other organics,5,0
+Bronx,2,paper,5,222.6
+Bronx,2,refuse,5,8300.8
+Bronx,2,res organics,5,25.9
+Bronx,2,school organic,5,0
+Bronx,2,xmastree,5,0
+Bronx,3,leaves organic,5,0
+Bronx,3,mgp,5,140
+Bronx,3,other organics,5,0
+Bronx,3,paper,5,146.6
+Bronx,3,refuse,5,2318.3
+Bronx,3,res organics,5,14.8
+Bronx,3,school organic,5,92.9
+Bronx,3,xmastree,5,0
+Bronx,4,leaves organic,5,0
+Bronx,4,mgp,5,305.9
+Bronx,4,other organics,5,0
+Bronx,4,paper,5,262
+Bronx,4,refuse,5,4235.6
+Bronx,4,res organics,5,21.2
+Bronx,4,school organic,5,71.4
+Bronx,4,xmastree,5,0
+Bronx,5,leaves organic,5,0
+Bronx,5,mgp,5,313.8
+Bronx,5,other organics,5,0
+Bronx,5,paper,5,234.9
+Bronx,5,refuse,5,3639.6
+Bronx,5,res organics,5,20.6
+Bronx,5,school organic,5,86
+Bronx,5,xmastree,5,0
+Bronx,6,leaves organic,5,0
+Bronx,6,mgp,5,180.9
+Bronx,6,other organics,5,0
+Bronx,6,paper,5,197.8
+Bronx,6,refuse,5,3429.1
+Bronx,6,res organics,5,14
+Bronx,6,school organic,5,53.9
+Bronx,6,xmastree,5,0
+Bronx,7,leaves organic,5,0
+Bronx,7,mgp,5,441.1
+Bronx,7,other organics,5,0
+Bronx,7,paper,5,313.6
+Bronx,7,refuse,5,3938.9
+Bronx,7,res organics,5,46.7
+Bronx,7,school organic,5,50.7
+Bronx,7,xmastree,5,0
+Bronx,8,leaves organic,5,0
+Bronx,8,mgp,5,343.9
+Bronx,8,other organics,5,0
+Bronx,8,paper,5,300.9
+Bronx,8,refuse,5,2424.1
+Bronx,8,res organics,5,161.8
+Bronx,8,school organic,5,0
+Bronx,8,xmastree,5,0
+Bronx,9,leaves organic,5,0
+Bronx,9,mgp,5,402
+Bronx,9,other organics,5,0
+Bronx,9,paper,5,262.2
+Bronx,9,refuse,5,3939.4
+Bronx,9,res organics,5,127.5
+Bronx,9,school organic,5,0
+Bronx,9,xmastree,5,0
+Bronx,1,leaves organic,6,0
+Bronx,1,mgp,6,139.4
+Bronx,1,other organics,6,0
+Bronx,1,paper,6,248.8
+Bronx,1,refuse,6,3504.9
+Bronx,1,res organics,6,20.7
+Bronx,1,school organic,6,65
+Bronx,1,xmastree,6,0
+Bronx,10,leaves organic,6,0
+Bronx,10,mgp,6,333.6
+Bronx,10,other organics,6,0
+Bronx,10,paper,6,289.6
+Bronx,10,refuse,6,2644.5
+Bronx,10,res organics,6,180.8
+Bronx,10,school organic,6,49.4
+Bronx,10,xmastree,6,0
+Bronx,11,leaves organic,6,0
+Bronx,11,mgp,6,314.3
+Bronx,11,other organics,6,0
+Bronx,11,paper,6,281.1
+Bronx,11,refuse,6,3286.4
+Bronx,11,res organics,6,175.6
+Bronx,11,school organic,6,60.1
+Bronx,11,xmastree,6,0
+Bronx,12,leaves organic,6,0
+Bronx,12,mgp,6,542.3
+Bronx,12,other organics,6,0
+Bronx,12,paper,6,321.2
+Bronx,12,refuse,6,3888.9
+Bronx,12,res organics,6,316.1
+Bronx,12,school organic,6,0
+Bronx,12,xmastree,6,0
+Bronx,2,leaves organic,6,0
+Bronx,2,mgp,6,191.1
+Bronx,2,other organics,6,0
+Bronx,2,paper,6,212.3
+Bronx,2,refuse,6,7742.5
+Bronx,2,res organics,6,15.4
+Bronx,2,school organic,6,0
+Bronx,2,xmastree,6,0
+Bronx,3,leaves organic,6,0
+Bronx,3,mgp,6,137.8
+Bronx,3,other organics,6,0
+Bronx,3,paper,6,139.4
+Bronx,3,refuse,6,2407.3
+Bronx,3,res organics,6,16.4
+Bronx,3,school organic,6,61.2
+Bronx,3,xmastree,6,0
+Bronx,4,leaves organic,6,0
+Bronx,4,mgp,6,299.1
+Bronx,4,other organics,6,0
+Bronx,4,paper,6,254.4
+Bronx,4,refuse,6,4188.6
+Bronx,4,res organics,6,17.8
+Bronx,4,school organic,6,48.3
+Bronx,4,xmastree,6,0
+Bronx,5,leaves organic,6,0
+Bronx,5,mgp,6,303
+Bronx,5,other organics,6,0
+Bronx,5,paper,6,238.8
+Bronx,5,refuse,6,3527.1
+Bronx,5,res organics,6,21.3
+Bronx,5,school organic,6,58
+Bronx,5,xmastree,6,0
+Bronx,6,leaves organic,6,0
+Bronx,6,mgp,6,166.3
+Bronx,6,other organics,6,0
+Bronx,6,paper,6,190.8
+Bronx,6,refuse,6,3435
+Bronx,6,res organics,6,14.6
+Bronx,6,school organic,6,36.9
+Bronx,6,xmastree,6,0
+Bronx,7,leaves organic,6,0
+Bronx,7,mgp,6,411.6
+Bronx,7,other organics,6,0
+Bronx,7,paper,6,291
+Bronx,7,refuse,6,3865.2
+Bronx,7,res organics,6,48.1
+Bronx,7,school organic,6,32.5
+Bronx,7,xmastree,6,0
+Bronx,8,leaves organic,6,0
+Bronx,8,mgp,6,319.5
+Bronx,8,other organics,6,0
+Bronx,8,paper,6,281.4
+Bronx,8,refuse,6,2328
+Bronx,8,res organics,6,147.4
+Bronx,8,school organic,6,0
+Bronx,8,xmastree,6,0
+Bronx,9,leaves organic,6,0
+Bronx,9,mgp,6,367.8
+Bronx,9,other organics,6,0
+Bronx,9,paper,6,227.5
+Bronx,9,refuse,6,3934.8
+Bronx,9,res organics,6,112.6
+Bronx,9,school organic,6,0
+Bronx,9,xmastree,6,0
+Bronx,1,leaves organic,7,0
+Bronx,1,mgp,7,145.9
+Bronx,1,other organics,7,0
+Bronx,1,paper,7,228.7
+Bronx,1,refuse,7,3264.7
+Bronx,1,res organics,7,18.9
+Bronx,1,school organic,7,0
+Bronx,1,xmastree,7,0
+Bronx,10,leaves organic,7,0
+Bronx,10,mgp,7,369.8
+Bronx,10,other organics,7,0
+Bronx,10,paper,7,292.7
+Bronx,10,refuse,7,2765.7
+Bronx,10,res organics,7,182.1
+Bronx,10,school organic,7,0
+Bronx,10,xmastree,7,0
+Bronx,11,leaves organic,7,0
+Bronx,11,mgp,7,341.4
+Bronx,11,other organics,7,0
+Bronx,11,paper,7,285.4
+Bronx,11,refuse,7,3358.2
+Bronx,11,res organics,7,170.4
+Bronx,11,school organic,7,24.7
+Bronx,11,xmastree,7,0
+Bronx,12,leaves organic,7,0
+Bronx,12,mgp,7,608.3
+Bronx,12,other organics,7,0
+Bronx,12,paper,7,344.5
+Bronx,12,refuse,7,4088.6
+Bronx,12,res organics,7,333.7
+Bronx,12,school organic,7,0
+Bronx,12,xmastree,7,0
+Bronx,2,leaves organic,7,0
+Bronx,2,mgp,7,233.3
+Bronx,2,other organics,7,0
+Bronx,2,paper,7,244
+Bronx,2,refuse,7,8194.7
+Bronx,2,res organics,7,16
+Bronx,2,school organic,7,50.3
+Bronx,2,xmastree,7,0
+Bronx,3,leaves organic,7,0
+Bronx,3,mgp,7,173.9
+Bronx,3,other organics,7,0
+Bronx,3,paper,7,155.6
+Bronx,3,refuse,7,2496.6
+Bronx,3,res organics,7,15
+Bronx,3,school organic,7,0
+Bronx,3,xmastree,7,0
+Bronx,4,leaves organic,7,0
+Bronx,4,mgp,7,315.8
+Bronx,4,other organics,7,0
+Bronx,4,paper,7,237.4
+Bronx,4,refuse,7,4282.9
+Bronx,4,res organics,7,17.9
+Bronx,4,school organic,7,0
+Bronx,4,xmastree,7,0
+Bronx,5,leaves organic,7,0
+Bronx,5,mgp,7,329.9
+Bronx,5,other organics,7,0
+Bronx,5,paper,7,236.3
+Bronx,5,refuse,7,3694
+Bronx,5,res organics,7,18.9
+Bronx,5,school organic,7,32.1
+Bronx,5,xmastree,7,0
+Bronx,6,leaves organic,7,0
+Bronx,6,mgp,7,212.7
+Bronx,6,other organics,7,0
+Bronx,6,paper,7,204.5
+Bronx,6,refuse,7,3391.6
+Bronx,6,res organics,7,16.9
+Bronx,6,school organic,7,20.6
+Bronx,6,xmastree,7,0
+Bronx,7,leaves organic,7,0
+Bronx,7,mgp,7,461.9
+Bronx,7,other organics,7,0
+Bronx,7,paper,7,307.3
+Bronx,7,refuse,7,4011.7
+Bronx,7,res organics,7,52.9
+Bronx,7,school organic,7,0
+Bronx,7,xmastree,7,0
+Bronx,8,leaves organic,7,0
+Bronx,8,mgp,7,363.6
+Bronx,8,other organics,7,0
+Bronx,8,paper,7,318.3
+Bronx,8,refuse,7,2428.5
+Bronx,8,res organics,7,147.5
+Bronx,8,school organic,7,30.4
+Bronx,8,xmastree,7,0
+Bronx,9,leaves organic,7,0
+Bronx,9,mgp,7,411.4
+Bronx,9,other organics,7,0
+Bronx,9,paper,7,247.9
+Bronx,9,refuse,7,4065.7
+Bronx,9,res organics,7,116.2
+Bronx,9,school organic,7,0
+Bronx,9,xmastree,7,0
+Bronx,1,leaves organic,8,0
+Bronx,1,mgp,8,138.8
+Bronx,1,other organics,8,0
+Bronx,1,paper,8,213.4
+Bronx,1,refuse,8,3125.1
+Bronx,1,res organics,8,17.1
+Bronx,1,school organic,8,0
+Bronx,1,xmastree,8,0
+Bronx,10,leaves organic,8,0
+Bronx,10,mgp,8,344.9
+Bronx,10,other organics,8,0
+Bronx,10,paper,8,271.4
+Bronx,10,refuse,8,2527.7
+Bronx,10,res organics,8,159.5
+Bronx,10,school organic,8,0
+Bronx,10,xmastree,8,0
+Bronx,11,leaves organic,8,0
+Bronx,11,mgp,8,316.6
+Bronx,11,other organics,8,0
+Bronx,11,paper,8,259.4
+Bronx,11,refuse,8,2999.8
+Bronx,11,res organics,8,156.5
+Bronx,11,school organic,8,10
+Bronx,11,xmastree,8,0
+Bronx,12,leaves organic,8,0
+Bronx,12,mgp,8,549.1
+Bronx,12,other organics,8,0
+Bronx,12,paper,8,316.8
+Bronx,12,refuse,8,3718.6
+Bronx,12,res organics,8,294.2
+Bronx,12,school organic,8,0
+Bronx,12,xmastree,8,0
+Bronx,2,leaves organic,8,0
+Bronx,2,mgp,8,205.2
+Bronx,2,other organics,8,0
+Bronx,2,paper,8,224.5
+Bronx,2,refuse,8,7758.7
+Bronx,2,res organics,8,14
+Bronx,2,school organic,8,17.3
+Bronx,2,xmastree,8,0
+Bronx,3,leaves organic,8,0
+Bronx,3,mgp,8,133.9
+Bronx,3,other organics,8,0
+Bronx,3,paper,8,121.1
+Bronx,3,refuse,8,2293.5
+Bronx,3,res organics,8,12.4
+Bronx,3,school organic,8,0
+Bronx,3,xmastree,8,0
+Bronx,4,leaves organic,8,0
+Bronx,4,mgp,8,300.6
+Bronx,4,other organics,8,0.7
+Bronx,4,paper,8,219.7
+Bronx,4,refuse,8,3982.2
+Bronx,4,res organics,8,22.4
+Bronx,4,school organic,8,0
+Bronx,4,xmastree,8,0
+Bronx,5,leaves organic,8,0
+Bronx,5,mgp,8,306.9
+Bronx,5,other organics,8,0
+Bronx,5,paper,8,208.8
+Bronx,5,refuse,8,3454.5
+Bronx,5,res organics,8,18.7
+Bronx,5,school organic,8,16.9
+Bronx,5,xmastree,8,0
+Bronx,6,leaves organic,8,0
+Bronx,6,mgp,8,158.8
+Bronx,6,other organics,8,0.5
+Bronx,6,paper,8,167.5
+Bronx,6,refuse,8,3118.2
+Bronx,6,res organics,8,12.7
+Bronx,6,school organic,8,11.5
+Bronx,6,xmastree,8,0
+Bronx,7,leaves organic,8,0
+Bronx,7,mgp,8,412.7
+Bronx,7,other organics,8,0
+Bronx,7,paper,8,264.4
+Bronx,7,refuse,8,3657.3
+Bronx,7,res organics,8,48.6
+Bronx,7,school organic,8,0
+Bronx,7,xmastree,8,0
+Bronx,8,leaves organic,8,0
+Bronx,8,mgp,8,321
+Bronx,8,other organics,8,0
+Bronx,8,paper,8,277.6
+Bronx,8,refuse,8,2273.9
+Bronx,8,res organics,8,126.6
+Bronx,8,school organic,8,13.9
+Bronx,8,xmastree,8,0
+Bronx,9,leaves organic,8,0
+Bronx,9,mgp,8,376.6
+Bronx,9,other organics,8,0
+Bronx,9,paper,8,218.9
+Bronx,9,refuse,8,3781.2
+Bronx,9,res organics,8,105.9
+Bronx,9,school organic,8,0
+Bronx,9,xmastree,8,0
+Bronx,1,leaves organic,9,0
+Bronx,1,mgp,9,141.4
+Bronx,1,other organics,9,0
+Bronx,1,paper,9,264.8
+Bronx,1,refuse,9,3372.2
+Bronx,1,res organics,9,16.4
+Bronx,1,school organic,9,68.7
+Bronx,1,xmastree,9,0
+Bronx,10,leaves organic,9,0
+Bronx,10,mgp,9,329.8
+Bronx,10,other organics,9,0
+Bronx,10,paper,9,260.8
+Bronx,10,refuse,9,2522.8
+Bronx,10,res organics,9,144.5
+Bronx,10,school organic,9,0
+Bronx,10,xmastree,9,0
+Bronx,11,leaves organic,9,0
+Bronx,11,mgp,9,304
+Bronx,11,other organics,9,0
+Bronx,11,paper,9,273.1
+Bronx,11,refuse,9,3200.2
+Bronx,11,res organics,9,137.4
+Bronx,11,school organic,9,75.6
+Bronx,11,xmastree,9,0
+Bronx,12,leaves organic,9,0
+Bronx,12,mgp,9,537.1
+Bronx,12,other organics,9,0
+Bronx,12,paper,9,317.3
+Bronx,12,refuse,9,3840.5
+Bronx,12,res organics,9,267.8
+Bronx,12,school organic,9,0
+Bronx,12,xmastree,9,0
+Bronx,2,leaves organic,9,0
+Bronx,2,mgp,9,210.8
+Bronx,2,other organics,9,0
+Bronx,2,paper,9,224.7
+Bronx,2,refuse,9,7903.8
+Bronx,2,res organics,9,12.4
+Bronx,2,school organic,9,76.6
+Bronx,2,xmastree,9,0
+Bronx,3,leaves organic,9,0
+Bronx,3,mgp,9,142.1
+Bronx,3,other organics,9,0
+Bronx,3,paper,9,133.2
+Bronx,3,refuse,9,2336.5
+Bronx,3,res organics,9,13.9
+Bronx,3,school organic,9,0
+Bronx,3,xmastree,9,0
+Bronx,4,leaves organic,9,0
+Bronx,4,mgp,9,307.2
+Bronx,4,other organics,9,0
+Bronx,4,paper,9,249.8
+Bronx,4,refuse,9,4169.3
+Bronx,4,res organics,9,17.5
+Bronx,4,school organic,9,63.3
+Bronx,4,xmastree,9,0
+Bronx,5,leaves organic,9,0
+Bronx,5,mgp,9,312.8
+Bronx,5,other organics,9,0
+Bronx,5,paper,9,232.4
+Bronx,5,refuse,9,3542
+Bronx,5,res organics,9,16.5
+Bronx,5,school organic,9,63.4
+Bronx,5,xmastree,9,0
+Bronx,6,leaves organic,9,0
+Bronx,6,mgp,9,180
+Bronx,6,other organics,9,0
+Bronx,6,paper,9,209.7
+Bronx,6,refuse,9,3311.7
+Bronx,6,res organics,9,13.1
+Bronx,6,school organic,9,46.2
+Bronx,6,xmastree,9,0
+Bronx,7,leaves organic,9,0
+Bronx,7,mgp,9,408.5
+Bronx,7,other organics,9,0
+Bronx,7,paper,9,268.7
+Bronx,7,refuse,9,3811.4
+Bronx,7,res organics,9,50.3
+Bronx,7,school organic,9,0
+Bronx,7,xmastree,9,0
+Bronx,8,leaves organic,9,0
+Bronx,8,mgp,9,346
+Bronx,8,other organics,9,0
+Bronx,8,paper,9,316.6
+Bronx,8,refuse,9,2385.4
+Bronx,8,res organics,9,132.3
+Bronx,8,school organic,9,45
+Bronx,8,xmastree,9,0
+Bronx,9,leaves organic,9,0
+Bronx,9,mgp,9,360.2
+Bronx,9,other organics,9,0
+Bronx,9,paper,9,225.5
+Bronx,9,refuse,9,3779.9
+Bronx,9,res organics,9,97.6
+Bronx,9,school organic,9,61.8
+Bronx,9,xmastree,9,0
+Bronx,1,leaves organic,10,0
+Bronx,1,mgp,10,124.8
+Bronx,1,other organics,10,0
+Bronx,1,paper,10,235
+Bronx,1,refuse,10,3352
+Bronx,1,res organics,10,16.7
+Bronx,1,school organic,10,85.9
+Bronx,1,xmastree,10,0
+Bronx,10,leaves organic,10,0
+Bronx,10,mgp,10,335.7
+Bronx,10,other organics,10,0
+Bronx,10,paper,10,286.2
+Bronx,10,refuse,10,2553.1
+Bronx,10,res organics,10,158.4
+Bronx,10,school organic,10,0
+Bronx,10,xmastree,10,0
+Bronx,11,leaves organic,10,0
+Bronx,11,mgp,10,308.7
+Bronx,11,other organics,10,0
+Bronx,11,paper,10,282.5
+Bronx,11,refuse,10,3176.1
+Bronx,11,res organics,10,154.2
+Bronx,11,school organic,10,103.7
+Bronx,11,xmastree,10,0
+Bronx,12,leaves organic,10,0
+Bronx,12,mgp,10,533.5
+Bronx,12,other organics,10,0
+Bronx,12,paper,10,322.3
+Bronx,12,refuse,10,3799.3
+Bronx,12,res organics,10,277.5
+Bronx,12,school organic,10,0
+Bronx,12,xmastree,10,0
+Bronx,2,leaves organic,10,0
+Bronx,2,mgp,10,213.8
+Bronx,2,other organics,10,0
+Bronx,2,paper,10,231.6
+Bronx,2,refuse,10,7942.4
+Bronx,2,res organics,10,20.4
+Bronx,2,school organic,10,100.7
+Bronx,2,xmastree,10,0
+Bronx,3,leaves organic,10,0
+Bronx,3,mgp,10,147.5
+Bronx,3,other organics,10,0
+Bronx,3,paper,10,140.1
+Bronx,3,refuse,10,2349.1
+Bronx,3,res organics,10,19.1
+Bronx,3,school organic,10,0
+Bronx,3,xmastree,10,0
+Bronx,4,leaves organic,10,0
+Bronx,4,mgp,10,291.1
+Bronx,4,other organics,10,0.3
+Bronx,4,paper,10,233.3
+Bronx,4,refuse,10,4210.4
+Bronx,4,res organics,10,20.8
+Bronx,4,school organic,10,70.7
+Bronx,4,xmastree,10,0
+Bronx,5,leaves organic,10,0
+Bronx,5,mgp,10,299.9
+Bronx,5,other organics,10,0
+Bronx,5,paper,10,216.6
+Bronx,5,refuse,10,3578.3
+Bronx,5,res organics,10,17.1
+Bronx,5,school organic,10,85.6
+Bronx,5,xmastree,10,0
+Bronx,6,leaves organic,10,0
+Bronx,6,mgp,10,177
+Bronx,6,other organics,10,0.1
+Bronx,6,paper,10,197
+Bronx,6,refuse,10,3281.8
+Bronx,6,res organics,10,16.2
+Bronx,6,school organic,10,61.9
+Bronx,6,xmastree,10,0
+Bronx,7,leaves organic,10,0
+Bronx,7,mgp,10,423.2
+Bronx,7,other organics,10,0
+Bronx,7,paper,10,289.8
+Bronx,7,refuse,10,3868
+Bronx,7,res organics,10,53.6
+Bronx,7,school organic,10,0
+Bronx,7,xmastree,10,0
+Bronx,8,leaves organic,10,0
+Bronx,8,mgp,10,335.8
+Bronx,8,other organics,10,0
+Bronx,8,paper,10,300.7
+Bronx,8,refuse,10,2363.3
+Bronx,8,res organics,10,136.9
+Bronx,8,school organic,10,49.8
+Bronx,8,xmastree,10,0
+Bronx,9,leaves organic,10,0
+Bronx,9,mgp,10,365.8
+Bronx,9,other organics,10,0
+Bronx,9,paper,10,229.3
+Bronx,9,refuse,10,3823.7
+Bronx,9,res organics,10,112.1
+Bronx,9,school organic,10,82.9
+Bronx,9,xmastree,10,0
+Bronx,1,leaves organic,11,0
+Bronx,1,mgp,11,121.4
+Bronx,1,other organics,11,0
+Bronx,1,paper,11,223.8
+Bronx,1,refuse,11,3145.3
+Bronx,1,res organics,11,34.9
+Bronx,1,school organic,11,71.7
+Bronx,1,xmastree,11,0
+Bronx,10,leaves organic,11,0
+Bronx,10,mgp,11,307.1
+Bronx,10,other organics,11,0
+Bronx,10,paper,11,256.2
+Bronx,10,refuse,11,2413.8
+Bronx,10,res organics,11,205.2
+Bronx,10,school organic,11,0
+Bronx,10,xmastree,11,0
+Bronx,11,leaves organic,11,0
+Bronx,11,mgp,11,279.6
+Bronx,11,other organics,11,0
+Bronx,11,paper,11,263.5
+Bronx,11,refuse,11,2925.3
+Bronx,11,res organics,11,217.4
+Bronx,11,school organic,11,83.1
+Bronx,11,xmastree,11,0
+Bronx,12,leaves organic,11,0
+Bronx,12,mgp,11,481
+Bronx,12,other organics,11,0
+Bronx,12,paper,11,291.7
+Bronx,12,refuse,11,3481.1
+Bronx,12,res organics,11,372.4
+Bronx,12,school organic,11,0
+Bronx,12,xmastree,11,0
+Bronx,2,leaves organic,11,0
+Bronx,2,mgp,11,169.5
+Bronx,2,other organics,11,0
+Bronx,2,paper,11,200.1
+Bronx,2,refuse,11,7360.5
+Bronx,2,res organics,11,19.4
+Bronx,2,school organic,11,85
+Bronx,2,xmastree,11,0
+Bronx,3,leaves organic,11,0
+Bronx,3,mgp,11,129.6
+Bronx,3,other organics,11,0
+Bronx,3,paper,11,127.6
+Bronx,3,refuse,11,2128.4
+Bronx,3,res organics,11,29.7
+Bronx,3,school organic,11,0
+Bronx,3,xmastree,11,0
+Bronx,4,leaves organic,11,0
+Bronx,4,mgp,11,271.9
+Bronx,4,other organics,11,0.2
+Bronx,4,paper,11,229.7
+Bronx,4,refuse,11,3951.6
+Bronx,4,res organics,11,21.8
+Bronx,4,school organic,11,60.5
+Bronx,4,xmastree,11,0
+Bronx,5,leaves organic,11,0
+Bronx,5,mgp,11,287.8
+Bronx,5,other organics,11,0
+Bronx,5,paper,11,208.3
+Bronx,5,refuse,11,3401.2
+Bronx,5,res organics,11,19.5
+Bronx,5,school organic,11,66.2
+Bronx,5,xmastree,11,0
+Bronx,6,leaves organic,11,0
+Bronx,6,mgp,11,153.3
+Bronx,6,other organics,11,0.3
+Bronx,6,paper,11,173.9
+Bronx,6,refuse,11,3091
+Bronx,6,res organics,11,14.3
+Bronx,6,school organic,11,48.4
+Bronx,6,xmastree,11,0
+Bronx,7,leaves organic,11,0
+Bronx,7,mgp,11,366.7
+Bronx,7,other organics,11,0
+Bronx,7,paper,11,251
+Bronx,7,refuse,11,3656.3
+Bronx,7,res organics,11,48.7
+Bronx,7,school organic,11,0
+Bronx,7,xmastree,11,0
+Bronx,8,leaves organic,11,0
+Bronx,8,mgp,11,304.2
+Bronx,8,other organics,11,0
+Bronx,8,paper,11,283.7
+Bronx,8,refuse,11,2247.5
+Bronx,8,res organics,11,178.5
+Bronx,8,school organic,11,40.8
+Bronx,8,xmastree,11,0
+Bronx,9,leaves organic,11,0
+Bronx,9,mgp,11,328.9
+Bronx,9,other organics,11,0
+Bronx,9,paper,11,210.2
+Bronx,9,refuse,11,3614.7
+Bronx,9,res organics,11,150.4
+Bronx,9,school organic,11,62
+Bronx,9,xmastree,11,0
+Bronx,1,leaves organic,12,0
+Bronx,1,mgp,12,157.9
+Bronx,1,other organics,12,0
+Bronx,1,paper,12,277.7
+Bronx,1,refuse,12,3507.8
+Bronx,1,res organics,12,38.1
+Bronx,1,school organic,12,68.2
+Bronx,1,xmastree,12,0
+Bronx,10,leaves organic,12,0
+Bronx,10,mgp,12,365.6
+Bronx,10,other organics,12,0
+Bronx,10,paper,12,339.5
+Bronx,10,refuse,12,2591.5
+Bronx,10,res organics,12,139.1
+Bronx,10,school organic,12,0
+Bronx,10,xmastree,12,0
+Bronx,11,leaves organic,12,0
+Bronx,11,mgp,12,333.7
+Bronx,11,other organics,12,0
+Bronx,11,paper,12,338.7
+Bronx,11,refuse,12,3194.9
+Bronx,11,res organics,12,134.8
+Bronx,11,school organic,12,87.5
+Bronx,11,xmastree,12,0
+Bronx,12,leaves organic,12,0
+Bronx,12,mgp,12,602.2
+Bronx,12,other organics,12,0
+Bronx,12,paper,12,385
+Bronx,12,refuse,12,3822.5
+Bronx,12,res organics,12,259.6
+Bronx,12,school organic,12,0
+Bronx,12,xmastree,12,0
+Bronx,2,leaves organic,12,0
+Bronx,2,mgp,12,216.3
+Bronx,2,other organics,12,0
+Bronx,2,paper,12,240.1
+Bronx,2,refuse,12,8161.3
+Bronx,2,res organics,12,18.8
+Bronx,2,school organic,12,90.9
+Bronx,2,xmastree,12,0
+Bronx,3,leaves organic,12,0
+Bronx,3,mgp,12,171.9
+Bronx,3,other organics,12,0
+Bronx,3,paper,12,178.2
+Bronx,3,refuse,12,2458.8
+Bronx,3,res organics,12,20
+Bronx,3,school organic,12,0
+Bronx,3,xmastree,12,0
+Bronx,4,leaves organic,12,0
+Bronx,4,mgp,12,321.4
+Bronx,4,other organics,12,0.5
+Bronx,4,paper,12,303.8
+Bronx,4,refuse,12,4429
+Bronx,4,res organics,12,18.9
+Bronx,4,school organic,12,62.2
+Bronx,4,xmastree,12,0
+Bronx,5,leaves organic,12,0
+Bronx,5,mgp,12,331.8
+Bronx,5,other organics,12,0
+Bronx,5,paper,12,272.4
+Bronx,5,refuse,12,3770
+Bronx,5,res organics,12,14.7
+Bronx,5,school organic,12,64.7
+Bronx,5,xmastree,12,0
+Bronx,6,leaves organic,12,0
+Bronx,6,mgp,12,210.4
+Bronx,6,other organics,12,0.1
+Bronx,6,paper,12,234.4
+Bronx,6,refuse,12,3409.3
+Bronx,6,res organics,12,18.4
+Bronx,6,school organic,12,49.1
+Bronx,6,xmastree,12,0
+Bronx,7,leaves organic,12,0
+Bronx,7,mgp,12,454.1
+Bronx,7,other organics,12,0
+Bronx,7,paper,12,357.4
+Bronx,7,refuse,12,4089.4
+Bronx,7,res organics,12,48.5
+Bronx,7,school organic,12,44.8
+Bronx,7,xmastree,12,0
+Bronx,8,leaves organic,12,0
+Bronx,8,mgp,12,402.3
+Bronx,8,other organics,12,0
+Bronx,8,paper,12,375.1
+Bronx,8,refuse,12,2470.3
+Bronx,8,res organics,12,152
+Bronx,8,school organic,12,0
+Bronx,8,xmastree,12,0
+Bronx,9,leaves organic,12,0
+Bronx,9,mgp,12,390.4
+Bronx,9,other organics,12,0
+Bronx,9,paper,12,277.7
+Bronx,9,refuse,12,3902.8
+Bronx,9,res organics,12,107.6
+Bronx,9,school organic,12,54.6
+Bronx,9,xmastree,12,0
+Brooklyn,1,leaves organic,1,0
+Brooklyn,1,mgp,1,469.5
+Brooklyn,1,other organics,1,0
+Brooklyn,1,paper,1,760.3
+Brooklyn,1,refuse,1,5688.6
+Brooklyn,1,res organics,1,71.5
+Brooklyn,1,school organic,1,43.2
+Brooklyn,1,xmastree,1,0
+Brooklyn,10,leaves organic,1,0
+Brooklyn,10,mgp,1,443.4
+Brooklyn,10,other organics,1,0
+Brooklyn,10,paper,1,453.8
+Brooklyn,10,refuse,1,3556.3
+Brooklyn,10,res organics,1,46.3
+Brooklyn,10,school organic,1,131.5
+Brooklyn,10,xmastree,1,0
+Brooklyn,11,leaves organic,1,0
+Brooklyn,11,mgp,1,547.8
+Brooklyn,11,other organics,1,0
+Brooklyn,11,paper,1,543.8
+Brooklyn,11,refuse,1,7876.7
+Brooklyn,11,res organics,1,42.5
+Brooklyn,11,school organic,1,0
+Brooklyn,11,xmastree,1,0
+Brooklyn,12,leaves organic,1,0
+Brooklyn,12,mgp,1,322
+Brooklyn,12,other organics,1,0
+Brooklyn,12,paper,1,658.6
+Brooklyn,12,refuse,1,6877.9
+Brooklyn,12,res organics,1,31.5
+Brooklyn,12,school organic,1,0
+Brooklyn,12,xmastree,1,0
+Brooklyn,13,leaves organic,1,0
+Brooklyn,13,mgp,1,235.6
+Brooklyn,13,other organics,1,0
+Brooklyn,13,paper,1,264.8
+Brooklyn,13,refuse,1,2556.7
+Brooklyn,13,res organics,1,16.1
+Brooklyn,13,school organic,1,108.3
+Brooklyn,13,xmastree,1,0
+Brooklyn,14,leaves organic,1,0
+Brooklyn,14,mgp,1,397.3
+Brooklyn,14,other organics,1,0
+Brooklyn,14,paper,1,419.9
+Brooklyn,14,refuse,1,4593.5
+Brooklyn,14,res organics,1,64.9
+Brooklyn,14,school organic,1,0
+Brooklyn,14,xmastree,1,0
+Brooklyn,15,leaves organic,1,0
+Brooklyn,15,mgp,1,497.7
+Brooklyn,15,other organics,1,0
+Brooklyn,15,paper,1,514.5
+Brooklyn,15,refuse,1,4372.2
+Brooklyn,15,res organics,1,47.7
+Brooklyn,15,school organic,1,136.8
+Brooklyn,15,xmastree,1,0
+Brooklyn,16,leaves organic,1,0
+Brooklyn,16,mgp,1,164.9
+Brooklyn,16,other organics,1,0
+Brooklyn,16,paper,1,118.2
+Brooklyn,16,refuse,1,2849.4
+Brooklyn,16,res organics,1,18.2
+Brooklyn,16,school organic,1,0
+Brooklyn,16,xmastree,1,0
+Brooklyn,17,leaves organic,1,0
+Brooklyn,17,mgp,1,423.9
+Brooklyn,17,other organics,1,0
+Brooklyn,17,paper,1,303.1
+Brooklyn,17,refuse,1,4128.8
+Brooklyn,17,res organics,1,65.4
+Brooklyn,17,school organic,1,45.4
+Brooklyn,17,xmastree,1,0
+Brooklyn,18,leaves organic,1,0
+Brooklyn,18,mgp,1,610.1
+Brooklyn,18,other organics,1,0
+Brooklyn,18,paper,1,535.2
+Brooklyn,18,refuse,1,4873.5
+Brooklyn,18,res organics,1,90.9
+Brooklyn,18,school organic,1,0
+Brooklyn,18,xmastree,1,0
+Brooklyn,2,leaves organic,1,0
+Brooklyn,2,mgp,1,417.5
+Brooklyn,2,other organics,1,0
+Brooklyn,2,paper,1,576.7
+Brooklyn,2,refuse,1,2753.1
+Brooklyn,2,res organics,1,132
+Brooklyn,2,school organic,1,44.6
+Brooklyn,2,xmastree,1,0
+Brooklyn,3,leaves organic,1,0
+Brooklyn,3,mgp,1,344.7
+Brooklyn,3,other organics,1,15.6
+Brooklyn,3,paper,1,471.6
+Brooklyn,3,refuse,1,4314.7
+Brooklyn,3,res organics,1,118
+Brooklyn,3,school organic,1,70.9
+Brooklyn,3,xmastree,1,0
+Brooklyn,4,leaves organic,1,0
+Brooklyn,4,mgp,1,369.8
+Brooklyn,4,other organics,1,0.6
+Brooklyn,4,paper,1,343.9
+Brooklyn,4,refuse,1,4145.8
+Brooklyn,4,res organics,1,55
+Brooklyn,4,school organic,1,72.8
+Brooklyn,4,xmastree,1,0
+Brooklyn,5,leaves organic,1,0
+Brooklyn,5,mgp,1,457.1
+Brooklyn,5,other organics,1,0
+Brooklyn,5,paper,1,250.8
+Brooklyn,5,refuse,1,4488.3
+Brooklyn,5,res organics,1,40.8
+Brooklyn,5,school organic,1,0
+Brooklyn,5,xmastree,1,0
+Brooklyn,6,leaves organic,1,0
+Brooklyn,6,mgp,1,389.6
+Brooklyn,6,other organics,1,0
+Brooklyn,6,paper,1,540.8
+Brooklyn,6,refuse,1,2185.7
+Brooklyn,6,res organics,1,97.2
+Brooklyn,6,school organic,1,77.2
+Brooklyn,6,xmastree,1,0
+Brooklyn,7,leaves organic,1,0
+Brooklyn,7,mgp,1,368
+Brooklyn,7,other organics,1,0
+Brooklyn,7,paper,1,422.6
+Brooklyn,7,refuse,1,3264
+Brooklyn,7,res organics,1,65.9
+Brooklyn,7,school organic,1,79.5
+Brooklyn,7,xmastree,1,0
+Brooklyn,8,leaves organic,1,0
+Brooklyn,8,mgp,1,280.5
+Brooklyn,8,other organics,1,23.4
+Brooklyn,8,paper,1,322.3
+Brooklyn,8,refuse,1,5723.6
+Brooklyn,8,res organics,1,66.2
+Brooklyn,8,school organic,1,53
+Brooklyn,8,xmastree,1,0
+Brooklyn,9,leaves organic,1,0
+Brooklyn,9,mgp,1,261
+Brooklyn,9,other organics,1,0
+Brooklyn,9,paper,1,288.4
+Brooklyn,9,refuse,1,2817.9
+Brooklyn,9,res organics,1,40.4
+Brooklyn,9,school organic,1,0
+Brooklyn,9,xmastree,1,0
+Brooklyn,1,leaves organic,2,0
+Brooklyn,1,mgp,2,391.1
+Brooklyn,1,other organics,2,0
+Brooklyn,1,paper,2,634.2
+Brooklyn,1,refuse,2,5192.7
+Brooklyn,1,res organics,2,33.9
+Brooklyn,1,school organic,2,36.2
+Brooklyn,1,xmastree,2,0
+Brooklyn,10,leaves organic,2,0
+Brooklyn,10,mgp,2,370.2
+Brooklyn,10,other organics,2,0
+Brooklyn,10,paper,2,370
+Brooklyn,10,refuse,2,3105.3
+Brooklyn,10,res organics,2,31.5
+Brooklyn,10,school organic,2,102.7
+Brooklyn,10,xmastree,2,0
+Brooklyn,11,leaves organic,2,0
+Brooklyn,11,mgp,2,457.5
+Brooklyn,11,other organics,2,0
+Brooklyn,11,paper,2,457.4
+Brooklyn,11,refuse,2,6845.5
+Brooklyn,11,res organics,2,24.9
+Brooklyn,11,school organic,2,6.1
+Brooklyn,11,xmastree,2,0
+Brooklyn,12,leaves organic,2,0
+Brooklyn,12,mgp,2,285.4
+Brooklyn,12,other organics,2,0
+Brooklyn,12,paper,2,599.2
+Brooklyn,12,refuse,2,6072.7
+Brooklyn,12,res organics,2,23.2
+Brooklyn,12,school organic,2,0
+Brooklyn,12,xmastree,2,0
+Brooklyn,13,leaves organic,2,0
+Brooklyn,13,mgp,2,196.2
+Brooklyn,13,other organics,2,0
+Brooklyn,13,paper,2,230.5
+Brooklyn,13,refuse,2,2209.7
+Brooklyn,13,res organics,2,8.9
+Brooklyn,13,school organic,2,87.1
+Brooklyn,13,xmastree,2,0
+Brooklyn,14,leaves organic,2,0
+Brooklyn,14,mgp,2,343
+Brooklyn,14,other organics,2,0
+Brooklyn,14,paper,2,382.3
+Brooklyn,14,refuse,2,4063.2
+Brooklyn,14,res organics,2,37.1
+Brooklyn,14,school organic,2,0
+Brooklyn,14,xmastree,2,0
+Brooklyn,15,leaves organic,2,0
+Brooklyn,15,mgp,2,433.3
+Brooklyn,15,other organics,2,0
+Brooklyn,15,paper,2,459.3
+Brooklyn,15,refuse,2,3870.4
+Brooklyn,15,res organics,2,32.9
+Brooklyn,15,school organic,2,119.1
+Brooklyn,15,xmastree,2,0
+Brooklyn,16,leaves organic,2,0
+Brooklyn,16,mgp,2,133.7
+Brooklyn,16,other organics,2,0
+Brooklyn,16,paper,2,96
+Brooklyn,16,refuse,2,2558.3
+Brooklyn,16,res organics,2,9.2
+Brooklyn,16,school organic,2,0
+Brooklyn,16,xmastree,2,0
+Brooklyn,17,leaves organic,2,0
+Brooklyn,17,mgp,2,355.7
+Brooklyn,17,other organics,2,0
+Brooklyn,17,paper,2,255.7
+Brooklyn,17,refuse,2,3690.9
+Brooklyn,17,res organics,2,41.3
+Brooklyn,17,school organic,2,34.7
+Brooklyn,17,xmastree,2,0
+Brooklyn,18,leaves organic,2,0
+Brooklyn,18,mgp,2,514.8
+Brooklyn,18,other organics,2,0
+Brooklyn,18,paper,2,421.6
+Brooklyn,18,refuse,2,4206.5
+Brooklyn,18,res organics,2,51.3
+Brooklyn,18,school organic,2,0
+Brooklyn,18,xmastree,2,0
+Brooklyn,2,leaves organic,2,0
+Brooklyn,2,mgp,2,342.1
+Brooklyn,2,other organics,2,0
+Brooklyn,2,paper,2,477.4
+Brooklyn,2,refuse,2,2457.8
+Brooklyn,2,res organics,2,70.1
+Brooklyn,2,school organic,2,36.6
+Brooklyn,2,xmastree,2,0
+Brooklyn,3,leaves organic,2,0
+Brooklyn,3,mgp,2,285.1
+Brooklyn,3,other organics,2,13.3
+Brooklyn,3,paper,2,375.2
+Brooklyn,3,refuse,2,3823.6
+Brooklyn,3,res organics,2,66.7
+Brooklyn,3,school organic,2,60
+Brooklyn,3,xmastree,2,0
+Brooklyn,4,leaves organic,2,0
+Brooklyn,4,mgp,2,304.1
+Brooklyn,4,other organics,2,1
+Brooklyn,4,paper,2,289.9
+Brooklyn,4,refuse,2,3672.1
+Brooklyn,4,res organics,2,56.1
+Brooklyn,4,school organic,2,56.3
+Brooklyn,4,xmastree,2,0
+Brooklyn,5,leaves organic,2,0
+Brooklyn,5,mgp,2,371.4
+Brooklyn,5,other organics,2,0
+Brooklyn,5,paper,2,216.7
+Brooklyn,5,refuse,2,4012.8
+Brooklyn,5,res organics,2,23
+Brooklyn,5,school organic,2,0
+Brooklyn,5,xmastree,2,0
+Brooklyn,6,leaves organic,2,0
+Brooklyn,6,mgp,2,323.5
+Brooklyn,6,other organics,2,0
+Brooklyn,6,paper,2,439.5
+Brooklyn,6,refuse,2,1838.9
+Brooklyn,6,res organics,2,64.6
+Brooklyn,6,school organic,2,63.4
+Brooklyn,6,xmastree,2,0
+Brooklyn,7,leaves organic,2,0
+Brooklyn,7,mgp,2,305.9
+Brooklyn,7,other organics,2,0
+Brooklyn,7,paper,2,354.4
+Brooklyn,7,refuse,2,2807.9
+Brooklyn,7,res organics,2,50.9
+Brooklyn,7,school organic,2,59.4
+Brooklyn,7,xmastree,2,0
+Brooklyn,8,leaves organic,2,0
+Brooklyn,8,mgp,2,236
+Brooklyn,8,other organics,2,20.2
+Brooklyn,8,paper,2,278.4
+Brooklyn,8,refuse,2,5055.7
+Brooklyn,8,res organics,2,40
+Brooklyn,8,school organic,2,41.1
+Brooklyn,8,xmastree,2,0
+Brooklyn,9,leaves organic,2,0
+Brooklyn,9,mgp,2,214.3
+Brooklyn,9,other organics,2,0
+Brooklyn,9,paper,2,232
+Brooklyn,9,refuse,2,2571.2
+Brooklyn,9,res organics,2,26.9
+Brooklyn,9,school organic,2,0
+Brooklyn,9,xmastree,2,0
+Brooklyn,1,leaves organic,3,0
+Brooklyn,1,mgp,3,406.7
+Brooklyn,1,other organics,3,0
+Brooklyn,1,paper,3,704.7
+Brooklyn,1,refuse,3,6149.9
+Brooklyn,1,res organics,3,44.3
+Brooklyn,1,school organic,3,48
+Brooklyn,1,xmastree,3,0
+Brooklyn,10,leaves organic,3,0
+Brooklyn,10,mgp,3,411.1
+Brooklyn,10,other organics,3,0
+Brooklyn,10,paper,3,411
+Brooklyn,10,refuse,3,3554
+Brooklyn,10,res organics,3,38.9
+Brooklyn,10,school organic,3,148
+Brooklyn,10,xmastree,3,0
+Brooklyn,11,leaves organic,3,0
+Brooklyn,11,mgp,3,518
+Brooklyn,11,other organics,3,0
+Brooklyn,11,paper,3,500.5
+Brooklyn,11,refuse,3,7900.9
+Brooklyn,11,res organics,3,35.3
+Brooklyn,11,school organic,3,0
+Brooklyn,11,xmastree,3,0
+Brooklyn,12,leaves organic,3,0
+Brooklyn,12,mgp,3,347.2
+Brooklyn,12,other organics,3,0
+Brooklyn,12,paper,3,699.7
+Brooklyn,12,refuse,3,7497
+Brooklyn,12,res organics,3,36.8
+Brooklyn,12,school organic,3,0
+Brooklyn,12,xmastree,3,0
+Brooklyn,13,leaves organic,3,0
+Brooklyn,13,mgp,3,202.7
+Brooklyn,13,other organics,3,0
+Brooklyn,13,paper,3,267.6
+Brooklyn,13,refuse,3,2645
+Brooklyn,13,res organics,3,13.8
+Brooklyn,13,school organic,3,113.6
+Brooklyn,13,xmastree,3,0
+Brooklyn,14,leaves organic,3,0
+Brooklyn,14,mgp,3,420.7
+Brooklyn,14,other organics,3,0
+Brooklyn,14,paper,3,459.1
+Brooklyn,14,refuse,3,4799.7
+Brooklyn,14,res organics,3,67.6
+Brooklyn,14,school organic,3,0
+Brooklyn,14,xmastree,3,0
+Brooklyn,15,leaves organic,3,0
+Brooklyn,15,mgp,3,491.9
+Brooklyn,15,other organics,3,0
+Brooklyn,15,paper,3,516.9
+Brooklyn,15,refuse,3,4607.4
+Brooklyn,15,res organics,3,42.9
+Brooklyn,15,school organic,3,143.3
+Brooklyn,15,xmastree,3,0
+Brooklyn,16,leaves organic,3,0
+Brooklyn,16,mgp,3,146.6
+Brooklyn,16,other organics,3,0
+Brooklyn,16,paper,3,114.9
+Brooklyn,16,refuse,3,2940.3
+Brooklyn,16,res organics,3,13.7
+Brooklyn,16,school organic,3,0
+Brooklyn,16,xmastree,3,0
+Brooklyn,17,leaves organic,3,0
+Brooklyn,17,mgp,3,406.4
+Brooklyn,17,other organics,3,0
+Brooklyn,17,paper,3,284.6
+Brooklyn,17,refuse,3,4377.7
+Brooklyn,17,res organics,3,53.3
+Brooklyn,17,school organic,3,46.1
+Brooklyn,17,xmastree,3,0
+Brooklyn,18,leaves organic,3,0
+Brooklyn,18,mgp,3,576.3
+Brooklyn,18,other organics,3,0
+Brooklyn,18,paper,3,500.2
+Brooklyn,18,refuse,3,5041.6
+Brooklyn,18,res organics,3,82.2
+Brooklyn,18,school organic,3,0
+Brooklyn,18,xmastree,3,0
+Brooklyn,2,leaves organic,3,0
+Brooklyn,2,mgp,3,368.8
+Brooklyn,2,other organics,3,0
+Brooklyn,2,paper,3,525.7
+Brooklyn,2,refuse,3,2748.6
+Brooklyn,2,res organics,3,94.5
+Brooklyn,2,school organic,3,46.9
+Brooklyn,2,xmastree,3,0
+Brooklyn,3,leaves organic,3,0
+Brooklyn,3,mgp,3,301.5
+Brooklyn,3,other organics,3,16.1
+Brooklyn,3,paper,3,401.2
+Brooklyn,3,refuse,3,4493.6
+Brooklyn,3,res organics,3,87.6
+Brooklyn,3,school organic,3,76.7
+Brooklyn,3,xmastree,3,0
+Brooklyn,4,leaves organic,3,0
+Brooklyn,4,mgp,3,345.6
+Brooklyn,4,other organics,3,0
+Brooklyn,4,paper,3,333.9
+Brooklyn,4,refuse,3,4315.1
+Brooklyn,4,res organics,3,53.8
+Brooklyn,4,school organic,3,74.4
+Brooklyn,4,xmastree,3,0
+Brooklyn,5,leaves organic,3,0
+Brooklyn,5,mgp,3,404.3
+Brooklyn,5,other organics,3,0
+Brooklyn,5,paper,3,233.6
+Brooklyn,5,refuse,3,4700.8
+Brooklyn,5,res organics,3,33
+Brooklyn,5,school organic,3,0
+Brooklyn,5,xmastree,3,0
+Brooklyn,6,leaves organic,3,0
+Brooklyn,6,mgp,3,351.9
+Brooklyn,6,other organics,3,0
+Brooklyn,6,paper,3,484.3
+Brooklyn,6,refuse,3,2120.9
+Brooklyn,6,res organics,3,82.3
+Brooklyn,6,school organic,3,78.9
+Brooklyn,6,xmastree,3,0
+Brooklyn,7,leaves organic,3,0
+Brooklyn,7,mgp,3,331.4
+Brooklyn,7,other organics,3,0
+Brooklyn,7,paper,3,403.8
+Brooklyn,7,refuse,3,3237.6
+Brooklyn,7,res organics,3,53.7
+Brooklyn,7,school organic,3,77.6
+Brooklyn,7,xmastree,3,0
+Brooklyn,8,leaves organic,3,0
+Brooklyn,8,mgp,3,247.4
+Brooklyn,8,other organics,3,29.9
+Brooklyn,8,paper,3,305.3
+Brooklyn,8,refuse,3,5860.1
+Brooklyn,8,res organics,3,47.3
+Brooklyn,8,school organic,3,53.3
+Brooklyn,8,xmastree,3,0
+Brooklyn,9,leaves organic,3,0
+Brooklyn,9,mgp,3,225.4
+Brooklyn,9,other organics,3,0
+Brooklyn,9,paper,3,253.3
+Brooklyn,9,refuse,3,2913.6
+Brooklyn,9,res organics,3,33.2
+Brooklyn,9,school organic,3,0
+Brooklyn,9,xmastree,3,0
+Brooklyn,1,leaves organic,4,0
+Brooklyn,1,mgp,4,438.4
+Brooklyn,1,other organics,4,0
+Brooklyn,1,paper,4,747.2
+Brooklyn,1,refuse,4,6789.6
+Brooklyn,1,res organics,4,91.9
+Brooklyn,1,school organic,4,40.3
+Brooklyn,1,xmastree,4,0
+Brooklyn,10,leaves organic,4,0
+Brooklyn,10,mgp,4,425.5
+Brooklyn,10,other organics,4,0
+Brooklyn,10,paper,4,416.3
+Brooklyn,10,refuse,4,3423.6
+Brooklyn,10,res organics,4,203.3
+Brooklyn,10,school organic,4,138.3
+Brooklyn,10,xmastree,4,0
+Brooklyn,11,leaves organic,4,0
+Brooklyn,11,mgp,4,534.2
+Brooklyn,11,other organics,4,0
+Brooklyn,11,paper,4,513.1
+Brooklyn,11,refuse,4,7602.3
+Brooklyn,11,res organics,4,436.7
+Brooklyn,11,school organic,4,0
+Brooklyn,11,xmastree,4,0
+Brooklyn,12,leaves organic,4,0
+Brooklyn,12,mgp,4,406
+Brooklyn,12,other organics,4,0
+Brooklyn,12,paper,4,793.6
+Brooklyn,12,refuse,4,8766.7
+Brooklyn,12,res organics,4,91.2
+Brooklyn,12,school organic,4,0
+Brooklyn,12,xmastree,4,0
+Brooklyn,13,leaves organic,4,0
+Brooklyn,13,mgp,4,227.5
+Brooklyn,13,other organics,4,0
+Brooklyn,13,paper,4,278.1
+Brooklyn,13,refuse,4,2595.8
+Brooklyn,13,res organics,4,75.1
+Brooklyn,13,school organic,4,93.3
+Brooklyn,13,xmastree,4,0
+Brooklyn,14,leaves organic,4,0
+Brooklyn,14,mgp,4,431.4
+Brooklyn,14,other organics,4,0
+Brooklyn,14,paper,4,463.7
+Brooklyn,14,refuse,4,4950.1
+Brooklyn,14,res organics,4,99.5
+Brooklyn,14,school organic,4,0
+Brooklyn,14,xmastree,4,0
+Brooklyn,15,leaves organic,4,0
+Brooklyn,15,mgp,4,529.3
+Brooklyn,15,other organics,4,0
+Brooklyn,15,paper,4,521.8
+Brooklyn,15,refuse,4,4543
+Brooklyn,15,res organics,4,208.5
+Brooklyn,15,school organic,4,134.6
+Brooklyn,15,xmastree,4,0
+Brooklyn,16,leaves organic,4,0
+Brooklyn,16,mgp,4,152.3
+Brooklyn,16,other organics,4,0
+Brooklyn,16,paper,4,102
+Brooklyn,16,refuse,4,2914.8
+Brooklyn,16,res organics,4,37.8
+Brooklyn,16,school organic,4,0
+Brooklyn,16,xmastree,4,0
+Brooklyn,17,leaves organic,4,0
+Brooklyn,17,mgp,4,410.2
+Brooklyn,17,other organics,4,0
+Brooklyn,17,paper,4,297
+Brooklyn,17,refuse,4,4355.8
+Brooklyn,17,res organics,4,128
+Brooklyn,17,school organic,4,40.4
+Brooklyn,17,xmastree,4,0
+Brooklyn,18,leaves organic,4,0
+Brooklyn,18,mgp,4,606.1
+Brooklyn,18,other organics,4,0
+Brooklyn,18,paper,4,509.3
+Brooklyn,18,refuse,4,5132.1
+Brooklyn,18,res organics,4,208.7
+Brooklyn,18,school organic,4,0
+Brooklyn,18,xmastree,4,0
+Brooklyn,2,leaves organic,4,0
+Brooklyn,2,mgp,4,389.6
+Brooklyn,2,other organics,4,0
+Brooklyn,2,paper,4,525.3
+Brooklyn,2,refuse,4,2752.1
+Brooklyn,2,res organics,4,144.8
+Brooklyn,2,school organic,4,42.1
+Brooklyn,2,xmastree,4,0
+Brooklyn,3,leaves organic,4,0
+Brooklyn,3,mgp,4,341.3
+Brooklyn,3,other organics,4,16.8
+Brooklyn,3,paper,4,455
+Brooklyn,3,refuse,4,4701.1
+Brooklyn,3,res organics,4,132.4
+Brooklyn,3,school organic,4,64.1
+Brooklyn,3,xmastree,4,0
+Brooklyn,4,leaves organic,4,0
+Brooklyn,4,mgp,4,331
+Brooklyn,4,other organics,4,0
+Brooklyn,4,paper,4,346.5
+Brooklyn,4,refuse,4,4334.5
+Brooklyn,4,res organics,4,74.8
+Brooklyn,4,school organic,4,69.4
+Brooklyn,4,xmastree,4,0
+Brooklyn,5,leaves organic,4,0
+Brooklyn,5,mgp,4,447.4
+Brooklyn,5,other organics,4,0
+Brooklyn,5,paper,4,253.5
+Brooklyn,5,refuse,4,4679.9
+Brooklyn,5,res organics,4,111.8
+Brooklyn,5,school organic,4,0
+Brooklyn,5,xmastree,4,0
+Brooklyn,6,leaves organic,4,0
+Brooklyn,6,mgp,4,354.7
+Brooklyn,6,other organics,4,0
+Brooklyn,6,paper,4,480.8
+Brooklyn,6,refuse,4,2098.5
+Brooklyn,6,res organics,4,161.1
+Brooklyn,6,school organic,4,73.8
+Brooklyn,6,xmastree,4,0
+Brooklyn,7,leaves organic,4,0
+Brooklyn,7,mgp,4,343.1
+Brooklyn,7,other organics,4,0
+Brooklyn,7,paper,4,420.5
+Brooklyn,7,refuse,4,3156.1
+Brooklyn,7,res organics,4,152
+Brooklyn,7,school organic,4,67.3
+Brooklyn,7,xmastree,4,0
+Brooklyn,8,leaves organic,4,0
+Brooklyn,8,mgp,4,281.1
+Brooklyn,8,other organics,4,25.6
+Brooklyn,8,paper,4,311.7
+Brooklyn,8,refuse,4,6029.5
+Brooklyn,8,res organics,4,89.3
+Brooklyn,8,school organic,4,46.4
+Brooklyn,8,xmastree,4,0
+Brooklyn,9,leaves organic,4,0
+Brooklyn,9,mgp,4,246.5
+Brooklyn,9,other organics,4,0
+Brooklyn,9,paper,4,249
+Brooklyn,9,refuse,4,2901.6
+Brooklyn,9,res organics,4,61.3
+Brooklyn,9,school organic,4,0
+Brooklyn,9,xmastree,4,0
+Brooklyn,1,leaves organic,5,0
+Brooklyn,1,mgp,5,476.5
+Brooklyn,1,other organics,5,0
+Brooklyn,1,paper,5,794
+Brooklyn,1,refuse,5,6110.7
+Brooklyn,1,res organics,5,115.4
+Brooklyn,1,school organic,5,49.2
+Brooklyn,1,xmastree,5,0
+Brooklyn,10,leaves organic,5,0
+Brooklyn,10,mgp,5,458.6
+Brooklyn,10,other organics,5,0
+Brooklyn,10,paper,5,460.3
+Brooklyn,10,refuse,5,3688
+Brooklyn,10,res organics,5,216.1
+Brooklyn,10,school organic,5,163.4
+Brooklyn,10,xmastree,5,0
+Brooklyn,11,leaves organic,5,0
+Brooklyn,11,mgp,5,585.9
+Brooklyn,11,other organics,5,0
+Brooklyn,11,paper,5,572.8
+Brooklyn,11,refuse,5,7857.6
+Brooklyn,11,res organics,5,559.2
+Brooklyn,11,school organic,5,0
+Brooklyn,11,xmastree,5,0
+Brooklyn,12,leaves organic,5,0
+Brooklyn,12,mgp,5,365.1
+Brooklyn,12,other organics,5,0
+Brooklyn,12,paper,5,741.6
+Brooklyn,12,refuse,5,7110.5
+Brooklyn,12,res organics,5,134.5
+Brooklyn,12,school organic,5,0
+Brooklyn,12,xmastree,5,0
+Brooklyn,13,leaves organic,5,0
+Brooklyn,13,mgp,5,238.4
+Brooklyn,13,other organics,5,0
+Brooklyn,13,paper,5,296.6
+Brooklyn,13,refuse,5,2767.4
+Brooklyn,13,res organics,5,81.7
+Brooklyn,13,school organic,5,126.1
+Brooklyn,13,xmastree,5,0
+Brooklyn,14,leaves organic,5,0
+Brooklyn,14,mgp,5,423.6
+Brooklyn,14,other organics,5,0
+Brooklyn,14,paper,5,461.9
+Brooklyn,14,refuse,5,4842.8
+Brooklyn,14,res organics,5,145.7
+Brooklyn,14,school organic,5,0
+Brooklyn,14,xmastree,5,0
+Brooklyn,15,leaves organic,5,0
+Brooklyn,15,mgp,5,515.2
+Brooklyn,15,other organics,5,0
+Brooklyn,15,paper,5,557.3
+Brooklyn,15,refuse,5,4574.1
+Brooklyn,15,res organics,5,264.6
+Brooklyn,15,school organic,5,167.8
+Brooklyn,15,xmastree,5,0
+Brooklyn,16,leaves organic,5,0
+Brooklyn,16,mgp,5,173.9
+Brooklyn,16,other organics,5,0
+Brooklyn,16,paper,5,131.1
+Brooklyn,16,refuse,5,3137.4
+Brooklyn,16,res organics,5,55.3
+Brooklyn,16,school organic,5,0
+Brooklyn,16,xmastree,5,0
+Brooklyn,17,leaves organic,5,0
+Brooklyn,17,mgp,5,440.4
+Brooklyn,17,other organics,5,0
+Brooklyn,17,paper,5,327.8
+Brooklyn,17,refuse,5,4619.9
+Brooklyn,17,res organics,5,182.1
+Brooklyn,17,school organic,5,48.4
+Brooklyn,17,xmastree,5,0
+Brooklyn,18,leaves organic,5,0
+Brooklyn,18,mgp,5,675.1
+Brooklyn,18,other organics,5,0
+Brooklyn,18,paper,5,632.5
+Brooklyn,18,refuse,5,5535
+Brooklyn,18,res organics,5,230.3
+Brooklyn,18,school organic,5,0
+Brooklyn,18,xmastree,5,0
+Brooklyn,2,leaves organic,5,0
+Brooklyn,2,mgp,5,418.1
+Brooklyn,2,other organics,5,0
+Brooklyn,2,paper,5,582.7
+Brooklyn,2,refuse,5,2989.8
+Brooklyn,2,res organics,5,163.2
+Brooklyn,2,school organic,5,43.1
+Brooklyn,2,xmastree,5,0
+Brooklyn,3,leaves organic,5,0
+Brooklyn,3,mgp,5,331.4
+Brooklyn,3,other organics,5,15.7
+Brooklyn,3,paper,5,444.5
+Brooklyn,3,refuse,5,4559.2
+Brooklyn,3,res organics,5,167.6
+Brooklyn,3,school organic,5,75.9
+Brooklyn,3,xmastree,5,0
+Brooklyn,4,leaves organic,5,0
+Brooklyn,4,mgp,5,369.2
+Brooklyn,4,other organics,5,1
+Brooklyn,4,paper,5,381.1
+Brooklyn,4,refuse,5,4696.4
+Brooklyn,4,res organics,5,110.3
+Brooklyn,4,school organic,5,81.5
+Brooklyn,4,xmastree,5,0
+Brooklyn,5,leaves organic,5,0
+Brooklyn,5,mgp,5,466.5
+Brooklyn,5,other organics,5,0
+Brooklyn,5,paper,5,243.4
+Brooklyn,5,refuse,5,4978.6
+Brooklyn,5,res organics,5,160.3
+Brooklyn,5,school organic,5,0
+Brooklyn,5,xmastree,5,0
+Brooklyn,6,leaves organic,5,0
+Brooklyn,6,mgp,5,396.6
+Brooklyn,6,other organics,5,0
+Brooklyn,6,paper,5,548.7
+Brooklyn,6,refuse,5,2322
+Brooklyn,6,res organics,5,144.4
+Brooklyn,6,school organic,5,95.4
+Brooklyn,6,xmastree,5,0
+Brooklyn,7,leaves organic,5,0
+Brooklyn,7,mgp,5,371.2
+Brooklyn,7,other organics,5,0
+Brooklyn,7,paper,5,436.8
+Brooklyn,7,refuse,5,3355
+Brooklyn,7,res organics,5,169.1
+Brooklyn,7,school organic,5,75.1
+Brooklyn,7,xmastree,5,0
+Brooklyn,8,leaves organic,5,0
+Brooklyn,8,mgp,5,268.2
+Brooklyn,8,other organics,5,25.6
+Brooklyn,8,paper,5,308.3
+Brooklyn,8,refuse,5,5990.7
+Brooklyn,8,res organics,5,93.1
+Brooklyn,8,school organic,5,58.4
+Brooklyn,8,xmastree,5,0
+Brooklyn,9,leaves organic,5,0
+Brooklyn,9,mgp,5,267.1
+Brooklyn,9,other organics,5,0
+Brooklyn,9,paper,5,295
+Brooklyn,9,refuse,5,3041
+Brooklyn,9,res organics,5,80.5
+Brooklyn,9,school organic,5,0
+Brooklyn,9,xmastree,5,0
+Brooklyn,1,leaves organic,6,0
+Brooklyn,1,mgp,6,423.3
+Brooklyn,1,other organics,6,0
+Brooklyn,1,paper,6,647
+Brooklyn,1,refuse,6,5697.9
+Brooklyn,1,res organics,6,102
+Brooklyn,1,school organic,6,33.9
+Brooklyn,1,xmastree,6,0
+Brooklyn,10,leaves organic,6,0
+Brooklyn,10,mgp,6,420.3
+Brooklyn,10,other organics,6,0
+Brooklyn,10,paper,6,422.5
+Brooklyn,10,refuse,6,3707.4
+Brooklyn,10,res organics,6,187.2
+Brooklyn,10,school organic,6,142.4
+Brooklyn,10,xmastree,6,0
+Brooklyn,11,leaves organic,6,0
+Brooklyn,11,mgp,6,509.2
+Brooklyn,11,other organics,6,0
+Brooklyn,11,paper,6,506.7
+Brooklyn,11,refuse,6,7578.4
+Brooklyn,11,res organics,6,471.7
+Brooklyn,11,school organic,6,5.4
+Brooklyn,11,xmastree,6,0
+Brooklyn,12,leaves organic,6,0
+Brooklyn,12,mgp,6,315.5
+Brooklyn,12,other organics,6,0
+Brooklyn,12,paper,6,575.2
+Brooklyn,12,refuse,6,6770.6
+Brooklyn,12,res organics,6,113.2
+Brooklyn,12,school organic,6,0
+Brooklyn,12,xmastree,6,0
+Brooklyn,13,leaves organic,6,0
+Brooklyn,13,mgp,6,214.3
+Brooklyn,13,other organics,6,0
+Brooklyn,13,paper,6,287.7
+Brooklyn,13,refuse,6,2860.1
+Brooklyn,13,res organics,6,81.1
+Brooklyn,13,school organic,6,84.3
+Brooklyn,13,xmastree,6,0
+Brooklyn,14,leaves organic,6,0
+Brooklyn,14,mgp,6,406
+Brooklyn,14,other organics,6,0
+Brooklyn,14,paper,6,434.5
+Brooklyn,14,refuse,6,4724.6
+Brooklyn,14,res organics,6,122.6
+Brooklyn,14,school organic,6,0
+Brooklyn,14,xmastree,6,0
+Brooklyn,15,leaves organic,6,0
+Brooklyn,15,mgp,6,479.8
+Brooklyn,15,other organics,6,0
+Brooklyn,15,paper,6,503.5
+Brooklyn,15,refuse,6,4407.9
+Brooklyn,15,res organics,6,228.6
+Brooklyn,15,school organic,6,148
+Brooklyn,15,xmastree,6,0
+Brooklyn,16,leaves organic,6,0
+Brooklyn,16,mgp,6,156.1
+Brooklyn,16,other organics,6,0
+Brooklyn,16,paper,6,120.5
+Brooklyn,16,refuse,6,2971.9
+Brooklyn,16,res organics,6,49
+Brooklyn,16,school organic,6,0
+Brooklyn,16,xmastree,6,0
+Brooklyn,17,leaves organic,6,0
+Brooklyn,17,mgp,6,420.2
+Brooklyn,17,other organics,6,0
+Brooklyn,17,paper,6,310.8
+Brooklyn,17,refuse,6,4598.5
+Brooklyn,17,res organics,6,168.6
+Brooklyn,17,school organic,6,33.4
+Brooklyn,17,xmastree,6,0
+Brooklyn,18,leaves organic,6,0
+Brooklyn,18,mgp,6,602
+Brooklyn,18,other organics,6,0
+Brooklyn,18,paper,6,533
+Brooklyn,18,refuse,6,5383.1
+Brooklyn,18,res organics,6,195.9
+Brooklyn,18,school organic,6,0
+Brooklyn,18,xmastree,6,0
+Brooklyn,2,leaves organic,6,0
+Brooklyn,2,mgp,6,372.5
+Brooklyn,2,other organics,6,0
+Brooklyn,2,paper,6,540
+Brooklyn,2,refuse,6,2843
+Brooklyn,2,res organics,6,142.8
+Brooklyn,2,school organic,6,30.9
+Brooklyn,2,xmastree,6,0
+Brooklyn,3,leaves organic,6,0
+Brooklyn,3,mgp,6,317.1
+Brooklyn,3,other organics,6,16.9
+Brooklyn,3,paper,6,414.2
+Brooklyn,3,refuse,6,4509.9
+Brooklyn,3,res organics,6,148.2
+Brooklyn,3,school organic,6,47.2
+Brooklyn,3,xmastree,6,0
+Brooklyn,4,leaves organic,6,0
+Brooklyn,4,mgp,6,345.2
+Brooklyn,4,other organics,6,0
+Brooklyn,4,paper,6,385
+Brooklyn,4,refuse,6,4691.9
+Brooklyn,4,res organics,6,97.4
+Brooklyn,4,school organic,6,51.7
+Brooklyn,4,xmastree,6,0
+Brooklyn,5,leaves organic,6,0
+Brooklyn,5,mgp,6,454.4
+Brooklyn,5,other organics,6,0
+Brooklyn,5,paper,6,237.6
+Brooklyn,5,refuse,6,4806.8
+Brooklyn,5,res organics,6,139
+Brooklyn,5,school organic,6,0
+Brooklyn,5,xmastree,6,0
+Brooklyn,6,leaves organic,6,0
+Brooklyn,6,mgp,6,353.1
+Brooklyn,6,other organics,6,0
+Brooklyn,6,paper,6,513.3
+Brooklyn,6,refuse,6,2282.3
+Brooklyn,6,res organics,6,104.8
+Brooklyn,6,school organic,6,66.8
+Brooklyn,6,xmastree,6,0
+Brooklyn,7,leaves organic,6,0
+Brooklyn,7,mgp,6,342.8
+Brooklyn,7,other organics,6,0
+Brooklyn,7,paper,6,410.6
+Brooklyn,7,refuse,6,3298.6
+Brooklyn,7,res organics,6,130.9
+Brooklyn,7,school organic,6,59.6
+Brooklyn,7,xmastree,6,0
+Brooklyn,8,leaves organic,6,0
+Brooklyn,8,mgp,6,264.2
+Brooklyn,8,other organics,6,24.3
+Brooklyn,8,paper,6,321.3
+Brooklyn,8,refuse,6,5840.7
+Brooklyn,8,res organics,6,92.4
+Brooklyn,8,school organic,6,38.8
+Brooklyn,8,xmastree,6,0
+Brooklyn,9,leaves organic,6,0
+Brooklyn,9,mgp,6,229.2
+Brooklyn,9,other organics,6,0
+Brooklyn,9,paper,6,239.1
+Brooklyn,9,refuse,6,2963.5
+Brooklyn,9,res organics,6,66.8
+Brooklyn,9,school organic,6,0
+Brooklyn,9,xmastree,6,0
+Brooklyn,1,leaves organic,7,0
+Brooklyn,1,mgp,7,481.3
+Brooklyn,1,other organics,7,0
+Brooklyn,1,paper,7,650.1
+Brooklyn,1,refuse,7,4816.6
+Brooklyn,1,res organics,7,102.4
+Brooklyn,1,school organic,7,0
+Brooklyn,1,xmastree,7,0
+Brooklyn,10,leaves organic,7,0
+Brooklyn,10,mgp,7,439.8
+Brooklyn,10,other organics,7,0
+Brooklyn,10,paper,7,437.4
+Brooklyn,10,refuse,7,3745.6
+Brooklyn,10,res organics,7,157.9
+Brooklyn,10,school organic,7,0
+Brooklyn,10,xmastree,7,0
+Brooklyn,11,leaves organic,7,0
+Brooklyn,11,mgp,7,549.2
+Brooklyn,11,other organics,7,0
+Brooklyn,11,paper,7,548.6
+Brooklyn,11,refuse,7,8065.9
+Brooklyn,11,res organics,7,460.2
+Brooklyn,11,school organic,7,0
+Brooklyn,11,xmastree,7,0
+Brooklyn,12,leaves organic,7,0
+Brooklyn,12,mgp,7,309.2
+Brooklyn,12,other organics,7,0
+Brooklyn,12,paper,7,525.6
+Brooklyn,12,refuse,7,5313.6
+Brooklyn,12,res organics,7,101.8
+Brooklyn,12,school organic,7,0
+Brooklyn,12,xmastree,7,0
+Brooklyn,13,leaves organic,7,0
+Brooklyn,13,mgp,7,238
+Brooklyn,13,other organics,7,0
+Brooklyn,13,paper,7,271.7
+Brooklyn,13,refuse,7,2837.8
+Brooklyn,13,res organics,7,80.6
+Brooklyn,13,school organic,7,74.3
+Brooklyn,13,xmastree,7,0
+Brooklyn,14,leaves organic,7,0
+Brooklyn,14,mgp,7,391.9
+Brooklyn,14,other organics,7,0
+Brooklyn,14,paper,7,399.8
+Brooklyn,14,refuse,7,4719.9
+Brooklyn,14,res organics,7,124.2
+Brooklyn,14,school organic,7,0
+Brooklyn,14,xmastree,7,0
+Brooklyn,15,leaves organic,7,0
+Brooklyn,15,mgp,7,483
+Brooklyn,15,other organics,7,0
+Brooklyn,15,paper,7,469.5
+Brooklyn,15,refuse,7,4249.4
+Brooklyn,15,res organics,7,212.5
+Brooklyn,15,school organic,7,63.1
+Brooklyn,15,xmastree,7,0
+Brooklyn,16,leaves organic,7,0
+Brooklyn,16,mgp,7,167.2
+Brooklyn,16,other organics,7,0
+Brooklyn,16,paper,7,119.6
+Brooklyn,16,refuse,7,2949
+Brooklyn,16,res organics,7,49.5
+Brooklyn,16,school organic,7,0
+Brooklyn,16,xmastree,7,0
+Brooklyn,17,leaves organic,7,0
+Brooklyn,17,mgp,7,484.6
+Brooklyn,17,other organics,7,0
+Brooklyn,17,paper,7,329
+Brooklyn,17,refuse,7,4786.4
+Brooklyn,17,res organics,7,176.7
+Brooklyn,17,school organic,7,0
+Brooklyn,17,xmastree,7,0
+Brooklyn,18,leaves organic,7,0
+Brooklyn,18,mgp,7,687
+Brooklyn,18,other organics,7,0
+Brooklyn,18,paper,7,541.5
+Brooklyn,18,refuse,7,5729.5
+Brooklyn,18,res organics,7,223.2
+Brooklyn,18,school organic,7,0
+Brooklyn,18,xmastree,7,0
+Brooklyn,2,leaves organic,7,0
+Brooklyn,2,mgp,7,387.8
+Brooklyn,2,other organics,7,0
+Brooklyn,2,paper,7,541.4
+Brooklyn,2,refuse,7,2888.4
+Brooklyn,2,res organics,7,141.3
+Brooklyn,2,school organic,7,22.9
+Brooklyn,2,xmastree,7,0
+Brooklyn,3,leaves organic,7,0
+Brooklyn,3,mgp,7,364.3
+Brooklyn,3,other organics,7,16.9
+Brooklyn,3,paper,7,423
+Brooklyn,3,refuse,7,4226.3
+Brooklyn,3,res organics,7,161.5
+Brooklyn,3,school organic,7,0
+Brooklyn,3,xmastree,7,0
+Brooklyn,4,leaves organic,7,0
+Brooklyn,4,mgp,7,378.2
+Brooklyn,4,other organics,7,0
+Brooklyn,4,paper,7,348.7
+Brooklyn,4,refuse,7,4668
+Brooklyn,4,res organics,7,98.4
+Brooklyn,4,school organic,7,0
+Brooklyn,4,xmastree,7,0
+Brooklyn,5,leaves organic,7,0
+Brooklyn,5,mgp,7,526.8
+Brooklyn,5,other organics,7,0
+Brooklyn,5,paper,7,282.1
+Brooklyn,5,refuse,7,5202.8
+Brooklyn,5,res organics,7,174.6
+Brooklyn,5,school organic,7,0
+Brooklyn,5,xmastree,7,0
+Brooklyn,6,leaves organic,7,0
+Brooklyn,6,mgp,7,340.7
+Brooklyn,6,other organics,7,0
+Brooklyn,6,paper,7,468.4
+Brooklyn,6,refuse,7,2258.9
+Brooklyn,6,res organics,7,76.4
+Brooklyn,6,school organic,7,0
+Brooklyn,6,xmastree,7,0
+Brooklyn,7,leaves organic,7,0
+Brooklyn,7,mgp,7,363.9
+Brooklyn,7,other organics,7,0
+Brooklyn,7,paper,7,414.3
+Brooklyn,7,refuse,7,3456.5
+Brooklyn,7,res organics,7,131.3
+Brooklyn,7,school organic,7,35.7
+Brooklyn,7,xmastree,7,0
+Brooklyn,8,leaves organic,7,0
+Brooklyn,8,mgp,7,300.9
+Brooklyn,8,other organics,7,26.6
+Brooklyn,8,paper,7,333.9
+Brooklyn,8,refuse,7,6233
+Brooklyn,8,res organics,7,93.7
+Brooklyn,8,school organic,7,31.9
+Brooklyn,8,xmastree,7,0
+Brooklyn,9,leaves organic,7,0
+Brooklyn,9,mgp,7,262.5
+Brooklyn,9,other organics,7,0
+Brooklyn,9,paper,7,276.4
+Brooklyn,9,refuse,7,3036
+Brooklyn,9,res organics,7,65.9
+Brooklyn,9,school organic,7,34.5
+Brooklyn,9,xmastree,7,0
+Brooklyn,1,leaves organic,8,0
+Brooklyn,1,mgp,8,423.3
+Brooklyn,1,other organics,8,0
+Brooklyn,1,paper,8,623.2
+Brooklyn,1,refuse,8,4630.5
+Brooklyn,1,res organics,8,88.8
+Brooklyn,1,school organic,8,0
+Brooklyn,1,xmastree,8,0
+Brooklyn,10,leaves organic,8,0
+Brooklyn,10,mgp,8,408.7
+Brooklyn,10,other organics,8,0
+Brooklyn,10,paper,8,384.6
+Brooklyn,10,refuse,8,3483.6
+Brooklyn,10,res organics,8,120.4
+Brooklyn,10,school organic,8,0
+Brooklyn,10,xmastree,8,0
+Brooklyn,11,leaves organic,8,0
+Brooklyn,11,mgp,8,512.7
+Brooklyn,11,other organics,8,0
+Brooklyn,11,paper,8,484
+Brooklyn,11,refuse,8,7939.6
+Brooklyn,11,res organics,8,412.7
+Brooklyn,11,school organic,8,0
+Brooklyn,11,xmastree,8,0
+Brooklyn,12,leaves organic,8,0
+Brooklyn,12,mgp,8,293
+Brooklyn,12,other organics,8,0
+Brooklyn,12,paper,8,509.3
+Brooklyn,12,refuse,8,5286.4
+Brooklyn,12,res organics,8,83.3
+Brooklyn,12,school organic,8,0
+Brooklyn,12,xmastree,8,0
+Brooklyn,13,leaves organic,8,0
+Brooklyn,13,mgp,8,233.8
+Brooklyn,13,other organics,8,0
+Brooklyn,13,paper,8,246.2
+Brooklyn,13,refuse,8,2809.4
+Brooklyn,13,res organics,8,71
+Brooklyn,13,school organic,8,40.3
+Brooklyn,13,xmastree,8,0
+Brooklyn,14,leaves organic,8,0
+Brooklyn,14,mgp,8,390.7
+Brooklyn,14,other organics,8,0
+Brooklyn,14,paper,8,385.2
+Brooklyn,14,refuse,8,4379
+Brooklyn,14,res organics,8,127.7
+Brooklyn,14,school organic,8,0
+Brooklyn,14,xmastree,8,0
+Brooklyn,15,leaves organic,8,0
+Brooklyn,15,mgp,8,448.9
+Brooklyn,15,other organics,8,0
+Brooklyn,15,paper,8,425.4
+Brooklyn,15,refuse,8,4146.1
+Brooklyn,15,res organics,8,179.3
+Brooklyn,15,school organic,8,36.5
+Brooklyn,15,xmastree,8,0
+Brooklyn,16,leaves organic,8,0
+Brooklyn,16,mgp,8,170.5
+Brooklyn,16,other organics,8,0
+Brooklyn,16,paper,8,107.2
+Brooklyn,16,refuse,8,2820.6
+Brooklyn,16,res organics,8,46
+Brooklyn,16,school organic,8,0
+Brooklyn,16,xmastree,8,0
+Brooklyn,17,leaves organic,8,0
+Brooklyn,17,mgp,8,446
+Brooklyn,17,other organics,8,0
+Brooklyn,17,paper,8,297
+Brooklyn,17,refuse,8,4567.1
+Brooklyn,17,res organics,8,162.7
+Brooklyn,17,school organic,8,0
+Brooklyn,17,xmastree,8,0
+Brooklyn,18,leaves organic,8,0
+Brooklyn,18,mgp,8,644.9
+Brooklyn,18,other organics,8,0
+Brooklyn,18,paper,8,503.1
+Brooklyn,18,refuse,8,5310.3
+Brooklyn,18,res organics,8,173.7
+Brooklyn,18,school organic,8,0
+Brooklyn,18,xmastree,8,0
+Brooklyn,2,leaves organic,8,0
+Brooklyn,2,mgp,8,367.6
+Brooklyn,2,other organics,8,0
+Brooklyn,2,paper,8,527.6
+Brooklyn,2,refuse,8,2752.7
+Brooklyn,2,res organics,8,129.5
+Brooklyn,2,school organic,8,12
+Brooklyn,2,xmastree,8,0
+Brooklyn,3,leaves organic,8,0
+Brooklyn,3,mgp,8,323.7
+Brooklyn,3,other organics,8,16.5
+Brooklyn,3,paper,8,361.5
+Brooklyn,3,refuse,8,4033.7
+Brooklyn,3,res organics,8,129.1
+Brooklyn,3,school organic,8,0
+Brooklyn,3,xmastree,8,0
+Brooklyn,4,leaves organic,8,0
+Brooklyn,4,mgp,8,370.1
+Brooklyn,4,other organics,8,0
+Brooklyn,4,paper,8,341.4
+Brooklyn,4,refuse,8,4387.8
+Brooklyn,4,res organics,8,89.2
+Brooklyn,4,school organic,8,0
+Brooklyn,4,xmastree,8,0
+Brooklyn,5,leaves organic,8,0
+Brooklyn,5,mgp,8,444.6
+Brooklyn,5,other organics,8,0
+Brooklyn,5,paper,8,227.8
+Brooklyn,5,refuse,8,4793.9
+Brooklyn,5,res organics,8,114.8
+Brooklyn,5,school organic,8,0
+Brooklyn,5,xmastree,8,0
+Brooklyn,6,leaves organic,8,0
+Brooklyn,6,mgp,8,330.2
+Brooklyn,6,other organics,8,0
+Brooklyn,6,paper,8,453.8
+Brooklyn,6,refuse,8,2090.8
+Brooklyn,6,res organics,8,55.1
+Brooklyn,6,school organic,8,0
+Brooklyn,6,xmastree,8,0
+Brooklyn,7,leaves organic,8,0
+Brooklyn,7,mgp,8,335.5
+Brooklyn,7,other organics,8,0
+Brooklyn,7,paper,8,371
+Brooklyn,7,refuse,8,3182.2
+Brooklyn,7,res organics,8,108
+Brooklyn,7,school organic,8,16.5
+Brooklyn,7,xmastree,8,0
+Brooklyn,8,leaves organic,8,0
+Brooklyn,8,mgp,8,253.5
+Brooklyn,8,other organics,8,23.7
+Brooklyn,8,paper,8,288.5
+Brooklyn,8,refuse,8,5977.4
+Brooklyn,8,res organics,8,79.8
+Brooklyn,8,school organic,8,16.6
+Brooklyn,8,xmastree,8,0
+Brooklyn,9,leaves organic,8,0
+Brooklyn,9,mgp,8,256
+Brooklyn,9,other organics,8,0
+Brooklyn,9,paper,8,272.2
+Brooklyn,9,refuse,8,2874.3
+Brooklyn,9,res organics,8,67.2
+Brooklyn,9,school organic,8,15
+Brooklyn,9,xmastree,8,0
+Brooklyn,1,leaves organic,9,0
+Brooklyn,1,mgp,9,425.4
+Brooklyn,1,other organics,9,0
+Brooklyn,1,paper,9,760.8
+Brooklyn,1,refuse,9,6170.5
+Brooklyn,1,res organics,9,87.8
+Brooklyn,1,school organic,9,43.4
+Brooklyn,1,xmastree,9,0
+Brooklyn,10,leaves organic,9,0
+Brooklyn,10,mgp,9,422.4
+Brooklyn,10,other organics,9,0
+Brooklyn,10,paper,9,416.4
+Brooklyn,10,refuse,9,3708.6
+Brooklyn,10,res organics,9,144
+Brooklyn,10,school organic,9,1.5
+Brooklyn,10,xmastree,9,0
+Brooklyn,11,leaves organic,9,0
+Brooklyn,11,mgp,9,540.3
+Brooklyn,11,other organics,9,0
+Brooklyn,11,paper,9,536.2
+Brooklyn,11,refuse,9,7768.8
+Brooklyn,11,res organics,9,403
+Brooklyn,11,school organic,9,125.6
+Brooklyn,11,xmastree,9,0
+Brooklyn,12,leaves organic,9,0
+Brooklyn,12,mgp,9,342.2
+Brooklyn,12,other organics,9,0
+Brooklyn,12,paper,9,803.2
+Brooklyn,12,refuse,9,7230
+Brooklyn,12,res organics,9,88
+Brooklyn,12,school organic,9,88.7
+Brooklyn,12,xmastree,9,0
+Brooklyn,13,leaves organic,9,0
+Brooklyn,13,mgp,9,226.1
+Brooklyn,13,other organics,9,0
+Brooklyn,13,paper,9,279.5
+Brooklyn,13,refuse,9,2816.8
+Brooklyn,13,res organics,9,79.4
+Brooklyn,13,school organic,9,6.5
+Brooklyn,13,xmastree,9,0
+Brooklyn,14,leaves organic,9,0
+Brooklyn,14,mgp,9,432.5
+Brooklyn,14,other organics,9,0
+Brooklyn,14,paper,9,498.8
+Brooklyn,14,refuse,9,4953.6
+Brooklyn,14,res organics,9,126.1
+Brooklyn,14,school organic,9,153.1
+Brooklyn,14,xmastree,9,0
+Brooklyn,15,leaves organic,9,0
+Brooklyn,15,mgp,9,514.5
+Brooklyn,15,other organics,9,0
+Brooklyn,15,paper,9,514.8
+Brooklyn,15,refuse,9,4696.2
+Brooklyn,15,res organics,9,193.7
+Brooklyn,15,school organic,9,0
+Brooklyn,15,xmastree,9,0
+Brooklyn,16,leaves organic,9,0
+Brooklyn,16,mgp,9,150.7
+Brooklyn,16,other organics,9,0
+Brooklyn,16,paper,9,103.5
+Brooklyn,16,refuse,9,2998
+Brooklyn,16,res organics,9,39.1
+Brooklyn,16,school organic,9,0
+Brooklyn,16,xmastree,9,0
+Brooklyn,17,leaves organic,9,0
+Brooklyn,17,mgp,9,441.2
+Brooklyn,17,other organics,9,0
+Brooklyn,17,paper,9,292.9
+Brooklyn,17,refuse,9,4585.5
+Brooklyn,17,res organics,9,149.6
+Brooklyn,17,school organic,9,0
+Brooklyn,17,xmastree,9,0
+Brooklyn,18,leaves organic,9,0
+Brooklyn,18,mgp,9,617.8
+Brooklyn,18,other organics,9,0
+Brooklyn,18,paper,9,532.2
+Brooklyn,18,refuse,9,5471
+Brooklyn,18,res organics,9,154.9
+Brooklyn,18,school organic,9,71.7
+Brooklyn,18,xmastree,9,0
+Brooklyn,2,leaves organic,9,0
+Brooklyn,2,mgp,9,363.8
+Brooklyn,2,other organics,9,0
+Brooklyn,2,paper,9,595
+Brooklyn,2,refuse,9,2931.5
+Brooklyn,2,res organics,9,130.8
+Brooklyn,2,school organic,9,46
+Brooklyn,2,xmastree,9,0
+Brooklyn,3,leaves organic,9,0
+Brooklyn,3,mgp,9,335.4
+Brooklyn,3,other organics,9,16.4
+Brooklyn,3,paper,9,463.9
+Brooklyn,3,refuse,9,4597.1
+Brooklyn,3,res organics,9,128.5
+Brooklyn,3,school organic,9,65.8
+Brooklyn,3,xmastree,9,0
+Brooklyn,4,leaves organic,9,0
+Brooklyn,4,mgp,9,340.1
+Brooklyn,4,other organics,9,0.9
+Brooklyn,4,paper,9,372.5
+Brooklyn,4,refuse,9,4661.5
+Brooklyn,4,res organics,9,84.8
+Brooklyn,4,school organic,9,70.5
+Brooklyn,4,xmastree,9,0
+Brooklyn,5,leaves organic,9,0
+Brooklyn,5,mgp,9,466.4
+Brooklyn,5,other organics,9,0
+Brooklyn,5,paper,9,232
+Brooklyn,5,refuse,9,4820
+Brooklyn,5,res organics,9,132
+Brooklyn,5,school organic,9,0
+Brooklyn,5,xmastree,9,0
+Brooklyn,6,leaves organic,9,0
+Brooklyn,6,mgp,9,345.6
+Brooklyn,6,other organics,9,0
+Brooklyn,6,paper,9,528.9
+Brooklyn,6,refuse,9,2308.3
+Brooklyn,6,res organics,9,73.4
+Brooklyn,6,school organic,9,81.5
+Brooklyn,6,xmastree,9,0
+Brooklyn,7,leaves organic,9,0
+Brooklyn,7,mgp,9,341.9
+Brooklyn,7,other organics,9,0
+Brooklyn,7,paper,9,390.2
+Brooklyn,7,refuse,9,3248.2
+Brooklyn,7,res organics,9,115.9
+Brooklyn,7,school organic,9,0
+Brooklyn,7,xmastree,9,0
+Brooklyn,8,leaves organic,9,0
+Brooklyn,8,mgp,9,285.5
+Brooklyn,8,other organics,9,29.9
+Brooklyn,8,paper,9,336.2
+Brooklyn,8,refuse,9,6127.5
+Brooklyn,8,res organics,9,88.3
+Brooklyn,8,school organic,9,50.8
+Brooklyn,8,xmastree,9,0
+Brooklyn,9,leaves organic,9,0
+Brooklyn,9,mgp,9,244.5
+Brooklyn,9,other organics,9,0
+Brooklyn,9,paper,9,271.6
+Brooklyn,9,refuse,9,3124.1
+Brooklyn,9,res organics,9,59.5
+Brooklyn,9,school organic,9,38.3
+Brooklyn,9,xmastree,9,0
+Brooklyn,1,leaves organic,10,0
+Brooklyn,1,mgp,10,456.7
+Brooklyn,1,other organics,10,0
+Brooklyn,1,paper,10,761.1
+Brooklyn,1,refuse,10,5960.5
+Brooklyn,1,res organics,10,104.2
+Brooklyn,1,school organic,10,50
+Brooklyn,1,xmastree,10,0
+Brooklyn,10,leaves organic,10,0
+Brooklyn,10,mgp,10,420.9
+Brooklyn,10,other organics,10,0
+Brooklyn,10,paper,10,421.1
+Brooklyn,10,refuse,10,3634.8
+Brooklyn,10,res organics,10,161
+Brooklyn,10,school organic,10,0
+Brooklyn,10,xmastree,10,0
+Brooklyn,11,leaves organic,10,0
+Brooklyn,11,mgp,10,545.3
+Brooklyn,11,other organics,10,0
+Brooklyn,11,paper,10,572.1
+Brooklyn,11,refuse,10,7806.3
+Brooklyn,11,res organics,10,407.4
+Brooklyn,11,school organic,10,143.1
+Brooklyn,11,xmastree,10,0
+Brooklyn,12,leaves organic,10,0
+Brooklyn,12,mgp,10,381
+Brooklyn,12,other organics,10,0
+Brooklyn,12,paper,10,704.7
+Brooklyn,12,refuse,10,7251.2
+Brooklyn,12,res organics,10,101.1
+Brooklyn,12,school organic,10,103.2
+Brooklyn,12,xmastree,10,0
+Brooklyn,13,leaves organic,10,0
+Brooklyn,13,mgp,10,233.7
+Brooklyn,13,other organics,10,0
+Brooklyn,13,paper,10,271
+Brooklyn,13,refuse,10,2787.7
+Brooklyn,13,res organics,10,80.2
+Brooklyn,13,school organic,10,0
+Brooklyn,13,xmastree,10,0
+Brooklyn,14,leaves organic,10,0
+Brooklyn,14,mgp,10,412.1
+Brooklyn,14,other organics,10,0
+Brooklyn,14,paper,10,455.1
+Brooklyn,14,refuse,10,4857.6
+Brooklyn,14,res organics,10,138
+Brooklyn,14,school organic,10,225.2
+Brooklyn,14,xmastree,10,0
+Brooklyn,15,leaves organic,10,0
+Brooklyn,15,mgp,10,513.9
+Brooklyn,15,other organics,10,0
+Brooklyn,15,paper,10,514.7
+Brooklyn,15,refuse,10,4743.8
+Brooklyn,15,res organics,10,225.1
+Brooklyn,15,school organic,10,0
+Brooklyn,15,xmastree,10,0
+Brooklyn,16,leaves organic,10,0
+Brooklyn,16,mgp,10,164.4
+Brooklyn,16,other organics,10,0
+Brooklyn,16,paper,10,118.8
+Brooklyn,16,refuse,10,2934.9
+Brooklyn,16,res organics,10,53.6
+Brooklyn,16,school organic,10,0
+Brooklyn,16,xmastree,10,0
+Brooklyn,17,leaves organic,10,0
+Brooklyn,17,mgp,10,430.4
+Brooklyn,17,other organics,10,0
+Brooklyn,17,paper,10,315
+Brooklyn,17,refuse,10,4451.4
+Brooklyn,17,res organics,10,158
+Brooklyn,17,school organic,10,0
+Brooklyn,17,xmastree,10,0
+Brooklyn,18,leaves organic,10,0
+Brooklyn,18,mgp,10,613.1
+Brooklyn,18,other organics,10,0
+Brooklyn,18,paper,10,528.8
+Brooklyn,18,refuse,10,5288.9
+Brooklyn,18,res organics,10,199.3
+Brooklyn,18,school organic,10,96
+Brooklyn,18,xmastree,10,0
+Brooklyn,2,leaves organic,10,0
+Brooklyn,2,mgp,10,392.7
+Brooklyn,2,other organics,10,0
+Brooklyn,2,paper,10,596.2
+Brooklyn,2,refuse,10,2939.8
+Brooklyn,2,res organics,10,159
+Brooklyn,2,school organic,10,62.3
+Brooklyn,2,xmastree,10,0
+Brooklyn,3,leaves organic,10,0
+Brooklyn,3,mgp,10,338
+Brooklyn,3,other organics,10,13.9
+Brooklyn,3,paper,10,465.1
+Brooklyn,3,refuse,10,4501.6
+Brooklyn,3,res organics,10,144.6
+Brooklyn,3,school organic,10,70.9
+Brooklyn,3,xmastree,10,0
+Brooklyn,4,leaves organic,10,0
+Brooklyn,4,mgp,10,362.2
+Brooklyn,4,other organics,10,1
+Brooklyn,4,paper,10,362.4
+Brooklyn,4,refuse,10,4433.6
+Brooklyn,4,res organics,10,93.9
+Brooklyn,4,school organic,10,85.2
+Brooklyn,4,xmastree,10,0
+Brooklyn,5,leaves organic,10,0
+Brooklyn,5,mgp,10,479.2
+Brooklyn,5,other organics,10,0
+Brooklyn,5,paper,10,249
+Brooklyn,5,refuse,10,4884.5
+Brooklyn,5,res organics,10,159.5
+Brooklyn,5,school organic,10,0
+Brooklyn,5,xmastree,10,0
+Brooklyn,6,leaves organic,10,0
+Brooklyn,6,mgp,10,376.8
+Brooklyn,6,other organics,10,0
+Brooklyn,6,paper,10,549.8
+Brooklyn,6,refuse,10,2214.3
+Brooklyn,6,res organics,10,166.9
+Brooklyn,6,school organic,10,94.3
+Brooklyn,6,xmastree,10,0
+Brooklyn,7,leaves organic,10,0
+Brooklyn,7,mgp,10,347.6
+Brooklyn,7,other organics,10,0
+Brooklyn,7,paper,10,389.4
+Brooklyn,7,refuse,10,3288.4
+Brooklyn,7,res organics,10,123.5
+Brooklyn,7,school organic,10,0
+Brooklyn,7,xmastree,10,0
+Brooklyn,8,leaves organic,10,0
+Brooklyn,8,mgp,10,275.7
+Brooklyn,8,other organics,10,23
+Brooklyn,8,paper,10,325.4
+Brooklyn,8,refuse,10,6492.3
+Brooklyn,8,res organics,10,92.1
+Brooklyn,8,school organic,10,60.4
+Brooklyn,8,xmastree,10,0
+Brooklyn,9,leaves organic,10,0
+Brooklyn,9,mgp,10,274.7
+Brooklyn,9,other organics,10,0
+Brooklyn,9,paper,10,294.6
+Brooklyn,9,refuse,10,3040.1
+Brooklyn,9,res organics,10,89.1
+Brooklyn,9,school organic,10,45.6
+Brooklyn,9,xmastree,10,0
+Brooklyn,1,leaves organic,11,0
+Brooklyn,1,mgp,11,373.2
+Brooklyn,1,other organics,11,0
+Brooklyn,1,paper,11,674.6
+Brooklyn,1,refuse,11,5771.8
+Brooklyn,1,res organics,11,128.7
+Brooklyn,1,school organic,11,38.1
+Brooklyn,1,xmastree,11,0
+Brooklyn,10,leaves organic,11,0
+Brooklyn,10,mgp,11,383.7
+Brooklyn,10,other organics,11,0
+Brooklyn,10,paper,11,393.2
+Brooklyn,10,refuse,11,3454.5
+Brooklyn,10,res organics,11,179.9
+Brooklyn,10,school organic,11,3
+Brooklyn,10,xmastree,11,0
+Brooklyn,11,leaves organic,11,0
+Brooklyn,11,mgp,11,496.9
+Brooklyn,11,other organics,11,0
+Brooklyn,11,paper,11,516
+Brooklyn,11,refuse,11,7223
+Brooklyn,11,res organics,11,421.9
+Brooklyn,11,school organic,11,109.5
+Brooklyn,11,xmastree,11,0
+Brooklyn,12,leaves organic,11,0
+Brooklyn,12,mgp,11,302.3
+Brooklyn,12,other organics,11,0
+Brooklyn,12,paper,11,666.7
+Brooklyn,12,refuse,11,6783.4
+Brooklyn,12,res organics,11,129
+Brooklyn,12,school organic,11,80.7
+Brooklyn,12,xmastree,11,0
+Brooklyn,13,leaves organic,11,0
+Brooklyn,13,mgp,11,203.8
+Brooklyn,13,other organics,11,0
+Brooklyn,13,paper,11,244.4
+Brooklyn,13,refuse,11,2519.4
+Brooklyn,13,res organics,11,100.4
+Brooklyn,13,school organic,11,0
+Brooklyn,13,xmastree,11,0
+Brooklyn,14,leaves organic,11,0
+Brooklyn,14,mgp,11,389
+Brooklyn,14,other organics,11,0
+Brooklyn,14,paper,11,448
+Brooklyn,14,refuse,11,4567.9
+Brooklyn,14,res organics,11,223.4
+Brooklyn,14,school organic,11,186.5
+Brooklyn,14,xmastree,11,0
+Brooklyn,15,leaves organic,11,0
+Brooklyn,15,mgp,11,470.3
+Brooklyn,15,other organics,11,0
+Brooklyn,15,paper,11,487.9
+Brooklyn,15,refuse,11,4370.2
+Brooklyn,15,res organics,11,297.6
+Brooklyn,15,school organic,11,0
+Brooklyn,15,xmastree,11,0
+Brooklyn,16,leaves organic,11,0
+Brooklyn,16,mgp,11,154.1
+Brooklyn,16,other organics,11,0
+Brooklyn,16,paper,11,109.6
+Brooklyn,16,refuse,11,2753.9
+Brooklyn,16,res organics,11,78.5
+Brooklyn,16,school organic,11,0
+Brooklyn,16,xmastree,11,0
+Brooklyn,17,leaves organic,11,0
+Brooklyn,17,mgp,11,378.6
+Brooklyn,17,other organics,11,0
+Brooklyn,17,paper,11,283.2
+Brooklyn,17,refuse,11,4205.1
+Brooklyn,17,res organics,11,212.3
+Brooklyn,17,school organic,11,0
+Brooklyn,17,xmastree,11,0
+Brooklyn,18,leaves organic,11,0
+Brooklyn,18,mgp,11,564.2
+Brooklyn,18,other organics,11,0
+Brooklyn,18,paper,11,518.9
+Brooklyn,18,refuse,11,4987
+Brooklyn,18,res organics,11,335.2
+Brooklyn,18,school organic,11,80.3
+Brooklyn,18,xmastree,11,0
+Brooklyn,2,leaves organic,11,0
+Brooklyn,2,mgp,11,360.4
+Brooklyn,2,other organics,11,0
+Brooklyn,2,paper,11,555.5
+Brooklyn,2,refuse,11,2834.1
+Brooklyn,2,res organics,11,208.4
+Brooklyn,2,school organic,11,60.3
+Brooklyn,2,xmastree,11,0
+Brooklyn,3,leaves organic,11,0
+Brooklyn,3,mgp,11,288.8
+Brooklyn,3,other organics,11,13
+Brooklyn,3,paper,11,403.2
+Brooklyn,3,refuse,11,4325.6
+Brooklyn,3,res organics,11,192.6
+Brooklyn,3,school organic,11,55
+Brooklyn,3,xmastree,11,0
+Brooklyn,4,leaves organic,11,0
+Brooklyn,4,mgp,11,321.7
+Brooklyn,4,other organics,11,0
+Brooklyn,4,paper,11,324
+Brooklyn,4,refuse,11,4227.9
+Brooklyn,4,res organics,11,93.7
+Brooklyn,4,school organic,11,67.7
+Brooklyn,4,xmastree,11,0
+Brooklyn,5,leaves organic,11,0
+Brooklyn,5,mgp,11,402.8
+Brooklyn,5,other organics,11,0
+Brooklyn,5,paper,11,215.7
+Brooklyn,5,refuse,11,4469.2
+Brooklyn,5,res organics,11,150.7
+Brooklyn,5,school organic,11,0
+Brooklyn,5,xmastree,11,0
+Brooklyn,6,leaves organic,11,0
+Brooklyn,6,mgp,11,336.7
+Brooklyn,6,other organics,11,0
+Brooklyn,6,paper,11,491.9
+Brooklyn,6,refuse,11,2144.5
+Brooklyn,6,res organics,11,189.6
+Brooklyn,6,school organic,11,82.8
+Brooklyn,6,xmastree,11,0
+Brooklyn,7,leaves organic,11,0
+Brooklyn,7,mgp,11,322
+Brooklyn,7,other organics,11,0
+Brooklyn,7,paper,11,352.1
+Brooklyn,7,refuse,11,3134.7
+Brooklyn,7,res organics,11,144.8
+Brooklyn,7,school organic,11,0
+Brooklyn,7,xmastree,11,0
+Brooklyn,8,leaves organic,11,0
+Brooklyn,8,mgp,11,243.4
+Brooklyn,8,other organics,11,21.9
+Brooklyn,8,paper,11,299.3
+Brooklyn,8,refuse,11,5768.8
+Brooklyn,8,res organics,11,98.4
+Brooklyn,8,school organic,11,47.6
+Brooklyn,8,xmastree,11,0
+Brooklyn,9,leaves organic,11,0
+Brooklyn,9,mgp,11,229.9
+Brooklyn,9,other organics,11,0
+Brooklyn,9,paper,11,273.8
+Brooklyn,9,refuse,11,2924
+Brooklyn,9,res organics,11,86.3
+Brooklyn,9,school organic,11,41.3
+Brooklyn,9,xmastree,11,0
+Brooklyn,1,leaves organic,12,0
+Brooklyn,1,mgp,12,435.1
+Brooklyn,1,other organics,12,0
+Brooklyn,1,paper,12,827.8
+Brooklyn,1,refuse,12,6144.3
+Brooklyn,1,res organics,12,105.2
+Brooklyn,1,school organic,12,36.7
+Brooklyn,1,xmastree,12,0
+Brooklyn,10,leaves organic,12,0
+Brooklyn,10,mgp,12,485.7
+Brooklyn,10,other organics,12,0
+Brooklyn,10,paper,12,533
+Brooklyn,10,refuse,12,3753
+Brooklyn,10,res organics,12,148.5
+Brooklyn,10,school organic,12,0
+Brooklyn,10,xmastree,12,0
+Brooklyn,11,leaves organic,12,0
+Brooklyn,11,mgp,12,582.6
+Brooklyn,11,other organics,12,0
+Brooklyn,11,paper,12,651.6
+Brooklyn,11,refuse,12,7896.9
+Brooklyn,11,res organics,12,370.7
+Brooklyn,11,school organic,12,115.3
+Brooklyn,11,xmastree,12,0
+Brooklyn,12,leaves organic,12,0
+Brooklyn,12,mgp,12,347.6
+Brooklyn,12,other organics,12,0
+Brooklyn,12,paper,12,828.7
+Brooklyn,12,refuse,12,7220.9
+Brooklyn,12,res organics,12,100.3
+Brooklyn,12,school organic,12,87
+Brooklyn,12,xmastree,12,0
+Brooklyn,13,leaves organic,12,0
+Brooklyn,13,mgp,12,237.5
+Brooklyn,13,other organics,12,0
+Brooklyn,13,paper,12,305.7
+Brooklyn,13,refuse,12,2770.2
+Brooklyn,13,res organics,12,81.9
+Brooklyn,13,school organic,12,0
+Brooklyn,13,xmastree,12,0
+Brooklyn,14,leaves organic,12,0
+Brooklyn,14,mgp,12,449.6
+Brooklyn,14,other organics,12,0
+Brooklyn,14,paper,12,560.2
+Brooklyn,14,refuse,12,4953.4
+Brooklyn,14,res organics,12,159.7
+Brooklyn,14,school organic,12,190.9
+Brooklyn,14,xmastree,12,0
+Brooklyn,15,leaves organic,12,0
+Brooklyn,15,mgp,12,548.3
+Brooklyn,15,other organics,12,0
+Brooklyn,15,paper,12,620.3
+Brooklyn,15,refuse,12,4576.6
+Brooklyn,15,res organics,12,204.4
+Brooklyn,15,school organic,12,0.4
+Brooklyn,15,xmastree,12,0
+Brooklyn,16,leaves organic,12,0
+Brooklyn,16,mgp,12,179.7
+Brooklyn,16,other organics,12,0
+Brooklyn,16,paper,12,135.5
+Brooklyn,16,refuse,12,3008.9
+Brooklyn,16,res organics,12,54.3
+Brooklyn,16,school organic,12,0
+Brooklyn,16,xmastree,12,0
+Brooklyn,17,leaves organic,12,0
+Brooklyn,17,mgp,12,470.8
+Brooklyn,17,other organics,12,0
+Brooklyn,17,paper,12,364.8
+Brooklyn,17,refuse,12,4632.4
+Brooklyn,17,res organics,12,162
+Brooklyn,17,school organic,12,0
+Brooklyn,17,xmastree,12,0
+Brooklyn,18,leaves organic,12,0
+Brooklyn,18,mgp,12,655.4
+Brooklyn,18,other organics,12,0
+Brooklyn,18,paper,12,637.6
+Brooklyn,18,refuse,12,5256.5
+Brooklyn,18,res organics,12,193.2
+Brooklyn,18,school organic,12,80.1
+Brooklyn,18,xmastree,12,0
+Brooklyn,2,leaves organic,12,0
+Brooklyn,2,mgp,12,415.8
+Brooklyn,2,other organics,12,0
+Brooklyn,2,paper,12,674.3
+Brooklyn,2,refuse,12,2939
+Brooklyn,2,res organics,12,208.2
+Brooklyn,2,school organic,12,58.7
+Brooklyn,2,xmastree,12,0
+Brooklyn,3,leaves organic,12,0
+Brooklyn,3,mgp,12,369.1
+Brooklyn,3,other organics,12,13.9
+Brooklyn,3,paper,12,523.1
+Brooklyn,3,refuse,12,4762.8
+Brooklyn,3,res organics,12,205.8
+Brooklyn,3,school organic,12,54.5
+Brooklyn,3,xmastree,12,0
+Brooklyn,4,leaves organic,12,0
+Brooklyn,4,mgp,12,371.8
+Brooklyn,4,other organics,12,0
+Brooklyn,4,paper,12,406.3
+Brooklyn,4,refuse,12,4443.9
+Brooklyn,4,res organics,12,90.3
+Brooklyn,4,school organic,12,69.7
+Brooklyn,4,xmastree,12,0
+Brooklyn,5,leaves organic,12,0
+Brooklyn,5,mgp,12,529.9
+Brooklyn,5,other organics,12,0
+Brooklyn,5,paper,12,321.8
+Brooklyn,5,refuse,12,5032.6
+Brooklyn,5,res organics,12,162.1
+Brooklyn,5,school organic,12,0
+Brooklyn,5,xmastree,12,0
+Brooklyn,6,leaves organic,12,0
+Brooklyn,6,mgp,12,393.2
+Brooklyn,6,other organics,12,0
+Brooklyn,6,paper,12,618.8
+Brooklyn,6,refuse,12,2321.9
+Brooklyn,6,res organics,12,175.9
+Brooklyn,6,school organic,12,79
+Brooklyn,6,xmastree,12,0
+Brooklyn,7,leaves organic,12,0
+Brooklyn,7,mgp,12,384.2
+Brooklyn,7,other organics,12,0
+Brooklyn,7,paper,12,445.2
+Brooklyn,7,refuse,12,3292.1
+Brooklyn,7,res organics,12,166.3
+Brooklyn,7,school organic,12,0
+Brooklyn,7,xmastree,12,0
+Brooklyn,8,leaves organic,12,0
+Brooklyn,8,mgp,12,295.8
+Brooklyn,8,other organics,12,23.3
+Brooklyn,8,paper,12,388.9
+Brooklyn,8,refuse,12,6331
+Brooklyn,8,res organics,12,106.4
+Brooklyn,8,school organic,12,50.2
+Brooklyn,8,xmastree,12,0
+Brooklyn,9,leaves organic,12,0
+Brooklyn,9,mgp,12,260.2
+Brooklyn,9,other organics,12,0
+Brooklyn,9,paper,12,329.9
+Brooklyn,9,refuse,12,3158.2
+Brooklyn,9,res organics,12,69.4
+Brooklyn,9,school organic,12,39
+Brooklyn,9,xmastree,12,0
+Manhattan,1,leaves organic,1,0
+Manhattan,1,mgp,1,270
+Manhattan,1,other organics,1,0
+Manhattan,1,paper,1,376.8
+Manhattan,1,refuse,1,1492.6
+Manhattan,1,res organics,1,27.8
+Manhattan,1,school organic,1,0
+Manhattan,1,xmastree,1,0
+Manhattan,10,leaves organic,1,0
+Manhattan,10,mgp,1,278.9
+Manhattan,10,other organics,1,0
+Manhattan,10,paper,1,285.1
+Manhattan,10,refuse,1,5817.7
+Manhattan,10,res organics,1,27.5
+Manhattan,10,school organic,1,0
+Manhattan,10,xmastree,1,0
+Manhattan,11,leaves organic,1,0
+Manhattan,11,mgp,1,203.9
+Manhattan,11,other organics,1,3.3
+Manhattan,11,paper,1,252.8
+Manhattan,11,refuse,1,2406.4
+Manhattan,11,res organics,1,25.7
+Manhattan,11,school organic,1,56.5
+Manhattan,11,xmastree,1,0
+Manhattan,12,leaves organic,1,0
+Manhattan,12,mgp,1,519.2
+Manhattan,12,other organics,1,0
+Manhattan,12,paper,1,460.9
+Manhattan,12,refuse,1,4690.1
+Manhattan,12,res organics,1,39.1
+Manhattan,12,school organic,1,49.5
+Manhattan,12,xmastree,1,0
+Manhattan,2,leaves organic,1,0
+Manhattan,2,mgp,1,285.4
+Manhattan,2,other organics,1,9
+Manhattan,2,paper,1,418.1
+Manhattan,2,refuse,1,2044.8
+Manhattan,2,res organics,1,47.7
+Manhattan,2,school organic,1,23.1
+Manhattan,2,xmastree,1,0
+Manhattan,3,leaves organic,1,0
+Manhattan,3,mgp,1,352.7
+Manhattan,3,other organics,1,0
+Manhattan,3,paper,1,467.2
+Manhattan,3,refuse,1,5738.2
+Manhattan,3,res organics,1,26
+Manhattan,3,school organic,1,49.2
+Manhattan,3,xmastree,1,0
+Manhattan,4,leaves organic,1,0
+Manhattan,4,mgp,1,367.4
+Manhattan,4,other organics,1,8.9
+Manhattan,4,paper,1,672.6
+Manhattan,4,refuse,1,3237.2
+Manhattan,4,res organics,1,64.8
+Manhattan,4,school organic,1,0
+Manhattan,4,xmastree,1,0
+Manhattan,5,leaves organic,1,0
+Manhattan,5,mgp,1,171.5
+Manhattan,5,other organics,1,0
+Manhattan,5,paper,1,282.7
+Manhattan,5,refuse,1,1543.4
+Manhattan,5,res organics,1,18.1
+Manhattan,5,school organic,1,0
+Manhattan,5,xmastree,1,0
+Manhattan,6,leaves organic,1,0
+Manhattan,6,mgp,1,391.5
+Manhattan,6,other organics,1,0
+Manhattan,6,paper,1,745.6
+Manhattan,6,refuse,1,3109.5
+Manhattan,6,res organics,1,46.9
+Manhattan,6,school organic,1,0
+Manhattan,6,xmastree,1,0
+Manhattan,7,leaves organic,1,0
+Manhattan,7,mgp,1,717.4
+Manhattan,7,other organics,1,0
+Manhattan,7,paper,1,964.4
+Manhattan,7,refuse,1,4434.9
+Manhattan,7,res organics,1,185.2
+Manhattan,7,school organic,1,41.4
+Manhattan,7,xmastree,1,0
+Manhattan,8,leaves organic,1,0
+Manhattan,8,mgp,1,760.1
+Manhattan,8,other organics,1,8.5
+Manhattan,8,paper,1,1059.7
+Manhattan,8,refuse,1,5282.9
+Manhattan,8,res organics,1,102.8
+Manhattan,8,school organic,1,0
+Manhattan,8,xmastree,1,0
+Manhattan,9,leaves organic,1,0
+Manhattan,9,mgp,1,244
+Manhattan,9,other organics,1,4.8
+Manhattan,9,paper,1,257.7
+Manhattan,9,refuse,1,2202.9
+Manhattan,9,res organics,1,27
+Manhattan,9,school organic,1,81.7
+Manhattan,9,xmastree,1,0
+Manhattan,1,leaves organic,2,0
+Manhattan,1,mgp,2,215.2
+Manhattan,1,other organics,2,0
+Manhattan,1,paper,2,317.6
+Manhattan,1,refuse,2,1373
+Manhattan,1,res organics,2,7.3
+Manhattan,1,school organic,2,0
+Manhattan,1,xmastree,2,0
+Manhattan,10,leaves organic,2,0
+Manhattan,10,mgp,2,221.4
+Manhattan,10,other organics,2,0
+Manhattan,10,paper,2,222.7
+Manhattan,10,refuse,2,5199.4
+Manhattan,10,res organics,2,17
+Manhattan,10,school organic,2,0.4
+Manhattan,10,xmastree,2,0
+Manhattan,11,leaves organic,2,0
+Manhattan,11,mgp,2,166.7
+Manhattan,11,other organics,2,4.6
+Manhattan,11,paper,2,199.7
+Manhattan,11,refuse,2,2093.5
+Manhattan,11,res organics,2,15.4
+Manhattan,11,school organic,2,46.4
+Manhattan,11,xmastree,2,0
+Manhattan,12,leaves organic,2,0
+Manhattan,12,mgp,2,385.3
+Manhattan,12,other organics,2,0
+Manhattan,12,paper,2,357.7
+Manhattan,12,refuse,2,4143.1
+Manhattan,12,res organics,2,27.4
+Manhattan,12,school organic,2,40.6
+Manhattan,12,xmastree,2,0
+Manhattan,2,leaves organic,2,0
+Manhattan,2,mgp,2,250.1
+Manhattan,2,other organics,2,8.6
+Manhattan,2,paper,2,358.1
+Manhattan,2,refuse,2,1835
+Manhattan,2,res organics,2,18.3
+Manhattan,2,school organic,2,17.8
+Manhattan,2,xmastree,2,0
+Manhattan,3,leaves organic,2,0
+Manhattan,3,mgp,2,291.4
+Manhattan,3,other organics,2,0
+Manhattan,3,paper,2,371.1
+Manhattan,3,refuse,2,5121.5
+Manhattan,3,res organics,2,14.4
+Manhattan,3,school organic,2,37.6
+Manhattan,3,xmastree,2,0
+Manhattan,4,leaves organic,2,0
+Manhattan,4,mgp,2,294.3
+Manhattan,4,other organics,2,9
+Manhattan,4,paper,2,563.5
+Manhattan,4,refuse,2,2919.6
+Manhattan,4,res organics,2,38.3
+Manhattan,4,school organic,2,0
+Manhattan,4,xmastree,2,0
+Manhattan,5,leaves organic,2,0
+Manhattan,5,mgp,2,143.8
+Manhattan,5,other organics,2,0
+Manhattan,5,paper,2,233.2
+Manhattan,5,refuse,2,1382.6
+Manhattan,5,res organics,2,6
+Manhattan,5,school organic,2,0
+Manhattan,5,xmastree,2,0
+Manhattan,6,leaves organic,2,0
+Manhattan,6,mgp,2,328.5
+Manhattan,6,other organics,2,0
+Manhattan,6,paper,2,626.2
+Manhattan,6,refuse,2,2817.4
+Manhattan,6,res organics,2,22.2
+Manhattan,6,school organic,2,0
+Manhattan,6,xmastree,2,0
+Manhattan,7,leaves organic,2,0
+Manhattan,7,mgp,2,620.8
+Manhattan,7,other organics,2,0
+Manhattan,7,paper,2,819.4
+Manhattan,7,refuse,2,3903.5
+Manhattan,7,res organics,2,111.2
+Manhattan,7,school organic,2,33.6
+Manhattan,7,xmastree,2,0
+Manhattan,8,leaves organic,2,0
+Manhattan,8,mgp,2,637.7
+Manhattan,8,other organics,2,10
+Manhattan,8,paper,2,886.5
+Manhattan,8,refuse,2,4692.3
+Manhattan,8,res organics,2,37.4
+Manhattan,8,school organic,2,0
+Manhattan,8,xmastree,2,0
+Manhattan,9,leaves organic,2,0
+Manhattan,9,mgp,2,196.7
+Manhattan,9,other organics,2,2.5
+Manhattan,9,paper,2,210.2
+Manhattan,9,refuse,2,2002.5
+Manhattan,9,res organics,2,18.6
+Manhattan,9,school organic,2,70.6
+Manhattan,9,xmastree,2,0
+Manhattan,1,leaves organic,3,0
+Manhattan,1,mgp,3,232.8
+Manhattan,1,other organics,3,0
+Manhattan,1,paper,3,329.8
+Manhattan,1,refuse,3,1464.4
+Manhattan,1,res organics,3,9
+Manhattan,1,school organic,3,0
+Manhattan,1,xmastree,3,0
+Manhattan,10,leaves organic,3,0
+Manhattan,10,mgp,3,253.4
+Manhattan,10,other organics,3,0
+Manhattan,10,paper,3,241.4
+Manhattan,10,refuse,3,5994.8
+Manhattan,10,res organics,3,10.5
+Manhattan,10,school organic,3,0
+Manhattan,10,xmastree,3,0
+Manhattan,11,leaves organic,3,0
+Manhattan,11,mgp,3,172.8
+Manhattan,11,other organics,3,0.9
+Manhattan,11,paper,3,219.9
+Manhattan,11,refuse,3,2433.8
+Manhattan,11,res organics,3,13.8
+Manhattan,11,school organic,3,54.5
+Manhattan,11,xmastree,3,0
+Manhattan,12,leaves organic,3,0
+Manhattan,12,mgp,3,418.8
+Manhattan,12,other organics,3,0
+Manhattan,12,paper,3,392
+Manhattan,12,refuse,3,4688.1
+Manhattan,12,res organics,3,29.2
+Manhattan,12,school organic,3,53.9
+Manhattan,12,xmastree,3,0
+Manhattan,2,leaves organic,3,0
+Manhattan,2,mgp,3,270.1
+Manhattan,2,other organics,3,6.7
+Manhattan,2,paper,3,379.8
+Manhattan,2,refuse,3,2055.7
+Manhattan,2,res organics,3,22.9
+Manhattan,2,school organic,3,26.4
+Manhattan,2,xmastree,3,0
+Manhattan,3,leaves organic,3,0
+Manhattan,3,mgp,3,319
+Manhattan,3,other organics,3,0
+Manhattan,3,paper,3,404.6
+Manhattan,3,refuse,3,5771
+Manhattan,3,res organics,3,21.5
+Manhattan,3,school organic,3,46.1
+Manhattan,3,xmastree,3,0
+Manhattan,4,leaves organic,3,0
+Manhattan,4,mgp,3,314.5
+Manhattan,4,other organics,3,8.6
+Manhattan,4,paper,3,591.7
+Manhattan,4,refuse,3,3179.2
+Manhattan,4,res organics,3,45.8
+Manhattan,4,school organic,3,0
+Manhattan,4,xmastree,3,0
+Manhattan,5,leaves organic,3,0
+Manhattan,5,mgp,3,145.1
+Manhattan,5,other organics,3,0
+Manhattan,5,paper,3,234.1
+Manhattan,5,refuse,3,1595
+Manhattan,5,res organics,3,7.5
+Manhattan,5,school organic,3,0
+Manhattan,5,xmastree,3,0
+Manhattan,6,leaves organic,3,0
+Manhattan,6,mgp,3,341.4
+Manhattan,6,other organics,3,0
+Manhattan,6,paper,3,664.8
+Manhattan,6,refuse,3,3107.4
+Manhattan,6,res organics,3,25
+Manhattan,6,school organic,3,0
+Manhattan,6,xmastree,3,0
+Manhattan,7,leaves organic,3,0
+Manhattan,7,mgp,3,660
+Manhattan,7,other organics,3,0
+Manhattan,7,paper,3,889.8
+Manhattan,7,refuse,3,4289.5
+Manhattan,7,res organics,3,128.3
+Manhattan,7,school organic,3,39.4
+Manhattan,7,xmastree,3,0
+Manhattan,8,leaves organic,3,0
+Manhattan,8,mgp,3,680.1
+Manhattan,8,other organics,3,9.3
+Manhattan,8,paper,3,943.2
+Manhattan,8,refuse,3,5157.1
+Manhattan,8,res organics,3,42.8
+Manhattan,8,school organic,3,0
+Manhattan,8,xmastree,3,0
+Manhattan,9,leaves organic,3,0
+Manhattan,9,mgp,3,234.2
+Manhattan,9,other organics,3,2.8
+Manhattan,9,paper,3,228.7
+Manhattan,9,refuse,3,2199
+Manhattan,9,res organics,3,21.4
+Manhattan,9,school organic,3,82.6
+Manhattan,9,xmastree,3,0
+Manhattan,1,leaves organic,4,0
+Manhattan,1,mgp,4,224.7
+Manhattan,1,other organics,4,0
+Manhattan,1,paper,4,315.2
+Manhattan,1,refuse,4,1530.6
+Manhattan,1,res organics,4,18
+Manhattan,1,school organic,4,0
+Manhattan,1,xmastree,4,0
+Manhattan,10,leaves organic,4,0
+Manhattan,10,mgp,4,262.9
+Manhattan,10,other organics,4,0
+Manhattan,10,paper,4,268.8
+Manhattan,10,refuse,4,6046.1
+Manhattan,10,res organics,4,40
+Manhattan,10,school organic,4,0
+Manhattan,10,xmastree,4,0
+Manhattan,11,leaves organic,4,0
+Manhattan,11,mgp,4,193.4
+Manhattan,11,other organics,4,0
+Manhattan,11,paper,4,244.8
+Manhattan,11,refuse,4,2415.1
+Manhattan,11,res organics,4,30.6
+Manhattan,11,school organic,4,48
+Manhattan,11,xmastree,4,0
+Manhattan,12,leaves organic,4,0
+Manhattan,12,mgp,4,467.7
+Manhattan,12,other organics,4,0
+Manhattan,12,paper,4,418.6
+Manhattan,12,refuse,4,4652.3
+Manhattan,12,res organics,4,73.1
+Manhattan,12,school organic,4,47.7
+Manhattan,12,xmastree,4,0
+Manhattan,2,leaves organic,4,0
+Manhattan,2,mgp,4,301
+Manhattan,2,other organics,4,10
+Manhattan,2,paper,4,403.7
+Manhattan,2,refuse,4,2081.9
+Manhattan,2,res organics,4,51.5
+Manhattan,2,school organic,4,24.7
+Manhattan,2,xmastree,4,0
+Manhattan,3,leaves organic,4,0
+Manhattan,3,mgp,4,338.7
+Manhattan,3,other organics,4,0
+Manhattan,3,paper,4,427.2
+Manhattan,3,refuse,4,5754.5
+Manhattan,3,res organics,4,49.1
+Manhattan,3,school organic,4,38
+Manhattan,3,xmastree,4,0
+Manhattan,4,leaves organic,4,0
+Manhattan,4,mgp,4,324
+Manhattan,4,other organics,4,16.1
+Manhattan,4,paper,4,594.4
+Manhattan,4,refuse,4,3191.1
+Manhattan,4,res organics,4,56.9
+Manhattan,4,school organic,4,0
+Manhattan,4,xmastree,4,0
+Manhattan,5,leaves organic,4,0
+Manhattan,5,mgp,4,192.9
+Manhattan,5,other organics,4,0
+Manhattan,5,paper,4,270.7
+Manhattan,5,refuse,4,1653.3
+Manhattan,5,res organics,4,24.5
+Manhattan,5,school organic,4,0
+Manhattan,5,xmastree,4,0
+Manhattan,6,leaves organic,4,0
+Manhattan,6,mgp,4,343.1
+Manhattan,6,other organics,4,0
+Manhattan,6,paper,4,656.9
+Manhattan,6,refuse,4,3102.6
+Manhattan,6,res organics,4,55.7
+Manhattan,6,school organic,4,0
+Manhattan,6,xmastree,4,0
+Manhattan,7,leaves organic,4,0
+Manhattan,7,mgp,4,670.2
+Manhattan,7,other organics,4,0
+Manhattan,7,paper,4,888.5
+Manhattan,7,refuse,4,4290.7
+Manhattan,7,res organics,4,226.3
+Manhattan,7,school organic,4,36.3
+Manhattan,7,xmastree,4,0
+Manhattan,8,leaves organic,4,0
+Manhattan,8,mgp,4,702.8
+Manhattan,8,other organics,4,9.6
+Manhattan,8,paper,4,986.1
+Manhattan,8,refuse,4,5260.1
+Manhattan,8,res organics,4,122.7
+Manhattan,8,school organic,4,0
+Manhattan,8,xmastree,4,0
+Manhattan,9,leaves organic,4,0
+Manhattan,9,mgp,4,214.8
+Manhattan,9,other organics,4,3.4
+Manhattan,9,paper,4,223.6
+Manhattan,9,refuse,4,2212.2
+Manhattan,9,res organics,4,42.4
+Manhattan,9,school organic,4,73.9
+Manhattan,9,xmastree,4,0
+Manhattan,1,leaves organic,5,0
+Manhattan,1,mgp,5,269.2
+Manhattan,1,other organics,5,0
+Manhattan,1,paper,5,385.6
+Manhattan,1,refuse,5,1696.4
+Manhattan,1,res organics,5,28.6
+Manhattan,1,school organic,5,0
+Manhattan,1,xmastree,5,0
+Manhattan,10,leaves organic,5,0
+Manhattan,10,mgp,5,278.7
+Manhattan,10,other organics,5,0
+Manhattan,10,paper,5,276.9
+Manhattan,10,refuse,5,6365.3
+Manhattan,10,res organics,5,46.5
+Manhattan,10,school organic,5,0
+Manhattan,10,xmastree,5,0
+Manhattan,11,leaves organic,5,0
+Manhattan,11,mgp,5,176
+Manhattan,11,other organics,5,5.1
+Manhattan,11,paper,5,234.2
+Manhattan,11,refuse,5,2574.8
+Manhattan,11,res organics,5,26.5
+Manhattan,11,school organic,5,62.3
+Manhattan,11,xmastree,5,0
+Manhattan,12,leaves organic,5,0
+Manhattan,12,mgp,5,489.9
+Manhattan,12,other organics,5,0
+Manhattan,12,paper,5,457.5
+Manhattan,12,refuse,5,4899.1
+Manhattan,12,res organics,5,97.7
+Manhattan,12,school organic,5,54.6
+Manhattan,12,xmastree,5,0
+Manhattan,2,leaves organic,5,0
+Manhattan,2,mgp,5,289
+Manhattan,2,other organics,5,6.9
+Manhattan,2,paper,5,403.3
+Manhattan,2,refuse,5,2245.2
+Manhattan,2,res organics,5,61.6
+Manhattan,2,school organic,5,32.4
+Manhattan,2,xmastree,5,0
+Manhattan,3,leaves organic,5,0
+Manhattan,3,mgp,5,370.6
+Manhattan,3,other organics,5,0
+Manhattan,3,paper,5,479.7
+Manhattan,3,refuse,5,6234.4
+Manhattan,3,res organics,5,60.5
+Manhattan,3,school organic,5,49.8
+Manhattan,3,xmastree,5,0
+Manhattan,4,leaves organic,5,0
+Manhattan,4,mgp,5,388.3
+Manhattan,4,other organics,5,9.6
+Manhattan,4,paper,5,701.9
+Manhattan,4,refuse,5,3419.1
+Manhattan,4,res organics,5,84.5
+Manhattan,4,school organic,5,0
+Manhattan,4,xmastree,5,0
+Manhattan,5,leaves organic,5,0
+Manhattan,5,mgp,5,170.3
+Manhattan,5,other organics,5,0
+Manhattan,5,paper,5,269.6
+Manhattan,5,refuse,5,1817.5
+Manhattan,5,res organics,5,30.6
+Manhattan,5,school organic,5,0
+Manhattan,5,xmastree,5,0
+Manhattan,6,leaves organic,5,0
+Manhattan,6,mgp,5,422.4
+Manhattan,6,other organics,5,0
+Manhattan,6,paper,5,788.8
+Manhattan,6,refuse,5,3321.2
+Manhattan,6,res organics,5,87.1
+Manhattan,6,school organic,5,0
+Manhattan,6,xmastree,5,0
+Manhattan,7,leaves organic,5,0
+Manhattan,7,mgp,5,731.2
+Manhattan,7,other organics,5,0
+Manhattan,7,paper,5,1024
+Manhattan,7,refuse,5,4594.3
+Manhattan,7,res organics,5,283.1
+Manhattan,7,school organic,5,43.8
+Manhattan,7,xmastree,5,0
+Manhattan,8,leaves organic,5,0
+Manhattan,8,mgp,5,777.5
+Manhattan,8,other organics,5,6.9
+Manhattan,8,paper,5,1098.7
+Manhattan,8,refuse,5,5643.1
+Manhattan,8,res organics,5,173.3
+Manhattan,8,school organic,5,0
+Manhattan,8,xmastree,5,0
+Manhattan,9,leaves organic,5,0
+Manhattan,9,mgp,5,289.3
+Manhattan,9,other organics,5,0
+Manhattan,9,paper,5,302.4
+Manhattan,9,refuse,5,2331.2
+Manhattan,9,res organics,5,61.9
+Manhattan,9,school organic,5,89.2
+Manhattan,9,xmastree,5,0
+Manhattan,1,leaves organic,6,0
+Manhattan,1,mgp,6,226.6
+Manhattan,1,other organics,6,0
+Manhattan,1,paper,6,337.8
+Manhattan,1,refuse,6,1552.8
+Manhattan,1,res organics,6,23.9
+Manhattan,1,school organic,6,0
+Manhattan,1,xmastree,6,0
+Manhattan,10,leaves organic,6,0
+Manhattan,10,mgp,6,238
+Manhattan,10,other organics,6,0
+Manhattan,10,paper,6,257.5
+Manhattan,10,refuse,6,5862.2
+Manhattan,10,res organics,6,40.6
+Manhattan,10,school organic,6,0
+Manhattan,10,xmastree,6,0
+Manhattan,11,leaves organic,6,0
+Manhattan,11,mgp,6,158.9
+Manhattan,11,other organics,6,8.5
+Manhattan,11,paper,6,217.9
+Manhattan,11,refuse,6,2555.8
+Manhattan,11,res organics,6,23.1
+Manhattan,11,school organic,6,28
+Manhattan,11,xmastree,6,0
+Manhattan,12,leaves organic,6,0
+Manhattan,12,mgp,6,418.6
+Manhattan,12,other organics,6,0
+Manhattan,12,paper,6,405.7
+Manhattan,12,refuse,6,4887.2
+Manhattan,12,res organics,6,89.2
+Manhattan,12,school organic,6,37.2
+Manhattan,12,xmastree,6,0
+Manhattan,2,leaves organic,6,0
+Manhattan,2,mgp,6,265.2
+Manhattan,2,other organics,6,7
+Manhattan,2,paper,6,402.3
+Manhattan,2,refuse,6,2176
+Manhattan,2,res organics,6,59.8
+Manhattan,2,school organic,6,20.6
+Manhattan,2,xmastree,6,0
+Manhattan,3,leaves organic,6,0
+Manhattan,3,mgp,6,330.4
+Manhattan,3,other organics,6,0
+Manhattan,3,paper,6,444.3
+Manhattan,3,refuse,6,6049.1
+Manhattan,3,res organics,6,53.3
+Manhattan,3,school organic,6,38
+Manhattan,3,xmastree,6,0
+Manhattan,4,leaves organic,6,0
+Manhattan,4,mgp,6,309.2
+Manhattan,4,other organics,6,5.8
+Manhattan,4,paper,6,614.9
+Manhattan,4,refuse,6,3483.4
+Manhattan,4,res organics,6,66.9
+Manhattan,4,school organic,6,0
+Manhattan,4,xmastree,6,0
+Manhattan,5,leaves organic,6,0
+Manhattan,5,mgp,6,150.5
+Manhattan,5,other organics,6,0
+Manhattan,5,paper,6,247.4
+Manhattan,5,refuse,6,1808.8
+Manhattan,5,res organics,6,26.8
+Manhattan,5,school organic,6,0
+Manhattan,5,xmastree,6,0
+Manhattan,6,leaves organic,6,0
+Manhattan,6,mgp,6,334.4
+Manhattan,6,other organics,6,0
+Manhattan,6,paper,6,682.7
+Manhattan,6,refuse,6,3166.2
+Manhattan,6,res organics,6,69
+Manhattan,6,school organic,6,0
+Manhattan,6,xmastree,6,0
+Manhattan,7,leaves organic,6,0
+Manhattan,7,mgp,6,652.3
+Manhattan,7,other organics,6,0
+Manhattan,7,paper,6,925.8
+Manhattan,7,refuse,6,4451.4
+Manhattan,7,res organics,6,243.9
+Manhattan,7,school organic,6,29.6
+Manhattan,7,xmastree,6,0
+Manhattan,8,leaves organic,6,0
+Manhattan,8,mgp,6,652.4
+Manhattan,8,other organics,6,6.7
+Manhattan,8,paper,6,952
+Manhattan,8,refuse,6,5206.4
+Manhattan,8,res organics,6,148
+Manhattan,8,school organic,6,0
+Manhattan,8,xmastree,6,0
+Manhattan,9,leaves organic,6,0
+Manhattan,9,mgp,6,226.5
+Manhattan,9,other organics,6,0
+Manhattan,9,paper,6,255.8
+Manhattan,9,refuse,6,2256.6
+Manhattan,9,res organics,6,49.7
+Manhattan,9,school organic,6,61.9
+Manhattan,9,xmastree,6,0
+Manhattan,1,leaves organic,7,0
+Manhattan,1,mgp,7,216.2
+Manhattan,1,other organics,7,0
+Manhattan,1,paper,7,337.2
+Manhattan,1,refuse,7,1592.7
+Manhattan,1,res organics,7,20.1
+Manhattan,1,school organic,7,0
+Manhattan,1,xmastree,7,0
+Manhattan,10,leaves organic,7,0
+Manhattan,10,mgp,7,282.8
+Manhattan,10,other organics,7,0
+Manhattan,10,paper,7,300.2
+Manhattan,10,refuse,7,6332.1
+Manhattan,10,res organics,7,41.3
+Manhattan,10,school organic,7,27.3
+Manhattan,10,xmastree,7,0
+Manhattan,11,leaves organic,7,0
+Manhattan,11,mgp,7,189.6
+Manhattan,11,other organics,7,6.7
+Manhattan,11,paper,7,238.2
+Manhattan,11,refuse,7,2545.3
+Manhattan,11,res organics,7,25.2
+Manhattan,11,school organic,7,0
+Manhattan,11,xmastree,7,0
+Manhattan,12,leaves organic,7,0
+Manhattan,12,mgp,7,502.5
+Manhattan,12,other organics,7,0
+Manhattan,12,paper,7,450
+Manhattan,12,refuse,7,4912.9
+Manhattan,12,res organics,7,99.8
+Manhattan,12,school organic,7,0
+Manhattan,12,xmastree,7,0
+Manhattan,2,leaves organic,7,0
+Manhattan,2,mgp,7,263
+Manhattan,2,other organics,7,5.3
+Manhattan,2,paper,7,390.8
+Manhattan,2,refuse,7,2045
+Manhattan,2,res organics,7,53.5
+Manhattan,2,school organic,7,0
+Manhattan,2,xmastree,7,0
+Manhattan,3,leaves organic,7,0
+Manhattan,3,mgp,7,356
+Manhattan,3,other organics,7,0
+Manhattan,3,paper,7,483.8
+Manhattan,3,refuse,7,6104.4
+Manhattan,3,res organics,7,55.2
+Manhattan,3,school organic,7,19
+Manhattan,3,xmastree,7,0
+Manhattan,4,leaves organic,7,0
+Manhattan,4,mgp,7,333.5
+Manhattan,4,other organics,7,11.1
+Manhattan,4,paper,7,659.8
+Manhattan,4,refuse,7,3309
+Manhattan,4,res organics,7,50.6
+Manhattan,4,school organic,7,36.1
+Manhattan,4,xmastree,7,0
+Manhattan,5,leaves organic,7,0
+Manhattan,5,mgp,7,163.9
+Manhattan,5,other organics,7,0
+Manhattan,5,paper,7,282.9
+Manhattan,5,refuse,7,1842.3
+Manhattan,5,res organics,7,28.7
+Manhattan,5,school organic,7,0
+Manhattan,5,xmastree,7,0
+Manhattan,6,leaves organic,7,0
+Manhattan,6,mgp,7,362.9
+Manhattan,6,other organics,7,0
+Manhattan,6,paper,7,731.7
+Manhattan,6,refuse,7,3309
+Manhattan,6,res organics,7,70
+Manhattan,6,school organic,7,0
+Manhattan,6,xmastree,7,0
+Manhattan,7,leaves organic,7,0
+Manhattan,7,mgp,7,622.8
+Manhattan,7,other organics,7,0
+Manhattan,7,paper,7,873.1
+Manhattan,7,refuse,7,4311
+Manhattan,7,res organics,7,234.7
+Manhattan,7,school organic,7,30.3
+Manhattan,7,xmastree,7,0
+Manhattan,8,leaves organic,7,0
+Manhattan,8,mgp,7,656.1
+Manhattan,8,other organics,7,6.4
+Manhattan,8,paper,7,937.3
+Manhattan,8,refuse,7,5198.3
+Manhattan,8,res organics,7,137.7
+Manhattan,8,school organic,7,0
+Manhattan,8,xmastree,7,0
+Manhattan,9,leaves organic,7,0
+Manhattan,9,mgp,7,226.7
+Manhattan,9,other organics,7,0
+Manhattan,9,paper,7,237.7
+Manhattan,9,refuse,7,2253.2
+Manhattan,9,res organics,7,47.6
+Manhattan,9,school organic,7,26.7
+Manhattan,9,xmastree,7,0
+Manhattan,1,leaves organic,8,0
+Manhattan,1,mgp,8,222.6
+Manhattan,1,other organics,8,0
+Manhattan,1,paper,8,339
+Manhattan,1,refuse,8,1464.9
+Manhattan,1,res organics,8,19.5
+Manhattan,1,school organic,8,0
+Manhattan,1,xmastree,8,0
+Manhattan,10,leaves organic,8,0
+Manhattan,10,mgp,8,246.2
+Manhattan,10,other organics,8,0
+Manhattan,10,paper,8,274.6
+Manhattan,10,refuse,8,5989
+Manhattan,10,res organics,8,37.6
+Manhattan,10,school organic,8,12.5
+Manhattan,10,xmastree,8,0
+Manhattan,11,leaves organic,8,0
+Manhattan,11,mgp,8,160.9
+Manhattan,11,other organics,8,9.3
+Manhattan,11,paper,8,201.6
+Manhattan,11,refuse,8,2359.4
+Manhattan,11,res organics,8,20.6
+Manhattan,11,school organic,8,0
+Manhattan,11,xmastree,8,0
+Manhattan,12,leaves organic,8,0
+Manhattan,12,mgp,8,440.2
+Manhattan,12,other organics,8,0
+Manhattan,12,paper,8,382.9
+Manhattan,12,refuse,8,4586.2
+Manhattan,12,res organics,8,90.4
+Manhattan,12,school organic,8,0
+Manhattan,12,xmastree,8,0
+Manhattan,2,leaves organic,8,0
+Manhattan,2,mgp,8,226.9
+Manhattan,2,other organics,8,6.6
+Manhattan,2,paper,8,333.8
+Manhattan,2,refuse,8,1994.2
+Manhattan,2,res organics,8,48.7
+Manhattan,2,school organic,8,0
+Manhattan,2,xmastree,8,0
+Manhattan,3,leaves organic,8,0
+Manhattan,3,mgp,8,330.8
+Manhattan,3,other organics,8,0
+Manhattan,3,paper,8,452.1
+Manhattan,3,refuse,8,5837.5
+Manhattan,3,res organics,8,58.1
+Manhattan,3,school organic,8,11.3
+Manhattan,3,xmastree,8,0
+Manhattan,4,leaves organic,8,0
+Manhattan,4,mgp,8,337.9
+Manhattan,4,other organics,8,7.1
+Manhattan,4,paper,8,657.7
+Manhattan,4,refuse,8,3173.4
+Manhattan,4,res organics,8,57.2
+Manhattan,4,school organic,8,32.5
+Manhattan,4,xmastree,8,0
+Manhattan,5,leaves organic,8,0
+Manhattan,5,mgp,8,146.8
+Manhattan,5,other organics,8,0
+Manhattan,5,paper,8,247.1
+Manhattan,5,refuse,8,1713.9
+Manhattan,5,res organics,8,22.5
+Manhattan,5,school organic,8,0
+Manhattan,5,xmastree,8,0
+Manhattan,6,leaves organic,8,0
+Manhattan,6,mgp,8,352.5
+Manhattan,6,other organics,8,0
+Manhattan,6,paper,8,704.6
+Manhattan,6,refuse,8,3074
+Manhattan,6,res organics,8,69
+Manhattan,6,school organic,8,0
+Manhattan,6,xmastree,8,0
+Manhattan,7,leaves organic,8,0
+Manhattan,7,mgp,8,616.5
+Manhattan,7,other organics,8,0
+Manhattan,7,paper,8,876.6
+Manhattan,7,refuse,8,4062.2
+Manhattan,7,res organics,8,223.7
+Manhattan,7,school organic,8,16.6
+Manhattan,7,xmastree,8,0
+Manhattan,8,leaves organic,8,0
+Manhattan,8,mgp,8,612.4
+Manhattan,8,other organics,8,6.7
+Manhattan,8,paper,8,879.3
+Manhattan,8,refuse,8,4771.6
+Manhattan,8,res organics,8,139
+Manhattan,8,school organic,8,0
+Manhattan,8,xmastree,8,0
+Manhattan,9,leaves organic,8,0
+Manhattan,9,mgp,8,246
+Manhattan,9,other organics,8,0
+Manhattan,9,paper,8,267.6
+Manhattan,9,refuse,8,2160.6
+Manhattan,9,res organics,8,54.7
+Manhattan,9,school organic,8,12.3
+Manhattan,9,xmastree,8,0
+Manhattan,1,leaves organic,9,0
+Manhattan,1,mgp,9,216.9
+Manhattan,1,other organics,9,0
+Manhattan,1,paper,9,356.2
+Manhattan,1,refuse,9,1679.2
+Manhattan,1,res organics,9,22.2
+Manhattan,1,school organic,9,0
+Manhattan,1,xmastree,9,0
+Manhattan,10,leaves organic,9,0
+Manhattan,10,mgp,9,242.8
+Manhattan,10,other organics,9,0
+Manhattan,10,paper,9,277.5
+Manhattan,10,refuse,9,6112.6
+Manhattan,10,res organics,9,42
+Manhattan,10,school organic,9,52.2
+Manhattan,10,xmastree,9,0
+Manhattan,11,leaves organic,9,0
+Manhattan,11,mgp,9,158.5
+Manhattan,11,other organics,9,11.4
+Manhattan,11,paper,9,209
+Manhattan,11,refuse,9,2429.8
+Manhattan,11,res organics,9,21.4
+Manhattan,11,school organic,9,0
+Manhattan,11,xmastree,9,0
+Manhattan,12,leaves organic,9,0
+Manhattan,12,mgp,9,432.6
+Manhattan,12,other organics,9,0
+Manhattan,12,paper,9,397.9
+Manhattan,12,refuse,9,4838.1
+Manhattan,12,res organics,9,79.8
+Manhattan,12,school organic,9,44.3
+Manhattan,12,xmastree,9,0
+Manhattan,2,leaves organic,9,0
+Manhattan,2,mgp,9,266.5
+Manhattan,2,other organics,9,7.6
+Manhattan,2,paper,9,435.4
+Manhattan,2,refuse,9,2164.2
+Manhattan,2,res organics,9,53.8
+Manhattan,2,school organic,9,29.4
+Manhattan,2,xmastree,9,0
+Manhattan,3,leaves organic,9,0
+Manhattan,3,mgp,9,308.8
+Manhattan,3,other organics,9,0
+Manhattan,3,paper,9,447
+Manhattan,3,refuse,9,6071.4
+Manhattan,3,res organics,9,48.2
+Manhattan,3,school organic,9,39.7
+Manhattan,3,xmastree,9,0
+Manhattan,4,leaves organic,9,0
+Manhattan,4,mgp,9,307.6
+Manhattan,4,other organics,9,6.4
+Manhattan,4,paper,9,639.3
+Manhattan,4,refuse,9,3357.1
+Manhattan,4,res organics,9,62
+Manhattan,4,school organic,9,0
+Manhattan,4,xmastree,9,0
+Manhattan,5,leaves organic,9,0
+Manhattan,5,mgp,9,157.7
+Manhattan,5,other organics,9,0
+Manhattan,5,paper,9,267.3
+Manhattan,5,refuse,9,1789.3
+Manhattan,5,res organics,9,23.5
+Manhattan,5,school organic,9,0
+Manhattan,5,xmastree,9,0
+Manhattan,6,leaves organic,9,0
+Manhattan,6,mgp,9,323.2
+Manhattan,6,other organics,9,0
+Manhattan,6,paper,9,716
+Manhattan,6,refuse,9,3270.1
+Manhattan,6,res organics,9,63.2
+Manhattan,6,school organic,9,0
+Manhattan,6,xmastree,9,0
+Manhattan,7,leaves organic,9,0
+Manhattan,7,mgp,9,641.4
+Manhattan,7,other organics,9,0
+Manhattan,7,paper,9,963
+Manhattan,7,refuse,9,4540
+Manhattan,7,res organics,9,245.8
+Manhattan,7,school organic,9,38.3
+Manhattan,7,xmastree,9,0
+Manhattan,8,leaves organic,9,0
+Manhattan,8,mgp,9,653.5
+Manhattan,8,other organics,9,7.5
+Manhattan,8,paper,9,1009.1
+Manhattan,8,refuse,9,5473.3
+Manhattan,8,res organics,9,149.4
+Manhattan,8,school organic,9,0
+Manhattan,8,xmastree,9,0
+Manhattan,9,leaves organic,9,0
+Manhattan,9,mgp,9,212.3
+Manhattan,9,other organics,9,0
+Manhattan,9,paper,9,273.5
+Manhattan,9,refuse,9,2201.3
+Manhattan,9,res organics,9,50.9
+Manhattan,9,school organic,9,81.7
+Manhattan,9,xmastree,9,0
+Manhattan,1,leaves organic,10,0
+Manhattan,1,mgp,10,255.8
+Manhattan,1,other organics,10,0
+Manhattan,1,paper,10,400.9
+Manhattan,1,refuse,10,1651.7
+Manhattan,1,res organics,10,30.5
+Manhattan,1,school organic,10,0
+Manhattan,1,xmastree,10,0
+Manhattan,10,leaves organic,10,0
+Manhattan,10,mgp,10,275.2
+Manhattan,10,other organics,10,0
+Manhattan,10,paper,10,293.7
+Manhattan,10,refuse,10,6207
+Manhattan,10,res organics,10,49.6
+Manhattan,10,school organic,10,67.3
+Manhattan,10,xmastree,10,0
+Manhattan,11,leaves organic,10,0
+Manhattan,11,mgp,10,172.9
+Manhattan,11,other organics,10,8.3
+Manhattan,11,paper,10,228.5
+Manhattan,11,refuse,10,2456.3
+Manhattan,11,res organics,10,28
+Manhattan,11,school organic,10,0
+Manhattan,11,xmastree,10,0
+Manhattan,12,leaves organic,10,0
+Manhattan,12,mgp,10,472.8
+Manhattan,12,other organics,10,0
+Manhattan,12,paper,10,450.8
+Manhattan,12,refuse,10,4866.5
+Manhattan,12,res organics,10,87.7
+Manhattan,12,school organic,10,58.6
+Manhattan,12,xmastree,10,0
+Manhattan,2,leaves organic,10,0
+Manhattan,2,mgp,10,281.6
+Manhattan,2,other organics,10,5.5
+Manhattan,2,paper,10,437.3
+Manhattan,2,refuse,10,2268.4
+Manhattan,2,res organics,10,57.3
+Manhattan,2,school organic,10,34.5
+Manhattan,2,xmastree,10,0
+Manhattan,3,leaves organic,10,0
+Manhattan,3,mgp,10,358.3
+Manhattan,3,other organics,10,0
+Manhattan,3,paper,10,482.5
+Manhattan,3,refuse,10,6099
+Manhattan,3,res organics,10,61.5
+Manhattan,3,school organic,10,43.3
+Manhattan,3,xmastree,10,0
+Manhattan,4,leaves organic,10,0
+Manhattan,4,mgp,10,355.4
+Manhattan,4,other organics,10,7.4
+Manhattan,4,paper,10,709.8
+Manhattan,4,refuse,10,3409
+Manhattan,4,res organics,10,74.2
+Manhattan,4,school organic,10,0
+Manhattan,4,xmastree,10,0
+Manhattan,5,leaves organic,10,0
+Manhattan,5,mgp,10,166.2
+Manhattan,5,other organics,10,0
+Manhattan,5,paper,10,289.7
+Manhattan,5,refuse,10,1810.1
+Manhattan,5,res organics,10,24.3
+Manhattan,5,school organic,10,0
+Manhattan,5,xmastree,10,0
+Manhattan,6,leaves organic,10,0
+Manhattan,6,mgp,10,393.6
+Manhattan,6,other organics,10,0
+Manhattan,6,paper,10,791.9
+Manhattan,6,refuse,10,3316.7
+Manhattan,6,res organics,10,75.5
+Manhattan,6,school organic,10,0
+Manhattan,6,xmastree,10,0
+Manhattan,7,leaves organic,10,0
+Manhattan,7,mgp,10,674.4
+Manhattan,7,other organics,10,0
+Manhattan,7,paper,10,989.1
+Manhattan,7,refuse,10,4529.1
+Manhattan,7,res organics,10,267.1
+Manhattan,7,school organic,10,46.3
+Manhattan,7,xmastree,10,0
+Manhattan,8,leaves organic,10,0
+Manhattan,8,mgp,10,743
+Manhattan,8,other organics,10,5.5
+Manhattan,8,paper,10,1106.2
+Manhattan,8,refuse,10,5516.8
+Manhattan,8,res organics,10,178.8
+Manhattan,8,school organic,10,0
+Manhattan,8,xmastree,10,0
+Manhattan,9,leaves organic,10,0
+Manhattan,9,mgp,10,238.1
+Manhattan,9,other organics,10,0
+Manhattan,9,paper,10,269.5
+Manhattan,9,refuse,10,2246.7
+Manhattan,9,res organics,10,64.6
+Manhattan,9,school organic,10,103.4
+Manhattan,9,xmastree,10,0
+Manhattan,1,leaves organic,11,0
+Manhattan,1,mgp,11,205.5
+Manhattan,1,other organics,11,0
+Manhattan,1,paper,11,333.6
+Manhattan,1,refuse,11,1574.4
+Manhattan,1,res organics,11,23.9
+Manhattan,1,school organic,11,0
+Manhattan,1,xmastree,11,0
+Manhattan,10,leaves organic,11,0
+Manhattan,10,mgp,11,209.7
+Manhattan,10,other organics,11,0.4
+Manhattan,10,paper,11,252.4
+Manhattan,10,refuse,11,5690.7
+Manhattan,10,res organics,11,52
+Manhattan,10,school organic,11,50
+Manhattan,10,xmastree,11,0
+Manhattan,11,leaves organic,11,0
+Manhattan,11,mgp,11,155.3
+Manhattan,11,other organics,11,17.8
+Manhattan,11,paper,11,204.9
+Manhattan,11,refuse,11,2346.1
+Manhattan,11,res organics,11,40.7
+Manhattan,11,school organic,11,0
+Manhattan,11,xmastree,11,0
+Manhattan,12,leaves organic,11,0
+Manhattan,12,mgp,11,390.3
+Manhattan,12,other organics,11,0
+Manhattan,12,paper,11,377.1
+Manhattan,12,refuse,11,4633.3
+Manhattan,12,res organics,11,91.8
+Manhattan,12,school organic,11,45.9
+Manhattan,12,xmastree,11,0
+Manhattan,2,leaves organic,11,0
+Manhattan,2,mgp,11,259.7
+Manhattan,2,other organics,11,8
+Manhattan,2,paper,11,400.2
+Manhattan,2,refuse,11,2058.1
+Manhattan,2,res organics,11,60.1
+Manhattan,2,school organic,11,25.4
+Manhattan,2,xmastree,11,0
+Manhattan,3,leaves organic,11,0
+Manhattan,3,mgp,11,305.1
+Manhattan,3,other organics,11,0
+Manhattan,3,paper,11,391.4
+Manhattan,3,refuse,11,5723.2
+Manhattan,3,res organics,11,72.1
+Manhattan,3,school organic,11,32.3
+Manhattan,3,xmastree,11,0
+Manhattan,4,leaves organic,11,0
+Manhattan,4,mgp,11,303.4
+Manhattan,4,other organics,11,7
+Manhattan,4,paper,11,587.4
+Manhattan,4,refuse,11,3264.8
+Manhattan,4,res organics,11,65.5
+Manhattan,4,school organic,11,0
+Manhattan,4,xmastree,11,0
+Manhattan,5,leaves organic,11,0
+Manhattan,5,mgp,11,141.2
+Manhattan,5,other organics,11,0
+Manhattan,5,paper,11,231.1
+Manhattan,5,refuse,11,1737.1
+Manhattan,5,res organics,11,21.6
+Manhattan,5,school organic,11,0
+Manhattan,5,xmastree,11,0
+Manhattan,6,leaves organic,11,0
+Manhattan,6,mgp,11,330.7
+Manhattan,6,other organics,11,0
+Manhattan,6,paper,11,656.3
+Manhattan,6,refuse,11,3047.1
+Manhattan,6,res organics,11,66.9
+Manhattan,6,school organic,11,0
+Manhattan,6,xmastree,11,0
+Manhattan,7,leaves organic,11,0
+Manhattan,7,mgp,11,635.5
+Manhattan,7,other organics,11,0
+Manhattan,7,paper,11,901.3
+Manhattan,7,refuse,11,4367
+Manhattan,7,res organics,11,265.1
+Manhattan,7,school organic,11,37.7
+Manhattan,7,xmastree,11,0
+Manhattan,8,leaves organic,11,0
+Manhattan,8,mgp,11,685.2
+Manhattan,8,other organics,11,7.7
+Manhattan,8,paper,11,994.5
+Manhattan,8,refuse,11,5223.6
+Manhattan,8,res organics,11,173.6
+Manhattan,8,school organic,11,0
+Manhattan,8,xmastree,11,0
+Manhattan,9,leaves organic,11,0
+Manhattan,9,mgp,11,203.5
+Manhattan,9,other organics,11,0
+Manhattan,9,paper,11,239.2
+Manhattan,9,refuse,11,2112.4
+Manhattan,9,res organics,11,63.6
+Manhattan,9,school organic,11,73.9
+Manhattan,9,xmastree,11,0
+Manhattan,1,leaves organic,12,0
+Manhattan,1,mgp,12,237.1
+Manhattan,1,other organics,12,0
+Manhattan,1,paper,12,401.2
+Manhattan,1,refuse,12,1633.4
+Manhattan,1,res organics,12,25
+Manhattan,1,school organic,12,0
+Manhattan,1,xmastree,12,0
+Manhattan,10,leaves organic,12,0
+Manhattan,10,mgp,12,261.3
+Manhattan,10,other organics,12,0
+Manhattan,10,paper,12,321.5
+Manhattan,10,refuse,12,6270.5
+Manhattan,10,res organics,12,55.9
+Manhattan,10,school organic,12,57.6
+Manhattan,10,xmastree,12,0
+Manhattan,11,leaves organic,12,0
+Manhattan,11,mgp,12,183.5
+Manhattan,11,other organics,12,5.9
+Manhattan,11,paper,12,264
+Manhattan,11,refuse,12,2580.1
+Manhattan,11,res organics,12,39.4
+Manhattan,11,school organic,12,0
+Manhattan,11,xmastree,12,0
+Manhattan,12,leaves organic,12,0
+Manhattan,12,mgp,12,508.9
+Manhattan,12,other organics,12,0
+Manhattan,12,paper,12,499.2
+Manhattan,12,refuse,12,5093.7
+Manhattan,12,res organics,12,87.9
+Manhattan,12,school organic,12,49.6
+Manhattan,12,xmastree,12,0
+Manhattan,2,leaves organic,12,0
+Manhattan,2,mgp,12,298.9
+Manhattan,2,other organics,12,6.8
+Manhattan,2,paper,12,475
+Manhattan,2,refuse,12,2137.8
+Manhattan,2,res organics,12,63.6
+Manhattan,2,school organic,12,29.2
+Manhattan,2,xmastree,12,0
+Manhattan,3,leaves organic,12,0
+Manhattan,3,mgp,12,317.1
+Manhattan,3,other organics,12,0
+Manhattan,3,paper,12,438
+Manhattan,3,refuse,12,6031.3
+Manhattan,3,res organics,12,63.9
+Manhattan,3,school organic,12,39
+Manhattan,3,xmastree,12,0
+Manhattan,4,leaves organic,12,0
+Manhattan,4,mgp,12,326.9
+Manhattan,4,other organics,12,4
+Manhattan,4,paper,12,697.2
+Manhattan,4,refuse,12,3334.5
+Manhattan,4,res organics,12,66.3
+Manhattan,4,school organic,12,0
+Manhattan,4,xmastree,12,0
+Manhattan,5,leaves organic,12,0
+Manhattan,5,mgp,12,172.5
+Manhattan,5,other organics,12,0
+Manhattan,5,paper,12,304.1
+Manhattan,5,refuse,12,1852.2
+Manhattan,5,res organics,12,23.5
+Manhattan,5,school organic,12,0
+Manhattan,5,xmastree,12,0
+Manhattan,6,leaves organic,12,0
+Manhattan,6,mgp,12,364.6
+Manhattan,6,other organics,12,0
+Manhattan,6,paper,12,789.3
+Manhattan,6,refuse,12,3207.3
+Manhattan,6,res organics,12,63
+Manhattan,6,school organic,12,0
+Manhattan,6,xmastree,12,0
+Manhattan,7,leaves organic,12,0
+Manhattan,7,mgp,12,728.3
+Manhattan,7,other organics,12,0
+Manhattan,7,paper,12,1087.3
+Manhattan,7,refuse,12,4588.8
+Manhattan,7,res organics,12,280.3
+Manhattan,7,school organic,12,38.1
+Manhattan,7,xmastree,12,0
+Manhattan,8,leaves organic,12,0
+Manhattan,8,mgp,12,752.8
+Manhattan,8,other organics,12,5.9
+Manhattan,8,paper,12,1186.4
+Manhattan,8,refuse,12,5490.5
+Manhattan,8,res organics,12,170.6
+Manhattan,8,school organic,12,0
+Manhattan,8,xmastree,12,0
+Manhattan,9,leaves organic,12,0
+Manhattan,9,mgp,12,227.1
+Manhattan,9,other organics,12,0
+Manhattan,9,paper,12,267.1
+Manhattan,9,refuse,12,2313.5
+Manhattan,9,res organics,12,55.1
+Manhattan,9,school organic,12,74.6
+Manhattan,9,xmastree,12,0
+Queens,1,leaves organic,1,0
+Queens,1,mgp,1,653.7
+Queens,1,other organics,1,38.2
+Queens,1,paper,1,661.1
+Queens,1,refuse,1,3936.7
+Queens,1,res organics,1,90.2
+Queens,1,school organic,1,214
+Queens,1,xmastree,1,0
+Queens,10,leaves organic,1,0
+Queens,10,mgp,1,505.9
+Queens,10,other organics,1,0
+Queens,10,paper,1,329.6
+Queens,10,refuse,1,3233.7
+Queens,10,res organics,1,31
+Queens,10,school organic,1,80.6
+Queens,10,xmastree,1,0
+Queens,11,leaves organic,1,0
+Queens,11,mgp,1,414.6
+Queens,11,other organics,1,0
+Queens,11,paper,1,429.6
+Queens,11,refuse,1,2558
+Queens,11,res organics,1,63.5
+Queens,11,school organic,1,92
+Queens,11,xmastree,1,0
+Queens,12,leaves organic,1,0
+Queens,12,mgp,1,881.1
+Queens,12,other organics,1,0
+Queens,12,paper,1,459.9
+Queens,12,refuse,1,6067.6
+Queens,12,res organics,1,119.2
+Queens,12,school organic,1,82.4
+Queens,12,xmastree,1,0
+Queens,13,leaves organic,1,0
+Queens,13,mgp,1,794.8
+Queens,13,other organics,1,0
+Queens,13,paper,1,424.3
+Queens,13,refuse,1,4389.4
+Queens,13,res organics,1,60.4
+Queens,13,school organic,1,60.2
+Queens,13,xmastree,1,0
+Queens,14,leaves organic,1,0
+Queens,14,mgp,1,244.1
+Queens,14,other organics,1,0
+Queens,14,paper,1,271.4
+Queens,14,refuse,1,3293.2
+Queens,14,res organics,1,44.2
+Queens,14,school organic,1,0
+Queens,14,xmastree,1,0
+Queens,2,leaves organic,1,0
+Queens,2,mgp,1,445.4
+Queens,2,other organics,1,0
+Queens,2,paper,1,573.1
+Queens,2,refuse,1,3788.9
+Queens,2,res organics,1,51.4
+Queens,2,school organic,1,208.5
+Queens,2,xmastree,1,0
+Queens,3,leaves organic,1,0
+Queens,3,mgp,1,551.4
+Queens,3,other organics,1,0
+Queens,3,paper,1,370
+Queens,3,refuse,1,4545.5
+Queens,3,res organics,1,50.3
+Queens,3,school organic,1,0
+Queens,3,xmastree,1,0
+Queens,4,leaves organic,1,0
+Queens,4,mgp,1,503.4
+Queens,4,other organics,1,0
+Queens,4,paper,1,342.8
+Queens,4,refuse,1,4041.9
+Queens,4,res organics,1,26.7
+Queens,4,school organic,1,0
+Queens,4,xmastree,1,0
+Queens,5,leaves organic,1,0
+Queens,5,mgp,1,683.5
+Queens,5,other organics,1,0
+Queens,5,paper,1,615
+Queens,5,refuse,1,4406.2
+Queens,5,res organics,1,76.3
+Queens,5,school organic,1,112.9
+Queens,5,xmastree,1,0
+Queens,6,leaves organic,1,0
+Queens,6,mgp,1,385.4
+Queens,6,other organics,1,0
+Queens,6,paper,1,378.3
+Queens,6,refuse,1,2592.1
+Queens,6,res organics,1,57.1
+Queens,6,school organic,1,0
+Queens,6,xmastree,1,0
+Queens,7,leaves organic,1,0
+Queens,7,mgp,1,760.1
+Queens,7,other organics,1,0
+Queens,7,paper,1,961.7
+Queens,7,refuse,1,8237.5
+Queens,7,res organics,1,54.3
+Queens,7,school organic,1,148.4
+Queens,7,xmastree,1,0
+Queens,8,leaves organic,1,0
+Queens,8,mgp,1,373.3
+Queens,8,other organics,1,0
+Queens,8,paper,1,407.1
+Queens,8,refuse,1,3374.7
+Queens,8,res organics,1,70.7
+Queens,8,school organic,1,0
+Queens,8,xmastree,1,0
+Queens,9,leaves organic,1,0
+Queens,9,mgp,1,514.9
+Queens,9,other organics,1,0
+Queens,9,paper,1,428.9
+Queens,9,refuse,1,3687.2
+Queens,9,res organics,1,68.6
+Queens,9,school organic,1,107
+Queens,9,xmastree,1,0
+Queens,1,leaves organic,2,0
+Queens,1,mgp,2,530
+Queens,1,other organics,2,22.9
+Queens,1,paper,2,553.1
+Queens,1,refuse,2,3404
+Queens,1,res organics,2,49.5
+Queens,1,school organic,2,173.2
+Queens,1,xmastree,2,0
+Queens,10,leaves organic,2,0
+Queens,10,mgp,2,434.8
+Queens,10,other organics,2,0
+Queens,10,paper,2,268.1
+Queens,10,refuse,2,2816.1
+Queens,10,res organics,2,26.6
+Queens,10,school organic,2,65.2
+Queens,10,xmastree,2,0
+Queens,11,leaves organic,2,0
+Queens,11,mgp,2,339.8
+Queens,11,other organics,2,0
+Queens,11,paper,2,340.8
+Queens,11,refuse,2,2169.6
+Queens,11,res organics,2,39.9
+Queens,11,school organic,2,68.3
+Queens,11,xmastree,2,0
+Queens,12,leaves organic,2,0
+Queens,12,mgp,2,738.1
+Queens,12,other organics,2,0
+Queens,12,paper,2,380.2
+Queens,12,refuse,2,5320.9
+Queens,12,res organics,2,75
+Queens,12,school organic,2,66.6
+Queens,12,xmastree,2,0
+Queens,13,leaves organic,2,0
+Queens,13,mgp,2,658.3
+Queens,13,other organics,2,0
+Queens,13,paper,2,353.3
+Queens,13,refuse,2,3825.9
+Queens,13,res organics,2,53
+Queens,13,school organic,2,51.3
+Queens,13,xmastree,2,0
+Queens,14,leaves organic,2,0
+Queens,14,mgp,2,213.6
+Queens,14,other organics,2,0
+Queens,14,paper,2,228.5
+Queens,14,refuse,2,2922.4
+Queens,14,res organics,2,30.2
+Queens,14,school organic,2,0
+Queens,14,xmastree,2,0
+Queens,2,leaves organic,2,0
+Queens,2,mgp,2,378.4
+Queens,2,other organics,2,0.3
+Queens,2,paper,2,482.5
+Queens,2,refuse,2,3314.4
+Queens,2,res organics,2,32.3
+Queens,2,school organic,2,162.7
+Queens,2,xmastree,2,0
+Queens,3,leaves organic,2,0
+Queens,3,mgp,2,435.6
+Queens,3,other organics,2,0
+Queens,3,paper,2,284.7
+Queens,3,refuse,2,3945.7
+Queens,3,res organics,2,34
+Queens,3,school organic,2,0
+Queens,3,xmastree,2,0
+Queens,4,leaves organic,2,0
+Queens,4,mgp,2,396.3
+Queens,4,other organics,2,0
+Queens,4,paper,2,279.8
+Queens,4,refuse,2,3458.2
+Queens,4,res organics,2,18.5
+Queens,4,school organic,2,0
+Queens,4,xmastree,2,0
+Queens,5,leaves organic,2,0
+Queens,5,mgp,2,575.9
+Queens,5,other organics,2,0
+Queens,5,paper,2,488.5
+Queens,5,refuse,2,3786.7
+Queens,5,res organics,2,44.9
+Queens,5,school organic,2,84.8
+Queens,5,xmastree,2,0
+Queens,6,leaves organic,2,0
+Queens,6,mgp,2,314.2
+Queens,6,other organics,2,0
+Queens,6,paper,2,320.6
+Queens,6,refuse,2,2250.6
+Queens,6,res organics,2,37.8
+Queens,6,school organic,2,0
+Queens,6,xmastree,2,0
+Queens,7,leaves organic,2,0
+Queens,7,mgp,2,629.1
+Queens,7,other organics,2,0
+Queens,7,paper,2,800.3
+Queens,7,refuse,2,7097.3
+Queens,7,res organics,2,37.7
+Queens,7,school organic,2,116.2
+Queens,7,xmastree,2,0
+Queens,8,leaves organic,2,0
+Queens,8,mgp,2,324.7
+Queens,8,other organics,2,0
+Queens,8,paper,2,340.4
+Queens,8,refuse,2,2962.2
+Queens,8,res organics,2,49.5
+Queens,8,school organic,2,0
+Queens,8,xmastree,2,0
+Queens,9,leaves organic,2,0
+Queens,9,mgp,2,442
+Queens,9,other organics,2,0
+Queens,9,paper,2,367.1
+Queens,9,refuse,2,3225.8
+Queens,9,res organics,2,58.2
+Queens,9,school organic,2,71.3
+Queens,9,xmastree,2,0
+Queens,1,leaves organic,3,0
+Queens,1,mgp,3,587.1
+Queens,1,other organics,3,22.9
+Queens,1,paper,3,614.5
+Queens,1,refuse,3,3953.7
+Queens,1,res organics,3,83.2
+Queens,1,school organic,3,200.8
+Queens,1,xmastree,3,0
+Queens,10,leaves organic,3,0
+Queens,10,mgp,3,483.7
+Queens,10,other organics,3,0
+Queens,10,paper,3,318.6
+Queens,10,refuse,3,3452.8
+Queens,10,res organics,3,24.7
+Queens,10,school organic,3,80.8
+Queens,10,xmastree,3,0
+Queens,11,leaves organic,3,0
+Queens,11,mgp,3,392.1
+Queens,11,other organics,3,0
+Queens,11,paper,3,385.5
+Queens,11,refuse,3,2626.4
+Queens,11,res organics,3,76.9
+Queens,11,school organic,3,87.3
+Queens,11,xmastree,3,0
+Queens,12,leaves organic,3,0
+Queens,12,mgp,3,868.2
+Queens,12,other organics,3,0
+Queens,12,paper,3,448.6
+Queens,12,refuse,3,6477.4
+Queens,12,res organics,3,160.2
+Queens,12,school organic,3,86.6
+Queens,12,xmastree,3,0
+Queens,13,leaves organic,3,0
+Queens,13,mgp,3,770.5
+Queens,13,other organics,3,0
+Queens,13,paper,3,407.1
+Queens,13,refuse,3,4770.9
+Queens,13,res organics,3,66.2
+Queens,13,school organic,3,66.9
+Queens,13,xmastree,3,0
+Queens,14,leaves organic,3,0
+Queens,14,mgp,3,240.2
+Queens,14,other organics,3,0
+Queens,14,paper,3,275.7
+Queens,14,refuse,3,3454.4
+Queens,14,res organics,3,42.8
+Queens,14,school organic,3,0
+Queens,14,xmastree,3,0
+Queens,2,leaves organic,3,0
+Queens,2,mgp,3,403.1
+Queens,2,other organics,3,0
+Queens,2,paper,3,514.5
+Queens,2,refuse,3,3811
+Queens,2,res organics,3,45
+Queens,2,school organic,3,204.3
+Queens,2,xmastree,3,0
+Queens,3,leaves organic,3,0
+Queens,3,mgp,3,482.9
+Queens,3,other organics,3,0
+Queens,3,paper,3,316.1
+Queens,3,refuse,3,4578.9
+Queens,3,res organics,3,43.1
+Queens,3,school organic,3,0
+Queens,3,xmastree,3,0
+Queens,4,leaves organic,3,0
+Queens,4,mgp,3,444.4
+Queens,4,other organics,3,0
+Queens,4,paper,3,305.7
+Queens,4,refuse,3,4012.7
+Queens,4,res organics,3,24.2
+Queens,4,school organic,3,0
+Queens,4,xmastree,3,0
+Queens,5,leaves organic,3,0
+Queens,5,mgp,3,622.2
+Queens,5,other organics,3,0
+Queens,5,paper,3,554.9
+Queens,5,refuse,3,4416.9
+Queens,5,res organics,3,78.1
+Queens,5,school organic,3,120.8
+Queens,5,xmastree,3,0
+Queens,6,leaves organic,3,0
+Queens,6,mgp,3,350.7
+Queens,6,other organics,3,0
+Queens,6,paper,3,339.4
+Queens,6,refuse,3,2603.7
+Queens,6,res organics,3,62.9
+Queens,6,school organic,3,0
+Queens,6,xmastree,3,0
+Queens,7,leaves organic,3,0
+Queens,7,mgp,3,728.6
+Queens,7,other organics,3,0
+Queens,7,paper,3,919.9
+Queens,7,refuse,3,8421.5
+Queens,7,res organics,3,73.9
+Queens,7,school organic,3,155.6
+Queens,7,xmastree,3,0
+Queens,8,leaves organic,3,0
+Queens,8,mgp,3,365.4
+Queens,8,other organics,3,0
+Queens,8,paper,3,397.5
+Queens,8,refuse,3,3544.7
+Queens,8,res organics,3,83.1
+Queens,8,school organic,3,0
+Queens,8,xmastree,3,0
+Queens,9,leaves organic,3,0
+Queens,9,mgp,3,488.7
+Queens,9,other organics,3,0
+Queens,9,paper,3,432.3
+Queens,9,refuse,3,3850.6
+Queens,9,res organics,3,80.6
+Queens,9,school organic,3,106.4
+Queens,9,xmastree,3,0
+Queens,1,leaves organic,4,0
+Queens,1,mgp,4,610.6
+Queens,1,other organics,4,21.1
+Queens,1,paper,4,632.3
+Queens,1,refuse,4,3789.3
+Queens,1,res organics,4,206.1
+Queens,1,school organic,4,148.7
+Queens,1,xmastree,4,0
+Queens,10,leaves organic,4,0
+Queens,10,mgp,4,517
+Queens,10,other organics,4,0
+Queens,10,paper,4,340.8
+Queens,10,refuse,4,3291.2
+Queens,10,res organics,4,235.2
+Queens,10,school organic,4,74.4
+Queens,10,xmastree,4,0
+Queens,11,leaves organic,4,0
+Queens,11,mgp,4,429.7
+Queens,11,other organics,4,0
+Queens,11,paper,4,405.2
+Queens,11,refuse,4,2404.1
+Queens,11,res organics,4,326.7
+Queens,11,school organic,4,77.3
+Queens,11,xmastree,4,0
+Queens,12,leaves organic,4,0
+Queens,12,mgp,4,876.6
+Queens,12,other organics,4,0
+Queens,12,paper,4,471.4
+Queens,12,refuse,4,6603.8
+Queens,12,res organics,4,338.4
+Queens,12,school organic,4,75
+Queens,12,xmastree,4,0
+Queens,13,leaves organic,4,0
+Queens,13,mgp,4,804.4
+Queens,13,other organics,4,0
+Queens,13,paper,4,462
+Queens,13,refuse,4,4693.2
+Queens,13,res organics,4,362.6
+Queens,13,school organic,4,57.3
+Queens,13,xmastree,4,0
+Queens,14,leaves organic,4,0
+Queens,14,mgp,4,251.4
+Queens,14,other organics,4,0
+Queens,14,paper,4,277.8
+Queens,14,refuse,4,3510.7
+Queens,14,res organics,4,104.3
+Queens,14,school organic,4,0
+Queens,14,xmastree,4,0
+Queens,2,leaves organic,4,0
+Queens,2,mgp,4,430.4
+Queens,2,other organics,4,0
+Queens,2,paper,4,565.2
+Queens,2,refuse,4,3749.9
+Queens,2,res organics,4,153.1
+Queens,2,school organic,4,184.2
+Queens,2,xmastree,4,0
+Queens,3,leaves organic,4,0
+Queens,3,mgp,4,492.2
+Queens,3,other organics,4,0
+Queens,3,paper,4,329.6
+Queens,3,refuse,4,4625.7
+Queens,3,res organics,4,133.7
+Queens,3,school organic,4,0
+Queens,3,xmastree,4,0
+Queens,4,leaves organic,4,0
+Queens,4,mgp,4,478
+Queens,4,other organics,4,0
+Queens,4,paper,4,316.1
+Queens,4,refuse,4,3981.1
+Queens,4,res organics,4,141.1
+Queens,4,school organic,4,0
+Queens,4,xmastree,4,0
+Queens,5,leaves organic,4,0
+Queens,5,mgp,4,650.1
+Queens,5,other organics,4,0
+Queens,5,paper,4,575.7
+Queens,5,refuse,4,4206.8
+Queens,5,res organics,4,353.5
+Queens,5,school organic,4,109.6
+Queens,5,xmastree,4,0
+Queens,6,leaves organic,4,0
+Queens,6,mgp,4,379.8
+Queens,6,other organics,4,0
+Queens,6,paper,4,347.5
+Queens,6,refuse,4,2562.6
+Queens,6,res organics,4,146
+Queens,6,school organic,4,0
+Queens,6,xmastree,4,0
+Queens,7,leaves organic,4,0
+Queens,7,mgp,4,754.9
+Queens,7,other organics,4,0
+Queens,7,paper,4,917.7
+Queens,7,refuse,4,8103.1
+Queens,7,res organics,4,377.8
+Queens,7,school organic,4,111.9
+Queens,7,xmastree,4,0
+Queens,8,leaves organic,4,0
+Queens,8,mgp,4,400.1
+Queens,8,other organics,4,0
+Queens,8,paper,4,401.5
+Queens,8,refuse,4,3629.8
+Queens,8,res organics,4,244.9
+Queens,8,school organic,4,0
+Queens,8,xmastree,4,0
+Queens,9,leaves organic,4,0
+Queens,9,mgp,4,507.3
+Queens,9,other organics,4,0
+Queens,9,paper,4,425.3
+Queens,9,refuse,4,3748.6
+Queens,9,res organics,4,256.7
+Queens,9,school organic,4,116.4
+Queens,9,xmastree,4,0
+Queens,1,leaves organic,5,0
+Queens,1,mgp,5,631.5
+Queens,1,other organics,5,15.8
+Queens,1,paper,5,679
+Queens,1,refuse,5,4045.3
+Queens,1,res organics,5,287.1
+Queens,1,school organic,5,167.7
+Queens,1,xmastree,5,0
+Queens,10,leaves organic,5,0
+Queens,10,mgp,5,583.2
+Queens,10,other organics,5,0
+Queens,10,paper,5,385.5
+Queens,10,refuse,5,3669.2
+Queens,10,res organics,5,324.5
+Queens,10,school organic,5,89
+Queens,10,xmastree,5,0
+Queens,11,leaves organic,5,0
+Queens,11,mgp,5,449.4
+Queens,11,other organics,5,0
+Queens,11,paper,5,443
+Queens,11,refuse,5,2674.7
+Queens,11,res organics,5,473
+Queens,11,school organic,5,94.7
+Queens,11,xmastree,5,0
+Queens,12,leaves organic,5,0
+Queens,12,mgp,5,985.6
+Queens,12,other organics,5,0
+Queens,12,paper,5,537.8
+Queens,12,refuse,5,7289.7
+Queens,12,res organics,5,547.6
+Queens,12,school organic,5,89.5
+Queens,12,xmastree,5,0
+Queens,13,leaves organic,5,0
+Queens,13,mgp,5,904.6
+Queens,13,other organics,5,0
+Queens,13,paper,5,513.6
+Queens,13,refuse,5,5454.7
+Queens,13,res organics,5,452.6
+Queens,13,school organic,5,78.9
+Queens,13,xmastree,5,0
+Queens,14,leaves organic,5,0
+Queens,14,mgp,5,278.4
+Queens,14,other organics,5,0
+Queens,14,paper,5,335.8
+Queens,14,refuse,5,3771.6
+Queens,14,res organics,5,154.2
+Queens,14,school organic,5,0
+Queens,14,xmastree,5,0
+Queens,2,leaves organic,5,0
+Queens,2,mgp,5,438.3
+Queens,2,other organics,5,4.4
+Queens,2,paper,5,586.7
+Queens,2,refuse,5,4049
+Queens,2,res organics,5,209.9
+Queens,2,school organic,5,223.8
+Queens,2,xmastree,5,0
+Queens,3,leaves organic,5,0
+Queens,3,mgp,5,557.1
+Queens,3,other organics,5,0
+Queens,3,paper,5,376.2
+Queens,3,refuse,5,4885.5
+Queens,3,res organics,5,202.3
+Queens,3,school organic,5,0
+Queens,3,xmastree,5,0
+Queens,4,leaves organic,5,0
+Queens,4,mgp,5,528.4
+Queens,4,other organics,5,0
+Queens,4,paper,5,359.8
+Queens,4,refuse,5,4179.4
+Queens,4,res organics,5,191
+Queens,4,school organic,5,0
+Queens,4,xmastree,5,0
+Queens,5,leaves organic,5,0
+Queens,5,mgp,5,721.4
+Queens,5,other organics,5,0
+Queens,5,paper,5,646.1
+Queens,5,refuse,5,4486.8
+Queens,5,res organics,5,454.7
+Queens,5,school organic,5,137.3
+Queens,5,xmastree,5,0
+Queens,6,leaves organic,5,0
+Queens,6,mgp,5,389.1
+Queens,6,other organics,5,0
+Queens,6,paper,5,395.1
+Queens,6,refuse,5,2661.5
+Queens,6,res organics,5,226.3
+Queens,6,school organic,5,0
+Queens,6,xmastree,5,0
+Queens,7,leaves organic,5,0
+Queens,7,mgp,5,827.5
+Queens,7,other organics,5,0
+Queens,7,paper,5,1038.8
+Queens,7,refuse,5,8982.1
+Queens,7,res organics,5,493.8
+Queens,7,school organic,5,110.4
+Queens,7,xmastree,5,0
+Queens,8,leaves organic,5,0
+Queens,8,mgp,5,417.9
+Queens,8,other organics,5,0
+Queens,8,paper,5,466.1
+Queens,8,refuse,5,3682.2
+Queens,8,res organics,5,329.8
+Queens,8,school organic,5,0
+Queens,8,xmastree,5,0
+Queens,9,leaves organic,5,0
+Queens,9,mgp,5,551.8
+Queens,9,other organics,5,0
+Queens,9,paper,5,480.9
+Queens,9,refuse,5,4028
+Queens,9,res organics,5,343.6
+Queens,9,school organic,5,149.4
+Queens,9,xmastree,5,0
+Queens,1,leaves organic,6,0
+Queens,1,mgp,6,595.4
+Queens,1,other organics,6,10.3
+Queens,1,paper,6,659.7
+Queens,1,refuse,6,4056.7
+Queens,1,res organics,6,286.8
+Queens,1,school organic,6,113.6
+Queens,1,xmastree,6,0
+Queens,10,leaves organic,6,0
+Queens,10,mgp,6,543
+Queens,10,other organics,6,0
+Queens,10,paper,6,359.4
+Queens,10,refuse,6,3636.9
+Queens,10,res organics,6,257.4
+Queens,10,school organic,6,68.9
+Queens,10,xmastree,6,0
+Queens,11,leaves organic,6,0
+Queens,11,mgp,6,404.9
+Queens,11,other organics,6,0
+Queens,11,paper,6,419.4
+Queens,11,refuse,6,2645
+Queens,11,res organics,6,413.4
+Queens,11,school organic,6,61.8
+Queens,11,xmastree,6,0
+Queens,12,leaves organic,6,0
+Queens,12,mgp,6,907.8
+Queens,12,other organics,6,0
+Queens,12,paper,6,511.3
+Queens,12,refuse,6,7078.8
+Queens,12,res organics,6,496.7
+Queens,12,school organic,6,65.4
+Queens,12,xmastree,6,0
+Queens,13,leaves organic,6,0
+Queens,13,mgp,6,844.9
+Queens,13,other organics,6,0
+Queens,13,paper,6,474
+Queens,13,refuse,6,5352.1
+Queens,13,res organics,6,375.5
+Queens,13,school organic,6,57.3
+Queens,13,xmastree,6,0
+Queens,14,leaves organic,6,0
+Queens,14,mgp,6,238.2
+Queens,14,other organics,6,0
+Queens,14,paper,6,285.2
+Queens,14,refuse,6,3773.5
+Queens,14,res organics,6,133.2
+Queens,14,school organic,6,0
+Queens,14,xmastree,6,0
+Queens,2,leaves organic,6,0
+Queens,2,mgp,6,406.2
+Queens,2,other organics,6,10.3
+Queens,2,paper,6,572.5
+Queens,2,refuse,6,4004.4
+Queens,2,res organics,6,198.6
+Queens,2,school organic,6,179.4
+Queens,2,xmastree,6,0
+Queens,3,leaves organic,6,0
+Queens,3,mgp,6,499.2
+Queens,3,other organics,6,0
+Queens,3,paper,6,333.8
+Queens,3,refuse,6,4802.9
+Queens,3,res organics,6,179.7
+Queens,3,school organic,6,0
+Queens,3,xmastree,6,0
+Queens,4,leaves organic,6,0
+Queens,4,mgp,6,469.2
+Queens,4,other organics,6,0
+Queens,4,paper,6,335.4
+Queens,4,refuse,6,4083.4
+Queens,4,res organics,6,177.8
+Queens,4,school organic,6,0
+Queens,4,xmastree,6,0
+Queens,5,leaves organic,6,0
+Queens,5,mgp,6,648.6
+Queens,5,other organics,6,0
+Queens,5,paper,6,591.1
+Queens,5,refuse,6,4384.4
+Queens,5,res organics,6,419.1
+Queens,5,school organic,6,128.6
+Queens,5,xmastree,6,0
+Queens,6,leaves organic,6,0
+Queens,6,mgp,6,344.4
+Queens,6,other organics,6,0
+Queens,6,paper,6,363.4
+Queens,6,refuse,6,2580.8
+Queens,6,res organics,6,201.9
+Queens,6,school organic,6,0
+Queens,6,xmastree,6,0
+Queens,7,leaves organic,6,0
+Queens,7,mgp,6,767.9
+Queens,7,other organics,6,0
+Queens,7,paper,6,956.4
+Queens,7,refuse,6,8899.3
+Queens,7,res organics,6,376.4
+Queens,7,school organic,6,86.9
+Queens,7,xmastree,6,0
+Queens,8,leaves organic,6,0
+Queens,8,mgp,6,376.7
+Queens,8,other organics,6,0
+Queens,8,paper,6,407.2
+Queens,8,refuse,6,3595.7
+Queens,8,res organics,6,250.3
+Queens,8,school organic,6,0
+Queens,8,xmastree,6,0
+Queens,9,leaves organic,6,0
+Queens,9,mgp,6,500.8
+Queens,9,other organics,6,0
+Queens,9,paper,6,455.7
+Queens,9,refuse,6,3992.7
+Queens,9,res organics,6,316
+Queens,9,school organic,6,114.5
+Queens,9,xmastree,6,0
+Queens,1,leaves organic,7,0
+Queens,1,mgp,7,633.9
+Queens,1,other organics,7,10.3
+Queens,1,paper,7,654.2
+Queens,1,refuse,7,4124.3
+Queens,1,res organics,7,279
+Queens,1,school organic,7,54.2
+Queens,1,xmastree,7,0
+Queens,10,leaves organic,7,0
+Queens,10,mgp,7,592.2
+Queens,10,other organics,7,0
+Queens,10,paper,7,387.7
+Queens,10,refuse,7,3918.5
+Queens,10,res organics,7,230.4
+Queens,10,school organic,7,42.4
+Queens,10,xmastree,7,0
+Queens,11,leaves organic,7,0
+Queens,11,mgp,7,453
+Queens,11,other organics,7,0
+Queens,11,paper,7,437.6
+Queens,11,refuse,7,2725
+Queens,11,res organics,7,422.7
+Queens,11,school organic,7,0
+Queens,11,xmastree,7,0
+Queens,12,leaves organic,7,0
+Queens,12,mgp,7,1023
+Queens,12,other organics,7,0
+Queens,12,paper,7,530.7
+Queens,12,refuse,7,7688.1
+Queens,12,res organics,7,505.2
+Queens,12,school organic,7,28.9
+Queens,12,xmastree,7,0
+Queens,13,leaves organic,7,0
+Queens,13,mgp,7,928.7
+Queens,13,other organics,7,0
+Queens,13,paper,7,506
+Queens,13,refuse,7,5831.8
+Queens,13,res organics,7,337.7
+Queens,13,school organic,7,11.4
+Queens,13,xmastree,7,0
+Queens,14,leaves organic,7,0
+Queens,14,mgp,7,274.8
+Queens,14,other organics,7,0
+Queens,14,paper,7,309.2
+Queens,14,refuse,7,3962.5
+Queens,14,res organics,7,139.1
+Queens,14,school organic,7,0
+Queens,14,xmastree,7,0
+Queens,2,leaves organic,7,0
+Queens,2,mgp,7,464.2
+Queens,2,other organics,7,9.5
+Queens,2,paper,7,599.5
+Queens,2,refuse,7,4010.4
+Queens,2,res organics,7,204.4
+Queens,2,school organic,7,0
+Queens,2,xmastree,7,0
+Queens,3,leaves organic,7,0
+Queens,3,mgp,7,560.3
+Queens,3,other organics,7,0
+Queens,3,paper,7,379.5
+Queens,3,refuse,7,5015.9
+Queens,3,res organics,7,206.1
+Queens,3,school organic,7,0
+Queens,3,xmastree,7,0
+Queens,4,leaves organic,7,0
+Queens,4,mgp,7,540.9
+Queens,4,other organics,7,0
+Queens,4,paper,7,383.4
+Queens,4,refuse,7,4355.9
+Queens,4,res organics,7,183.8
+Queens,4,school organic,7,0
+Queens,4,xmastree,7,0
+Queens,5,leaves organic,7,0
+Queens,5,mgp,7,719.3
+Queens,5,other organics,7,0
+Queens,5,paper,7,635.9
+Queens,5,refuse,7,4576.4
+Queens,5,res organics,7,416.1
+Queens,5,school organic,7,97.5
+Queens,5,xmastree,7,0
+Queens,6,leaves organic,7,0
+Queens,6,mgp,7,377
+Queens,6,other organics,7,0
+Queens,6,paper,7,388.5
+Queens,6,refuse,7,2748.1
+Queens,6,res organics,7,206.4
+Queens,6,school organic,7,0
+Queens,6,xmastree,7,0
+Queens,7,leaves organic,7,0
+Queens,7,mgp,7,815.1
+Queens,7,other organics,7,0
+Queens,7,paper,7,1027.9
+Queens,7,refuse,7,9078.6
+Queens,7,res organics,7,356.1
+Queens,7,school organic,7,50.3
+Queens,7,xmastree,7,0
+Queens,8,leaves organic,7,0
+Queens,8,mgp,7,405.5
+Queens,8,other organics,7,0
+Queens,8,paper,7,454.3
+Queens,8,refuse,7,3920.3
+Queens,8,res organics,7,225.3
+Queens,8,school organic,7,0
+Queens,8,xmastree,7,0
+Queens,9,leaves organic,7,0
+Queens,9,mgp,7,562.1
+Queens,9,other organics,7,0
+Queens,9,paper,7,442.8
+Queens,9,refuse,7,4193.7
+Queens,9,res organics,7,293.3
+Queens,9,school organic,7,0
+Queens,9,xmastree,7,0
+Queens,1,leaves organic,8,0
+Queens,1,mgp,8,575.5
+Queens,1,other organics,8,11.2
+Queens,1,paper,8,583.1
+Queens,1,refuse,8,3753.3
+Queens,1,res organics,8,235.6
+Queens,1,school organic,8,23.3
+Queens,1,xmastree,8,0
+Queens,10,leaves organic,8,0
+Queens,10,mgp,8,511.5
+Queens,10,other organics,8,0
+Queens,10,paper,8,327.4
+Queens,10,refuse,8,3575.6
+Queens,10,res organics,8,197.8
+Queens,10,school organic,8,21.3
+Queens,10,xmastree,8,0
+Queens,11,leaves organic,8,0
+Queens,11,mgp,8,420.4
+Queens,11,other organics,8,0
+Queens,11,paper,8,402.6
+Queens,11,refuse,8,2650.4
+Queens,11,res organics,8,360.8
+Queens,11,school organic,8,0
+Queens,11,xmastree,8,0
+Queens,12,leaves organic,8,0
+Queens,12,mgp,8,934
+Queens,12,other organics,8,0
+Queens,12,paper,8,476.9
+Queens,12,refuse,8,7009.3
+Queens,12,res organics,8,421.4
+Queens,12,school organic,8,20.1
+Queens,12,xmastree,8,0
+Queens,13,leaves organic,8,0
+Queens,13,mgp,8,844.5
+Queens,13,other organics,8,0
+Queens,13,paper,8,436.1
+Queens,13,refuse,8,5260.4
+Queens,13,res organics,8,256.6
+Queens,13,school organic,8,0
+Queens,13,xmastree,8,0
+Queens,14,leaves organic,8,0
+Queens,14,mgp,8,253.2
+Queens,14,other organics,8,0
+Queens,14,paper,8,290.9
+Queens,14,refuse,8,3564.7
+Queens,14,res organics,8,118.2
+Queens,14,school organic,8,0
+Queens,14,xmastree,8,0
+Queens,2,leaves organic,8,0
+Queens,2,mgp,8,415.1
+Queens,2,other organics,8,9.2
+Queens,2,paper,8,519.2
+Queens,2,refuse,8,3761
+Queens,2,res organics,8,187.3
+Queens,2,school organic,8,0
+Queens,2,xmastree,8,0
+Queens,3,leaves organic,8,0
+Queens,3,mgp,8,516.7
+Queens,3,other organics,8,0
+Queens,3,paper,8,334.7
+Queens,3,refuse,8,4629.7
+Queens,3,res organics,8,191.3
+Queens,3,school organic,8,0
+Queens,3,xmastree,8,0
+Queens,4,leaves organic,8,0
+Queens,4,mgp,8,516.1
+Queens,4,other organics,8,0
+Queens,4,paper,8,335.7
+Queens,4,refuse,8,4039.8
+Queens,4,res organics,8,174.4
+Queens,4,school organic,8,0
+Queens,4,xmastree,8,0
+Queens,5,leaves organic,8,0
+Queens,5,mgp,8,640.2
+Queens,5,other organics,8,0
+Queens,5,paper,8,558.5
+Queens,5,refuse,8,4239.9
+Queens,5,res organics,8,350.9
+Queens,5,school organic,8,54.6
+Queens,5,xmastree,8,0
+Queens,6,leaves organic,8,0
+Queens,6,mgp,8,358.7
+Queens,6,other organics,8,0
+Queens,6,paper,8,355.6
+Queens,6,refuse,8,2514.5
+Queens,6,res organics,8,202.1
+Queens,6,school organic,8,0
+Queens,6,xmastree,8,0
+Queens,7,leaves organic,8,0
+Queens,7,mgp,8,748.4
+Queens,7,other organics,8,0
+Queens,7,paper,8,911.7
+Queens,7,refuse,8,8429.3
+Queens,7,res organics,8,304.6
+Queens,7,school organic,8,23.6
+Queens,7,xmastree,8,0
+Queens,8,leaves organic,8,0
+Queens,8,mgp,8,380.9
+Queens,8,other organics,8,0
+Queens,8,paper,8,413.4
+Queens,8,refuse,8,3578.7
+Queens,8,res organics,8,201.2
+Queens,8,school organic,8,0
+Queens,8,xmastree,8,0
+Queens,9,leaves organic,8,0
+Queens,9,mgp,8,503.7
+Queens,9,other organics,8,0
+Queens,9,paper,8,395.1
+Queens,9,refuse,8,3871
+Queens,9,res organics,8,266.4
+Queens,9,school organic,8,0
+Queens,9,xmastree,8,0
+Queens,1,leaves organic,9,0
+Queens,1,mgp,9,613.5
+Queens,1,other organics,9,10.7
+Queens,1,paper,9,649.5
+Queens,1,refuse,9,3970.6
+Queens,1,res organics,9,221.3
+Queens,1,school organic,9,121.6
+Queens,1,xmastree,9,0
+Queens,10,leaves organic,9,0
+Queens,10,mgp,9,529.5
+Queens,10,other organics,9,0
+Queens,10,paper,9,343
+Queens,10,refuse,9,3646.1
+Queens,10,res organics,9,161.8
+Queens,10,school organic,9,79.5
+Queens,10,xmastree,9,0
+Queens,11,leaves organic,9,0
+Queens,11,mgp,9,430.6
+Queens,11,other organics,9,0
+Queens,11,paper,9,417.9
+Queens,11,refuse,9,2716.9
+Queens,11,res organics,9,357.3
+Queens,11,school organic,9,83.2
+Queens,11,xmastree,9,0
+Queens,12,leaves organic,9,0
+Queens,12,mgp,9,912.2
+Queens,12,other organics,9,0
+Queens,12,paper,9,477.1
+Queens,12,refuse,9,7042.3
+Queens,12,res organics,9,434
+Queens,12,school organic,9,75.7
+Queens,12,xmastree,9,0
+Queens,13,leaves organic,9,0
+Queens,13,mgp,9,821.6
+Queens,13,other organics,9,0
+Queens,13,paper,9,445.5
+Queens,13,refuse,9,5236.2
+Queens,13,res organics,9,235.2
+Queens,13,school organic,9,69.6
+Queens,13,xmastree,9,0
+Queens,14,leaves organic,9,0
+Queens,14,mgp,9,227.4
+Queens,14,other organics,9,0
+Queens,14,paper,9,265.5
+Queens,14,refuse,9,3755.3
+Queens,14,res organics,9,102.4
+Queens,14,school organic,9,0
+Queens,14,xmastree,9,0
+Queens,2,leaves organic,9,0
+Queens,2,mgp,9,412.2
+Queens,2,other organics,9,10.3
+Queens,2,paper,9,589.2
+Queens,2,refuse,9,4014.8
+Queens,2,res organics,9,189.4
+Queens,2,school organic,9,168.3
+Queens,2,xmastree,9,0
+Queens,3,leaves organic,9,0
+Queens,3,mgp,9,499.7
+Queens,3,other organics,9,0
+Queens,3,paper,9,321.6
+Queens,3,refuse,9,4808.9
+Queens,3,res organics,9,173
+Queens,3,school organic,9,0
+Queens,3,xmastree,9,0
+Queens,4,leaves organic,9,0
+Queens,4,mgp,9,476.6
+Queens,4,other organics,9,0
+Queens,4,paper,9,320.9
+Queens,4,refuse,9,4116.9
+Queens,4,res organics,9,164.6
+Queens,4,school organic,9,0
+Queens,4,xmastree,9,0
+Queens,5,leaves organic,9,0
+Queens,5,mgp,9,642.3
+Queens,5,other organics,9,0
+Queens,5,paper,9,581.7
+Queens,5,refuse,9,4432.9
+Queens,5,res organics,9,346.4
+Queens,5,school organic,9,112.9
+Queens,5,xmastree,9,0
+Queens,6,leaves organic,9,0
+Queens,6,mgp,9,355.9
+Queens,6,other organics,9,0
+Queens,6,paper,9,358.2
+Queens,6,refuse,9,2655.6
+Queens,6,res organics,9,197.8
+Queens,6,school organic,9,0
+Queens,6,xmastree,9,0
+Queens,7,leaves organic,9,0
+Queens,7,mgp,9,758
+Queens,7,other organics,9,0
+Queens,7,paper,9,935.6
+Queens,7,refuse,9,8827.5
+Queens,7,res organics,9,288.1
+Queens,7,school organic,9,95.7
+Queens,7,xmastree,9,0
+Queens,8,leaves organic,9,0
+Queens,8,mgp,9,387.6
+Queens,8,other organics,9,0
+Queens,8,paper,9,417.6
+Queens,8,refuse,9,3817.6
+Queens,8,res organics,9,202.9
+Queens,8,school organic,9,0
+Queens,8,xmastree,9,0
+Queens,9,leaves organic,9,0
+Queens,9,mgp,9,502.6
+Queens,9,other organics,9,0
+Queens,9,paper,9,449
+Queens,9,refuse,9,3931.2
+Queens,9,res organics,9,263.3
+Queens,9,school organic,9,104.8
+Queens,9,xmastree,9,0
+Queens,1,leaves organic,10,0
+Queens,1,mgp,10,617.2
+Queens,1,other organics,10,17.5
+Queens,1,paper,10,643.2
+Queens,1,refuse,10,4054.1
+Queens,1,res organics,10,247.9
+Queens,1,school organic,10,145.3
+Queens,1,xmastree,10,0
+Queens,10,leaves organic,10,0
+Queens,10,mgp,10,521
+Queens,10,other organics,10,0
+Queens,10,paper,10,344.9
+Queens,10,refuse,10,3627.5
+Queens,10,res organics,10,184.2
+Queens,10,school organic,10,97.8
+Queens,10,xmastree,10,0
+Queens,11,leaves organic,10,0
+Queens,11,mgp,10,418.2
+Queens,11,other organics,10,0
+Queens,11,paper,10,419.4
+Queens,11,refuse,10,2689.8
+Queens,11,res organics,10,377.9
+Queens,11,school organic,10,101.1
+Queens,11,xmastree,10,0
+Queens,12,leaves organic,10,0
+Queens,12,mgp,10,915.6
+Queens,12,other organics,10,0
+Queens,12,paper,10,484.4
+Queens,12,refuse,10,6773
+Queens,12,res organics,10,461.1
+Queens,12,school organic,10,93
+Queens,12,xmastree,10,0
+Queens,13,leaves organic,10,0
+Queens,13,mgp,10,804.2
+Queens,13,other organics,10,0
+Queens,13,paper,10,463.8
+Queens,13,refuse,10,5081.2
+Queens,13,res organics,10,244.4
+Queens,13,school organic,10,79.6
+Queens,13,xmastree,10,0
+Queens,14,leaves organic,10,0
+Queens,14,mgp,10,247.1
+Queens,14,other organics,10,0
+Queens,14,paper,10,278
+Queens,14,refuse,10,3591.3
+Queens,14,res organics,10,110.3
+Queens,14,school organic,10,0
+Queens,14,xmastree,10,0
+Queens,2,leaves organic,10,0
+Queens,2,mgp,10,429.9
+Queens,2,other organics,10,9
+Queens,2,paper,10,580
+Queens,2,refuse,10,3978
+Queens,2,res organics,10,211.7
+Queens,2,school organic,10,205.4
+Queens,2,xmastree,10,0
+Queens,3,leaves organic,10,0
+Queens,3,mgp,10,536.2
+Queens,3,other organics,10,0
+Queens,3,paper,10,358.5
+Queens,3,refuse,10,4863.3
+Queens,3,res organics,10,220
+Queens,3,school organic,10,0
+Queens,3,xmastree,10,0
+Queens,4,leaves organic,10,0
+Queens,4,mgp,10,529
+Queens,4,other organics,10,0
+Queens,4,paper,10,347.5
+Queens,4,refuse,10,4171.3
+Queens,4,res organics,10,176.4
+Queens,4,school organic,10,0
+Queens,4,xmastree,10,0
+Queens,5,leaves organic,10,0
+Queens,5,mgp,10,666.3
+Queens,5,other organics,10,0
+Queens,5,paper,10,613
+Queens,5,refuse,10,4443.2
+Queens,5,res organics,10,364.9
+Queens,5,school organic,10,131.2
+Queens,5,xmastree,10,0
+Queens,6,leaves organic,10,0
+Queens,6,mgp,10,363.9
+Queens,6,other organics,10,0
+Queens,6,paper,10,377.7
+Queens,6,refuse,10,2628.8
+Queens,6,res organics,10,210
+Queens,6,school organic,10,0
+Queens,6,xmastree,10,0
+Queens,7,leaves organic,10,0
+Queens,7,mgp,10,765.8
+Queens,7,other organics,10,0
+Queens,7,paper,10,979.4
+Queens,7,refuse,10,8960.1
+Queens,7,res organics,10,307.5
+Queens,7,school organic,10,114.1
+Queens,7,xmastree,10,0
+Queens,8,leaves organic,10,0
+Queens,8,mgp,10,399.1
+Queens,8,other organics,10,0
+Queens,8,paper,10,427.6
+Queens,8,refuse,10,3736.8
+Queens,8,res organics,10,218.8
+Queens,8,school organic,10,0
+Queens,8,xmastree,10,0
+Queens,9,leaves organic,10,0
+Queens,9,mgp,10,510.7
+Queens,9,other organics,10,0
+Queens,9,paper,10,433.9
+Queens,9,refuse,10,3943.1
+Queens,9,res organics,10,304.9
+Queens,9,school organic,10,138.5
+Queens,9,xmastree,10,0
+Queens,1,leaves organic,11,0
+Queens,1,mgp,11,566.3
+Queens,1,other organics,11,55.3
+Queens,1,paper,11,593.2
+Queens,1,refuse,11,3784.2
+Queens,1,res organics,11,296.8
+Queens,1,school organic,11,122.1
+Queens,1,xmastree,11,0
+Queens,10,leaves organic,11,0
+Queens,10,mgp,11,462.2
+Queens,10,other organics,11,0
+Queens,10,paper,11,308.9
+Queens,10,refuse,11,3296.9
+Queens,10,res organics,11,225.3
+Queens,10,school organic,11,70.7
+Queens,10,xmastree,11,0
+Queens,11,leaves organic,11,0
+Queens,11,mgp,11,387.4
+Queens,11,other organics,11,0
+Queens,11,paper,11,383.9
+Queens,11,refuse,11,2515.1
+Queens,11,res organics,11,612.4
+Queens,11,school organic,11,82.9
+Queens,11,xmastree,11,0
+Queens,12,leaves organic,11,0
+Queens,12,mgp,11,804.7
+Queens,12,other organics,11,0
+Queens,12,paper,11,436.9
+Queens,12,refuse,11,6101.2
+Queens,12,res organics,11,615.2
+Queens,12,school organic,11,72.4
+Queens,12,xmastree,11,0
+Queens,13,leaves organic,11,0
+Queens,13,mgp,11,712.9
+Queens,13,other organics,11,0
+Queens,13,paper,11,415.1
+Queens,13,refuse,11,4686
+Queens,13,res organics,11,345.4
+Queens,13,school organic,11,68.3
+Queens,13,xmastree,11,0
+Queens,14,leaves organic,11,0
+Queens,14,mgp,11,215
+Queens,14,other organics,11,0
+Queens,14,paper,11,267.1
+Queens,14,refuse,11,3280.4
+Queens,14,res organics,11,111.6
+Queens,14,school organic,11,0
+Queens,14,xmastree,11,0
+Queens,2,leaves organic,11,0
+Queens,2,mgp,11,384.5
+Queens,2,other organics,11,7.8
+Queens,2,paper,11,533.2
+Queens,2,refuse,11,3697.6
+Queens,2,res organics,11,221.9
+Queens,2,school organic,11,167.8
+Queens,2,xmastree,11,0
+Queens,3,leaves organic,11,0
+Queens,3,mgp,11,458.6
+Queens,3,other organics,11,0
+Queens,3,paper,11,308.2
+Queens,3,refuse,11,4426.9
+Queens,3,res organics,11,231.5
+Queens,3,school organic,11,0
+Queens,3,xmastree,11,0
+Queens,4,leaves organic,11,0
+Queens,4,mgp,11,462.2
+Queens,4,other organics,11,0
+Queens,4,paper,11,303.5
+Queens,4,refuse,11,3880.5
+Queens,4,res organics,11,168.8
+Queens,4,school organic,11,0
+Queens,4,xmastree,11,0
+Queens,5,leaves organic,11,0
+Queens,5,mgp,11,595.3
+Queens,5,other organics,11,0
+Queens,5,paper,11,558.3
+Queens,5,refuse,11,4220.7
+Queens,5,res organics,11,443.8
+Queens,5,school organic,11,105.3
+Queens,5,xmastree,11,0
+Queens,6,leaves organic,11,0
+Queens,6,mgp,11,321
+Queens,6,other organics,11,0
+Queens,6,paper,11,340.6
+Queens,6,refuse,11,2435.6
+Queens,6,res organics,11,305.5
+Queens,6,school organic,11,0
+Queens,6,xmastree,11,0
+Queens,7,leaves organic,11,0
+Queens,7,mgp,11,701.1
+Queens,7,other organics,11,0
+Queens,7,paper,11,905.5
+Queens,7,refuse,11,8436.8
+Queens,7,res organics,11,431.3
+Queens,7,school organic,11,97.3
+Queens,7,xmastree,11,0
+Queens,8,leaves organic,11,0
+Queens,8,mgp,11,350.9
+Queens,8,other organics,11,0
+Queens,8,paper,11,385.6
+Queens,8,refuse,11,3465.9
+Queens,8,res organics,11,320.6
+Queens,8,school organic,11,0
+Queens,8,xmastree,11,0
+Queens,9,leaves organic,11,0
+Queens,9,mgp,11,462.5
+Queens,9,other organics,11,0
+Queens,9,paper,11,396.7
+Queens,9,refuse,11,3612.9
+Queens,9,res organics,11,386.2
+Queens,9,school organic,11,114.8
+Queens,9,xmastree,11,0
+Queens,1,leaves organic,12,0
+Queens,1,mgp,12,692.2
+Queens,1,other organics,12,22.7
+Queens,1,paper,12,767.7
+Queens,1,refuse,12,4195.4
+Queens,1,res organics,12,266.8
+Queens,1,school organic,12,120.5
+Queens,1,xmastree,12,0
+Queens,10,leaves organic,12,0
+Queens,10,mgp,12,569.6
+Queens,10,other organics,12,0
+Queens,10,paper,12,419.3
+Queens,10,refuse,12,3534.5
+Queens,10,res organics,12,168
+Queens,10,school organic,12,78.4
+Queens,10,xmastree,12,0
+Queens,11,leaves organic,12,0
+Queens,11,mgp,12,452.1
+Queens,11,other organics,12,0
+Queens,11,paper,12,503.4
+Queens,11,refuse,12,2666.3
+Queens,11,res organics,12,379.8
+Queens,11,school organic,12,86.3
+Queens,11,xmastree,12,0
+Queens,12,leaves organic,12,0
+Queens,12,mgp,12,984.1
+Queens,12,other organics,12,0
+Queens,12,paper,12,582.6
+Queens,12,refuse,12,6711.1
+Queens,12,res organics,12,414.8
+Queens,12,school organic,12,75.5
+Queens,12,xmastree,12,0
+Queens,13,leaves organic,12,0
+Queens,13,mgp,12,872
+Queens,13,other organics,12,0
+Queens,13,paper,12,530.1
+Queens,13,refuse,12,5013.5
+Queens,13,res organics,12,244.5
+Queens,13,school organic,12,64.7
+Queens,13,xmastree,12,0
+Queens,14,leaves organic,12,0
+Queens,14,mgp,12,250.8
+Queens,14,other organics,12,0
+Queens,14,paper,12,323.9
+Queens,14,refuse,12,3619
+Queens,14,res organics,12,98.7
+Queens,14,school organic,12,0
+Queens,14,xmastree,12,0
+Queens,2,leaves organic,12,0
+Queens,2,mgp,12,476.2
+Queens,2,other organics,12,9.6
+Queens,2,paper,12,705.9
+Queens,2,refuse,12,3977
+Queens,2,res organics,12,212.5
+Queens,2,school organic,12,172.9
+Queens,2,xmastree,12,0
+Queens,3,leaves organic,12,0
+Queens,3,mgp,12,561.3
+Queens,3,other organics,12,0
+Queens,3,paper,12,411.1
+Queens,3,refuse,12,4855.4
+Queens,3,res organics,12,195.9
+Queens,3,school organic,12,0
+Queens,3,xmastree,12,0
+Queens,4,leaves organic,12,0
+Queens,4,mgp,12,521.2
+Queens,4,other organics,12,0
+Queens,4,paper,12,426.4
+Queens,4,refuse,12,4221.2
+Queens,4,res organics,12,159.6
+Queens,4,school organic,12,0
+Queens,4,xmastree,12,0
+Queens,5,leaves organic,12,0
+Queens,5,mgp,12,720.8
+Queens,5,other organics,12,0
+Queens,5,paper,12,748.6
+Queens,5,refuse,12,4616.7
+Queens,5,res organics,12,317.4
+Queens,5,school organic,12,111.3
+Queens,5,xmastree,12,0
+Queens,6,leaves organic,12,0
+Queens,6,mgp,12,390.8
+Queens,6,other organics,12,0
+Queens,6,paper,12,462.4
+Queens,6,refuse,12,2671.9
+Queens,6,res organics,12,205.4
+Queens,6,school organic,12,4.7
+Queens,6,xmastree,12,0
+Queens,7,leaves organic,12,0
+Queens,7,mgp,12,823.6
+Queens,7,other organics,12,0
+Queens,7,paper,12,1074.4
+Queens,7,refuse,12,8826.6
+Queens,7,res organics,12,265.4
+Queens,7,school organic,12,93.3
+Queens,7,xmastree,12,0
+Queens,8,leaves organic,12,0
+Queens,8,mgp,12,407.7
+Queens,8,other organics,12,0
+Queens,8,paper,12,489.1
+Queens,8,refuse,12,3689.2
+Queens,8,res organics,12,249
+Queens,8,school organic,12,0
+Queens,8,xmastree,12,0
+Queens,9,leaves organic,12,0
+Queens,9,mgp,12,550.1
+Queens,9,other organics,12,0
+Queens,9,paper,12,530.7
+Queens,9,refuse,12,3975.9
+Queens,9,res organics,12,268.6
+Queens,9,school organic,12,111.1
+Queens,9,xmastree,12,0
+Staten Island,1,leaves organic,1,0
+Staten Island,1,mgp,1,630.9
+Staten Island,1,other organics,1,0
+Staten Island,1,paper,1,632.6
+Staten Island,1,refuse,1,4963
+Staten Island,1,res organics,1,170.6
+Staten Island,1,school organic,1,0
+Staten Island,1,xmastree,1,0
+Staten Island,2,leaves organic,1,0
+Staten Island,2,mgp,1,504.6
+Staten Island,2,other organics,1,7.8
+Staten Island,2,paper,1,502
+Staten Island,2,refuse,1,4366.9
+Staten Island,2,res organics,1,148.2
+Staten Island,2,school organic,1,34.3
+Staten Island,2,xmastree,1,0
+Staten Island,3,leaves organic,1,0
+Staten Island,3,mgp,1,668.3
+Staten Island,3,other organics,1,0
+Staten Island,3,paper,1,710.5
+Staten Island,3,refuse,1,5120
+Staten Island,3,res organics,1,169.4
+Staten Island,3,school organic,1,34.8
+Staten Island,3,xmastree,1,0
+Staten Island,1,leaves organic,2,0
+Staten Island,1,mgp,2,524
+Staten Island,1,other organics,2,0.2
+Staten Island,1,paper,2,537.2
+Staten Island,1,refuse,2,4319.3
+Staten Island,1,res organics,2,96.3
+Staten Island,1,school organic,2,0
+Staten Island,1,xmastree,2,0
+Staten Island,2,leaves organic,2,0
+Staten Island,2,mgp,2,414.9
+Staten Island,2,other organics,2,5.5
+Staten Island,2,paper,2,418.8
+Staten Island,2,refuse,2,3865.5
+Staten Island,2,res organics,2,98.1
+Staten Island,2,school organic,2,27.4
+Staten Island,2,xmastree,2,0
+Staten Island,3,leaves organic,2,0
+Staten Island,3,mgp,2,524.4
+Staten Island,3,other organics,2,0
+Staten Island,3,paper,2,562.8
+Staten Island,3,refuse,2,4355
+Staten Island,3,res organics,2,121.9
+Staten Island,3,school organic,2,25.7
+Staten Island,3,xmastree,2,0
+Staten Island,1,leaves organic,3,0
+Staten Island,1,mgp,3,610.5
+Staten Island,1,other organics,3,0
+Staten Island,1,paper,3,621.2
+Staten Island,1,refuse,3,5173.2
+Staten Island,1,res organics,3,165.4
+Staten Island,1,school organic,3,0
+Staten Island,1,xmastree,3,0
+Staten Island,2,leaves organic,3,0
+Staten Island,2,mgp,3,494.5
+Staten Island,2,other organics,3,12.6
+Staten Island,2,paper,3,464.6
+Staten Island,2,refuse,3,4561.9
+Staten Island,2,res organics,3,162.9
+Staten Island,2,school organic,3,34
+Staten Island,2,xmastree,3,0
+Staten Island,3,leaves organic,3,0
+Staten Island,3,mgp,3,587.8
+Staten Island,3,other organics,3,0
+Staten Island,3,paper,3,600.8
+Staten Island,3,refuse,3,4979.4
+Staten Island,3,res organics,3,233.5
+Staten Island,3,school organic,3,35.8
+Staten Island,3,xmastree,3,0
+Staten Island,1,leaves organic,4,0
+Staten Island,1,mgp,4,656.3
+Staten Island,1,other organics,4,0.2
+Staten Island,1,paper,4,612.4
+Staten Island,1,refuse,4,5081.8
+Staten Island,1,res organics,4,447.5
+Staten Island,1,school organic,4,0
+Staten Island,1,xmastree,4,0
+Staten Island,2,leaves organic,4,0
+Staten Island,2,mgp,4,551.9
+Staten Island,2,other organics,4,2.7
+Staten Island,2,paper,4,475.8
+Staten Island,2,refuse,4,4625.3
+Staten Island,2,res organics,4,431.3
+Staten Island,2,school organic,4,32
+Staten Island,2,xmastree,4,0
+Staten Island,3,leaves organic,4,0
+Staten Island,3,mgp,4,712.7
+Staten Island,3,other organics,4,0
+Staten Island,3,paper,4,673.4
+Staten Island,3,refuse,4,5041.4
+Staten Island,3,res organics,4,623.6
+Staten Island,3,school organic,4,32.7
+Staten Island,3,xmastree,4,0
+Staten Island,1,leaves organic,5,0
+Staten Island,1,mgp,5,748.4
+Staten Island,1,other organics,5,0
+Staten Island,1,paper,5,679.9
+Staten Island,1,refuse,5,5657.6
+Staten Island,1,res organics,5,573.9
+Staten Island,1,school organic,5,0
+Staten Island,1,xmastree,5,0
+Staten Island,2,leaves organic,5,0
+Staten Island,2,mgp,5,612.5
+Staten Island,2,other organics,5,9.4
+Staten Island,2,paper,5,540.6
+Staten Island,2,refuse,5,4933.4
+Staten Island,2,res organics,5,554.1
+Staten Island,2,school organic,5,37.8
+Staten Island,2,xmastree,5,0
+Staten Island,3,leaves organic,5,0
+Staten Island,3,mgp,5,820.6
+Staten Island,3,other organics,5,0
+Staten Island,3,paper,5,787.5
+Staten Island,3,refuse,5,5745.9
+Staten Island,3,res organics,5,785.5
+Staten Island,3,school organic,5,40.2
+Staten Island,3,xmastree,5,0
+Staten Island,1,leaves organic,6,0
+Staten Island,1,mgp,6,646.9
+Staten Island,1,other organics,6,0
+Staten Island,1,paper,6,647.2
+Staten Island,1,refuse,6,5504.3
+Staten Island,1,res organics,6,453.6
+Staten Island,1,school organic,6,0
+Staten Island,1,xmastree,6,0
+Staten Island,2,leaves organic,6,0
+Staten Island,2,mgp,6,501.2
+Staten Island,2,other organics,6,2.4
+Staten Island,2,paper,6,492.2
+Staten Island,2,refuse,6,4800
+Staten Island,2,res organics,6,471.4
+Staten Island,2,school organic,6,28.8
+Staten Island,2,xmastree,6,0
+Staten Island,3,leaves organic,6,0
+Staten Island,3,mgp,6,651.9
+Staten Island,3,other organics,6,0
+Staten Island,3,paper,6,666.9
+Staten Island,3,refuse,6,5367.9
+Staten Island,3,res organics,6,580.4
+Staten Island,3,school organic,6,30.8
+Staten Island,3,xmastree,6,0
+Staten Island,1,leaves organic,7,0
+Staten Island,1,mgp,7,716.2
+Staten Island,1,other organics,7,0
+Staten Island,1,paper,7,653.6
+Staten Island,1,refuse,7,5529.7
+Staten Island,1,res organics,7,391
+Staten Island,1,school organic,7,0
+Staten Island,1,xmastree,7,0
+Staten Island,2,leaves organic,7,0
+Staten Island,2,mgp,7,551
+Staten Island,2,other organics,7,13.4
+Staten Island,2,paper,7,527.2
+Staten Island,2,refuse,7,4750.7
+Staten Island,2,res organics,7,460.1
+Staten Island,2,school organic,7,21.7
+Staten Island,2,xmastree,7,0
+Staten Island,3,leaves organic,7,0
+Staten Island,3,mgp,7,731
+Staten Island,3,other organics,7,0
+Staten Island,3,paper,7,726.8
+Staten Island,3,refuse,7,5530.2
+Staten Island,3,res organics,7,549.8
+Staten Island,3,school organic,7,0
+Staten Island,3,xmastree,7,0
+Staten Island,1,leaves organic,8,0
+Staten Island,1,mgp,8,689.7
+Staten Island,1,other organics,8,1
+Staten Island,1,paper,8,557.1
+Staten Island,1,refuse,8,5110.4
+Staten Island,1,res organics,8,344.2
+Staten Island,1,school organic,8,0
+Staten Island,1,xmastree,8,0
+Staten Island,2,leaves organic,8,0
+Staten Island,2,mgp,8,502.1
+Staten Island,2,other organics,8,6.5
+Staten Island,2,paper,8,434.3
+Staten Island,2,refuse,8,4417.2
+Staten Island,2,res organics,8,400.9
+Staten Island,2,school organic,8,11.5
+Staten Island,2,xmastree,8,0
+Staten Island,3,leaves organic,8,0
+Staten Island,3,mgp,8,656.6
+Staten Island,3,other organics,8,0
+Staten Island,3,paper,8,606.9
+Staten Island,3,refuse,8,5097.8
+Staten Island,3,res organics,8,439.5
+Staten Island,3,school organic,8,0
+Staten Island,3,xmastree,8,0
+Staten Island,1,leaves organic,9,0
+Staten Island,1,mgp,9,713.6
+Staten Island,1,other organics,9,0.2
+Staten Island,1,paper,9,614.2
+Staten Island,1,refuse,9,5494.1
+Staten Island,1,res organics,9,276
+Staten Island,1,school organic,9,0
+Staten Island,1,xmastree,9,0
+Staten Island,2,leaves organic,9,0
+Staten Island,2,mgp,9,537.6
+Staten Island,2,other organics,9,8.4
+Staten Island,2,paper,9,484.4
+Staten Island,2,refuse,9,4811.7
+Staten Island,2,res organics,9,402.8
+Staten Island,2,school organic,9,36.3
+Staten Island,2,xmastree,9,0
+Staten Island,3,leaves organic,9,0
+Staten Island,3,mgp,9,662.4
+Staten Island,3,other organics,9,0
+Staten Island,3,paper,9,638.8
+Staten Island,3,refuse,9,5314.2
+Staten Island,3,res organics,9,425
+Staten Island,3,school organic,9,34
+Staten Island,3,xmastree,9,0
+Staten Island,1,leaves organic,10,0
+Staten Island,1,mgp,10,657.8
+Staten Island,1,other organics,10,0.8
+Staten Island,1,paper,10,611.4
+Staten Island,1,refuse,10,5353.8
+Staten Island,1,res organics,10,283.5
+Staten Island,1,school organic,10,0
+Staten Island,1,xmastree,10,0
+Staten Island,2,leaves organic,10,0
+Staten Island,2,mgp,10,523.7
+Staten Island,2,other organics,10,5.2
+Staten Island,2,paper,10,498.9
+Staten Island,2,refuse,10,4727
+Staten Island,2,res organics,10,402
+Staten Island,2,school organic,10,37.5
+Staten Island,2,xmastree,10,0
+Staten Island,3,leaves organic,10,0
+Staten Island,3,mgp,10,657.6
+Staten Island,3,other organics,10,0
+Staten Island,3,paper,10,681.9
+Staten Island,3,refuse,10,5245.4
+Staten Island,3,res organics,10,468.2
+Staten Island,3,school organic,10,45.4
+Staten Island,3,xmastree,10,0
+Staten Island,1,leaves organic,11,0
+Staten Island,1,mgp,11,599.2
+Staten Island,1,other organics,11,0
+Staten Island,1,paper,11,588.1
+Staten Island,1,refuse,11,5002.8
+Staten Island,1,res organics,11,407.6
+Staten Island,1,school organic,11,0
+Staten Island,1,xmastree,11,0
+Staten Island,2,leaves organic,11,0
+Staten Island,2,mgp,11,466.8
+Staten Island,2,other organics,11,3.1
+Staten Island,2,paper,11,452.5
+Staten Island,2,refuse,11,4386.1
+Staten Island,2,res organics,11,520.5
+Staten Island,2,school organic,11,30.4
+Staten Island,2,xmastree,11,0
+Staten Island,3,leaves organic,11,0
+Staten Island,3,mgp,11,608
+Staten Island,3,other organics,11,0
+Staten Island,3,paper,11,617.2
+Staten Island,3,refuse,11,4993
+Staten Island,3,res organics,11,656.9
+Staten Island,3,school organic,11,37.8
+Staten Island,3,xmastree,11,0
+Staten Island,1,leaves organic,12,0
+Staten Island,1,mgp,12,718.2
+Staten Island,1,other organics,12,0.6
+Staten Island,1,paper,12,764.9
+Staten Island,1,refuse,12,5536.1
+Staten Island,1,res organics,12,284.7
+Staten Island,1,school organic,12,0
+Staten Island,1,xmastree,12,0
+Staten Island,2,leaves organic,12,0
+Staten Island,2,mgp,12,552.3
+Staten Island,2,other organics,12,7
+Staten Island,2,paper,12,617.4
+Staten Island,2,refuse,12,4780.8
+Staten Island,2,res organics,12,359
+Staten Island,2,school organic,12,27.1
+Staten Island,2,xmastree,12,0
+Staten Island,3,leaves organic,12,0
+Staten Island,3,mgp,12,738.8
+Staten Island,3,other organics,12,0
+Staten Island,3,paper,12,867.1
+Staten Island,3,refuse,12,5530.4
+Staten Island,3,res organics,12,428.7
+Staten Island,3,school organic,12,36.3
+Staten Island,3,xmastree,12,0
