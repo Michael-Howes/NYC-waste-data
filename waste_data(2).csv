@@ -1,0 +1,5665 @@
+borough,communitydistrict,waste type,month,year,quantity
+Bronx,1,refuse,12,2017,2975.0
+Bronx,2,refuse,12,2017,8263.7
+Bronx,3,refuse,12,2017,1857.7
+Bronx,4,refuse,12,2017,4223.5
+Bronx,5,refuse,12,2017,3755.1
+Bronx,6,refuse,12,2017,3009.4
+Bronx,7,refuse,12,2017,3716.9
+Bronx,8,refuse,12,2017,2460.7
+Bronx,9,refuse,12,2017,3891.5
+Bronx,10,refuse,12,2017,2292.3
+Bronx,11,refuse,12,2017,2816.4
+Bronx,12,refuse,12,2017,3356.0
+Brooklyn,1,refuse,12,2017,5269.7
+Brooklyn,2,refuse,12,2017,2488.8
+Brooklyn,3,refuse,12,2017,4224.9
+Brooklyn,4,refuse,12,2017,4200.8
+Brooklyn,5,refuse,12,2017,4649.9
+Brooklyn,6,refuse,12,2017,2196.3
+Brooklyn,7,refuse,12,2017,3212.3
+Brooklyn,8,refuse,12,2017,5922.7
+Brooklyn,9,refuse,12,2017,2976.8
+Brooklyn,10,refuse,12,2017,3392.1
+Brooklyn,11,refuse,12,2017,7482.5
+Brooklyn,12,refuse,12,2017,6227.5
+Brooklyn,13,refuse,12,2017,2912.2
+Brooklyn,14,refuse,12,2017,4836.5
+Brooklyn,15,refuse,12,2017,4141.2
+Brooklyn,16,refuse,12,2017,2933.3
+Brooklyn,17,refuse,12,2017,4390.0
+Brooklyn,18,refuse,12,2017,5153.5
+Manhattan,1,refuse,12,2017,1538.1
+Manhattan,2,refuse,12,2017,2296.5
+Manhattan,3,refuse,12,2017,6087.9
+Manhattan,4,refuse,12,2017,3306.0
+Manhattan,5,refuse,12,2017,1776.5
+Manhattan,6,refuse,12,2017,3330.5
+Manhattan,7,refuse,12,2017,5137.0
+Manhattan,8,refuse,12,2017,5950.9
+Manhattan,9,refuse,12,2017,2361.2
+Manhattan,10,refuse,12,2017,6289.7
+Manhattan,11,refuse,12,2017,2385.4
+Manhattan,12,refuse,12,2017,4973.7
+Queens,1,refuse,12,2017,3988.7
+Queens,2,refuse,12,2017,3884.1
+Queens,3,refuse,12,2017,4659.7
+Queens,4,refuse,12,2017,3824.5
+Queens,5,refuse,12,2017,4514.6
+Queens,6,refuse,12,2017,2706.6
+Queens,7,refuse,12,2017,5886.4
+Queens,8,refuse,12,2017,3374.0
+Queens,9,refuse,12,2017,3536.1
+Queens,10,refuse,12,2017,3238.8
+Queens,11,refuse,12,2017,2693.0
+Queens,12,refuse,12,2017,6035.4
+Queens,13,refuse,12,2017,4942.5
+Queens,14,refuse,12,2017,3127.0
+Staten Island,1,refuse,12,2017,5129.8
+Staten Island,2,refuse,12,2017,4818.0
+Staten Island,3,refuse,12,2017,5682.1
+Bronx,1,refuse,11,2017,3279.2
+Bronx,2,refuse,11,2017,8663.3
+Bronx,3,refuse,11,2017,2079.6
+Bronx,4,refuse,11,2017,4456.3
+Bronx,5,refuse,11,2017,3910.7
+Bronx,6,refuse,11,2017,3223.0
+Bronx,7,refuse,11,2017,3933.7
+Bronx,8,refuse,11,2017,2547.7
+Bronx,9,refuse,11,2017,4208.6
+Bronx,10,refuse,11,2017,2562.3
+Bronx,11,refuse,11,2017,3055.0
+Bronx,12,refuse,11,2017,3608.4
+Brooklyn,1,refuse,11,2017,5476.4
+Brooklyn,2,refuse,11,2017,2625.5
+Brooklyn,3,refuse,11,2017,4431.5
+Brooklyn,4,refuse,11,2017,4440.1
+Brooklyn,5,refuse,11,2017,5070.3
+Brooklyn,6,refuse,11,2017,2366.6
+Brooklyn,7,refuse,11,2017,3417.0
+Brooklyn,8,refuse,11,2017,6119.0
+Brooklyn,9,refuse,11,2017,3113.3
+Brooklyn,10,refuse,11,2017,3596.7
+Brooklyn,11,refuse,11,2017,7845.7
+Brooklyn,12,refuse,11,2017,6454.3
+Brooklyn,13,refuse,11,2017,3172.2
+Brooklyn,14,refuse,11,2017,4948.4
+Brooklyn,15,refuse,11,2017,4533.5
+Brooklyn,16,refuse,11,2017,2946.9
+Brooklyn,17,refuse,11,2017,4503.5
+Brooklyn,18,refuse,11,2017,5513.0
+Manhattan,1,refuse,11,2017,1601.6
+Manhattan,2,refuse,11,2017,2387.3
+Manhattan,3,refuse,11,2017,6143.6
+Manhattan,4,refuse,11,2017,3335.7
+Manhattan,5,refuse,11,2017,1839.6
+Manhattan,6,refuse,11,2017,3459.8
+Manhattan,7,refuse,11,2017,5303.9
+Manhattan,8,refuse,11,2017,6197.0
+Manhattan,9,refuse,11,2017,2396.5
+Manhattan,10,refuse,11,2017,6363.4
+Manhattan,11,refuse,11,2017,2451.4
+Manhattan,12,refuse,11,2017,5049.2
+Queens,1,refuse,11,2017,4310.3
+Queens,2,refuse,11,2017,4122.7
+Queens,3,refuse,11,2017,5022.1
+Queens,4,refuse,11,2017,4066.1
+Queens,5,refuse,11,2017,4954.2
+Queens,6,refuse,11,2017,2812.1
+Queens,7,refuse,11,2017,6420.2
+Queens,8,refuse,11,2017,3609.0
+Queens,9,refuse,11,2017,3870.9
+Queens,10,refuse,11,2017,3648.4
+Queens,11,refuse,11,2017,3049.6
+Queens,12,refuse,11,2017,6314.0
+Queens,13,refuse,11,2017,5507.5
+Queens,14,refuse,11,2017,3413.5
+Staten Island,1,refuse,11,2017,5651.5
+Staten Island,2,refuse,11,2017,5478.7
+Staten Island,3,refuse,11,2017,6054.8
+Bronx,1,refuse,10,2017,3328.4
+Bronx,2,refuse,10,2017,7967.7
+Bronx,3,refuse,10,2017,2112.1
+Bronx,4,refuse,10,2017,4373.1
+Bronx,5,refuse,10,2017,3897.1
+Bronx,6,refuse,10,2017,3183.1
+Bronx,7,refuse,10,2017,3971.4
+Bronx,8,refuse,10,2017,2492.3
+Bronx,9,refuse,10,2017,4079.0
+Bronx,10,refuse,10,2017,2441.4
+Bronx,11,refuse,10,2017,2936.9
+Bronx,12,refuse,10,2017,3510.0
+Brooklyn,1,refuse,10,2017,5682.9
+Brooklyn,2,refuse,10,2017,2558.7
+Brooklyn,3,refuse,10,2017,4399.8
+Brooklyn,4,refuse,10,2017,4506.5
+Brooklyn,5,refuse,10,2017,4955.6
+Brooklyn,6,refuse,10,2017,2260.9
+Brooklyn,7,refuse,10,2017,3384.9
+Brooklyn,8,refuse,10,2017,5960.3
+Brooklyn,9,refuse,10,2017,3209.7
+Brooklyn,10,refuse,10,2017,3596.4
+Brooklyn,11,refuse,10,2017,7683.1
+Brooklyn,12,refuse,10,2017,6598.6
+Brooklyn,13,refuse,10,2017,3236.5
+Brooklyn,14,refuse,10,2017,4931.4
+Brooklyn,15,refuse,10,2017,4603.1
+Brooklyn,16,refuse,10,2017,3044.0
+Brooklyn,17,refuse,10,2017,4586.7
+Brooklyn,18,refuse,10,2017,5388.0
+Manhattan,1,refuse,10,2017,1657.1
+Manhattan,2,refuse,10,2017,2439.0
+Manhattan,3,refuse,10,2017,6296.3
+Manhattan,4,refuse,10,2017,3432.0
+Manhattan,5,refuse,10,2017,1953.4
+Manhattan,6,refuse,10,2017,3538.7
+Manhattan,7,refuse,10,2017,5340.3
+Manhattan,8,refuse,10,2017,6296.3
+Manhattan,9,refuse,10,2017,2431.1
+Manhattan,10,refuse,10,2017,6365.1
+Manhattan,11,refuse,10,2017,2388.5
+Manhattan,12,refuse,10,2017,5156.6
+Queens,1,refuse,10,2017,4287.0
+Queens,2,refuse,10,2017,4254.9
+Queens,3,refuse,10,2017,5053.5
+Queens,4,refuse,10,2017,4022.1
+Queens,5,refuse,10,2017,4803.9
+Queens,6,refuse,10,2017,2859.2
+Queens,7,refuse,10,2017,6205.5
+Queens,8,refuse,10,2017,3665.5
+Queens,9,refuse,10,2017,4082.6
+Queens,10,refuse,10,2017,3622.5
+Queens,11,refuse,10,2017,2930.4
+Queens,12,refuse,10,2017,6560.8
+Queens,13,refuse,10,2017,5467.7
+Queens,14,refuse,10,2017,3538.5
+Staten Island,1,refuse,10,2017,5508.7
+Staten Island,2,refuse,10,2017,5227.3
+Staten Island,3,refuse,10,2017,5804.6
+Bronx,1,refuse,9,2017,3222.9
+Bronx,2,refuse,9,2017,8180.6
+Bronx,3,refuse,9,2017,2053.0
+Bronx,4,refuse,9,2017,4270.8
+Bronx,5,refuse,9,2017,3745.2
+Bronx,6,refuse,9,2017,3122.9
+Bronx,7,refuse,9,2017,3848.7
+Bronx,8,refuse,9,2017,2454.9
+Bronx,9,refuse,9,2017,4064.4
+Bronx,10,refuse,9,2017,2472.1
+Bronx,11,refuse,9,2017,2921.0
+Bronx,12,refuse,9,2017,3645.9
+Brooklyn,1,refuse,9,2017,5483.9
+Brooklyn,2,refuse,9,2017,2545.4
+Brooklyn,3,refuse,9,2017,4339.7
+Brooklyn,4,refuse,9,2017,4464.2
+Brooklyn,5,refuse,9,2017,4942.6
+Brooklyn,6,refuse,9,2017,2213.2
+Brooklyn,7,refuse,9,2017,3409.6
+Brooklyn,8,refuse,9,2017,5925.3
+Brooklyn,9,refuse,9,2017,3152.1
+Brooklyn,10,refuse,9,2017,3572.8
+Brooklyn,11,refuse,9,2017,7762.1
+Brooklyn,12,refuse,9,2017,6539.4
+Brooklyn,13,refuse,9,2017,3151.1
+Brooklyn,14,refuse,9,2017,4939.0
+Brooklyn,15,refuse,9,2017,4610.0
+Brooklyn,16,refuse,9,2017,3045.8
+Brooklyn,17,refuse,9,2017,4628.6
+Brooklyn,18,refuse,9,2017,5607.4
+Manhattan,1,refuse,9,2017,1623.5
+Manhattan,2,refuse,9,2017,2317.7
+Manhattan,3,refuse,9,2017,6320.2
+Manhattan,4,refuse,9,2017,3379.8
+Manhattan,5,refuse,9,2017,1865.0
+Manhattan,6,refuse,9,2017,3429.0
+Manhattan,7,refuse,9,2017,5224.5
+Manhattan,8,refuse,9,2017,6036.3
+Manhattan,9,refuse,9,2017,2419.1
+Manhattan,10,refuse,9,2017,6276.5
+Manhattan,11,refuse,9,2017,2300.1
+Manhattan,12,refuse,9,2017,5098.9
+Queens,1,refuse,9,2017,4134.5
+Queens,2,refuse,9,2017,4154.8
+Queens,3,refuse,9,2017,5007.5
+Queens,4,refuse,9,2017,4019.8
+Queens,5,refuse,9,2017,4746.9
+Queens,6,refuse,9,2017,2840.8
+Queens,7,refuse,9,2017,6594.0
+Queens,8,refuse,9,2017,3852.1
+Queens,9,refuse,9,2017,4185.9
+Queens,10,refuse,9,2017,3635.6
+Queens,11,refuse,9,2017,2936.6
+Queens,12,refuse,9,2017,6788.8
+Queens,13,refuse,9,2017,5659.0
+Queens,14,refuse,9,2017,3684.6
+Staten Island,1,refuse,9,2017,5493.5
+Staten Island,2,refuse,9,2017,5247.7
+Staten Island,3,refuse,9,2017,5939.7
+Bronx,1,refuse,8,2017,2998.9
+Bronx,2,refuse,8,2017,8506.4
+Bronx,3,refuse,8,2017,2016.3
+Bronx,4,refuse,8,2017,4356.8
+Bronx,5,refuse,8,2017,3784.6
+Bronx,6,refuse,8,2017,3108.3
+Bronx,7,refuse,8,2017,3906.4
+Bronx,8,refuse,8,2017,2509.9
+Bronx,9,refuse,8,2017,4136.5
+Bronx,10,refuse,8,2017,2594.6
+Bronx,11,refuse,8,2017,3127.8
+Bronx,12,refuse,8,2017,4203.4
+Brooklyn,1,refuse,8,2017,4717.6
+Brooklyn,2,refuse,8,2017,2572.9
+Brooklyn,3,refuse,8,2017,4337.8
+Brooklyn,4,refuse,8,2017,4453.1
+Brooklyn,5,refuse,8,2017,5323.9
+Brooklyn,6,refuse,8,2017,2222.9
+Brooklyn,7,refuse,8,2017,3565.1
+Brooklyn,8,refuse,8,2017,6101.9
+Brooklyn,9,refuse,8,2017,3150.4
+Brooklyn,10,refuse,8,2017,3663.5
+Brooklyn,11,refuse,8,2017,7951.7
+Brooklyn,12,refuse,8,2017,5181.3
+Brooklyn,13,refuse,8,2017,3025.3
+Brooklyn,14,refuse,8,2017,4876.2
+Brooklyn,15,refuse,8,2017,4402.8
+Brooklyn,16,refuse,8,2017,3049.7
+Brooklyn,17,refuse,8,2017,4838.1
+Brooklyn,18,refuse,8,2017,5920.8
+Manhattan,1,refuse,8,2017,1576.9
+Manhattan,2,refuse,8,2017,2239.4
+Manhattan,3,refuse,8,2017,6475.8
+Manhattan,4,refuse,8,2017,3367.0
+Manhattan,5,refuse,8,2017,1901.3
+Manhattan,6,refuse,8,2017,3453.6
+Manhattan,7,refuse,8,2017,5056.2
+Manhattan,8,refuse,8,2017,5652.5
+Manhattan,9,refuse,8,2017,2536.9
+Manhattan,10,refuse,8,2017,6600.5
+Manhattan,11,refuse,8,2017,2413.2
+Manhattan,12,refuse,8,2017,5284.0
+Queens,1,refuse,8,2017,4214.0
+Queens,2,refuse,8,2017,3848.9
+Queens,3,refuse,8,2017,5319.0
+Queens,4,refuse,8,2017,4320.8
+Queens,5,refuse,8,2017,4988.6
+Queens,6,refuse,8,2017,3008.7
+Queens,7,refuse,8,2017,7139.5
+Queens,8,refuse,8,2017,3928.3
+Queens,9,refuse,8,2017,4458.3
+Queens,10,refuse,8,2017,3889.2
+Queens,11,refuse,8,2017,2947.5
+Queens,12,refuse,8,2017,7394.7
+Queens,13,refuse,8,2017,6101.8
+Queens,14,refuse,8,2017,3970.1
+Staten Island,1,refuse,8,2017,5925.1
+Staten Island,2,refuse,8,2017,5492.9
+Staten Island,3,refuse,8,2017,6352.4
+Bronx,1,refuse,7,2017,3010.2
+Bronx,2,refuse,7,2017,8145.9
+Bronx,3,refuse,7,2017,1939.3
+Bronx,4,refuse,7,2017,4326.7
+Bronx,5,refuse,7,2017,3662.8
+Bronx,6,refuse,7,2017,3079.0
+Bronx,7,refuse,7,2017,3815.6
+Bronx,8,refuse,7,2017,2415.3
+Bronx,9,refuse,7,2017,4188.2
+Bronx,10,refuse,7,2017,2694.7
+Bronx,11,refuse,7,2017,3346.0
+Bronx,12,refuse,7,2017,4179.1
+Brooklyn,1,refuse,7,2017,4639.4
+Brooklyn,2,refuse,7,2017,2410.8
+Brooklyn,3,refuse,7,2017,4242.5
+Brooklyn,4,refuse,7,2017,4429.0
+Brooklyn,5,refuse,7,2017,5320.2
+Brooklyn,6,refuse,7,2017,2186.5
+Brooklyn,7,refuse,7,2017,3570.4
+Brooklyn,8,refuse,7,2017,6051.7
+Brooklyn,9,refuse,7,2017,3137.1
+Brooklyn,10,refuse,7,2017,3732.8
+Brooklyn,11,refuse,7,2017,7861.3
+Brooklyn,12,refuse,7,2017,5218.8
+Brooklyn,13,refuse,7,2017,3094.3
+Brooklyn,14,refuse,7,2017,4868.0
+Brooklyn,15,refuse,7,2017,4434.7
+Brooklyn,16,refuse,7,2017,3170.7
+Brooklyn,17,refuse,7,2017,4962.0
+Brooklyn,18,refuse,7,2017,6058.7
+Manhattan,1,refuse,7,2017,1516.1
+Manhattan,2,refuse,7,2017,2185.5
+Manhattan,3,refuse,7,2017,6361.3
+Manhattan,4,refuse,7,2017,3308.4
+Manhattan,5,refuse,7,2017,1803.5
+Manhattan,6,refuse,7,2017,3232.5
+Manhattan,7,refuse,7,2017,4930.0
+Manhattan,8,refuse,7,2017,5396.5
+Manhattan,9,refuse,7,2017,2471.7
+Manhattan,10,refuse,7,2017,6330.3
+Manhattan,11,refuse,7,2017,2307.8
+Manhattan,12,refuse,7,2017,5166.8
+Queens,1,refuse,7,2017,4241.4
+Queens,2,refuse,7,2017,3901.9
+Queens,3,refuse,7,2017,5275.0
+Queens,4,refuse,7,2017,4289.3
+Queens,5,refuse,7,2017,4947.5
+Queens,6,refuse,7,2017,2928.5
+Queens,7,refuse,7,2017,7106.9
+Queens,8,refuse,7,2017,3857.5
+Queens,9,refuse,7,2017,4400.8
+Queens,10,refuse,7,2017,3973.1
+Queens,11,refuse,7,2017,2910.5
+Queens,12,refuse,7,2017,7448.9
+Queens,13,refuse,7,2017,6169.1
+Queens,14,refuse,7,2017,3958.1
+Staten Island,1,refuse,7,2017,5925.1
+Staten Island,2,refuse,7,2017,5370.5
+Staten Island,3,refuse,7,2017,6208.5
+Bronx,1,refuse,6,2017,3547.5
+Bronx,2,refuse,6,2017,8323.3
+Bronx,3,refuse,6,2017,2201.4
+Bronx,4,refuse,6,2017,4415.5
+Bronx,5,refuse,6,2017,3814.2
+Bronx,6,refuse,6,2017,3479.7
+Bronx,7,refuse,6,2017,4102.5
+Bronx,8,refuse,6,2017,2596.0
+Bronx,9,refuse,6,2017,4134.8
+Bronx,10,refuse,6,2017,2994.2
+Bronx,11,refuse,6,2017,3474.6
+Bronx,12,refuse,6,2017,4360.5
+Brooklyn,1,refuse,6,2017,5621.0
+Brooklyn,2,refuse,6,2017,2668.4
+Brooklyn,3,refuse,6,2017,4548.5
+Brooklyn,4,refuse,6,2017,4936.5
+Brooklyn,5,refuse,6,2017,5417.7
+Brooklyn,6,refuse,6,2017,2441.2
+Brooklyn,7,refuse,6,2017,3802.4
+Brooklyn,8,refuse,6,2017,6067.0
+Brooklyn,9,refuse,6,2017,3227.1
+Brooklyn,10,refuse,6,2017,4125.7
+Brooklyn,11,refuse,6,2017,8529.9
+Brooklyn,12,refuse,6,2017,6717.6
+Brooklyn,13,refuse,6,2017,3410.9
+Brooklyn,14,refuse,6,2017,5345.8
+Brooklyn,15,refuse,6,2017,4784.5
+Brooklyn,16,refuse,6,2017,3247.6
+Brooklyn,17,refuse,6,2017,5108.6
+Brooklyn,18,refuse,6,2017,6442.6
+Manhattan,1,refuse,6,2017,1656.7
+Manhattan,2,refuse,6,2017,2361.6
+Manhattan,3,refuse,6,2017,6519.4
+Manhattan,4,refuse,6,2017,3591.2
+Manhattan,5,refuse,6,2017,1922.3
+Manhattan,6,refuse,6,2017,3507.6
+Manhattan,7,refuse,6,2017,5393.2
+Manhattan,8,refuse,6,2017,6197.1
+Manhattan,9,refuse,6,2017,2585.7
+Manhattan,10,refuse,6,2017,6317.0
+Manhattan,11,refuse,6,2017,2476.9
+Manhattan,12,refuse,6,2017,5269.0
+Queens,1,refuse,6,2017,4620.0
+Queens,2,refuse,6,2017,4626.0
+Queens,3,refuse,6,2017,5478.9
+Queens,4,refuse,6,2017,4351.1
+Queens,5,refuse,6,2017,5275.5
+Queens,6,refuse,6,2017,3076.5
+Queens,7,refuse,6,2017,7225.4
+Queens,8,refuse,6,2017,4301.9
+Queens,9,refuse,6,2017,4612.2
+Queens,10,refuse,6,2017,4189.8
+Queens,11,refuse,6,2017,3391.6
+Queens,12,refuse,6,2017,7775.4
+Queens,13,refuse,6,2017,6453.5
+Queens,14,refuse,6,2017,4116.5
+Staten Island,1,refuse,6,2017,6629.4
+Staten Island,2,refuse,6,2017,6049.6
+Staten Island,3,refuse,6,2017,7016.8
+Bronx,1,refuse,5,2017,3537.0
+Bronx,2,refuse,5,2017,8508.2
+Bronx,3,refuse,5,2017,2342.1
+Bronx,4,refuse,5,2017,4593.0
+Bronx,5,refuse,5,2017,3918.4
+Bronx,6,refuse,5,2017,3467.9
+Bronx,7,refuse,5,2017,4268.8
+Bronx,8,refuse,5,2017,2720.1
+Bronx,9,refuse,5,2017,4393.2
+Bronx,10,refuse,5,2017,3141.3
+Bronx,11,refuse,5,2017,3448.6
+Bronx,12,refuse,5,2017,4280.6
+Brooklyn,1,refuse,5,2017,5816.4
+Brooklyn,2,refuse,5,2017,2797.9
+Brooklyn,3,refuse,5,2017,4695.5
+Brooklyn,4,refuse,5,2017,4966.5
+Brooklyn,5,refuse,5,2017,5128.0
+Brooklyn,6,refuse,5,2017,2391.9
+Brooklyn,7,refuse,5,2017,3781.7
+Brooklyn,8,refuse,5,2017,6280.3
+Brooklyn,9,refuse,5,2017,3251.4
+Brooklyn,10,refuse,5,2017,3940.6
+Brooklyn,11,refuse,5,2017,8441.0
+Brooklyn,12,refuse,5,2017,6901.7
+Brooklyn,13,refuse,5,2017,3395.1
+Brooklyn,14,refuse,5,2017,5404.6
+Brooklyn,15,refuse,5,2017,4981.8
+Brooklyn,16,refuse,5,2017,3147.9
+Brooklyn,17,refuse,5,2017,4983.7
+Brooklyn,18,refuse,5,2017,6346.4
+Manhattan,1,refuse,5,2017,1688.8
+Manhattan,2,refuse,5,2017,2568.6
+Manhattan,3,refuse,5,2017,6881.7
+Manhattan,4,refuse,5,2017,3589.3
+Manhattan,5,refuse,5,2017,1993.4
+Manhattan,6,refuse,5,2017,3582.6
+Manhattan,7,refuse,5,2017,5599.9
+Manhattan,8,refuse,5,2017,6506.8
+Manhattan,9,refuse,5,2017,2782.3
+Manhattan,10,refuse,5,2017,6591.8
+Manhattan,11,refuse,5,2017,2555.9
+Manhattan,12,refuse,5,2017,5421.5
+Queens,1,refuse,5,2017,4602.9
+Queens,2,refuse,5,2017,4487.9
+Queens,3,refuse,5,2017,5339.9
+Queens,4,refuse,5,2017,4388.9
+Queens,5,refuse,5,2017,5109.0
+Queens,6,refuse,5,2017,3012.1
+Queens,7,refuse,5,2017,7326.3
+Queens,8,refuse,5,2017,4187.6
+Queens,9,refuse,5,2017,4535.4
+Queens,10,refuse,5,2017,4003.9
+Queens,11,refuse,5,2017,3279.6
+Queens,12,refuse,5,2017,7454.5
+Queens,13,refuse,5,2017,6515.6
+Queens,14,refuse,5,2017,4012.9
+Staten Island,1,refuse,5,2017,6266.3
+Staten Island,2,refuse,5,2017,6021.3
+Staten Island,3,refuse,5,2017,7036.3
+Bronx,1,refuse,4,2017,3091.8
+Bronx,2,refuse,4,2017,8026.0
+Bronx,3,refuse,4,2017,2018.0
+Bronx,4,refuse,4,2017,4097.6
+Bronx,5,refuse,4,2017,3496.6
+Bronx,6,refuse,4,2017,3039.4
+Bronx,7,refuse,4,2017,3808.3
+Bronx,8,refuse,4,2017,2384.1
+Bronx,9,refuse,4,2017,3973.5
+Bronx,10,refuse,4,2017,2681.1
+Bronx,11,refuse,4,2017,3071.2
+Bronx,12,refuse,4,2017,3809.9
+Brooklyn,1,refuse,4,2017,6127.2
+Brooklyn,2,refuse,4,2017,2533.2
+Brooklyn,3,refuse,4,2017,4171.1
+Brooklyn,4,refuse,4,2017,4236.2
+Brooklyn,5,refuse,4,2017,4652.2
+Brooklyn,6,refuse,4,2017,2126.2
+Brooklyn,7,refuse,4,2017,3407.3
+Brooklyn,8,refuse,4,2017,5899.4
+Brooklyn,9,refuse,4,2017,2967.5
+Brooklyn,10,refuse,4,2017,3428.5
+Brooklyn,11,refuse,4,2017,7582.0
+Brooklyn,12,refuse,4,2017,7826.6
+Brooklyn,13,refuse,4,2017,2948.1
+Brooklyn,14,refuse,4,2017,5130.5
+Brooklyn,15,refuse,4,2017,4704.0
+Brooklyn,16,refuse,4,2017,2860.3
+Brooklyn,17,refuse,4,2017,4354.4
+Brooklyn,18,refuse,4,2017,5558.8
+Manhattan,1,refuse,4,2017,1531.4
+Manhattan,2,refuse,4,2017,2270.9
+Manhattan,3,refuse,4,2017,6053.7
+Manhattan,4,refuse,4,2017,3213.7
+Manhattan,5,refuse,4,2017,1809.6
+Manhattan,6,refuse,4,2017,3179.7
+Manhattan,7,refuse,4,2017,5037.9
+Manhattan,8,refuse,4,2017,5867.3
+Manhattan,9,refuse,4,2017,2406.2
+Manhattan,10,refuse,4,2017,6018.1
+Manhattan,11,refuse,4,2017,2225.1
+Manhattan,12,refuse,4,2017,4856.0
+Queens,1,refuse,4,2017,4074.3
+Queens,2,refuse,4,2017,3882.1
+Queens,3,refuse,4,2017,4700.1
+Queens,4,refuse,4,2017,3993.9
+Queens,5,refuse,4,2017,4567.1
+Queens,6,refuse,4,2017,2817.1
+Queens,7,refuse,4,2017,6424.1
+Queens,8,refuse,4,2017,3795.2
+Queens,9,refuse,4,2017,4008.9
+Queens,10,refuse,4,2017,3512.4
+Queens,11,refuse,4,2017,2797.0
+Queens,12,refuse,4,2017,6475.8
+Queens,13,refuse,4,2017,5303.8
+Queens,14,refuse,4,2017,3572.3
+Staten Island,1,refuse,4,2017,5554.4
+Staten Island,2,refuse,4,2017,5143.4
+Staten Island,3,refuse,4,2017,6046.8
+Bronx,1,refuse,3,2017,3299.8
+Bronx,2,refuse,3,2017,8454.7
+Bronx,3,refuse,3,2017,2027.8
+Bronx,4,refuse,3,2017,4385.9
+Bronx,5,refuse,3,2017,3741.3
+Bronx,6,refuse,3,2017,3140.3
+Bronx,7,refuse,3,2017,3916.1
+Bronx,8,refuse,3,2017,2396.0
+Bronx,9,refuse,3,2017,3961.7
+Bronx,10,refuse,3,2017,2309.2
+Bronx,11,refuse,3,2017,2895.9
+Bronx,12,refuse,3,2017,3421.4
+Brooklyn,1,refuse,3,2017,5639.3
+Brooklyn,2,refuse,3,2017,2441.0
+Brooklyn,3,refuse,3,2017,4055.2
+Brooklyn,4,refuse,3,2017,4448.3
+Brooklyn,5,refuse,3,2017,4439.5
+Brooklyn,6,refuse,3,2017,2076.2
+Brooklyn,7,refuse,3,2017,3279.6
+Brooklyn,8,refuse,3,2017,5814.9
+Brooklyn,9,refuse,3,2017,2906.1
+Brooklyn,10,refuse,3,2017,3343.3
+Brooklyn,11,refuse,3,2017,7661.7
+Brooklyn,12,refuse,3,2017,6958.5
+Brooklyn,13,refuse,3,2017,2999.8
+Brooklyn,14,refuse,3,2017,5002.1
+Brooklyn,15,refuse,3,2017,4465.3
+Brooklyn,16,refuse,3,2017,2906.0
+Brooklyn,17,refuse,3,2017,4115.8
+Brooklyn,18,refuse,3,2017,5044.6
+Manhattan,1,refuse,3,2017,1575.9
+Manhattan,2,refuse,3,2017,2268.5
+Manhattan,3,refuse,3,2017,6292.2
+Manhattan,4,refuse,3,2017,3279.6
+Manhattan,5,refuse,3,2017,1751.0
+Manhattan,6,refuse,3,2017,3328.9
+Manhattan,7,refuse,3,2017,5078.6
+Manhattan,8,refuse,3,2017,5841.0
+Manhattan,9,refuse,3,2017,2412.9
+Manhattan,10,refuse,3,2017,6359.1
+Manhattan,11,refuse,3,2017,2338.8
+Manhattan,12,refuse,3,2017,5044.4
+Queens,1,refuse,3,2017,4011.0
+Queens,2,refuse,3,2017,3943.2
+Queens,3,refuse,3,2017,4573.5
+Queens,4,refuse,3,2017,3878.9
+Queens,5,refuse,3,2017,4188.2
+Queens,6,refuse,3,2017,2687.2
+Queens,7,refuse,3,2017,5842.9
+Queens,8,refuse,3,2017,3508.8
+Queens,9,refuse,3,2017,3672.4
+Queens,10,refuse,3,2017,3042.8
+Queens,11,refuse,3,2017,2502.6
+Queens,12,refuse,3,2017,5690.5
+Queens,13,refuse,3,2017,4412.8
+Queens,14,refuse,3,2017,3402.7
+Staten Island,1,refuse,3,2017,5046.3
+Staten Island,2,refuse,3,2017,4691.1
+Staten Island,3,refuse,3,2017,5104.5
+Bronx,1,refuse,2,2017,2792.5
+Bronx,2,refuse,2,2017,7325.9
+Bronx,3,refuse,2,2017,1735.2
+Bronx,4,refuse,2,2017,3835.4
+Bronx,5,refuse,2,2017,3232.8
+Bronx,6,refuse,2,2017,2753.9
+Bronx,7,refuse,2,2017,3466.2
+Bronx,8,refuse,2,2017,2163.7
+Bronx,9,refuse,2,2017,3474.3
+Bronx,10,refuse,2,2017,2118.9
+Bronx,11,refuse,2,2017,2630.1
+Bronx,12,refuse,2,2017,3145.0
+Brooklyn,1,refuse,2,2017,4822.1
+Brooklyn,2,refuse,2,2017,2204.7
+Brooklyn,3,refuse,2,2017,3568.1
+Brooklyn,4,refuse,2,2017,3747.7
+Brooklyn,5,refuse,2,2017,3888.1
+Brooklyn,6,refuse,2,2017,1862.2
+Brooklyn,7,refuse,2,2017,2877.6
+Brooklyn,8,refuse,2,2017,5020.1
+Brooklyn,9,refuse,2,2017,2582.9
+Brooklyn,10,refuse,2,2017,3026.6
+Brooklyn,11,refuse,2,2017,6716.6
+Brooklyn,12,refuse,2,2017,5562.2
+Brooklyn,13,refuse,2,2017,2604.7
+Brooklyn,14,refuse,2,2017,4211.4
+Brooklyn,15,refuse,2,2017,3815.6
+Brooklyn,16,refuse,2,2017,2405.4
+Brooklyn,17,refuse,2,2017,3687.8
+Brooklyn,18,refuse,2,2017,4388.6
+Manhattan,1,refuse,2,2017,1382.6
+Manhattan,2,refuse,2,2017,2045.2
+Manhattan,3,refuse,2,2017,5475.5
+Manhattan,4,refuse,2,2017,2920.6
+Manhattan,5,refuse,2,2017,1565.6
+Manhattan,6,refuse,2,2017,2944.0
+Manhattan,7,refuse,2,2017,4548.0
+Manhattan,8,refuse,2,2017,5248.1
+Manhattan,9,refuse,2,2017,2176.9
+Manhattan,10,refuse,2,2017,5502.0
+Manhattan,11,refuse,2,2017,2050.0
+Manhattan,12,refuse,2,2017,4445.5
+Queens,1,refuse,2,2017,3555.8
+Queens,2,refuse,2,2017,3369.8
+Queens,3,refuse,2,2017,4040.6
+Queens,4,refuse,2,2017,3383.1
+Queens,5,refuse,2,2017,3719.2
+Queens,6,refuse,2,2017,2387.5
+Queens,7,refuse,2,2017,5386.8
+Queens,8,refuse,2,2017,3033.0
+Queens,9,refuse,2,2017,3267.6
+Queens,10,refuse,2,2017,2715.0
+Queens,11,refuse,2,2017,2215.6
+Queens,12,refuse,2,2017,5101.1
+Queens,13,refuse,2,2017,3965.5
+Queens,14,refuse,2,2017,2930.1
+Staten Island,1,refuse,2,2017,4439.4
+Staten Island,2,refuse,2,2017,4120.0
+Staten Island,3,refuse,2,2017,4617.4
+Bronx,1,refuse,1,2017,3223.1
+Bronx,2,refuse,1,2017,8191.5
+Bronx,3,refuse,1,2017,1911.7
+Bronx,4,refuse,1,2017,4295.2
+Bronx,5,refuse,1,2017,3690.9
+Bronx,6,refuse,1,2017,3195.6
+Bronx,7,refuse,1,2017,3997.1
+Bronx,8,refuse,1,2017,2426.7
+Bronx,9,refuse,1,2017,3936.8
+Bronx,10,refuse,1,2017,2361.0
+Bronx,11,refuse,1,2017,2979.5
+Bronx,12,refuse,1,2017,3535.7
+Brooklyn,1,refuse,1,2017,5347.2
+Brooklyn,2,refuse,1,2017,2476.0
+Brooklyn,3,refuse,1,2017,4117.4
+Brooklyn,4,refuse,1,2017,4391.0
+Brooklyn,5,refuse,1,2017,4400.0
+Brooklyn,6,refuse,1,2017,2215.4
+Brooklyn,7,refuse,1,2017,3358.7
+Brooklyn,8,refuse,1,2017,5919.8
+Brooklyn,9,refuse,1,2017,2926.8
+Brooklyn,10,refuse,1,2017,3587.4
+Brooklyn,11,refuse,1,2017,7772.8
+Brooklyn,12,refuse,1,2017,6217.5
+Brooklyn,13,refuse,1,2017,3012.0
+Brooklyn,14,refuse,1,2017,4904.7
+Brooklyn,15,refuse,1,2017,4303.3
+Brooklyn,16,refuse,1,2017,2726.9
+Brooklyn,17,refuse,1,2017,4290.4
+Brooklyn,18,refuse,1,2017,5127.4
+Manhattan,1,refuse,1,2017,1528.5
+Manhattan,2,refuse,1,2017,2322.8
+Manhattan,3,refuse,1,2017,6167.2
+Manhattan,4,refuse,1,2017,3249.5
+Manhattan,5,refuse,1,2017,1698.0
+Manhattan,6,refuse,1,2017,3324.1
+Manhattan,7,refuse,1,2017,5272.8
+Manhattan,8,refuse,1,2017,6059.9
+Manhattan,9,refuse,1,2017,2458.2
+Manhattan,10,refuse,1,2017,6169.5
+Manhattan,11,refuse,1,2017,2395.9
+Manhattan,12,refuse,1,2017,5095.9
+Queens,1,refuse,1,2017,4102.3
+Queens,2,refuse,1,2017,4015.0
+Queens,3,refuse,1,2017,4689.9
+Queens,4,refuse,1,2017,3915.7
+Queens,5,refuse,1,2017,4347.1
+Queens,6,refuse,1,2017,2744.9
+Queens,7,refuse,1,2017,6068.1
+Queens,8,refuse,1,2017,3507.5
+Queens,9,refuse,1,2017,3713.5
+Queens,10,refuse,1,2017,3208.7
+Queens,11,refuse,1,2017,2601.0
+Queens,12,refuse,1,2017,5961.0
+Queens,13,refuse,1,2017,4550.1
+Queens,14,refuse,1,2017,3278.2
+Staten Island,1,refuse,1,2017,5189.4
+Staten Island,2,refuse,1,2017,4766.7
+Staten Island,3,refuse,1,2017,5263.1
+Bronx,1,paper,12,2017,242.2
+Bronx,2,paper,12,2017,175.4
+Bronx,3,paper,12,2017,133.2
+Bronx,4,paper,12,2017,266.4
+Bronx,5,paper,12,2017,258.5
+Bronx,6,paper,12,2017,189.5
+Bronx,7,paper,12,2017,287.6
+Bronx,8,paper,12,2017,377.7
+Bronx,9,paper,12,2017,248.6
+Bronx,10,paper,12,2017,402.3
+Bronx,11,paper,12,2017,336.2
+Bronx,12,paper,12,2017,423.4
+Brooklyn,1,paper,12,2017,674.1
+Brooklyn,2,paper,12,2017,606.6
+Brooklyn,3,paper,12,2017,387.0
+Brooklyn,4,paper,12,2017,348.0
+Brooklyn,5,paper,12,2017,286.0
+Brooklyn,6,paper,12,2017,683.3
+Brooklyn,7,paper,12,2017,476.4
+Brooklyn,8,paper,12,2017,310.9
+Brooklyn,9,paper,12,2017,299.5
+Brooklyn,10,paper,12,2017,589.4
+Brooklyn,11,paper,12,2017,688.4
+Brooklyn,12,paper,12,2017,706.1
+Brooklyn,13,paper,12,2017,328.6
+Brooklyn,14,paper,12,2017,530.6
+Brooklyn,15,paper,12,2017,653.4
+Brooklyn,16,paper,12,2017,179.3
+Brooklyn,17,paper,12,2017,362.0
+Brooklyn,18,paper,12,2017,646.1
+Manhattan,1,paper,12,2017,428.5
+Manhattan,2,paper,12,2017,472.3
+Manhattan,3,paper,12,2017,513.4
+Manhattan,4,paper,12,2017,771.6
+Manhattan,5,paper,12,2017,274.9
+Manhattan,6,paper,12,2017,903.7
+Manhattan,7,paper,12,2017,1301.5
+Manhattan,8,paper,12,2017,1336.1
+Manhattan,9,paper,12,2017,349.4
+Manhattan,10,paper,12,2017,347.0
+Manhattan,11,paper,12,2017,228.5
+Manhattan,12,paper,12,2017,512.0
+Queens,1,paper,12,2017,668.6
+Queens,2,paper,12,2017,643.2
+Queens,3,paper,12,2017,430.8
+Queens,4,paper,12,2017,388.9
+Queens,5,paper,12,2017,725.2
+Queens,6,paper,12,2017,483.0
+Queens,7,paper,12,2017,895.8
+Queens,8,paper,12,2017,519.5
+Queens,9,paper,12,2017,501.7
+Queens,10,paper,12,2017,426.6
+Queens,11,paper,12,2017,548.9
+Queens,12,paper,12,2017,531.7
+Queens,13,paper,12,2017,554.5
+Queens,14,paper,12,2017,324.7
+Staten Island,1,paper,12,2017,817.0
+Staten Island,2,paper,12,2017,632.3
+Staten Island,3,paper,12,2017,951.6
+Bronx,1,paper,11,2017,214.3
+Bronx,2,paper,11,2017,161.5
+Bronx,3,paper,11,2017,120.1
+Bronx,4,paper,11,2017,231.2
+Bronx,5,paper,11,2017,219.7
+Bronx,6,paper,11,2017,191.9
+Bronx,7,paper,11,2017,280.9
+Bronx,8,paper,11,2017,361.4
+Bronx,9,paper,11,2017,234.8
+Bronx,10,paper,11,2017,352.8
+Bronx,11,paper,11,2017,297.9
+Bronx,12,paper,11,2017,381.4
+Brooklyn,1,paper,11,2017,606.1
+Brooklyn,2,paper,11,2017,534.1
+Brooklyn,3,paper,11,2017,368.3
+Brooklyn,4,paper,11,2017,320.9
+Brooklyn,5,paper,11,2017,278.4
+Brooklyn,6,paper,11,2017,645.2
+Brooklyn,7,paper,11,2017,456.0
+Brooklyn,8,paper,11,2017,311.8
+Brooklyn,9,paper,11,2017,265.5
+Brooklyn,10,paper,11,2017,539.2
+Brooklyn,11,paper,11,2017,629.9
+Brooklyn,12,paper,11,2017,686.1
+Brooklyn,13,paper,11,2017,303.1
+Brooklyn,14,paper,11,2017,484.0
+Brooklyn,15,paper,11,2017,609.8
+Brooklyn,16,paper,11,2017,154.4
+Brooklyn,17,paper,11,2017,329.7
+Brooklyn,18,paper,11,2017,581.9
+Manhattan,1,paper,11,2017,371.8
+Manhattan,2,paper,11,2017,497.5
+Manhattan,3,paper,11,2017,501.0
+Manhattan,4,paper,11,2017,703.6
+Manhattan,5,paper,11,2017,258.1
+Manhattan,6,paper,11,2017,860.0
+Manhattan,7,paper,11,2017,1220.4
+Manhattan,8,paper,11,2017,1254.9
+Manhattan,9,paper,11,2017,285.5
+Manhattan,10,paper,11,2017,308.5
+Manhattan,11,paper,11,2017,246.1
+Manhattan,12,paper,11,2017,500.4
+Queens,1,paper,11,2017,622.0
+Queens,2,paper,11,2017,601.6
+Queens,3,paper,11,2017,389.0
+Queens,4,paper,11,2017,349.8
+Queens,5,paper,11,2017,662.8
+Queens,6,paper,11,2017,445.6
+Queens,7,paper,11,2017,850.7
+Queens,8,paper,11,2017,491.7
+Queens,9,paper,11,2017,453.9
+Queens,10,paper,11,2017,384.0
+Queens,11,paper,11,2017,546.1
+Queens,12,paper,11,2017,474.6
+Queens,13,paper,11,2017,544.2
+Queens,14,paper,11,2017,293.4
+Staten Island,1,paper,11,2017,757.1
+Staten Island,2,paper,11,2017,604.9
+Staten Island,3,paper,11,2017,819.7
+Bronx,1,paper,10,2017,236.1
+Bronx,2,paper,10,2017,139.3
+Bronx,3,paper,10,2017,117.2
+Bronx,4,paper,10,2017,237.2
+Bronx,5,paper,10,2017,212.4
+Bronx,6,paper,10,2017,191.4
+Bronx,7,paper,10,2017,269.6
+Bronx,8,paper,10,2017,331.8
+Bronx,9,paper,10,2017,215.9
+Bronx,10,paper,10,2017,312.2
+Bronx,11,paper,10,2017,272.0
+Bronx,12,paper,10,2017,356.2
+Brooklyn,1,paper,10,2017,577.9
+Brooklyn,2,paper,10,2017,499.8
+Brooklyn,3,paper,10,2017,353.8
+Brooklyn,4,paper,10,2017,291.7
+Brooklyn,5,paper,10,2017,237.9
+Brooklyn,6,paper,10,2017,602.3
+Brooklyn,7,paper,10,2017,436.3
+Brooklyn,8,paper,10,2017,341.7
+Brooklyn,9,paper,10,2017,234.6
+Brooklyn,10,paper,10,2017,501.3
+Brooklyn,11,paper,10,2017,594.4
+Brooklyn,12,paper,10,2017,656.2
+Brooklyn,13,paper,10,2017,295.8
+Brooklyn,14,paper,10,2017,488.0
+Brooklyn,15,paper,10,2017,571.1
+Brooklyn,16,paper,10,2017,127.7
+Brooklyn,17,paper,10,2017,312.1
+Brooklyn,18,paper,10,2017,550.1
+Manhattan,1,paper,10,2017,356.8
+Manhattan,2,paper,10,2017,496.4
+Manhattan,3,paper,10,2017,491.1
+Manhattan,4,paper,10,2017,671.1
+Manhattan,5,paper,10,2017,273.9
+Manhattan,6,paper,10,2017,804.9
+Manhattan,7,paper,10,2017,1155.1
+Manhattan,8,paper,10,2017,1159.2
+Manhattan,9,paper,10,2017,266.2
+Manhattan,10,paper,10,2017,290.9
+Manhattan,11,paper,10,2017,197.3
+Manhattan,12,paper,10,2017,435.1
+Queens,1,paper,10,2017,595.5
+Queens,2,paper,10,2017,584.2
+Queens,3,paper,10,2017,332.9
+Queens,4,paper,10,2017,306.0
+Queens,5,paper,10,2017,583.1
+Queens,6,paper,10,2017,402.9
+Queens,7,paper,10,2017,782.6
+Queens,8,paper,10,2017,454.4
+Queens,9,paper,10,2017,411.5
+Queens,10,paper,10,2017,341.7
+Queens,11,paper,10,2017,507.9
+Queens,12,paper,10,2017,418.6
+Queens,13,paper,10,2017,461.9
+Queens,14,paper,10,2017,245.9
+Staten Island,1,paper,10,2017,715.8
+Staten Island,2,paper,10,2017,548.0
+Staten Island,3,paper,10,2017,717.6
+Bronx,1,paper,9,2017,260.8
+Bronx,2,paper,9,2017,160.6
+Bronx,3,paper,9,2017,126.0
+Bronx,4,paper,9,2017,248.6
+Bronx,5,paper,9,2017,220.7
+Bronx,6,paper,9,2017,203.3
+Bronx,7,paper,9,2017,283.7
+Bronx,8,paper,9,2017,346.1
+Bronx,9,paper,9,2017,235.7
+Bronx,10,paper,9,2017,333.8
+Bronx,11,paper,9,2017,288.3
+Bronx,12,paper,9,2017,379.1
+Brooklyn,1,paper,9,2017,629.9
+Brooklyn,2,paper,9,2017,546.2
+Brooklyn,3,paper,9,2017,357.7
+Brooklyn,4,paper,9,2017,310.9
+Brooklyn,5,paper,9,2017,243.1
+Brooklyn,6,paper,9,2017,642.4
+Brooklyn,7,paper,9,2017,543.9
+Brooklyn,8,paper,9,2017,294.1
+Brooklyn,9,paper,9,2017,273.9
+Brooklyn,10,paper,9,2017,513.6
+Brooklyn,11,paper,9,2017,618.7
+Brooklyn,12,paper,9,2017,735.5
+Brooklyn,13,paper,9,2017,326.6
+Brooklyn,14,paper,9,2017,502.7
+Brooklyn,15,paper,9,2017,612.9
+Brooklyn,16,paper,9,2017,170.4
+Brooklyn,17,paper,9,2017,323.4
+Brooklyn,18,paper,9,2017,571.4
+Manhattan,1,paper,9,2017,405.2
+Manhattan,2,paper,9,2017,446.1
+Manhattan,3,paper,9,2017,547.1
+Manhattan,4,paper,9,2017,723.8
+Manhattan,5,paper,9,2017,252.0
+Manhattan,6,paper,9,2017,841.8
+Manhattan,7,paper,9,2017,1209.5
+Manhattan,8,paper,9,2017,1207.1
+Manhattan,9,paper,9,2017,358.9
+Manhattan,10,paper,9,2017,309.3
+Manhattan,11,paper,9,2017,216.8
+Manhattan,12,paper,9,2017,467.6
+Queens,1,paper,9,2017,590.5
+Queens,2,paper,9,2017,582.4
+Queens,3,paper,9,2017,365.5
+Queens,4,paper,9,2017,334.6
+Queens,5,paper,9,2017,599.9
+Queens,6,paper,9,2017,428.5
+Queens,7,paper,9,2017,815.5
+Queens,8,paper,9,2017,484.9
+Queens,9,paper,9,2017,418.1
+Queens,10,paper,9,2017,356.0
+Queens,11,paper,9,2017,520.0
+Queens,12,paper,9,2017,446.2
+Queens,13,paper,9,2017,505.2
+Queens,14,paper,9,2017,286.6
+Staten Island,1,paper,9,2017,732.2
+Staten Island,2,paper,9,2017,553.9
+Staten Island,3,paper,9,2017,738.8
+Bronx,1,paper,8,2017,229.7
+Bronx,2,paper,8,2017,205.6
+Bronx,3,paper,8,2017,132.0
+Bronx,4,paper,8,2017,230.3
+Bronx,5,paper,8,2017,199.3
+Bronx,6,paper,8,2017,178.1
+Bronx,7,paper,8,2017,270.3
+Bronx,8,paper,8,2017,346.9
+Bronx,9,paper,8,2017,221.4
+Bronx,10,paper,8,2017,334.1
+Bronx,11,paper,8,2017,297.8
+Bronx,12,paper,8,2017,391.8
+Brooklyn,1,paper,8,2017,527.0
+Brooklyn,2,paper,8,2017,544.3
+Brooklyn,3,paper,8,2017,357.8
+Brooklyn,4,paper,8,2017,318.4
+Brooklyn,5,paper,8,2017,267.1
+Brooklyn,6,paper,8,2017,550.4
+Brooklyn,7,paper,8,2017,641.5
+Brooklyn,8,paper,8,2017,341.0
+Brooklyn,9,paper,8,2017,255.7
+Brooklyn,10,paper,8,2017,521.0
+Brooklyn,11,paper,8,2017,631.9
+Brooklyn,12,paper,8,2017,541.6
+Brooklyn,13,paper,8,2017,275.8
+Brooklyn,14,paper,8,2017,431.9
+Brooklyn,15,paper,8,2017,559.2
+Brooklyn,16,paper,8,2017,163.8
+Brooklyn,17,paper,8,2017,336.2
+Brooklyn,18,paper,8,2017,584.1
+Manhattan,1,paper,8,2017,312.1
+Manhattan,2,paper,8,2017,422.8
+Manhattan,3,paper,8,2017,544.7
+Manhattan,4,paper,8,2017,659.1
+Manhattan,5,paper,8,2017,252.2
+Manhattan,6,paper,8,2017,769.6
+Manhattan,7,paper,8,2017,1003.8
+Manhattan,8,paper,8,2017,1002.7
+Manhattan,9,paper,8,2017,275.8
+Manhattan,10,paper,8,2017,309.7
+Manhattan,11,paper,8,2017,235.7
+Manhattan,12,paper,8,2017,494.5
+Queens,1,paper,8,2017,588.0
+Queens,2,paper,8,2017,554.9
+Queens,3,paper,8,2017,365.9
+Queens,4,paper,8,2017,352.8
+Queens,5,paper,8,2017,604.8
+Queens,6,paper,8,2017,429.7
+Queens,7,paper,8,2017,808.7
+Queens,8,paper,8,2017,468.9
+Queens,9,paper,8,2017,420.6
+Queens,10,paper,8,2017,373.2
+Queens,11,paper,8,2017,509.9
+Queens,12,paper,8,2017,475.0
+Queens,13,paper,8,2017,495.8
+Queens,14,paper,8,2017,270.0
+Staten Island,1,paper,8,2017,738.7
+Staten Island,2,paper,8,2017,570.2
+Staten Island,3,paper,8,2017,778.3
+Bronx,1,paper,7,2017,246.1
+Bronx,2,paper,7,2017,152.1
+Bronx,3,paper,7,2017,120.3
+Bronx,4,paper,7,2017,247.6
+Bronx,5,paper,7,2017,204.6
+Bronx,6,paper,7,2017,173.9
+Bronx,7,paper,7,2017,271.3
+Bronx,8,paper,7,2017,319.6
+Bronx,9,paper,7,2017,237.8
+Bronx,10,paper,7,2017,339.2
+Bronx,11,paper,7,2017,293.5
+Bronx,12,paper,7,2017,375.4
+Brooklyn,1,paper,7,2017,514.8
+Brooklyn,2,paper,7,2017,453.2
+Brooklyn,3,paper,7,2017,305.3
+Brooklyn,4,paper,7,2017,329.3
+Brooklyn,5,paper,7,2017,263.6
+Brooklyn,6,paper,7,2017,550.9
+Brooklyn,7,paper,7,2017,467.0
+Brooklyn,8,paper,7,2017,302.3
+Brooklyn,9,paper,7,2017,239.7
+Brooklyn,10,paper,7,2017,523.9
+Brooklyn,11,paper,7,2017,673.0
+Brooklyn,12,paper,7,2017,534.0
+Brooklyn,13,paper,7,2017,271.6
+Brooklyn,14,paper,7,2017,458.0
+Brooklyn,15,paper,7,2017,589.7
+Brooklyn,16,paper,7,2017,169.6
+Brooklyn,17,paper,7,2017,325.2
+Brooklyn,18,paper,7,2017,585.5
+Manhattan,1,paper,7,2017,317.5
+Manhattan,2,paper,7,2017,369.8
+Manhattan,3,paper,7,2017,491.1
+Manhattan,4,paper,7,2017,604.9
+Manhattan,5,paper,7,2017,207.6
+Manhattan,6,paper,7,2017,711.3
+Manhattan,7,paper,7,2017,985.0
+Manhattan,8,paper,7,2017,942.2
+Manhattan,9,paper,7,2017,265.4
+Manhattan,10,paper,7,2017,270.5
+Manhattan,11,paper,7,2017,207.0
+Manhattan,12,paper,7,2017,429.8
+Queens,1,paper,7,2017,599.4
+Queens,2,paper,7,2017,544.2
+Queens,3,paper,7,2017,377.4
+Queens,4,paper,7,2017,342.0
+Queens,5,paper,7,2017,600.8
+Queens,6,paper,7,2017,423.4
+Queens,7,paper,7,2017,803.0
+Queens,8,paper,7,2017,500.3
+Queens,9,paper,7,2017,450.9
+Queens,10,paper,7,2017,404.0
+Queens,11,paper,7,2017,490.5
+Queens,12,paper,7,2017,508.6
+Queens,13,paper,7,2017,532.8
+Queens,14,paper,7,2017,298.0
+Staten Island,1,paper,7,2017,758.4
+Staten Island,2,paper,7,2017,568.8
+Staten Island,3,paper,7,2017,748.3
+Bronx,1,paper,6,2017,290.4
+Bronx,2,paper,6,2017,166.5
+Bronx,3,paper,6,2017,148.8
+Bronx,4,paper,6,2017,261.2
+Bronx,5,paper,6,2017,274.7
+Bronx,6,paper,6,2017,245.6
+Bronx,7,paper,6,2017,320.5
+Bronx,8,paper,6,2017,381.3
+Bronx,9,paper,6,2017,232.6
+Bronx,10,paper,6,2017,397.0
+Bronx,11,paper,6,2017,306.6
+Bronx,12,paper,6,2017,392.5
+Brooklyn,1,paper,6,2017,633.0
+Brooklyn,2,paper,6,2017,528.0
+Brooklyn,3,paper,6,2017,381.9
+Brooklyn,4,paper,6,2017,378.4
+Brooklyn,5,paper,6,2017,267.2
+Brooklyn,6,paper,6,2017,667.7
+Brooklyn,7,paper,6,2017,455.9
+Brooklyn,8,paper,6,2017,325.0
+Brooklyn,9,paper,6,2017,309.2
+Brooklyn,10,paper,6,2017,556.3
+Brooklyn,11,paper,6,2017,703.4
+Brooklyn,12,paper,6,2017,642.2
+Brooklyn,13,paper,6,2017,324.9
+Brooklyn,14,paper,6,2017,510.0
+Brooklyn,15,paper,6,2017,604.4
+Brooklyn,16,paper,6,2017,183.5
+Brooklyn,17,paper,6,2017,351.5
+Brooklyn,18,paper,6,2017,682.5
+Manhattan,1,paper,6,2017,404.7
+Manhattan,2,paper,6,2017,463.5
+Manhattan,3,paper,6,2017,613.3
+Manhattan,4,paper,6,2017,733.6
+Manhattan,5,paper,6,2017,256.6
+Manhattan,6,paper,6,2017,848.8
+Manhattan,7,paper,6,2017,1184.8
+Manhattan,8,paper,6,2017,1157.5
+Manhattan,9,paper,6,2017,346.1
+Manhattan,10,paper,6,2017,302.4
+Manhattan,11,paper,6,2017,261.5
+Manhattan,12,paper,6,2017,513.2
+Queens,1,paper,6,2017,662.9
+Queens,2,paper,6,2017,634.2
+Queens,3,paper,6,2017,417.7
+Queens,4,paper,6,2017,372.5
+Queens,5,paper,6,2017,671.9
+Queens,6,paper,6,2017,449.5
+Queens,7,paper,6,2017,853.5
+Queens,8,paper,6,2017,551.6
+Queens,9,paper,6,2017,505.8
+Queens,10,paper,6,2017,426.2
+Queens,11,paper,6,2017,571.6
+Queens,12,paper,6,2017,531.8
+Queens,13,paper,6,2017,604.2
+Queens,14,paper,6,2017,299.0
+Staten Island,1,paper,6,2017,821.4
+Staten Island,2,paper,6,2017,640.6
+Staten Island,3,paper,6,2017,842.4
+Bronx,1,paper,5,2017,248.6
+Bronx,2,paper,5,2017,143.3
+Bronx,3,paper,5,2017,122.5
+Bronx,4,paper,5,2017,248.4
+Bronx,5,paper,5,2017,237.0
+Bronx,6,paper,5,2017,235.5
+Bronx,7,paper,5,2017,284.0
+Bronx,8,paper,5,2017,349.3
+Bronx,9,paper,5,2017,209.6
+Bronx,10,paper,5,2017,374.6
+Bronx,11,paper,5,2017,295.9
+Bronx,12,paper,5,2017,379.3
+Brooklyn,1,paper,5,2017,601.6
+Brooklyn,2,paper,5,2017,508.8
+Brooklyn,3,paper,5,2017,373.9
+Brooklyn,4,paper,5,2017,335.9
+Brooklyn,5,paper,5,2017,259.1
+Brooklyn,6,paper,5,2017,623.7
+Brooklyn,7,paper,5,2017,452.9
+Brooklyn,8,paper,5,2017,313.7
+Brooklyn,9,paper,5,2017,279.1
+Brooklyn,10,paper,5,2017,540.3
+Brooklyn,11,paper,5,2017,660.7
+Brooklyn,12,paper,5,2017,718.3
+Brooklyn,13,paper,5,2017,315.5
+Brooklyn,14,paper,5,2017,527.6
+Brooklyn,15,paper,5,2017,621.8
+Brooklyn,16,paper,5,2017,151.7
+Brooklyn,17,paper,5,2017,320.8
+Brooklyn,18,paper,5,2017,619.1
+Manhattan,1,paper,5,2017,349.6
+Manhattan,2,paper,5,2017,495.5
+Manhattan,3,paper,5,2017,552.1
+Manhattan,4,paper,5,2017,695.9
+Manhattan,5,paper,5,2017,282.6
+Manhattan,6,paper,5,2017,804.4
+Manhattan,7,paper,5,2017,1120.7
+Manhattan,8,paper,5,2017,1169.6
+Manhattan,9,paper,5,2017,307.4
+Manhattan,10,paper,5,2017,293.5
+Manhattan,11,paper,5,2017,251.5
+Manhattan,12,paper,5,2017,472.8
+Queens,1,paper,5,2017,650.4
+Queens,2,paper,5,2017,619.5
+Queens,3,paper,5,2017,390.6
+Queens,4,paper,5,2017,336.3
+Queens,5,paper,5,2017,669.7
+Queens,6,paper,5,2017,433.8
+Queens,7,paper,5,2017,830.5
+Queens,8,paper,5,2017,519.2
+Queens,9,paper,5,2017,478.9
+Queens,10,paper,5,2017,416.2
+Queens,11,paper,5,2017,543.1
+Queens,12,paper,5,2017,505.4
+Queens,13,paper,5,2017,565.5
+Queens,14,paper,5,2017,285.6
+Staten Island,1,paper,5,2017,787.9
+Staten Island,2,paper,5,2017,619.8
+Staten Island,3,paper,5,2017,817.3
+Bronx,1,paper,4,2017,226.8
+Bronx,2,paper,4,2017,153.4
+Bronx,3,paper,4,2017,113.3
+Bronx,4,paper,4,2017,225.1
+Bronx,5,paper,4,2017,225.5
+Bronx,6,paper,4,2017,183.0
+Bronx,7,paper,4,2017,273.1
+Bronx,8,paper,4,2017,326.3
+Bronx,9,paper,4,2017,205.5
+Bronx,10,paper,4,2017,354.7
+Bronx,11,paper,4,2017,283.3
+Bronx,12,paper,4,2017,367.6
+Brooklyn,1,paper,4,2017,630.4
+Brooklyn,2,paper,4,2017,466.0
+Brooklyn,3,paper,4,2017,328.6
+Brooklyn,4,paper,4,2017,308.0
+Brooklyn,5,paper,4,2017,240.7
+Brooklyn,6,paper,4,2017,584.0
+Brooklyn,7,paper,4,2017,450.9
+Brooklyn,8,paper,4,2017,276.1
+Brooklyn,9,paper,4,2017,268.9
+Brooklyn,10,paper,4,2017,499.6
+Brooklyn,11,paper,4,2017,609.1
+Brooklyn,12,paper,4,2017,864.5
+Brooklyn,13,paper,4,2017,286.0
+Brooklyn,14,paper,4,2017,507.9
+Brooklyn,15,paper,4,2017,617.4
+Brooklyn,16,paper,4,2017,145.2
+Brooklyn,17,paper,4,2017,310.0
+Brooklyn,18,paper,4,2017,595.6
+Manhattan,1,paper,4,2017,356.2
+Manhattan,2,paper,4,2017,436.3
+Manhattan,3,paper,4,2017,516.5
+Manhattan,4,paper,4,2017,639.9
+Manhattan,5,paper,4,2017,237.8
+Manhattan,6,paper,4,2017,776.2
+Manhattan,7,paper,4,2017,1072.8
+Manhattan,8,paper,4,2017,1131.3
+Manhattan,9,paper,4,2017,283.4
+Manhattan,10,paper,4,2017,268.3
+Manhattan,11,paper,4,2017,224.8
+Manhattan,12,paper,4,2017,446.0
+Queens,1,paper,4,2017,579.6
+Queens,2,paper,4,2017,534.8
+Queens,3,paper,4,2017,353.3
+Queens,4,paper,4,2017,317.2
+Queens,5,paper,4,2017,599.9
+Queens,6,paper,4,2017,414.6
+Queens,7,paper,4,2017,798.6
+Queens,8,paper,4,2017,473.9
+Queens,9,paper,4,2017,420.8
+Queens,10,paper,4,2017,378.6
+Queens,11,paper,4,2017,497.9
+Queens,12,paper,4,2017,468.9
+Queens,13,paper,4,2017,503.2
+Queens,14,paper,4,2017,290.3
+Staten Island,1,paper,4,2017,733.7
+Staten Island,2,paper,4,2017,575.3
+Staten Island,3,paper,4,2017,761.9
+Bronx,1,paper,3,2017,235.1
+Bronx,2,paper,3,2017,201.6
+Bronx,3,paper,3,2017,121.1
+Bronx,4,paper,3,2017,221.7
+Bronx,5,paper,3,2017,230.2
+Bronx,6,paper,3,2017,201.5
+Bronx,7,paper,3,2017,283.2
+Bronx,8,paper,3,2017,342.0
+Bronx,9,paper,3,2017,221.1
+Bronx,10,paper,3,2017,318.8
+Bronx,11,paper,3,2017,266.0
+Bronx,12,paper,3,2017,347.2
+Brooklyn,1,paper,3,2017,581.4
+Brooklyn,2,paper,3,2017,482.7
+Brooklyn,3,paper,3,2017,331.9
+Brooklyn,4,paper,3,2017,305.4
+Brooklyn,5,paper,3,2017,241.8
+Brooklyn,6,paper,3,2017,607.8
+Brooklyn,7,paper,3,2017,429.2
+Brooklyn,8,paper,3,2017,276.4
+Brooklyn,9,paper,3,2017,271.9
+Brooklyn,10,paper,3,2017,498.4
+Brooklyn,11,paper,3,2017,601.8
+Brooklyn,12,paper,3,2017,733.6
+Brooklyn,13,paper,3,2017,288.9
+Brooklyn,14,paper,3,2017,488.7
+Brooklyn,15,paper,3,2017,582.3
+Brooklyn,16,paper,3,2017,150.8
+Brooklyn,17,paper,3,2017,298.8
+Brooklyn,18,paper,3,2017,583.4
+Manhattan,1,paper,3,2017,414.2
+Manhattan,2,paper,3,2017,460.4
+Manhattan,3,paper,3,2017,547.4
+Manhattan,4,paper,3,2017,713.9
+Manhattan,5,paper,3,2017,265.7
+Manhattan,6,paper,3,2017,843.6
+Manhattan,7,paper,3,2017,1162.0
+Manhattan,8,paper,3,2017,1183.3
+Manhattan,9,paper,3,2017,305.6
+Manhattan,10,paper,3,2017,299.3
+Manhattan,11,paper,3,2017,254.5
+Manhattan,12,paper,3,2017,490.6
+Queens,1,paper,3,2017,586.8
+Queens,2,paper,3,2017,555.6
+Queens,3,paper,3,2017,377.8
+Queens,4,paper,3,2017,320.8
+Queens,5,paper,3,2017,590.4
+Queens,6,paper,3,2017,405.5
+Queens,7,paper,3,2017,756.7
+Queens,8,paper,3,2017,475.1
+Queens,9,paper,3,2017,401.7
+Queens,10,paper,3,2017,342.5
+Queens,11,paper,3,2017,484.0
+Queens,12,paper,3,2017,428.8
+Queens,13,paper,3,2017,475.5
+Queens,14,paper,3,2017,269.9
+Staten Island,1,paper,3,2017,687.6
+Staten Island,2,paper,3,2017,535.1
+Staten Island,3,paper,3,2017,725.2
+Bronx,1,paper,2,2017,202.2
+Bronx,2,paper,2,2017,150.1
+Bronx,3,paper,2,2017,98.2
+Bronx,4,paper,2,2017,185.2
+Bronx,5,paper,2,2017,184.2
+Bronx,6,paper,2,2017,158.1
+Bronx,7,paper,2,2017,236.0
+Bronx,8,paper,2,2017,302.5
+Bronx,9,paper,2,2017,187.3
+Bronx,10,paper,2,2017,276.7
+Bronx,11,paper,2,2017,237.2
+Bronx,12,paper,2,2017,308.4
+Brooklyn,1,paper,2,2017,517.5
+Brooklyn,2,paper,2,2017,418.9
+Brooklyn,3,paper,2,2017,288.5
+Brooklyn,4,paper,2,2017,269.7
+Brooklyn,5,paper,2,2017,206.0
+Brooklyn,6,paper,2,2017,514.0
+Brooklyn,7,paper,2,2017,344.2
+Brooklyn,8,paper,2,2017,257.4
+Brooklyn,9,paper,2,2017,223.3
+Brooklyn,10,paper,2,2017,439.8
+Brooklyn,11,paper,2,2017,529.0
+Brooklyn,12,paper,2,2017,585.5
+Brooklyn,13,paper,2,2017,246.9
+Brooklyn,14,paper,2,2017,409.1
+Brooklyn,15,paper,2,2017,499.0
+Brooklyn,16,paper,2,2017,126.7
+Brooklyn,17,paper,2,2017,255.7
+Brooklyn,18,paper,2,2017,496.3
+Manhattan,1,paper,2,2017,321.7
+Manhattan,2,paper,2,2017,402.2
+Manhattan,3,paper,2,2017,431.2
+Manhattan,4,paper,2,2017,590.5
+Manhattan,5,paper,2,2017,227.4
+Manhattan,6,paper,2,2017,694.9
+Manhattan,7,paper,2,2017,987.0
+Manhattan,8,paper,2,2017,990.2
+Manhattan,9,paper,2,2017,248.5
+Manhattan,10,paper,2,2017,239.0
+Manhattan,11,paper,2,2017,196.6
+Manhattan,12,paper,2,2017,411.8
+Queens,1,paper,2,2017,524.9
+Queens,2,paper,2,2017,494.6
+Queens,3,paper,2,2017,319.7
+Queens,4,paper,2,2017,276.8
+Queens,5,paper,2,2017,535.9
+Queens,6,paper,2,2017,359.5
+Queens,7,paper,2,2017,671.0
+Queens,8,paper,2,2017,417.3
+Queens,9,paper,2,2017,370.3
+Queens,10,paper,2,2017,316.6
+Queens,11,paper,2,2017,434.6
+Queens,12,paper,2,2017,395.1
+Queens,13,paper,2,2017,437.9
+Queens,14,paper,2,2017,227.7
+Staten Island,1,paper,2,2017,613.8
+Staten Island,2,paper,2,2017,476.9
+Staten Island,3,paper,2,2017,631.1
+Bronx,1,paper,1,2017,254.2
+Bronx,2,paper,1,2017,176.2
+Bronx,3,paper,1,2017,130.6
+Bronx,4,paper,1,2017,254.0
+Bronx,5,paper,1,2017,237.3
+Bronx,6,paper,1,2017,207.5
+Bronx,7,paper,1,2017,313.8
+Bronx,8,paper,1,2017,382.0
+Bronx,9,paper,1,2017,234.8
+Bronx,10,paper,1,2017,350.5
+Bronx,11,paper,1,2017,297.4
+Bronx,12,paper,1,2017,387.0
+Brooklyn,1,paper,1,2017,605.9
+Brooklyn,2,paper,1,2017,507.5
+Brooklyn,3,paper,1,2017,381.5
+Brooklyn,4,paper,1,2017,346.9
+Brooklyn,5,paper,1,2017,266.7
+Brooklyn,6,paper,1,2017,644.2
+Brooklyn,7,paper,1,2017,465.5
+Brooklyn,8,paper,1,2017,336.7
+Brooklyn,9,paper,1,2017,260.1
+Brooklyn,10,paper,1,2017,580.6
+Brooklyn,11,paper,1,2017,702.0
+Brooklyn,12,paper,1,2017,713.3
+Brooklyn,13,paper,1,2017,299.9
+Brooklyn,14,paper,1,2017,536.7
+Brooklyn,15,paper,1,2017,624.2
+Brooklyn,16,paper,1,2017,142.5
+Brooklyn,17,paper,1,2017,330.6
+Brooklyn,18,paper,1,2017,645.5
+Manhattan,1,paper,1,2017,346.3
+Manhattan,2,paper,1,2017,508.3
+Manhattan,3,paper,1,2017,525.4
+Manhattan,4,paper,1,2017,676.1
+Manhattan,5,paper,1,2017,272.9
+Manhattan,6,paper,1,2017,789.6
+Manhattan,7,paper,1,2017,1180.1
+Manhattan,8,paper,1,2017,1161.4
+Manhattan,9,paper,1,2017,285.2
+Manhattan,10,paper,1,2017,287.4
+Manhattan,11,paper,1,2017,240.3
+Manhattan,12,paper,1,2017,480.7
+Queens,1,paper,1,2017,675.8
+Queens,2,paper,1,2017,622.6
+Queens,3,paper,1,2017,384.8
+Queens,4,paper,1,2017,347.7
+Queens,5,paper,1,2017,707.4
+Queens,6,paper,1,2017,447.2
+Queens,7,paper,1,2017,844.2
+Queens,8,paper,1,2017,519.7
+Queens,9,paper,1,2017,488.2
+Queens,10,paper,1,2017,424.6
+Queens,11,paper,1,2017,565.8
+Queens,12,paper,1,2017,513.0
+Queens,13,paper,1,2017,568.5
+Queens,14,paper,1,2017,288.4
+Staten Island,1,paper,1,2017,781.9
+Staten Island,2,paper,1,2017,614.9
+Staten Island,3,paper,1,2017,818.6
+Bronx,1,mgp,12,2017,134.5
+Bronx,2,mgp,12,2017,179.5
+Bronx,3,mgp,12,2017,140.4
+Bronx,4,mgp,12,2017,314.3
+Bronx,5,mgp,12,2017,310.8
+Bronx,6,mgp,12,2017,168.6
+Bronx,7,mgp,12,2017,387.2
+Bronx,8,mgp,12,2017,332.0
+Bronx,9,mgp,12,2017,327.1
+Bronx,10,mgp,12,2017,355.5
+Bronx,11,mgp,12,2017,300.9
+Bronx,12,mgp,12,2017,504.3
+Brooklyn,1,mgp,12,2017,439.9
+Brooklyn,2,mgp,12,2017,385.5
+Brooklyn,3,mgp,12,2017,337.3
+Brooklyn,4,mgp,12,2017,332.4
+Brooklyn,5,mgp,12,2017,361.2
+Brooklyn,6,mgp,12,2017,437.3
+Brooklyn,7,mgp,12,2017,414.1
+Brooklyn,8,mgp,12,2017,277.8
+Brooklyn,9,mgp,12,2017,249.8
+Brooklyn,10,mgp,12,2017,452.9
+Brooklyn,11,mgp,12,2017,565.1
+Brooklyn,12,mgp,12,2017,455.1
+Brooklyn,13,mgp,12,2017,217.2
+Brooklyn,14,mgp,12,2017,378.9
+Brooklyn,15,mgp,12,2017,481.3
+Brooklyn,16,mgp,12,2017,161.5
+Brooklyn,17,mgp,12,2017,432.0
+Brooklyn,18,mgp,12,2017,610.7
+Manhattan,1,mgp,12,2017,263.9
+Manhattan,2,mgp,12,2017,319.9
+Manhattan,3,mgp,12,2017,391.6
+Manhattan,4,mgp,12,2017,422.5
+Manhattan,5,mgp,12,2017,184.2
+Manhattan,6,mgp,12,2017,442.3
+Manhattan,7,mgp,12,2017,804.6
+Manhattan,8,mgp,12,2017,850.5
+Manhattan,9,mgp,12,2017,293.3
+Manhattan,10,mgp,12,2017,276.4
+Manhattan,11,mgp,12,2017,187.1
+Manhattan,12,mgp,12,2017,501.9
+Queens,1,mgp,12,2017,591.6
+Queens,2,mgp,12,2017,428.0
+Queens,3,mgp,12,2017,489.5
+Queens,4,mgp,12,2017,412.5
+Queens,5,mgp,12,2017,736.1
+Queens,6,mgp,12,2017,357.0
+Queens,7,mgp,12,2017,668.1
+Queens,8,mgp,12,2017,401.5
+Queens,9,mgp,12,2017,510.6
+Queens,10,mgp,12,2017,437.2
+Queens,11,mgp,12,2017,391.6
+Queens,12,mgp,12,2017,797.2
+Queens,13,mgp,12,2017,716.7
+Queens,14,mgp,12,2017,253.1
+Staten Island,1,mgp,12,2017,620.1
+Staten Island,2,mgp,12,2017,494.1
+Staten Island,3,mgp,12,2017,694.7
+Bronx,1,mgp,11,2017,118.9
+Bronx,2,mgp,11,2017,199.4
+Bronx,3,mgp,11,2017,167.9
+Bronx,4,mgp,11,2017,309.4
+Bronx,5,mgp,11,2017,313.5
+Bronx,6,mgp,11,2017,193.0
+Bronx,7,mgp,11,2017,418.7
+Bronx,8,mgp,11,2017,346.1
+Bronx,9,mgp,11,2017,329.2
+Bronx,10,mgp,11,2017,350.0
+Bronx,11,mgp,11,2017,307.7
+Bronx,12,mgp,11,2017,499.1
+Brooklyn,1,mgp,11,2017,469.2
+Brooklyn,2,mgp,11,2017,391.4
+Brooklyn,3,mgp,11,2017,343.5
+Brooklyn,4,mgp,11,2017,321.6
+Brooklyn,5,mgp,11,2017,394.9
+Brooklyn,6,mgp,11,2017,426.8
+Brooklyn,7,mgp,11,2017,413.5
+Brooklyn,8,mgp,11,2017,276.3
+Brooklyn,9,mgp,11,2017,220.5
+Brooklyn,10,mgp,11,2017,434.4
+Brooklyn,11,mgp,11,2017,561.7
+Brooklyn,12,mgp,11,2017,441.7
+Brooklyn,13,mgp,11,2017,200.8
+Brooklyn,14,mgp,11,2017,352.9
+Brooklyn,15,mgp,11,2017,474.9
+Brooklyn,16,mgp,11,2017,155.3
+Brooklyn,17,mgp,11,2017,411.2
+Brooklyn,18,mgp,11,2017,579.1
+Manhattan,1,mgp,11,2017,249.9
+Manhattan,2,mgp,11,2017,347.1
+Manhattan,3,mgp,11,2017,404.2
+Manhattan,4,mgp,11,2017,399.6
+Manhattan,5,mgp,11,2017,185.6
+Manhattan,6,mgp,11,2017,435.5
+Manhattan,7,mgp,11,2017,795.8
+Manhattan,8,mgp,11,2017,827.1
+Manhattan,9,mgp,11,2017,255.7
+Manhattan,10,mgp,11,2017,322.8
+Manhattan,11,mgp,11,2017,204.3
+Manhattan,12,mgp,11,2017,511.7
+Queens,1,mgp,11,2017,588.4
+Queens,2,mgp,11,2017,391.3
+Queens,3,mgp,11,2017,454.3
+Queens,4,mgp,11,2017,394.0
+Queens,5,mgp,11,2017,708.3
+Queens,6,mgp,11,2017,354.0
+Queens,7,mgp,11,2017,682.4
+Queens,8,mgp,11,2017,373.8
+Queens,9,mgp,11,2017,491.0
+Queens,10,mgp,11,2017,432.2
+Queens,11,mgp,11,2017,420.8
+Queens,12,mgp,11,2017,730.9
+Queens,13,mgp,11,2017,705.0
+Queens,14,mgp,11,2017,243.4
+Staten Island,1,mgp,11,2017,629.6
+Staten Island,2,mgp,11,2017,530.1
+Staten Island,3,mgp,11,2017,727.4
+Bronx,1,mgp,10,2017,140.1
+Bronx,2,mgp,10,2017,190.2
+Bronx,3,mgp,10,2017,159.0
+Bronx,4,mgp,10,2017,334.1
+Bronx,5,mgp,10,2017,313.7
+Bronx,6,mgp,10,2017,188.9
+Bronx,7,mgp,10,2017,393.5
+Bronx,8,mgp,10,2017,343.5
+Bronx,9,mgp,10,2017,309.3
+Bronx,10,mgp,10,2017,340.8
+Bronx,11,mgp,10,2017,290.5
+Bronx,12,mgp,10,2017,480.5
+Brooklyn,1,mgp,10,2017,446.9
+Brooklyn,2,mgp,10,2017,357.6
+Brooklyn,3,mgp,10,2017,342.3
+Brooklyn,4,mgp,10,2017,323.3
+Brooklyn,5,mgp,10,2017,379.7
+Brooklyn,6,mgp,10,2017,405.4
+Brooklyn,7,mgp,10,2017,455.7
+Brooklyn,8,mgp,10,2017,279.2
+Brooklyn,9,mgp,10,2017,201.2
+Brooklyn,10,mgp,10,2017,420.5
+Brooklyn,11,mgp,10,2017,520.6
+Brooklyn,12,mgp,10,2017,455.0
+Brooklyn,13,mgp,10,2017,213.5
+Brooklyn,14,mgp,10,2017,369.3
+Brooklyn,15,mgp,10,2017,470.2
+Brooklyn,16,mgp,10,2017,127.0
+Brooklyn,17,mgp,10,2017,394.6
+Brooklyn,18,mgp,10,2017,545.5
+Manhattan,1,mgp,10,2017,234.0
+Manhattan,2,mgp,10,2017,335.0
+Manhattan,3,mgp,10,2017,369.2
+Manhattan,4,mgp,10,2017,356.8
+Manhattan,5,mgp,10,2017,192.4
+Manhattan,6,mgp,10,2017,377.8
+Manhattan,7,mgp,10,2017,747.9
+Manhattan,8,mgp,10,2017,759.7
+Manhattan,9,mgp,10,2017,237.6
+Manhattan,10,mgp,10,2017,273.8
+Manhattan,11,mgp,10,2017,180.7
+Manhattan,12,mgp,10,2017,454.9
+Queens,1,mgp,10,2017,588.1
+Queens,2,mgp,10,2017,431.7
+Queens,3,mgp,10,2017,439.2
+Queens,4,mgp,10,2017,370.4
+Queens,5,mgp,10,2017,696.6
+Queens,6,mgp,10,2017,331.5
+Queens,7,mgp,10,2017,668.6
+Queens,8,mgp,10,2017,397.2
+Queens,9,mgp,10,2017,505.1
+Queens,10,mgp,10,2017,446.3
+Queens,11,mgp,10,2017,406.3
+Queens,12,mgp,10,2017,741.3
+Queens,13,mgp,10,2017,703.7
+Queens,14,mgp,10,2017,224.4
+Staten Island,1,mgp,10,2017,615.6
+Staten Island,2,mgp,10,2017,501.8
+Staten Island,3,mgp,10,2017,648.9
+Bronx,1,mgp,9,2017,135.4
+Bronx,2,mgp,9,2017,186.5
+Bronx,3,mgp,9,2017,144.4
+Bronx,4,mgp,9,2017,327.8
+Bronx,5,mgp,9,2017,322.1
+Bronx,6,mgp,9,2017,176.4
+Bronx,7,mgp,9,2017,396.5
+Bronx,8,mgp,9,2017,325.2
+Bronx,9,mgp,9,2017,326.9
+Bronx,10,mgp,9,2017,358.3
+Bronx,11,mgp,9,2017,313.0
+Bronx,12,mgp,9,2017,522.0
+Brooklyn,1,mgp,9,2017,437.1
+Brooklyn,2,mgp,9,2017,364.1
+Brooklyn,3,mgp,9,2017,341.3
+Brooklyn,4,mgp,9,2017,338.3
+Brooklyn,5,mgp,9,2017,369.4
+Brooklyn,6,mgp,9,2017,406.2
+Brooklyn,7,mgp,9,2017,454.6
+Brooklyn,8,mgp,9,2017,248.0
+Brooklyn,9,mgp,9,2017,237.9
+Brooklyn,10,mgp,9,2017,422.8
+Brooklyn,11,mgp,9,2017,510.8
+Brooklyn,12,mgp,9,2017,449.9
+Brooklyn,13,mgp,9,2017,219.5
+Brooklyn,14,mgp,9,2017,366.5
+Brooklyn,15,mgp,9,2017,467.0
+Brooklyn,16,mgp,9,2017,147.3
+Brooklyn,17,mgp,9,2017,422.2
+Brooklyn,18,mgp,9,2017,577.4
+Manhattan,1,mgp,9,2017,277.6
+Manhattan,2,mgp,9,2017,302.2
+Manhattan,3,mgp,9,2017,413.5
+Manhattan,4,mgp,9,2017,402.4
+Manhattan,5,mgp,9,2017,168.7
+Manhattan,6,mgp,9,2017,420.7
+Manhattan,7,mgp,9,2017,757.0
+Manhattan,8,mgp,9,2017,769.0
+Manhattan,9,mgp,9,2017,281.0
+Manhattan,10,mgp,9,2017,279.8
+Manhattan,11,mgp,9,2017,182.0
+Manhattan,12,mgp,9,2017,470.8
+Queens,1,mgp,9,2017,578.4
+Queens,2,mgp,9,2017,400.0
+Queens,3,mgp,9,2017,463.3
+Queens,4,mgp,9,2017,393.2
+Queens,5,mgp,9,2017,734.5
+Queens,6,mgp,9,2017,347.5
+Queens,7,mgp,9,2017,672.9
+Queens,8,mgp,9,2017,415.0
+Queens,9,mgp,9,2017,510.3
+Queens,10,mgp,9,2017,462.8
+Queens,11,mgp,9,2017,398.9
+Queens,12,mgp,9,2017,809.4
+Queens,13,mgp,9,2017,764.0
+Queens,14,mgp,9,2017,266.2
+Staten Island,1,mgp,9,2017,635.1
+Staten Island,2,mgp,9,2017,543.1
+Staten Island,3,mgp,9,2017,715.8
+Bronx,1,mgp,8,2017,142.1
+Bronx,2,mgp,8,2017,178.2
+Bronx,3,mgp,8,2017,179.1
+Bronx,4,mgp,8,2017,340.8
+Bronx,5,mgp,8,2017,325.9
+Bronx,6,mgp,8,2017,216.8
+Bronx,7,mgp,8,2017,428.4
+Bronx,8,mgp,8,2017,358.8
+Bronx,9,mgp,8,2017,337.0
+Bronx,10,mgp,8,2017,369.1
+Bronx,11,mgp,8,2017,322.7
+Bronx,12,mgp,8,2017,558.1
+Brooklyn,1,mgp,8,2017,477.1
+Brooklyn,2,mgp,8,2017,362.0
+Brooklyn,3,mgp,8,2017,386.6
+Brooklyn,4,mgp,8,2017,366.7
+Brooklyn,5,mgp,8,2017,413.3
+Brooklyn,6,mgp,8,2017,389.0
+Brooklyn,7,mgp,8,2017,402.4
+Brooklyn,8,mgp,8,2017,290.4
+Brooklyn,9,mgp,8,2017,223.4
+Brooklyn,10,mgp,8,2017,433.5
+Brooklyn,11,mgp,8,2017,529.6
+Brooklyn,12,mgp,8,2017,374.0
+Brooklyn,13,mgp,8,2017,215.4
+Brooklyn,14,mgp,8,2017,330.6
+Brooklyn,15,mgp,8,2017,435.0
+Brooklyn,16,mgp,8,2017,159.8
+Brooklyn,17,mgp,8,2017,448.7
+Brooklyn,18,mgp,8,2017,602.4
+Manhattan,1,mgp,8,2017,243.9
+Manhattan,2,mgp,8,2017,319.7
+Manhattan,3,mgp,8,2017,427.4
+Manhattan,4,mgp,8,2017,394.5
+Manhattan,5,mgp,8,2017,188.9
+Manhattan,6,mgp,8,2017,420.6
+Manhattan,7,mgp,8,2017,721.9
+Manhattan,8,mgp,8,2017,718.8
+Manhattan,9,mgp,8,2017,263.7
+Manhattan,10,mgp,8,2017,304.0
+Manhattan,11,mgp,8,2017,221.4
+Manhattan,12,mgp,8,2017,532.6
+Queens,1,mgp,8,2017,589.6
+Queens,2,mgp,8,2017,412.4
+Queens,3,mgp,8,2017,499.4
+Queens,4,mgp,8,2017,408.9
+Queens,5,mgp,8,2017,760.4
+Queens,6,mgp,8,2017,360.7
+Queens,7,mgp,8,2017,694.6
+Queens,8,mgp,8,2017,425.6
+Queens,9,mgp,8,2017,556.7
+Queens,10,mgp,8,2017,504.7
+Queens,11,mgp,8,2017,426.8
+Queens,12,mgp,8,2017,879.0
+Queens,13,mgp,8,2017,841.1
+Queens,14,mgp,8,2017,284.0
+Staten Island,1,mgp,8,2017,703.3
+Staten Island,2,mgp,8,2017,561.8
+Staten Island,3,mgp,8,2017,776.3
+Bronx,1,mgp,7,2017,139.2
+Bronx,2,mgp,7,2017,161.3
+Bronx,3,mgp,7,2017,143.6
+Bronx,4,mgp,7,2017,339.7
+Bronx,5,mgp,7,2017,325.8
+Bronx,6,mgp,7,2017,179.3
+Bronx,7,mgp,7,2017,401.0
+Bronx,8,mgp,7,2017,337.7
+Bronx,9,mgp,7,2017,356.0
+Bronx,10,mgp,7,2017,384.4
+Bronx,11,mgp,7,2017,325.3
+Bronx,12,mgp,7,2017,553.8
+Brooklyn,1,mgp,7,2017,441.7
+Brooklyn,2,mgp,7,2017,345.4
+Brooklyn,3,mgp,7,2017,337.6
+Brooklyn,4,mgp,7,2017,347.5
+Brooklyn,5,mgp,7,2017,385.7
+Brooklyn,6,mgp,7,2017,391.4
+Brooklyn,7,mgp,7,2017,407.6
+Brooklyn,8,mgp,7,2017,268.5
+Brooklyn,9,mgp,7,2017,205.6
+Brooklyn,10,mgp,7,2017,446.8
+Brooklyn,11,mgp,7,2017,529.8
+Brooklyn,12,mgp,7,2017,367.2
+Brooklyn,13,mgp,7,2017,202.4
+Brooklyn,14,mgp,7,2017,354.3
+Brooklyn,15,mgp,7,2017,465.2
+Brooklyn,16,mgp,7,2017,154.7
+Brooklyn,17,mgp,7,2017,436.4
+Brooklyn,18,mgp,7,2017,622.1
+Manhattan,1,mgp,7,2017,218.2
+Manhattan,2,mgp,7,2017,284.0
+Manhattan,3,mgp,7,2017,412.5
+Manhattan,4,mgp,7,2017,369.8
+Manhattan,5,mgp,7,2017,153.3
+Manhattan,6,mgp,7,2017,383.0
+Manhattan,7,mgp,7,2017,711.5
+Manhattan,8,mgp,7,2017,701.5
+Manhattan,9,mgp,7,2017,254.8
+Manhattan,10,mgp,7,2017,255.7
+Manhattan,11,mgp,7,2017,180.7
+Manhattan,12,mgp,7,2017,467.3
+Queens,1,mgp,7,2017,587.6
+Queens,2,mgp,7,2017,397.4
+Queens,3,mgp,7,2017,465.5
+Queens,4,mgp,7,2017,399.2
+Queens,5,mgp,7,2017,750.0
+Queens,6,mgp,7,2017,347.2
+Queens,7,mgp,7,2017,703.2
+Queens,8,mgp,7,2017,410.6
+Queens,9,mgp,7,2017,542.9
+Queens,10,mgp,7,2017,510.1
+Queens,11,mgp,7,2017,414.9
+Queens,12,mgp,7,2017,859.3
+Queens,13,mgp,7,2017,848.3
+Queens,14,mgp,7,2017,288.4
+Staten Island,1,mgp,7,2017,739.4
+Staten Island,2,mgp,7,2017,591.6
+Staten Island,3,mgp,7,2017,784.9
+Bronx,1,mgp,6,2017,144.6
+Bronx,2,mgp,6,2017,203.0
+Bronx,3,mgp,6,2017,145.3
+Bronx,4,mgp,6,2017,325.9
+Bronx,5,mgp,6,2017,328.4
+Bronx,6,mgp,6,2017,180.4
+Bronx,7,mgp,6,2017,425.1
+Bronx,8,mgp,6,2017,351.5
+Bronx,9,mgp,6,2017,357.5
+Bronx,10,mgp,6,2017,398.1
+Bronx,11,mgp,6,2017,340.6
+Bronx,12,mgp,6,2017,555.1
+Brooklyn,1,mgp,6,2017,494.5
+Brooklyn,2,mgp,6,2017,391.8
+Brooklyn,3,mgp,6,2017,363.6
+Brooklyn,4,mgp,6,2017,356.1
+Brooklyn,5,mgp,6,2017,410.5
+Brooklyn,6,mgp,6,2017,454.0
+Brooklyn,7,mgp,6,2017,434.7
+Brooklyn,8,mgp,6,2017,275.0
+Brooklyn,9,mgp,6,2017,234.9
+Brooklyn,10,mgp,6,2017,460.4
+Brooklyn,11,mgp,6,2017,563.5
+Brooklyn,12,mgp,6,2017,451.5
+Brooklyn,13,mgp,6,2017,227.3
+Brooklyn,14,mgp,6,2017,360.8
+Brooklyn,15,mgp,6,2017,488.7
+Brooklyn,16,mgp,6,2017,160.5
+Brooklyn,17,mgp,6,2017,453.5
+Brooklyn,18,mgp,6,2017,658.7
+Manhattan,1,mgp,6,2017,280.2
+Manhattan,2,mgp,6,2017,312.8
+Manhattan,3,mgp,6,2017,440.4
+Manhattan,4,mgp,6,2017,420.4
+Manhattan,5,mgp,6,2017,188.1
+Manhattan,6,mgp,6,2017,439.1
+Manhattan,7,mgp,6,2017,803.7
+Manhattan,8,mgp,6,2017,796.6
+Manhattan,9,mgp,6,2017,289.0
+Manhattan,10,mgp,6,2017,310.4
+Manhattan,11,mgp,6,2017,197.6
+Manhattan,12,mgp,6,2017,521.9
+Queens,1,mgp,6,2017,598.9
+Queens,2,mgp,6,2017,400.3
+Queens,3,mgp,6,2017,512.7
+Queens,4,mgp,6,2017,443.5
+Queens,5,mgp,6,2017,786.2
+Queens,6,mgp,6,2017,367.9
+Queens,7,mgp,6,2017,741.7
+Queens,8,mgp,6,2017,421.5
+Queens,9,mgp,6,2017,554.8
+Queens,10,mgp,6,2017,526.1
+Queens,11,mgp,6,2017,453.0
+Queens,12,mgp,6,2017,886.6
+Queens,13,mgp,6,2017,854.6
+Queens,14,mgp,6,2017,288.9
+Staten Island,1,mgp,6,2017,763.0
+Staten Island,2,mgp,6,2017,633.0
+Staten Island,3,mgp,6,2017,827.8
+Bronx,1,mgp,5,2017,146.9
+Bronx,2,mgp,5,2017,154.1
+Bronx,3,mgp,5,2017,176.8
+Bronx,4,mgp,5,2017,329.4
+Bronx,5,mgp,5,2017,340.5
+Bronx,6,mgp,5,2017,227.7
+Bronx,7,mgp,5,2017,414.2
+Bronx,8,mgp,5,2017,359.2
+Bronx,9,mgp,5,2017,322.7
+Bronx,10,mgp,5,2017,372.4
+Bronx,11,mgp,5,2017,319.2
+Bronx,12,mgp,5,2017,530.5
+Brooklyn,1,mgp,5,2017,462.1
+Brooklyn,2,mgp,5,2017,382.7
+Brooklyn,3,mgp,5,2017,360.1
+Brooklyn,4,mgp,5,2017,342.9
+Brooklyn,5,mgp,5,2017,401.4
+Brooklyn,6,mgp,5,2017,447.7
+Brooklyn,7,mgp,5,2017,426.0
+Brooklyn,8,mgp,5,2017,280.2
+Brooklyn,9,mgp,5,2017,223.3
+Brooklyn,10,mgp,5,2017,454.7
+Brooklyn,11,mgp,5,2017,547.5
+Brooklyn,12,mgp,5,2017,441.3
+Brooklyn,13,mgp,5,2017,214.3
+Brooklyn,14,mgp,5,2017,371.8
+Brooklyn,15,mgp,5,2017,493.0
+Brooklyn,16,mgp,5,2017,161.5
+Brooklyn,17,mgp,5,2017,421.0
+Brooklyn,18,mgp,5,2017,600.7
+Manhattan,1,mgp,5,2017,236.4
+Manhattan,2,mgp,5,2017,352.5
+Manhattan,3,mgp,5,2017,427.1
+Manhattan,4,mgp,5,2017,391.8
+Manhattan,5,mgp,5,2017,194.7
+Manhattan,6,mgp,5,2017,391.9
+Manhattan,7,mgp,5,2017,776.1
+Manhattan,8,mgp,5,2017,799.1
+Manhattan,9,mgp,5,2017,267.9
+Manhattan,10,mgp,5,2017,279.3
+Manhattan,11,mgp,5,2017,201.9
+Manhattan,12,mgp,5,2017,513.4
+Queens,1,mgp,5,2017,611.5
+Queens,2,mgp,5,2017,404.3
+Queens,3,mgp,5,2017,478.7
+Queens,4,mgp,5,2017,394.1
+Queens,5,mgp,5,2017,753.4
+Queens,6,mgp,5,2017,351.3
+Queens,7,mgp,5,2017,717.4
+Queens,8,mgp,5,2017,421.4
+Queens,9,mgp,5,2017,549.7
+Queens,10,mgp,5,2017,500.6
+Queens,11,mgp,5,2017,448.4
+Queens,12,mgp,5,2017,833.2
+Queens,13,mgp,5,2017,809.4
+Queens,14,mgp,5,2017,260.3
+Staten Island,1,mgp,5,2017,724.0
+Staten Island,2,mgp,5,2017,598.1
+Staten Island,3,mgp,5,2017,798.3
+Bronx,1,mgp,4,2017,132.8
+Bronx,2,mgp,4,2017,173.6
+Bronx,3,mgp,4,2017,144.5
+Bronx,4,mgp,4,2017,305.4
+Bronx,5,mgp,4,2017,313.2
+Bronx,6,mgp,4,2017,200.3
+Bronx,7,mgp,4,2017,391.6
+Bronx,8,mgp,4,2017,327.2
+Bronx,9,mgp,4,2017,320.4
+Bronx,10,mgp,4,2017,357.3
+Bronx,11,mgp,4,2017,306.1
+Bronx,12,mgp,4,2017,486.9
+Brooklyn,1,mgp,4,2017,447.4
+Brooklyn,2,mgp,4,2017,344.3
+Brooklyn,3,mgp,4,2017,306.4
+Brooklyn,4,mgp,4,2017,319.0
+Brooklyn,5,mgp,4,2017,354.6
+Brooklyn,6,mgp,4,2017,416.4
+Brooklyn,7,mgp,4,2017,395.7
+Brooklyn,8,mgp,4,2017,248.3
+Brooklyn,9,mgp,4,2017,220.0
+Brooklyn,10,mgp,4,2017,431.9
+Brooklyn,11,mgp,4,2017,512.2
+Brooklyn,12,mgp,4,2017,550.2
+Brooklyn,13,mgp,4,2017,198.7
+Brooklyn,14,mgp,4,2017,387.7
+Brooklyn,15,mgp,4,2017,490.6
+Brooklyn,16,mgp,4,2017,143.0
+Brooklyn,17,mgp,4,2017,396.6
+Brooklyn,18,mgp,4,2017,580.9
+Manhattan,1,mgp,4,2017,243.1
+Manhattan,2,mgp,4,2017,303.9
+Manhattan,3,mgp,4,2017,388.6
+Manhattan,4,mgp,4,2017,375.6
+Manhattan,5,mgp,4,2017,170.9
+Manhattan,6,mgp,4,2017,387.2
+Manhattan,7,mgp,4,2017,751.4
+Manhattan,8,mgp,4,2017,787.5
+Manhattan,9,mgp,4,2017,264.0
+Manhattan,10,mgp,4,2017,253.0
+Manhattan,11,mgp,4,2017,187.1
+Manhattan,12,mgp,4,2017,471.6
+Queens,1,mgp,4,2017,566.9
+Queens,2,mgp,4,2017,381.0
+Queens,3,mgp,4,2017,444.5
+Queens,4,mgp,4,2017,364.9
+Queens,5,mgp,4,2017,721.4
+Queens,6,mgp,4,2017,348.3
+Queens,7,mgp,4,2017,675.2
+Queens,8,mgp,4,2017,406.5
+Queens,9,mgp,4,2017,511.1
+Queens,10,mgp,4,2017,463.2
+Queens,11,mgp,4,2017,420.4
+Queens,12,mgp,4,2017,776.5
+Queens,13,mgp,4,2017,716.8
+Queens,14,mgp,4,2017,262.3
+Staten Island,1,mgp,4,2017,665.7
+Staten Island,2,mgp,4,2017,554.1
+Staten Island,3,mgp,4,2017,713.2
+Bronx,1,mgp,3,2017,131.3
+Bronx,2,mgp,3,2017,200.8
+Bronx,3,mgp,3,2017,156.8
+Bronx,4,mgp,3,2017,293.3
+Bronx,5,mgp,3,2017,301.4
+Bronx,6,mgp,3,2017,191.3
+Bronx,7,mgp,3,2017,408.5
+Bronx,8,mgp,3,2017,330.8
+Bronx,9,mgp,3,2017,309.5
+Bronx,10,mgp,3,2017,317.3
+Bronx,11,mgp,3,2017,290.2
+Bronx,12,mgp,3,2017,472.3
+Brooklyn,1,mgp,3,2017,457.4
+Brooklyn,2,mgp,3,2017,365.7
+Brooklyn,3,mgp,3,2017,305.0
+Brooklyn,4,mgp,3,2017,305.8
+Brooklyn,5,mgp,3,2017,355.8
+Brooklyn,6,mgp,3,2017,430.0
+Brooklyn,7,mgp,3,2017,386.0
+Brooklyn,8,mgp,3,2017,270.7
+Brooklyn,9,mgp,3,2017,220.6
+Brooklyn,10,mgp,3,2017,414.6
+Brooklyn,11,mgp,3,2017,554.6
+Brooklyn,12,mgp,3,2017,449.1
+Brooklyn,13,mgp,3,2017,215.5
+Brooklyn,14,mgp,3,2017,354.6
+Brooklyn,15,mgp,3,2017,453.8
+Brooklyn,16,mgp,3,2017,136.6
+Brooklyn,17,mgp,3,2017,376.1
+Brooklyn,18,mgp,3,2017,529.8
+Manhattan,1,mgp,3,2017,259.8
+Manhattan,2,mgp,3,2017,322.7
+Manhattan,3,mgp,3,2017,418.2
+Manhattan,4,mgp,3,2017,424.1
+Manhattan,5,mgp,3,2017,179.6
+Manhattan,6,mgp,3,2017,444.1
+Manhattan,7,mgp,3,2017,799.0
+Manhattan,8,mgp,3,2017,806.0
+Manhattan,9,mgp,3,2017,279.5
+Manhattan,10,mgp,3,2017,294.4
+Manhattan,11,mgp,3,2017,194.2
+Manhattan,12,mgp,3,2017,533.0
+Queens,1,mgp,3,2017,577.2
+Queens,2,mgp,3,2017,371.2
+Queens,3,mgp,3,2017,453.2
+Queens,4,mgp,3,2017,367.3
+Queens,5,mgp,3,2017,684.3
+Queens,6,mgp,3,2017,339.7
+Queens,7,mgp,3,2017,615.2
+Queens,8,mgp,3,2017,380.9
+Queens,9,mgp,3,2017,465.7
+Queens,10,mgp,3,2017,402.4
+Queens,11,mgp,3,2017,385.7
+Queens,12,mgp,3,2017,695.4
+Queens,13,mgp,3,2017,623.4
+Queens,14,mgp,3,2017,223.8
+Staten Island,1,mgp,3,2017,597.3
+Staten Island,2,mgp,3,2017,495.4
+Staten Island,3,mgp,3,2017,645.6
+Bronx,1,mgp,2,2017,118.5
+Bronx,2,mgp,2,2017,175.1
+Bronx,3,mgp,2,2017,138.4
+Bronx,4,mgp,2,2017,270.4
+Bronx,5,mgp,2,2017,277.6
+Bronx,6,mgp,2,2017,178.7
+Bronx,7,mgp,2,2017,349.8
+Bronx,8,mgp,2,2017,302.4
+Bronx,9,mgp,2,2017,278.5
+Bronx,10,mgp,2,2017,287.6
+Bronx,11,mgp,2,2017,265.5
+Bronx,12,mgp,2,2017,415.2
+Brooklyn,1,mgp,2,2017,401.3
+Brooklyn,2,mgp,2,2017,326.4
+Brooklyn,3,mgp,2,2017,273.4
+Brooklyn,4,mgp,2,2017,277.2
+Brooklyn,5,mgp,2,2017,307.8
+Brooklyn,6,mgp,2,2017,380.2
+Brooklyn,7,mgp,2,2017,342.5
+Brooklyn,8,mgp,2,2017,229.7
+Brooklyn,9,mgp,2,2017,184.3
+Brooklyn,10,mgp,2,2017,387.5
+Brooklyn,11,mgp,2,2017,494.7
+Brooklyn,12,mgp,2,2017,356.4
+Brooklyn,13,mgp,2,2017,176.2
+Brooklyn,14,mgp,2,2017,309.8
+Brooklyn,15,mgp,2,2017,402.7
+Brooklyn,16,mgp,2,2017,113.2
+Brooklyn,17,mgp,2,2017,332.2
+Brooklyn,18,mgp,2,2017,469.2
+Manhattan,1,mgp,2,2017,215.8
+Manhattan,2,mgp,2,2017,299.0
+Manhattan,3,mgp,2,2017,360.0
+Manhattan,4,mgp,2,2017,353.6
+Manhattan,5,mgp,2,2017,159.3
+Manhattan,6,mgp,2,2017,387.2
+Manhattan,7,mgp,2,2017,708.6
+Manhattan,8,mgp,2,2017,712.9
+Manhattan,9,mgp,2,2017,237.2
+Manhattan,10,mgp,2,2017,246.0
+Manhattan,11,mgp,2,2017,174.5
+Manhattan,12,mgp,2,2017,437.0
+Queens,1,mgp,2,2017,525.1
+Queens,2,mgp,2,2017,341.7
+Queens,3,mgp,2,2017,389.1
+Queens,4,mgp,2,2017,325.3
+Queens,5,mgp,2,2017,622.5
+Queens,6,mgp,2,2017,301.4
+Queens,7,mgp,2,2017,562.4
+Queens,8,mgp,2,2017,332.7
+Queens,9,mgp,2,2017,417.5
+Queens,10,mgp,2,2017,370.9
+Queens,11,mgp,2,2017,349.0
+Queens,12,mgp,2,2017,613.8
+Queens,13,mgp,2,2017,569.0
+Queens,14,mgp,2,2017,189.9
+Staten Island,1,mgp,2,2017,543.1
+Staten Island,2,mgp,2,2017,442.1
+Staten Island,3,mgp,2,2017,557.4
+Bronx,1,mgp,1,2017,154.8
+Bronx,2,mgp,1,2017,183.1
+Bronx,3,mgp,1,2017,158.1
+Bronx,4,mgp,1,2017,344.5
+Bronx,5,mgp,1,2017,350.9
+Bronx,6,mgp,1,2017,202.0
+Bronx,7,mgp,1,2017,421.2
+Bronx,8,mgp,1,2017,375.9
+Bronx,9,mgp,1,2017,318.5
+Bronx,10,mgp,1,2017,342.1
+Bronx,11,mgp,1,2017,317.5
+Bronx,12,mgp,1,2017,503.5
+Brooklyn,1,mgp,1,2017,462.2
+Brooklyn,2,mgp,1,2017,363.2
+Brooklyn,3,mgp,1,2017,341.2
+Brooklyn,4,mgp,1,2017,328.4
+Brooklyn,5,mgp,1,2017,370.1
+Brooklyn,6,mgp,1,2017,449.2
+Brooklyn,7,mgp,1,2017,419.1
+Brooklyn,8,mgp,1,2017,309.4
+Brooklyn,9,mgp,1,2017,209.4
+Brooklyn,10,mgp,1,2017,467.4
+Brooklyn,11,mgp,1,2017,605.5
+Brooklyn,12,mgp,1,2017,415.5
+Brooklyn,13,mgp,1,2017,213.0
+Brooklyn,14,mgp,1,2017,379.0
+Brooklyn,15,mgp,1,2017,474.2
+Brooklyn,16,mgp,1,2017,132.3
+Brooklyn,17,mgp,1,2017,417.3
+Brooklyn,18,mgp,1,2017,564.3
+Manhattan,1,mgp,1,2017,240.2
+Manhattan,2,mgp,1,2017,337.0
+Manhattan,3,mgp,1,2017,386.6
+Manhattan,4,mgp,1,2017,368.1
+Manhattan,5,mgp,1,2017,181.2
+Manhattan,6,mgp,1,2017,393.3
+Manhattan,7,mgp,1,2017,807.9
+Manhattan,8,mgp,1,2017,789.9
+Manhattan,9,mgp,1,2017,252.4
+Manhattan,10,mgp,1,2017,283.6
+Manhattan,11,mgp,1,2017,195.3
+Manhattan,12,mgp,1,2017,511.8
+Queens,1,mgp,1,2017,652.5
+Queens,2,mgp,1,2017,415.0
+Queens,3,mgp,1,2017,450.4
+Queens,4,mgp,1,2017,382.7
+Queens,5,mgp,1,2017,729.8
+Queens,6,mgp,1,2017,365.6
+Queens,7,mgp,1,2017,683.9
+Queens,8,mgp,1,2017,397.1
+Queens,9,mgp,1,2017,518.3
+Queens,10,mgp,1,2017,458.8
+Queens,11,mgp,1,2017,438.7
+Queens,12,mgp,1,2017,743.3
+Queens,13,mgp,1,2017,707.0
+Queens,14,mgp,1,2017,221.8
+Staten Island,1,mgp,1,2017,647.6
+Staten Island,2,mgp,1,2017,524.2
+Staten Island,3,mgp,1,2017,668.6
+Bronx,1,res organics,12,2017,0.0
+Bronx,2,res organics,12,2017,0.0
+Bronx,3,res organics,12,2017,0.0
+Bronx,4,res organics,12,2017,0.0
+Bronx,5,res organics,12,2017,0.0
+Bronx,6,res organics,12,2017,0.0
+Bronx,7,res organics,12,2017,0.0
+Bronx,8,res organics,12,2017,70.8
+Bronx,9,res organics,12,2017,0.0
+Bronx,10,res organics,12,2017,102.3
+Bronx,11,res organics,12,2017,117.6
+Bronx,12,res organics,12,2017,230.5
+Brooklyn,1,res organics,12,2017,44.4
+Brooklyn,2,res organics,12,2017,79.0
+Brooklyn,3,res organics,12,2017,0.0
+Brooklyn,4,res organics,12,2017,0.0
+Brooklyn,5,res organics,12,2017,0.0
+Brooklyn,6,res organics,12,2017,117.9
+Brooklyn,7,res organics,12,2017,113.6
+Brooklyn,8,res organics,12,2017,0.0
+Brooklyn,9,res organics,12,2017,0.0
+Brooklyn,10,res organics,12,2017,124.4
+Brooklyn,11,res organics,12,2017,122.0
+Brooklyn,12,res organics,12,2017,83.8
+Brooklyn,13,res organics,12,2017,21.5
+Brooklyn,14,res organics,12,2017,0.0
+Brooklyn,15,res organics,12,2017,150.8
+Brooklyn,16,res organics,12,2017,31.4
+Brooklyn,17,res organics,12,2017,0.0
+Brooklyn,18,res organics,12,2017,0.0
+Manhattan,1,res organics,12,2017,16.2
+Manhattan,2,res organics,12,2017,0.0
+Manhattan,3,res organics,12,2017,0.0
+Manhattan,4,res organics,12,2017,0.0
+Manhattan,5,res organics,12,2017,0.0
+Manhattan,6,res organics,12,2017,23.0
+Manhattan,7,res organics,12,2017,25.0
+Manhattan,8,res organics,12,2017,15.2
+Manhattan,9,res organics,12,2017,27.8
+Manhattan,10,res organics,12,2017,0.0
+Manhattan,11,res organics,12,2017,0.0
+Manhattan,12,res organics,12,2017,0.0
+Queens,1,res organics,12,2017,0.0
+Queens,2,res organics,12,2017,81.0
+Queens,3,res organics,12,2017,0.0
+Queens,4,res organics,12,2017,0.0
+Queens,5,res organics,12,2017,198.9
+Queens,6,res organics,12,2017,0.0
+Queens,7,res organics,12,2017,316.7
+Queens,8,res organics,12,2017,204.2
+Queens,9,res organics,12,2017,274.4
+Queens,10,res organics,12,2017,99.9
+Queens,11,res organics,12,2017,301.4
+Queens,12,res organics,12,2017,0.0
+Queens,13,res organics,12,2017,0.0
+Queens,14,res organics,12,2017,92.0
+Staten Island,1,res organics,12,2017,205.0
+Staten Island,2,res organics,12,2017,0.0
+Staten Island,3,res organics,12,2017,0.0
+Bronx,1,res organics,11,2017,0.0
+Bronx,2,res organics,11,2017,0.0
+Bronx,3,res organics,11,2017,0.0
+Bronx,4,res organics,11,2017,0.0
+Bronx,5,res organics,11,2017,0.0
+Bronx,6,res organics,11,2017,0.0
+Bronx,7,res organics,11,2017,0.0
+Bronx,8,res organics,11,2017,78.6
+Bronx,9,res organics,11,2017,0.0
+Bronx,10,res organics,11,2017,157.8
+Bronx,11,res organics,11,2017,162.1
+Bronx,12,res organics,11,2017,308.0
+Brooklyn,1,res organics,11,2017,60.0
+Brooklyn,2,res organics,11,2017,92.3
+Brooklyn,3,res organics,11,2017,0.0
+Brooklyn,4,res organics,11,2017,0.0
+Brooklyn,5,res organics,11,2017,0.0
+Brooklyn,6,res organics,11,2017,148.5
+Brooklyn,7,res organics,11,2017,145.6
+Brooklyn,8,res organics,11,2017,0.0
+Brooklyn,9,res organics,11,2017,0.0
+Brooklyn,10,res organics,11,2017,193.6
+Brooklyn,11,res organics,11,2017,179.9
+Brooklyn,12,res organics,11,2017,119.8
+Brooklyn,13,res organics,11,2017,33.9
+Brooklyn,14,res organics,11,2017,0.0
+Brooklyn,15,res organics,11,2017,199.2
+Brooklyn,16,res organics,11,2017,32.0
+Brooklyn,17,res organics,11,2017,0.0
+Brooklyn,18,res organics,11,2017,0.0
+Manhattan,1,res organics,11,2017,20.0
+Manhattan,2,res organics,11,2017,0.0
+Manhattan,3,res organics,11,2017,0.0
+Manhattan,4,res organics,11,2017,0.0
+Manhattan,5,res organics,11,2017,0.0
+Manhattan,6,res organics,11,2017,29.8
+Manhattan,7,res organics,11,2017,26.4
+Manhattan,8,res organics,11,2017,17.2
+Manhattan,9,res organics,11,2017,32.0
+Manhattan,10,res organics,11,2017,0.0
+Manhattan,11,res organics,11,2017,0.0
+Manhattan,12,res organics,11,2017,0.0
+Queens,1,res organics,11,2017,0.0
+Queens,2,res organics,11,2017,90.8
+Queens,3,res organics,11,2017,0.0
+Queens,4,res organics,11,2017,0.0
+Queens,5,res organics,11,2017,290.6
+Queens,6,res organics,11,2017,0.0
+Queens,7,res organics,11,2017,415.9
+Queens,8,res organics,11,2017,245.1
+Queens,9,res organics,11,2017,348.9
+Queens,10,res organics,11,2017,162.0
+Queens,11,res organics,11,2017,404.0
+Queens,12,res organics,11,2017,0.0
+Queens,13,res organics,11,2017,0.0
+Queens,14,res organics,11,2017,110.6
+Staten Island,1,res organics,11,2017,293.8
+Staten Island,2,res organics,11,2017,0.0
+Staten Island,3,res organics,11,2017,0.0
+Bronx,1,res organics,10,2017,0.0
+Bronx,2,res organics,10,2017,0.0
+Bronx,3,res organics,10,2017,0.0
+Bronx,4,res organics,10,2017,0.0
+Bronx,5,res organics,10,2017,0.0
+Bronx,6,res organics,10,2017,0.0
+Bronx,7,res organics,10,2017,0.0
+Bronx,8,res organics,10,2017,49.2
+Bronx,9,res organics,10,2017,0.0
+Bronx,10,res organics,10,2017,122.1
+Bronx,11,res organics,10,2017,128.0
+Bronx,12,res organics,10,2017,237.8
+Brooklyn,1,res organics,10,2017,49.7
+Brooklyn,2,res organics,10,2017,60.6
+Brooklyn,3,res organics,10,2017,0.0
+Brooklyn,4,res organics,10,2017,0.0
+Brooklyn,5,res organics,10,2017,0.0
+Brooklyn,6,res organics,10,2017,109.2
+Brooklyn,7,res organics,10,2017,129.3
+Brooklyn,8,res organics,10,2017,0.0
+Brooklyn,9,res organics,10,2017,5.1
+Brooklyn,10,res organics,10,2017,134.0
+Brooklyn,11,res organics,10,2017,171.4
+Brooklyn,12,res organics,10,2017,72.5
+Brooklyn,13,res organics,10,2017,36.0
+Brooklyn,14,res organics,10,2017,0.0
+Brooklyn,15,res organics,10,2017,150.9
+Brooklyn,16,res organics,10,2017,22.5
+Brooklyn,17,res organics,10,2017,0.0
+Brooklyn,18,res organics,10,2017,0.0
+Manhattan,1,res organics,10,2017,18.1
+Manhattan,2,res organics,10,2017,0.0
+Manhattan,3,res organics,10,2017,0.0
+Manhattan,4,res organics,10,2017,0.0
+Manhattan,5,res organics,10,2017,0.0
+Manhattan,6,res organics,10,2017,19.2
+Manhattan,7,res organics,10,2017,25.1
+Manhattan,8,res organics,10,2017,16.8
+Manhattan,9,res organics,10,2017,28.9
+Manhattan,10,res organics,10,2017,0.0
+Manhattan,11,res organics,10,2017,0.0
+Manhattan,12,res organics,10,2017,0.0
+Queens,1,res organics,10,2017,0.0
+Queens,2,res organics,10,2017,4.6
+Queens,3,res organics,10,2017,0.0
+Queens,4,res organics,10,2017,0.0
+Queens,5,res organics,10,2017,200.8
+Queens,6,res organics,10,2017,0.0
+Queens,7,res organics,10,2017,292.9
+Queens,8,res organics,10,2017,183.6
+Queens,9,res organics,10,2017,14.6
+Queens,10,res organics,10,2017,122.8
+Queens,11,res organics,10,2017,236.4
+Queens,12,res organics,10,2017,0.0
+Queens,13,res organics,10,2017,0.0
+Queens,14,res organics,10,2017,3.5
+Staten Island,1,res organics,10,2017,150.2
+Staten Island,2,res organics,10,2017,0.0
+Staten Island,3,res organics,10,2017,0.0
+Bronx,1,res organics,9,2017,0.0
+Bronx,2,res organics,9,2017,0.0
+Bronx,3,res organics,9,2017,0.0
+Bronx,4,res organics,9,2017,0.0
+Bronx,5,res organics,9,2017,0.0
+Bronx,6,res organics,9,2017,0.0
+Bronx,7,res organics,9,2017,0.0
+Bronx,8,res organics,9,2017,44.0
+Bronx,9,res organics,9,2017,0.0
+Bronx,10,res organics,9,2017,114.9
+Bronx,11,res organics,9,2017,137.9
+Bronx,12,res organics,9,2017,150.4
+Brooklyn,1,res organics,9,2017,55.5
+Brooklyn,2,res organics,9,2017,55.5
+Brooklyn,3,res organics,9,2017,0.0
+Brooklyn,4,res organics,9,2017,0.0
+Brooklyn,5,res organics,9,2017,0.0
+Brooklyn,6,res organics,9,2017,100.7
+Brooklyn,7,res organics,9,2017,122.6
+Brooklyn,8,res organics,9,2017,0.0
+Brooklyn,9,res organics,9,2017,0.0
+Brooklyn,10,res organics,9,2017,119.4
+Brooklyn,11,res organics,9,2017,164.8
+Brooklyn,12,res organics,9,2017,82.4
+Brooklyn,13,res organics,9,2017,32.6
+Brooklyn,14,res organics,9,2017,0.0
+Brooklyn,15,res organics,9,2017,130.5
+Brooklyn,16,res organics,9,2017,29.7
+Brooklyn,17,res organics,9,2017,0.0
+Brooklyn,18,res organics,9,2017,0.0
+Manhattan,1,res organics,9,2017,16.9
+Manhattan,2,res organics,9,2017,0.0
+Manhattan,3,res organics,9,2017,0.0
+Manhattan,4,res organics,9,2017,0.0
+Manhattan,5,res organics,9,2017,0.0
+Manhattan,6,res organics,9,2017,17.3
+Manhattan,7,res organics,9,2017,21.2
+Manhattan,8,res organics,9,2017,16.1
+Manhattan,9,res organics,9,2017,31.6
+Manhattan,10,res organics,9,2017,0.0
+Manhattan,11,res organics,9,2017,0.0
+Manhattan,12,res organics,9,2017,0.0
+Queens,1,res organics,9,2017,0.0
+Queens,2,res organics,9,2017,0.0
+Queens,3,res organics,9,2017,0.0
+Queens,4,res organics,9,2017,0.0
+Queens,5,res organics,9,2017,178.2
+Queens,6,res organics,9,2017,0.0
+Queens,7,res organics,9,2017,0.0
+Queens,8,res organics,9,2017,0.0
+Queens,9,res organics,9,2017,0.0
+Queens,10,res organics,9,2017,100.1
+Queens,11,res organics,9,2017,195.2
+Queens,12,res organics,9,2017,0.0
+Queens,13,res organics,9,2017,0.0
+Queens,14,res organics,9,2017,0.0
+Staten Island,1,res organics,9,2017,152.5
+Staten Island,2,res organics,9,2017,0.0
+Staten Island,3,res organics,9,2017,0.0
+Bronx,1,res organics,8,2017,0.0
+Bronx,2,res organics,8,2017,0.0
+Bronx,3,res organics,8,2017,0.0
+Bronx,4,res organics,8,2017,0.0
+Bronx,5,res organics,8,2017,0.0
+Bronx,6,res organics,8,2017,0.0
+Bronx,7,res organics,8,2017,0.0
+Bronx,8,res organics,8,2017,23.1
+Bronx,9,res organics,8,2017,0.0
+Bronx,10,res organics,8,2017,110.8
+Bronx,11,res organics,8,2017,121.2
+Bronx,12,res organics,8,2017,0.0
+Brooklyn,1,res organics,8,2017,56.1
+Brooklyn,2,res organics,8,2017,53.5
+Brooklyn,3,res organics,8,2017,0.0
+Brooklyn,4,res organics,8,2017,0.0
+Brooklyn,5,res organics,8,2017,0.0
+Brooklyn,6,res organics,8,2017,103.2
+Brooklyn,7,res organics,8,2017,126.4
+Brooklyn,8,res organics,8,2017,0.0
+Brooklyn,9,res organics,8,2017,0.0
+Brooklyn,10,res organics,8,2017,130.7
+Brooklyn,11,res organics,8,2017,176.6
+Brooklyn,12,res organics,8,2017,74.5
+Brooklyn,13,res organics,8,2017,38.8
+Brooklyn,14,res organics,8,2017,0.0
+Brooklyn,15,res organics,8,2017,133.7
+Brooklyn,16,res organics,8,2017,30.7
+Brooklyn,17,res organics,8,2017,0.0
+Brooklyn,18,res organics,8,2017,0.0
+Manhattan,1,res organics,8,2017,18.4
+Manhattan,2,res organics,8,2017,0.0
+Manhattan,3,res organics,8,2017,0.0
+Manhattan,4,res organics,8,2017,0.0
+Manhattan,5,res organics,8,2017,0.0
+Manhattan,6,res organics,8,2017,15.6
+Manhattan,7,res organics,8,2017,19.4
+Manhattan,8,res organics,8,2017,22.0
+Manhattan,9,res organics,8,2017,26.2
+Manhattan,10,res organics,8,2017,0.0
+Manhattan,11,res organics,8,2017,0.0
+Manhattan,12,res organics,8,2017,0.0
+Queens,1,res organics,8,2017,0.0
+Queens,2,res organics,8,2017,0.0
+Queens,3,res organics,8,2017,0.0
+Queens,4,res organics,8,2017,0.0
+Queens,5,res organics,8,2017,185.3
+Queens,6,res organics,8,2017,0.0
+Queens,7,res organics,8,2017,0.0
+Queens,8,res organics,8,2017,0.0
+Queens,9,res organics,8,2017,0.0
+Queens,10,res organics,8,2017,121.0
+Queens,11,res organics,8,2017,221.5
+Queens,12,res organics,8,2017,0.0
+Queens,13,res organics,8,2017,0.0
+Queens,14,res organics,8,2017,0.0
+Staten Island,1,res organics,8,2017,181.9
+Staten Island,2,res organics,8,2017,0.0
+Staten Island,3,res organics,8,2017,0.0
+Bronx,1,res organics,7,2017,0.0
+Bronx,2,res organics,7,2017,0.0
+Bronx,3,res organics,7,2017,0.0
+Bronx,4,res organics,7,2017,0.0
+Bronx,5,res organics,7,2017,0.0
+Bronx,6,res organics,7,2017,0.0
+Bronx,7,res organics,7,2017,0.0
+Bronx,8,res organics,7,2017,26.7
+Bronx,9,res organics,7,2017,0.0
+Bronx,10,res organics,7,2017,42.6
+Bronx,11,res organics,7,2017,1.6
+Bronx,12,res organics,7,2017,0.0
+Brooklyn,1,res organics,7,2017,53.1
+Brooklyn,2,res organics,7,2017,51.0
+Brooklyn,3,res organics,7,2017,0.0
+Brooklyn,4,res organics,7,2017,0.0
+Brooklyn,5,res organics,7,2017,0.0
+Brooklyn,6,res organics,7,2017,106.5
+Brooklyn,7,res organics,7,2017,119.0
+Brooklyn,8,res organics,7,2017,0.0
+Brooklyn,9,res organics,7,2017,0.0
+Brooklyn,10,res organics,7,2017,141.4
+Brooklyn,11,res organics,7,2017,183.3
+Brooklyn,12,res organics,7,2017,60.0
+Brooklyn,13,res organics,7,2017,35.2
+Brooklyn,14,res organics,7,2017,0.0
+Brooklyn,15,res organics,7,2017,149.6
+Brooklyn,16,res organics,7,2017,32.7
+Brooklyn,17,res organics,7,2017,0.0
+Brooklyn,18,res organics,7,2017,0.0
+Manhattan,1,res organics,7,2017,16.5
+Manhattan,2,res organics,7,2017,0.0
+Manhattan,3,res organics,7,2017,0.0
+Manhattan,4,res organics,7,2017,0.0
+Manhattan,5,res organics,7,2017,0.0
+Manhattan,6,res organics,7,2017,17.0
+Manhattan,7,res organics,7,2017,19.3
+Manhattan,8,res organics,7,2017,17.5
+Manhattan,9,res organics,7,2017,27.0
+Manhattan,10,res organics,7,2017,0.0
+Manhattan,11,res organics,7,2017,0.0
+Manhattan,12,res organics,7,2017,0.0
+Queens,1,res organics,7,2017,0.0
+Queens,2,res organics,7,2017,0.0
+Queens,3,res organics,7,2017,0.0
+Queens,4,res organics,7,2017,0.0
+Queens,5,res organics,7,2017,195.3
+Queens,6,res organics,7,2017,0.0
+Queens,7,res organics,7,2017,0.0
+Queens,8,res organics,7,2017,0.0
+Queens,9,res organics,7,2017,0.0
+Queens,10,res organics,7,2017,111.0
+Queens,11,res organics,7,2017,212.7
+Queens,12,res organics,7,2017,0.0
+Queens,13,res organics,7,2017,0.0
+Queens,14,res organics,7,2017,0.0
+Staten Island,1,res organics,7,2017,156.3
+Staten Island,2,res organics,7,2017,0.0
+Staten Island,3,res organics,7,2017,0.0
+Bronx,1,res organics,6,2017,0.0
+Bronx,2,res organics,6,2017,0.0
+Bronx,3,res organics,6,2017,0.0
+Bronx,4,res organics,6,2017,0.0
+Bronx,5,res organics,6,2017,0.0
+Bronx,6,res organics,6,2017,0.0
+Bronx,7,res organics,6,2017,0.0
+Bronx,8,res organics,6,2017,31.8
+Bronx,9,res organics,6,2017,0.0
+Bronx,10,res organics,6,2017,51.2
+Bronx,11,res organics,6,2017,0.0
+Bronx,12,res organics,6,2017,0.0
+Brooklyn,1,res organics,6,2017,66.5
+Brooklyn,2,res organics,6,2017,52.3
+Brooklyn,3,res organics,6,2017,0.0
+Brooklyn,4,res organics,6,2017,0.0
+Brooklyn,5,res organics,6,2017,0.0
+Brooklyn,6,res organics,6,2017,119.1
+Brooklyn,7,res organics,6,2017,85.9
+Brooklyn,8,res organics,6,2017,0.0
+Brooklyn,9,res organics,6,2017,0.0
+Brooklyn,10,res organics,6,2017,155.1
+Brooklyn,11,res organics,6,2017,0.0
+Brooklyn,12,res organics,6,2017,0.0
+Brooklyn,13,res organics,6,2017,33.3
+Brooklyn,14,res organics,6,2017,0.0
+Brooklyn,15,res organics,6,2017,123.7
+Brooklyn,16,res organics,6,2017,33.6
+Brooklyn,17,res organics,6,2017,0.0
+Brooklyn,18,res organics,6,2017,0.0
+Manhattan,1,res organics,6,2017,17.0
+Manhattan,2,res organics,6,2017,0.0
+Manhattan,3,res organics,6,2017,0.0
+Manhattan,4,res organics,6,2017,0.0
+Manhattan,5,res organics,6,2017,0.0
+Manhattan,6,res organics,6,2017,15.2
+Manhattan,7,res organics,6,2017,19.2
+Manhattan,8,res organics,6,2017,12.0
+Manhattan,9,res organics,6,2017,26.7
+Manhattan,10,res organics,6,2017,0.0
+Manhattan,11,res organics,6,2017,0.0
+Manhattan,12,res organics,6,2017,0.0
+Queens,1,res organics,6,2017,0.0
+Queens,2,res organics,6,2017,0.0
+Queens,3,res organics,6,2017,0.0
+Queens,4,res organics,6,2017,0.0
+Queens,5,res organics,6,2017,180.7
+Queens,6,res organics,6,2017,0.0
+Queens,7,res organics,6,2017,0.0
+Queens,8,res organics,6,2017,0.0
+Queens,9,res organics,6,2017,0.0
+Queens,10,res organics,6,2017,130.8
+Queens,11,res organics,6,2017,214.1
+Queens,12,res organics,6,2017,0.0
+Queens,13,res organics,6,2017,0.0
+Queens,14,res organics,6,2017,0.0
+Staten Island,1,res organics,6,2017,198.7
+Staten Island,2,res organics,6,2017,0.0
+Staten Island,3,res organics,6,2017,0.0
+Bronx,1,res organics,5,2017,0.0
+Bronx,2,res organics,5,2017,0.0
+Bronx,3,res organics,5,2017,0.0
+Bronx,4,res organics,5,2017,0.0
+Bronx,5,res organics,5,2017,0.0
+Bronx,6,res organics,5,2017,0.0
+Bronx,7,res organics,5,2017,0.0
+Bronx,8,res organics,5,2017,25.8
+Bronx,9,res organics,5,2017,0.0
+Bronx,10,res organics,5,2017,48.1
+Bronx,11,res organics,5,2017,0.0
+Bronx,12,res organics,5,2017,0.0
+Brooklyn,1,res organics,5,2017,53.5
+Brooklyn,2,res organics,5,2017,0.0
+Brooklyn,3,res organics,5,2017,0.0
+Brooklyn,4,res organics,5,2017,0.0
+Brooklyn,5,res organics,5,2017,0.0
+Brooklyn,6,res organics,5,2017,135.8
+Brooklyn,7,res organics,5,2017,95.8
+Brooklyn,8,res organics,5,2017,0.0
+Brooklyn,9,res organics,5,2017,0.0
+Brooklyn,10,res organics,5,2017,156.3
+Brooklyn,11,res organics,5,2017,0.0
+Brooklyn,12,res organics,5,2017,0.0
+Brooklyn,13,res organics,5,2017,0.0
+Brooklyn,14,res organics,5,2017,0.0
+Brooklyn,15,res organics,5,2017,0.0
+Brooklyn,16,res organics,5,2017,21.7
+Brooklyn,17,res organics,5,2017,0.0
+Brooklyn,18,res organics,5,2017,0.0
+Manhattan,1,res organics,5,2017,17.1
+Manhattan,2,res organics,5,2017,0.0
+Manhattan,3,res organics,5,2017,0.0
+Manhattan,4,res organics,5,2017,0.0
+Manhattan,5,res organics,5,2017,0.0
+Manhattan,6,res organics,5,2017,14.7
+Manhattan,7,res organics,5,2017,20.4
+Manhattan,8,res organics,5,2017,10.5
+Manhattan,9,res organics,5,2017,30.6
+Manhattan,10,res organics,5,2017,0.0
+Manhattan,11,res organics,5,2017,0.0
+Manhattan,12,res organics,5,2017,0.0
+Queens,1,res organics,5,2017,0.0
+Queens,2,res organics,5,2017,0.0
+Queens,3,res organics,5,2017,0.0
+Queens,4,res organics,5,2017,0.0
+Queens,5,res organics,5,2017,223.7
+Queens,6,res organics,5,2017,0.0
+Queens,7,res organics,5,2017,0.0
+Queens,8,res organics,5,2017,0.0
+Queens,9,res organics,5,2017,0.0
+Queens,10,res organics,5,2017,149.2
+Queens,11,res organics,5,2017,242.4
+Queens,12,res organics,5,2017,0.0
+Queens,13,res organics,5,2017,0.0
+Queens,14,res organics,5,2017,0.0
+Staten Island,1,res organics,5,2017,198.3
+Staten Island,2,res organics,5,2017,0.0
+Staten Island,3,res organics,5,2017,0.0
+Bronx,1,res organics,4,2017,0.0
+Bronx,2,res organics,4,2017,0.0
+Bronx,3,res organics,4,2017,0.0
+Bronx,4,res organics,4,2017,0.0
+Bronx,5,res organics,4,2017,0.0
+Bronx,6,res organics,4,2017,3.6
+Bronx,7,res organics,4,2017,0.0
+Bronx,8,res organics,4,2017,26.5
+Bronx,9,res organics,4,2017,0.0
+Bronx,10,res organics,4,2017,63.9
+Bronx,11,res organics,4,2017,0.0
+Bronx,12,res organics,4,2017,0.0
+Brooklyn,1,res organics,4,2017,25.5
+Brooklyn,2,res organics,4,2017,0.0
+Brooklyn,3,res organics,4,2017,0.0
+Brooklyn,4,res organics,4,2017,0.0
+Brooklyn,5,res organics,4,2017,0.0
+Brooklyn,6,res organics,4,2017,129.5
+Brooklyn,7,res organics,4,2017,84.1
+Brooklyn,8,res organics,4,2017,0.0
+Brooklyn,9,res organics,4,2017,0.0
+Brooklyn,10,res organics,4,2017,128.0
+Brooklyn,11,res organics,4,2017,0.0
+Brooklyn,12,res organics,4,2017,0.0
+Brooklyn,13,res organics,4,2017,0.0
+Brooklyn,14,res organics,4,2017,0.0
+Brooklyn,15,res organics,4,2017,0.0
+Brooklyn,16,res organics,4,2017,0.0
+Brooklyn,17,res organics,4,2017,0.0
+Brooklyn,18,res organics,4,2017,0.0
+Manhattan,1,res organics,4,2017,14.0
+Manhattan,2,res organics,4,2017,0.0
+Manhattan,3,res organics,4,2017,0.0
+Manhattan,4,res organics,4,2017,0.0
+Manhattan,5,res organics,4,2017,0.0
+Manhattan,6,res organics,4,2017,11.8
+Manhattan,7,res organics,4,2017,17.0
+Manhattan,8,res organics,4,2017,7.4
+Manhattan,9,res organics,4,2017,22.0
+Manhattan,10,res organics,4,2017,0.0
+Manhattan,11,res organics,4,2017,0.0
+Manhattan,12,res organics,4,2017,0.0
+Queens,1,res organics,4,2017,0.0
+Queens,2,res organics,4,2017,0.0
+Queens,3,res organics,4,2017,0.0
+Queens,4,res organics,4,2017,0.0
+Queens,5,res organics,4,2017,210.5
+Queens,6,res organics,4,2017,0.0
+Queens,7,res organics,4,2017,0.0
+Queens,8,res organics,4,2017,0.0
+Queens,9,res organics,4,2017,0.0
+Queens,10,res organics,4,2017,128.2
+Queens,11,res organics,4,2017,257.4
+Queens,12,res organics,4,2017,0.0
+Queens,13,res organics,4,2017,0.0
+Queens,14,res organics,4,2017,0.0
+Staten Island,1,res organics,4,2017,122.8
+Staten Island,2,res organics,4,2017,0.0
+Staten Island,3,res organics,4,2017,0.0
+Bronx,1,res organics,3,2017,0.0
+Bronx,2,res organics,3,2017,0.0
+Bronx,3,res organics,3,2017,0.0
+Bronx,4,res organics,3,2017,0.0
+Bronx,5,res organics,3,2017,0.0
+Bronx,6,res organics,3,2017,0.0
+Bronx,7,res organics,3,2017,0.0
+Bronx,8,res organics,3,2017,16.8
+Bronx,9,res organics,3,2017,0.0
+Bronx,10,res organics,3,2017,23.7
+Bronx,11,res organics,3,2017,0.0
+Bronx,12,res organics,3,2017,0.0
+Brooklyn,1,res organics,3,2017,10.6
+Brooklyn,2,res organics,3,2017,0.0
+Brooklyn,3,res organics,3,2017,0.0
+Brooklyn,4,res organics,3,2017,0.0
+Brooklyn,5,res organics,3,2017,0.0
+Brooklyn,6,res organics,3,2017,101.2
+Brooklyn,7,res organics,3,2017,64.3
+Brooklyn,8,res organics,3,2017,0.0
+Brooklyn,9,res organics,3,2017,0.0
+Brooklyn,10,res organics,3,2017,95.4
+Brooklyn,11,res organics,3,2017,0.0
+Brooklyn,12,res organics,3,2017,0.0
+Brooklyn,13,res organics,3,2017,0.0
+Brooklyn,14,res organics,3,2017,0.0
+Brooklyn,15,res organics,3,2017,0.0
+Brooklyn,16,res organics,3,2017,0.0
+Brooklyn,17,res organics,3,2017,0.0
+Brooklyn,18,res organics,3,2017,0.0
+Manhattan,1,res organics,3,2017,13.2
+Manhattan,2,res organics,3,2017,0.0
+Manhattan,3,res organics,3,2017,0.0
+Manhattan,4,res organics,3,2017,0.0
+Manhattan,5,res organics,3,2017,0.0
+Manhattan,6,res organics,3,2017,10.7
+Manhattan,7,res organics,3,2017,17.1
+Manhattan,8,res organics,3,2017,7.8
+Manhattan,9,res organics,3,2017,22.5
+Manhattan,10,res organics,3,2017,0.0
+Manhattan,11,res organics,3,2017,0.0
+Manhattan,12,res organics,3,2017,0.0
+Queens,1,res organics,3,2017,0.0
+Queens,2,res organics,3,2017,0.0
+Queens,3,res organics,3,2017,0.0
+Queens,4,res organics,3,2017,0.0
+Queens,5,res organics,3,2017,172.0
+Queens,6,res organics,3,2017,0.0
+Queens,7,res organics,3,2017,0.0
+Queens,8,res organics,3,2017,0.0
+Queens,9,res organics,3,2017,0.0
+Queens,10,res organics,3,2017,76.5
+Queens,11,res organics,3,2017,173.6
+Queens,12,res organics,3,2017,0.0
+Queens,13,res organics,3,2017,0.0
+Queens,14,res organics,3,2017,0.0
+Staten Island,1,res organics,3,2017,48.5
+Staten Island,2,res organics,3,2017,0.0
+Staten Island,3,res organics,3,2017,0.0
+Bronx,1,res organics,2,2017,0.0
+Bronx,2,res organics,2,2017,0.0
+Bronx,3,res organics,2,2017,0.0
+Bronx,4,res organics,2,2017,0.0
+Bronx,5,res organics,2,2017,0.0
+Bronx,6,res organics,2,2017,0.0
+Bronx,7,res organics,2,2017,0.0
+Bronx,8,res organics,2,2017,14.6
+Bronx,9,res organics,2,2017,0.0
+Bronx,10,res organics,2,2017,20.0
+Bronx,11,res organics,2,2017,0.0
+Bronx,12,res organics,2,2017,0.0
+Brooklyn,1,res organics,2,2017,10.5
+Brooklyn,2,res organics,2,2017,0.0
+Brooklyn,3,res organics,2,2017,0.0
+Brooklyn,4,res organics,2,2017,0.0
+Brooklyn,5,res organics,2,2017,0.0
+Brooklyn,6,res organics,2,2017,96.6
+Brooklyn,7,res organics,2,2017,64.3
+Brooklyn,8,res organics,2,2017,0.0
+Brooklyn,9,res organics,2,2017,0.0
+Brooklyn,10,res organics,2,2017,92.6
+Brooklyn,11,res organics,2,2017,0.0
+Brooklyn,12,res organics,2,2017,0.0
+Brooklyn,13,res organics,2,2017,0.0
+Brooklyn,14,res organics,2,2017,0.0
+Brooklyn,15,res organics,2,2017,0.0
+Brooklyn,16,res organics,2,2017,0.0
+Brooklyn,17,res organics,2,2017,0.0
+Brooklyn,18,res organics,2,2017,0.0
+Manhattan,1,res organics,2,2017,12.4
+Manhattan,2,res organics,2,2017,0.0
+Manhattan,3,res organics,2,2017,0.0
+Manhattan,4,res organics,2,2017,0.0
+Manhattan,5,res organics,2,2017,0.0
+Manhattan,6,res organics,2,2017,11.3
+Manhattan,7,res organics,2,2017,14.7
+Manhattan,8,res organics,2,2017,7.4
+Manhattan,9,res organics,2,2017,20.4
+Manhattan,10,res organics,2,2017,0.0
+Manhattan,11,res organics,2,2017,0.0
+Manhattan,12,res organics,2,2017,0.0
+Queens,1,res organics,2,2017,0.0
+Queens,2,res organics,2,2017,0.0
+Queens,3,res organics,2,2017,0.0
+Queens,4,res organics,2,2017,0.0
+Queens,5,res organics,2,2017,172.9
+Queens,6,res organics,2,2017,0.0
+Queens,7,res organics,2,2017,0.0
+Queens,8,res organics,2,2017,0.0
+Queens,9,res organics,2,2017,0.0
+Queens,10,res organics,2,2017,70.6
+Queens,11,res organics,2,2017,163.9
+Queens,12,res organics,2,2017,0.0
+Queens,13,res organics,2,2017,0.0
+Queens,14,res organics,2,2017,0.0
+Staten Island,1,res organics,2,2017,42.2
+Staten Island,2,res organics,2,2017,0.0
+Staten Island,3,res organics,2,2017,0.0
+Bronx,1,res organics,1,2017,0.0
+Bronx,2,res organics,1,2017,0.0
+Bronx,3,res organics,1,2017,0.0
+Bronx,4,res organics,1,2017,0.0
+Bronx,5,res organics,1,2017,0.0
+Bronx,6,res organics,1,2017,0.0
+Bronx,7,res organics,1,2017,0.0
+Bronx,8,res organics,1,2017,16.9
+Bronx,9,res organics,1,2017,0.0
+Bronx,10,res organics,1,2017,35.9
+Bronx,11,res organics,1,2017,0.0
+Bronx,12,res organics,1,2017,0.0
+Brooklyn,1,res organics,1,2017,14.9
+Brooklyn,2,res organics,1,2017,0.0
+Brooklyn,3,res organics,1,2017,0.0
+Brooklyn,4,res organics,1,2017,0.0
+Brooklyn,5,res organics,1,2017,0.0
+Brooklyn,6,res organics,1,2017,114.9
+Brooklyn,7,res organics,1,2017,90.2
+Brooklyn,8,res organics,1,2017,0.0
+Brooklyn,9,res organics,1,2017,0.0
+Brooklyn,10,res organics,1,2017,112.1
+Brooklyn,11,res organics,1,2017,0.0
+Brooklyn,12,res organics,1,2017,0.0
+Brooklyn,13,res organics,1,2017,0.0
+Brooklyn,14,res organics,1,2017,0.0
+Brooklyn,15,res organics,1,2017,0.0
+Brooklyn,16,res organics,1,2017,0.0
+Brooklyn,17,res organics,1,2017,0.0
+Brooklyn,18,res organics,1,2017,0.0
+Manhattan,1,res organics,1,2017,13.0
+Manhattan,2,res organics,1,2017,0.0
+Manhattan,3,res organics,1,2017,0.0
+Manhattan,4,res organics,1,2017,0.0
+Manhattan,5,res organics,1,2017,0.0
+Manhattan,6,res organics,1,2017,14.3
+Manhattan,7,res organics,1,2017,17.7
+Manhattan,8,res organics,1,2017,8.5
+Manhattan,9,res organics,1,2017,23.5
+Manhattan,10,res organics,1,2017,0.0
+Manhattan,11,res organics,1,2017,0.0
+Manhattan,12,res organics,1,2017,0.0
+Queens,1,res organics,1,2017,0.0
+Queens,2,res organics,1,2017,0.0
+Queens,3,res organics,1,2017,0.0
+Queens,4,res organics,1,2017,0.0
+Queens,5,res organics,1,2017,171.4
+Queens,6,res organics,1,2017,0.0
+Queens,7,res organics,1,2017,0.0
+Queens,8,res organics,1,2017,0.0
+Queens,9,res organics,1,2017,0.0
+Queens,10,res organics,1,2017,98.6
+Queens,11,res organics,1,2017,219.2
+Queens,12,res organics,1,2017,0.0
+Queens,13,res organics,1,2017,0.0
+Queens,14,res organics,1,2017,0.0
+Staten Island,1,res organics,1,2017,48.2
+Staten Island,2,res organics,1,2017,0.0
+Staten Island,3,res organics,1,2017,0.0
+Bronx,1,school organic,12,2017,0.0
+Bronx,2,school organic,12,2017,0.0
+Bronx,3,school organic,12,2017,0.0
+Bronx,4,school organic,12,2017,0.0
+Bronx,5,school organic,12,2017,0.0
+Bronx,6,school organic,12,2017,41.3
+Bronx,7,school organic,12,2017,0.0
+Bronx,8,school organic,12,2017,0.0
+Bronx,9,school organic,12,2017,0.0
+Bronx,10,school organic,12,2017,0.0
+Bronx,11,school organic,12,2017,0.0
+Bronx,12,school organic,12,2017,0.0
+Brooklyn,1,school organic,12,2017,0.0
+Brooklyn,2,school organic,12,2017,25.6
+Brooklyn,3,school organic,12,2017,0.0
+Brooklyn,4,school organic,12,2017,0.0
+Brooklyn,5,school organic,12,2017,0.0
+Brooklyn,6,school organic,12,2017,45.2
+Brooklyn,7,school organic,12,2017,77.8
+Brooklyn,8,school organic,12,2017,16.7
+Brooklyn,9,school organic,12,2017,0.0
+Brooklyn,10,school organic,12,2017,0.0
+Brooklyn,11,school organic,12,2017,0.0
+Brooklyn,12,school organic,12,2017,0.0
+Brooklyn,13,school organic,12,2017,0.0
+Brooklyn,14,school organic,12,2017,30.7
+Brooklyn,15,school organic,12,2017,0.0
+Brooklyn,16,school organic,12,2017,0.0
+Brooklyn,17,school organic,12,2017,0.0
+Brooklyn,18,school organic,12,2017,0.0
+Manhattan,1,school organic,12,2017,0.0
+Manhattan,2,school organic,12,2017,17.1
+Manhattan,3,school organic,12,2017,44.0
+Manhattan,4,school organic,12,2017,0.0
+Manhattan,5,school organic,12,2017,0.0
+Manhattan,6,school organic,12,2017,0.0
+Manhattan,7,school organic,12,2017,29.6
+Manhattan,8,school organic,12,2017,0.0
+Manhattan,9,school organic,12,2017,77.1
+Manhattan,10,school organic,12,2017,32.5
+Manhattan,11,school organic,12,2017,0.0
+Manhattan,12,school organic,12,2017,39.1
+Queens,1,school organic,12,2017,0.0
+Queens,2,school organic,12,2017,0.0
+Queens,3,school organic,12,2017,0.0
+Queens,4,school organic,12,2017,0.0
+Queens,5,school organic,12,2017,46.9
+Queens,6,school organic,12,2017,0.0
+Queens,7,school organic,12,2017,0.0
+Queens,8,school organic,12,2017,0.0
+Queens,9,school organic,12,2017,26.9
+Queens,10,school organic,12,2017,0.0
+Queens,11,school organic,12,2017,0.0
+Queens,12,school organic,12,2017,0.0
+Queens,13,school organic,12,2017,0.0
+Queens,14,school organic,12,2017,0.0
+Staten Island,1,school organic,12,2017,0.0
+Staten Island,2,school organic,12,2017,33.0
+Staten Island,3,school organic,12,2017,28.0
+Bronx,1,school organic,11,2017,0.0
+Bronx,2,school organic,11,2017,0.0
+Bronx,3,school organic,11,2017,0.0
+Bronx,4,school organic,11,2017,0.0
+Bronx,5,school organic,11,2017,0.0
+Bronx,6,school organic,11,2017,52.8
+Bronx,7,school organic,11,2017,0.0
+Bronx,8,school organic,11,2017,0.0
+Bronx,9,school organic,11,2017,0.0
+Bronx,10,school organic,11,2017,0.0
+Bronx,11,school organic,11,2017,0.0
+Bronx,12,school organic,11,2017,0.0
+Brooklyn,1,school organic,11,2017,0.0
+Brooklyn,2,school organic,11,2017,33.9
+Brooklyn,3,school organic,11,2017,0.0
+Brooklyn,4,school organic,11,2017,0.0
+Brooklyn,5,school organic,11,2017,0.0
+Brooklyn,6,school organic,11,2017,51.3
+Brooklyn,7,school organic,11,2017,93.8
+Brooklyn,8,school organic,11,2017,19.5
+Brooklyn,9,school organic,11,2017,0.0
+Brooklyn,10,school organic,11,2017,0.0
+Brooklyn,11,school organic,11,2017,0.0
+Brooklyn,12,school organic,11,2017,0.0
+Brooklyn,13,school organic,11,2017,0.0
+Brooklyn,14,school organic,11,2017,36.6
+Brooklyn,15,school organic,11,2017,0.0
+Brooklyn,16,school organic,11,2017,0.0
+Brooklyn,17,school organic,11,2017,0.0
+Brooklyn,18,school organic,11,2017,0.0
+Manhattan,1,school organic,11,2017,0.0
+Manhattan,2,school organic,11,2017,19.7
+Manhattan,3,school organic,11,2017,55.1
+Manhattan,4,school organic,11,2017,0.0
+Manhattan,5,school organic,11,2017,0.0
+Manhattan,6,school organic,11,2017,0.0
+Manhattan,7,school organic,11,2017,36.8
+Manhattan,8,school organic,11,2017,0.0
+Manhattan,9,school organic,11,2017,91.5
+Manhattan,10,school organic,11,2017,39.4
+Manhattan,11,school organic,11,2017,0.0
+Manhattan,12,school organic,11,2017,54.9
+Queens,1,school organic,11,2017,0.0
+Queens,2,school organic,11,2017,0.0
+Queens,3,school organic,11,2017,0.0
+Queens,4,school organic,11,2017,0.0
+Queens,5,school organic,11,2017,66.4
+Queens,6,school organic,11,2017,0.0
+Queens,7,school organic,11,2017,0.0
+Queens,8,school organic,11,2017,0.0
+Queens,9,school organic,11,2017,33.5
+Queens,10,school organic,11,2017,0.0
+Queens,11,school organic,11,2017,0.0
+Queens,12,school organic,11,2017,0.0
+Queens,13,school organic,11,2017,0.0
+Queens,14,school organic,11,2017,0.0
+Staten Island,1,school organic,11,2017,0.0
+Staten Island,2,school organic,11,2017,41.9
+Staten Island,3,school organic,11,2017,34.3
+Bronx,1,school organic,10,2017,0.0
+Bronx,2,school organic,10,2017,0.0
+Bronx,3,school organic,10,2017,0.0
+Bronx,4,school organic,10,2017,0.0
+Bronx,5,school organic,10,2017,0.0
+Bronx,6,school organic,10,2017,74.3
+Bronx,7,school organic,10,2017,0.0
+Bronx,8,school organic,10,2017,0.0
+Bronx,9,school organic,10,2017,0.0
+Bronx,10,school organic,10,2017,0.0
+Bronx,11,school organic,10,2017,0.0
+Bronx,12,school organic,10,2017,0.0
+Brooklyn,1,school organic,10,2017,0.0
+Brooklyn,2,school organic,10,2017,36.1
+Brooklyn,3,school organic,10,2017,0.0
+Brooklyn,4,school organic,10,2017,0.0
+Brooklyn,5,school organic,10,2017,0.0
+Brooklyn,6,school organic,10,2017,55.4
+Brooklyn,7,school organic,10,2017,101.6
+Brooklyn,8,school organic,10,2017,19.8
+Brooklyn,9,school organic,10,2017,0.0
+Brooklyn,10,school organic,10,2017,0.0
+Brooklyn,11,school organic,10,2017,0.0
+Brooklyn,12,school organic,10,2017,0.0
+Brooklyn,13,school organic,10,2017,0.0
+Brooklyn,14,school organic,10,2017,34.6
+Brooklyn,15,school organic,10,2017,0.0
+Brooklyn,16,school organic,10,2017,0.0
+Brooklyn,17,school organic,10,2017,0.0
+Brooklyn,18,school organic,10,2017,0.0
+Manhattan,1,school organic,10,2017,0.0
+Manhattan,2,school organic,10,2017,20.3
+Manhattan,3,school organic,10,2017,64.6
+Manhattan,4,school organic,10,2017,0.0
+Manhattan,5,school organic,10,2017,0.0
+Manhattan,6,school organic,10,2017,0.0
+Manhattan,7,school organic,10,2017,39.1
+Manhattan,8,school organic,10,2017,0.0
+Manhattan,9,school organic,10,2017,95.0
+Manhattan,10,school organic,10,2017,45.7
+Manhattan,11,school organic,10,2017,0.0
+Manhattan,12,school organic,10,2017,50.8
+Queens,1,school organic,10,2017,0.0
+Queens,2,school organic,10,2017,0.0
+Queens,3,school organic,10,2017,0.0
+Queens,4,school organic,10,2017,0.0
+Queens,5,school organic,10,2017,76.7
+Queens,6,school organic,10,2017,0.0
+Queens,7,school organic,10,2017,0.0
+Queens,8,school organic,10,2017,0.0
+Queens,9,school organic,10,2017,37.1
+Queens,10,school organic,10,2017,0.0
+Queens,11,school organic,10,2017,0.0
+Queens,12,school organic,10,2017,0.0
+Queens,13,school organic,10,2017,0.0
+Queens,14,school organic,10,2017,0.0
+Staten Island,1,school organic,10,2017,0.0
+Staten Island,2,school organic,10,2017,45.2
+Staten Island,3,school organic,10,2017,36.3
+Bronx,1,school organic,9,2017,0.0
+Bronx,2,school organic,9,2017,0.0
+Bronx,3,school organic,9,2017,0.0
+Bronx,4,school organic,9,2017,0.0
+Bronx,5,school organic,9,2017,0.0
+Bronx,6,school organic,9,2017,58.7
+Bronx,7,school organic,9,2017,0.0
+Bronx,8,school organic,9,2017,0.0
+Bronx,9,school organic,9,2017,0.0
+Bronx,10,school organic,9,2017,0.0
+Bronx,11,school organic,9,2017,0.0
+Bronx,12,school organic,9,2017,0.0
+Brooklyn,1,school organic,9,2017,0.0
+Brooklyn,2,school organic,9,2017,24.9
+Brooklyn,3,school organic,9,2017,0.0
+Brooklyn,4,school organic,9,2017,0.0
+Brooklyn,5,school organic,9,2017,0.0
+Brooklyn,6,school organic,9,2017,37.5
+Brooklyn,7,school organic,9,2017,61.2
+Brooklyn,8,school organic,9,2017,12.1
+Brooklyn,9,school organic,9,2017,14.6
+Brooklyn,10,school organic,9,2017,0.0
+Brooklyn,11,school organic,9,2017,0.0
+Brooklyn,12,school organic,9,2017,0.0
+Brooklyn,13,school organic,9,2017,0.0
+Brooklyn,14,school organic,9,2017,29.6
+Brooklyn,15,school organic,9,2017,0.0
+Brooklyn,16,school organic,9,2017,0.0
+Brooklyn,17,school organic,9,2017,0.0
+Brooklyn,18,school organic,9,2017,0.0
+Manhattan,1,school organic,9,2017,0.0
+Manhattan,2,school organic,9,2017,13.8
+Manhattan,3,school organic,9,2017,43.4
+Manhattan,4,school organic,9,2017,0.0
+Manhattan,5,school organic,9,2017,0.0
+Manhattan,6,school organic,9,2017,0.0
+Manhattan,7,school organic,9,2017,27.0
+Manhattan,8,school organic,9,2017,0.0
+Manhattan,9,school organic,9,2017,50.5
+Manhattan,10,school organic,9,2017,40.8
+Manhattan,11,school organic,9,2017,0.0
+Manhattan,12,school organic,9,2017,29.1
+Queens,1,school organic,9,2017,0.0
+Queens,2,school organic,9,2017,0.0
+Queens,3,school organic,9,2017,0.0
+Queens,4,school organic,9,2017,0.0
+Queens,5,school organic,9,2017,55.5
+Queens,6,school organic,9,2017,0.0
+Queens,7,school organic,9,2017,0.0
+Queens,8,school organic,9,2017,0.0
+Queens,9,school organic,9,2017,25.0
+Queens,10,school organic,9,2017,0.0
+Queens,11,school organic,9,2017,0.0
+Queens,12,school organic,9,2017,0.0
+Queens,13,school organic,9,2017,0.0
+Queens,14,school organic,9,2017,0.0
+Staten Island,1,school organic,9,2017,0.0
+Staten Island,2,school organic,9,2017,32.6
+Staten Island,3,school organic,9,2017,25.6
+Bronx,1,school organic,8,2017,0.0
+Bronx,2,school organic,8,2017,0.0
+Bronx,3,school organic,8,2017,0.0
+Bronx,4,school organic,8,2017,0.0
+Bronx,5,school organic,8,2017,0.0
+Bronx,6,school organic,8,2017,0.0
+Bronx,7,school organic,8,2017,0.0
+Bronx,8,school organic,8,2017,0.0
+Bronx,9,school organic,8,2017,0.0
+Bronx,10,school organic,8,2017,0.0
+Bronx,11,school organic,8,2017,0.0
+Bronx,12,school organic,8,2017,0.0
+Brooklyn,1,school organic,8,2017,0.0
+Brooklyn,2,school organic,8,2017,0.0
+Brooklyn,3,school organic,8,2017,0.0
+Brooklyn,4,school organic,8,2017,0.0
+Brooklyn,5,school organic,8,2017,0.0
+Brooklyn,6,school organic,8,2017,0.0
+Brooklyn,7,school organic,8,2017,0.0
+Brooklyn,8,school organic,8,2017,0.0
+Brooklyn,9,school organic,8,2017,0.0
+Brooklyn,10,school organic,8,2017,0.0
+Brooklyn,11,school organic,8,2017,0.0
+Brooklyn,12,school organic,8,2017,0.0
+Brooklyn,13,school organic,8,2017,0.0
+Brooklyn,14,school organic,8,2017,0.0
+Brooklyn,15,school organic,8,2017,0.0
+Brooklyn,16,school organic,8,2017,0.0
+Brooklyn,17,school organic,8,2017,0.0
+Brooklyn,18,school organic,8,2017,0.0
+Manhattan,1,school organic,8,2017,0.0
+Manhattan,2,school organic,8,2017,0.0
+Manhattan,3,school organic,8,2017,0.0
+Manhattan,4,school organic,8,2017,0.0
+Manhattan,5,school organic,8,2017,0.0
+Manhattan,6,school organic,8,2017,0.0
+Manhattan,7,school organic,8,2017,0.0
+Manhattan,8,school organic,8,2017,0.0
+Manhattan,9,school organic,8,2017,0.0
+Manhattan,10,school organic,8,2017,0.0
+Manhattan,11,school organic,8,2017,0.0
+Manhattan,12,school organic,8,2017,0.0
+Queens,1,school organic,8,2017,0.0
+Queens,2,school organic,8,2017,0.0
+Queens,3,school organic,8,2017,0.0
+Queens,4,school organic,8,2017,0.0
+Queens,5,school organic,8,2017,0.0
+Queens,6,school organic,8,2017,0.0
+Queens,7,school organic,8,2017,0.0
+Queens,8,school organic,8,2017,0.0
+Queens,9,school organic,8,2017,0.0
+Queens,10,school organic,8,2017,0.0
+Queens,11,school organic,8,2017,0.0
+Queens,12,school organic,8,2017,0.0
+Queens,13,school organic,8,2017,0.0
+Queens,14,school organic,8,2017,0.0
+Staten Island,1,school organic,8,2017,0.0
+Staten Island,2,school organic,8,2017,0.0
+Staten Island,3,school organic,8,2017,0.0
+Bronx,1,school organic,7,2017,0.0
+Bronx,2,school organic,7,2017,0.0
+Bronx,3,school organic,7,2017,0.0
+Bronx,4,school organic,7,2017,0.0
+Bronx,5,school organic,7,2017,0.0
+Bronx,6,school organic,7,2017,0.0
+Bronx,7,school organic,7,2017,0.0
+Bronx,8,school organic,7,2017,0.0
+Bronx,9,school organic,7,2017,0.0
+Bronx,10,school organic,7,2017,0.0
+Bronx,11,school organic,7,2017,0.0
+Bronx,12,school organic,7,2017,0.0
+Brooklyn,1,school organic,7,2017,0.0
+Brooklyn,2,school organic,7,2017,0.0
+Brooklyn,3,school organic,7,2017,0.0
+Brooklyn,4,school organic,7,2017,0.0
+Brooklyn,5,school organic,7,2017,0.0
+Brooklyn,6,school organic,7,2017,0.0
+Brooklyn,7,school organic,7,2017,0.0
+Brooklyn,8,school organic,7,2017,0.0
+Brooklyn,9,school organic,7,2017,0.0
+Brooklyn,10,school organic,7,2017,0.0
+Brooklyn,11,school organic,7,2017,0.0
+Brooklyn,12,school organic,7,2017,0.0
+Brooklyn,13,school organic,7,2017,0.0
+Brooklyn,14,school organic,7,2017,0.0
+Brooklyn,15,school organic,7,2017,0.0
+Brooklyn,16,school organic,7,2017,0.0
+Brooklyn,17,school organic,7,2017,0.0
+Brooklyn,18,school organic,7,2017,0.0
+Manhattan,1,school organic,7,2017,0.0
+Manhattan,2,school organic,7,2017,0.0
+Manhattan,3,school organic,7,2017,0.0
+Manhattan,4,school organic,7,2017,0.0
+Manhattan,5,school organic,7,2017,0.0
+Manhattan,6,school organic,7,2017,0.0
+Manhattan,7,school organic,7,2017,0.0
+Manhattan,8,school organic,7,2017,0.0
+Manhattan,9,school organic,7,2017,0.0
+Manhattan,10,school organic,7,2017,0.0
+Manhattan,11,school organic,7,2017,0.0
+Manhattan,12,school organic,7,2017,0.0
+Queens,1,school organic,7,2017,0.0
+Queens,2,school organic,7,2017,0.0
+Queens,3,school organic,7,2017,0.0
+Queens,4,school organic,7,2017,0.0
+Queens,5,school organic,7,2017,0.0
+Queens,6,school organic,7,2017,0.0
+Queens,7,school organic,7,2017,0.0
+Queens,8,school organic,7,2017,0.0
+Queens,9,school organic,7,2017,0.0
+Queens,10,school organic,7,2017,0.0
+Queens,11,school organic,7,2017,0.0
+Queens,12,school organic,7,2017,0.0
+Queens,13,school organic,7,2017,0.0
+Queens,14,school organic,7,2017,0.0
+Staten Island,1,school organic,7,2017,0.0
+Staten Island,2,school organic,7,2017,0.0
+Staten Island,3,school organic,7,2017,0.0
+Bronx,1,school organic,6,2017,0.0
+Bronx,2,school organic,6,2017,0.0
+Bronx,3,school organic,6,2017,0.0
+Bronx,4,school organic,6,2017,0.0
+Bronx,5,school organic,6,2017,0.0
+Bronx,6,school organic,6,2017,82.2
+Bronx,7,school organic,6,2017,0.0
+Bronx,8,school organic,6,2017,0.0
+Bronx,9,school organic,6,2017,0.0
+Bronx,10,school organic,6,2017,0.0
+Bronx,11,school organic,6,2017,0.0
+Bronx,12,school organic,6,2017,0.0
+Brooklyn,1,school organic,6,2017,0.0
+Brooklyn,2,school organic,6,2017,20.6
+Brooklyn,3,school organic,6,2017,0.0
+Brooklyn,4,school organic,6,2017,0.0
+Brooklyn,5,school organic,6,2017,0.0
+Brooklyn,6,school organic,6,2017,37.5
+Brooklyn,7,school organic,6,2017,0.0
+Brooklyn,8,school organic,6,2017,15.5
+Brooklyn,9,school organic,6,2017,26.8
+Brooklyn,10,school organic,6,2017,0.0
+Brooklyn,11,school organic,6,2017,62.6
+Brooklyn,12,school organic,6,2017,0.0
+Brooklyn,13,school organic,6,2017,0.0
+Brooklyn,14,school organic,6,2017,0.0
+Brooklyn,15,school organic,6,2017,0.0
+Brooklyn,16,school organic,6,2017,0.0
+Brooklyn,17,school organic,6,2017,0.0
+Brooklyn,18,school organic,6,2017,0.0
+Manhattan,1,school organic,6,2017,0.0
+Manhattan,2,school organic,6,2017,10.9
+Manhattan,3,school organic,6,2017,40.0
+Manhattan,4,school organic,6,2017,0.0
+Manhattan,5,school organic,6,2017,0.0
+Manhattan,6,school organic,6,2017,0.0
+Manhattan,7,school organic,6,2017,17.8
+Manhattan,8,school organic,6,2017,0.0
+Manhattan,9,school organic,6,2017,46.7
+Manhattan,10,school organic,6,2017,0.0
+Manhattan,11,school organic,6,2017,18.0
+Manhattan,12,school organic,6,2017,26.2
+Queens,1,school organic,6,2017,0.0
+Queens,2,school organic,6,2017,0.0
+Queens,3,school organic,6,2017,0.0
+Queens,4,school organic,6,2017,0.0
+Queens,5,school organic,6,2017,62.8
+Queens,6,school organic,6,2017,0.0
+Queens,7,school organic,6,2017,0.0
+Queens,8,school organic,6,2017,0.0
+Queens,9,school organic,6,2017,33.6
+Queens,10,school organic,6,2017,0.0
+Queens,11,school organic,6,2017,0.0
+Queens,12,school organic,6,2017,0.0
+Queens,13,school organic,6,2017,0.0
+Queens,14,school organic,6,2017,0.0
+Staten Island,1,school organic,6,2017,0.0
+Staten Island,2,school organic,6,2017,32.7
+Staten Island,3,school organic,6,2017,24.9
+Bronx,1,school organic,5,2017,0.0
+Bronx,2,school organic,5,2017,0.0
+Bronx,3,school organic,5,2017,0.0
+Bronx,4,school organic,5,2017,0.0
+Bronx,5,school organic,5,2017,0.0
+Bronx,6,school organic,5,2017,100.1
+Bronx,7,school organic,5,2017,0.0
+Bronx,8,school organic,5,2017,0.0
+Bronx,9,school organic,5,2017,0.0
+Bronx,10,school organic,5,2017,0.0
+Bronx,11,school organic,5,2017,0.0
+Bronx,12,school organic,5,2017,0.0
+Brooklyn,1,school organic,5,2017,0.0
+Brooklyn,2,school organic,5,2017,28.8
+Brooklyn,3,school organic,5,2017,0.0
+Brooklyn,4,school organic,5,2017,0.0
+Brooklyn,5,school organic,5,2017,0.0
+Brooklyn,6,school organic,5,2017,52.1
+Brooklyn,7,school organic,5,2017,0.0
+Brooklyn,8,school organic,5,2017,17.8
+Brooklyn,9,school organic,5,2017,31.1
+Brooklyn,10,school organic,5,2017,0.0
+Brooklyn,11,school organic,5,2017,92.1
+Brooklyn,12,school organic,5,2017,0.0
+Brooklyn,13,school organic,5,2017,0.0
+Brooklyn,14,school organic,5,2017,0.0
+Brooklyn,15,school organic,5,2017,0.0
+Brooklyn,16,school organic,5,2017,0.0
+Brooklyn,17,school organic,5,2017,0.0
+Brooklyn,18,school organic,5,2017,0.0
+Manhattan,1,school organic,5,2017,0.0
+Manhattan,2,school organic,5,2017,16.0
+Manhattan,3,school organic,5,2017,52.8
+Manhattan,4,school organic,5,2017,0.0
+Manhattan,5,school organic,5,2017,0.0
+Manhattan,6,school organic,5,2017,0.0
+Manhattan,7,school organic,5,2017,40.0
+Manhattan,8,school organic,5,2017,0.0
+Manhattan,9,school organic,5,2017,75.8
+Manhattan,10,school organic,5,2017,0.0
+Manhattan,11,school organic,5,2017,23.2
+Manhattan,12,school organic,5,2017,37.8
+Queens,1,school organic,5,2017,0.0
+Queens,2,school organic,5,2017,0.0
+Queens,3,school organic,5,2017,0.0
+Queens,4,school organic,5,2017,0.0
+Queens,5,school organic,5,2017,90.4
+Queens,6,school organic,5,2017,0.0
+Queens,7,school organic,5,2017,0.0
+Queens,8,school organic,5,2017,0.0
+Queens,9,school organic,5,2017,40.2
+Queens,10,school organic,5,2017,0.0
+Queens,11,school organic,5,2017,0.0
+Queens,12,school organic,5,2017,0.0
+Queens,13,school organic,5,2017,0.0
+Queens,14,school organic,5,2017,0.0
+Staten Island,1,school organic,5,2017,0.0
+Staten Island,2,school organic,5,2017,42.4
+Staten Island,3,school organic,5,2017,32.1
+Bronx,1,school organic,4,2017,0.0
+Bronx,2,school organic,4,2017,0.0
+Bronx,3,school organic,4,2017,0.0
+Bronx,4,school organic,4,2017,0.0
+Bronx,5,school organic,4,2017,0.0
+Bronx,6,school organic,4,2017,50.2
+Bronx,7,school organic,4,2017,0.0
+Bronx,8,school organic,4,2017,0.0
+Bronx,9,school organic,4,2017,0.0
+Bronx,10,school organic,4,2017,0.0
+Bronx,11,school organic,4,2017,0.0
+Bronx,12,school organic,4,2017,0.0
+Brooklyn,1,school organic,4,2017,0.0
+Brooklyn,2,school organic,4,2017,18.8
+Brooklyn,3,school organic,4,2017,0.0
+Brooklyn,4,school organic,4,2017,0.0
+Brooklyn,5,school organic,4,2017,0.0
+Brooklyn,6,school organic,4,2017,33.0
+Brooklyn,7,school organic,4,2017,0.0
+Brooklyn,8,school organic,4,2017,10.6
+Brooklyn,9,school organic,4,2017,20.9
+Brooklyn,10,school organic,4,2017,0.0
+Brooklyn,11,school organic,4,2017,55.1
+Brooklyn,12,school organic,4,2017,0.0
+Brooklyn,13,school organic,4,2017,0.0
+Brooklyn,14,school organic,4,2017,0.0
+Brooklyn,15,school organic,4,2017,0.0
+Brooklyn,16,school organic,4,2017,0.0
+Brooklyn,17,school organic,4,2017,0.0
+Brooklyn,18,school organic,4,2017,0.0
+Manhattan,1,school organic,4,2017,0.0
+Manhattan,2,school organic,4,2017,11.3
+Manhattan,3,school organic,4,2017,36.9
+Manhattan,4,school organic,4,2017,0.0
+Manhattan,5,school organic,4,2017,0.0
+Manhattan,6,school organic,4,2017,0.0
+Manhattan,7,school organic,4,2017,23.3
+Manhattan,8,school organic,4,2017,0.0
+Manhattan,9,school organic,4,2017,49.5
+Manhattan,10,school organic,4,2017,0.0
+Manhattan,11,school organic,4,2017,16.5
+Manhattan,12,school organic,4,2017,21.8
+Queens,1,school organic,4,2017,0.0
+Queens,2,school organic,4,2017,0.0
+Queens,3,school organic,4,2017,0.0
+Queens,4,school organic,4,2017,0.0
+Queens,5,school organic,4,2017,57.7
+Queens,6,school organic,4,2017,0.0
+Queens,7,school organic,4,2017,0.0
+Queens,8,school organic,4,2017,0.0
+Queens,9,school organic,4,2017,24.6
+Queens,10,school organic,4,2017,0.0
+Queens,11,school organic,4,2017,0.0
+Queens,12,school organic,4,2017,0.0
+Queens,13,school organic,4,2017,0.0
+Queens,14,school organic,4,2017,0.0
+Staten Island,1,school organic,4,2017,0.0
+Staten Island,2,school organic,4,2017,23.4
+Staten Island,3,school organic,4,2017,21.5
+Bronx,1,school organic,3,2017,0.0
+Bronx,2,school organic,3,2017,0.0
+Bronx,3,school organic,3,2017,0.0
+Bronx,4,school organic,3,2017,0.0
+Bronx,5,school organic,3,2017,0.0
+Bronx,6,school organic,3,2017,84.8
+Bronx,7,school organic,3,2017,0.0
+Bronx,8,school organic,3,2017,0.0
+Bronx,9,school organic,3,2017,0.0
+Bronx,10,school organic,3,2017,0.0
+Bronx,11,school organic,3,2017,0.0
+Bronx,12,school organic,3,2017,0.0
+Brooklyn,1,school organic,3,2017,0.0
+Brooklyn,2,school organic,3,2017,32.2
+Brooklyn,3,school organic,3,2017,0.0
+Brooklyn,4,school organic,3,2017,0.0
+Brooklyn,5,school organic,3,2017,0.0
+Brooklyn,6,school organic,3,2017,46.8
+Brooklyn,7,school organic,3,2017,0.0
+Brooklyn,8,school organic,3,2017,15.7
+Brooklyn,9,school organic,3,2017,31.3
+Brooklyn,10,school organic,3,2017,0.0
+Brooklyn,11,school organic,3,2017,85.3
+Brooklyn,12,school organic,3,2017,0.0
+Brooklyn,13,school organic,3,2017,0.0
+Brooklyn,14,school organic,3,2017,0.0
+Brooklyn,15,school organic,3,2017,0.0
+Brooklyn,16,school organic,3,2017,0.0
+Brooklyn,17,school organic,3,2017,0.0
+Brooklyn,18,school organic,3,2017,0.0
+Manhattan,1,school organic,3,2017,0.0
+Manhattan,2,school organic,3,2017,16.6
+Manhattan,3,school organic,3,2017,58.4
+Manhattan,4,school organic,3,2017,0.0
+Manhattan,5,school organic,3,2017,0.0
+Manhattan,6,school organic,3,2017,0.0
+Manhattan,7,school organic,3,2017,30.4
+Manhattan,8,school organic,3,2017,0.0
+Manhattan,9,school organic,3,2017,73.4
+Manhattan,10,school organic,3,2017,0.0
+Manhattan,11,school organic,3,2017,23.9
+Manhattan,12,school organic,3,2017,34.0
+Queens,1,school organic,3,2017,0.0
+Queens,2,school organic,3,2017,0.0
+Queens,3,school organic,3,2017,0.0
+Queens,4,school organic,3,2017,0.0
+Queens,5,school organic,3,2017,96.6
+Queens,6,school organic,3,2017,0.0
+Queens,7,school organic,3,2017,0.0
+Queens,8,school organic,3,2017,0.0
+Queens,9,school organic,3,2017,37.3
+Queens,10,school organic,3,2017,0.0
+Queens,11,school organic,3,2017,0.0
+Queens,12,school organic,3,2017,0.0
+Queens,13,school organic,3,2017,0.0
+Queens,14,school organic,3,2017,0.0
+Staten Island,1,school organic,3,2017,0.0
+Staten Island,2,school organic,3,2017,38.4
+Staten Island,3,school organic,3,2017,29.1
+Bronx,1,school organic,2,2017,0.0
+Bronx,2,school organic,2,2017,0.0
+Bronx,3,school organic,2,2017,0.0
+Bronx,4,school organic,2,2017,0.0
+Bronx,5,school organic,2,2017,0.0
+Bronx,6,school organic,2,2017,55.8
+Bronx,7,school organic,2,2017,0.0
+Bronx,8,school organic,2,2017,0.0
+Bronx,9,school organic,2,2017,0.0
+Bronx,10,school organic,2,2017,0.0
+Bronx,11,school organic,2,2017,0.0
+Bronx,12,school organic,2,2017,0.0
+Brooklyn,1,school organic,2,2017,0.0
+Brooklyn,2,school organic,2,2017,21.4
+Brooklyn,3,school organic,2,2017,0.0
+Brooklyn,4,school organic,2,2017,0.0
+Brooklyn,5,school organic,2,2017,0.0
+Brooklyn,6,school organic,2,2017,31.8
+Brooklyn,7,school organic,2,2017,0.0
+Brooklyn,8,school organic,2,2017,12.1
+Brooklyn,9,school organic,2,2017,23.4
+Brooklyn,10,school organic,2,2017,0.0
+Brooklyn,11,school organic,2,2017,58.5
+Brooklyn,12,school organic,2,2017,0.0
+Brooklyn,13,school organic,2,2017,0.0
+Brooklyn,14,school organic,2,2017,0.0
+Brooklyn,15,school organic,2,2017,0.0
+Brooklyn,16,school organic,2,2017,0.0
+Brooklyn,17,school organic,2,2017,0.0
+Brooklyn,18,school organic,2,2017,0.0
+Manhattan,1,school organic,2,2017,0.0
+Manhattan,2,school organic,2,2017,13.1
+Manhattan,3,school organic,2,2017,33.0
+Manhattan,4,school organic,2,2017,0.0
+Manhattan,5,school organic,2,2017,0.0
+Manhattan,6,school organic,2,2017,0.0
+Manhattan,7,school organic,2,2017,24.1
+Manhattan,8,school organic,2,2017,0.0
+Manhattan,9,school organic,2,2017,55.1
+Manhattan,10,school organic,2,2017,0.0
+Manhattan,11,school organic,2,2017,16.2
+Manhattan,12,school organic,2,2017,22.4
+Queens,1,school organic,2,2017,0.0
+Queens,2,school organic,2,2017,0.0
+Queens,3,school organic,2,2017,0.0
+Queens,4,school organic,2,2017,0.0
+Queens,5,school organic,2,2017,57.1
+Queens,6,school organic,2,2017,0.0
+Queens,7,school organic,2,2017,0.0
+Queens,8,school organic,2,2017,0.0
+Queens,9,school organic,2,2017,24.1
+Queens,10,school organic,2,2017,0.0
+Queens,11,school organic,2,2017,0.0
+Queens,12,school organic,2,2017,0.0
+Queens,13,school organic,2,2017,0.0
+Queens,14,school organic,2,2017,0.0
+Staten Island,1,school organic,2,2017,0.0
+Staten Island,2,school organic,2,2017,25.8
+Staten Island,3,school organic,2,2017,21.0
+Bronx,1,school organic,1,2017,0.0
+Bronx,2,school organic,1,2017,0.0
+Bronx,3,school organic,1,2017,0.0
+Bronx,4,school organic,1,2017,0.0
+Bronx,5,school organic,1,2017,0.0
+Bronx,6,school organic,1,2017,71.1
+Bronx,7,school organic,1,2017,0.0
+Bronx,8,school organic,1,2017,0.0
+Bronx,9,school organic,1,2017,0.0
+Bronx,10,school organic,1,2017,0.0
+Bronx,11,school organic,1,2017,0.0
+Bronx,12,school organic,1,2017,0.0
+Brooklyn,1,school organic,1,2017,0.0
+Brooklyn,2,school organic,1,2017,28.9
+Brooklyn,3,school organic,1,2017,0.0
+Brooklyn,4,school organic,1,2017,0.0
+Brooklyn,5,school organic,1,2017,0.0
+Brooklyn,6,school organic,1,2017,45.2
+Brooklyn,7,school organic,1,2017,0.0
+Brooklyn,8,school organic,1,2017,17.6
+Brooklyn,9,school organic,1,2017,31.5
+Brooklyn,10,school organic,1,2017,0.0
+Brooklyn,11,school organic,1,2017,81.7
+Brooklyn,12,school organic,1,2017,0.0
+Brooklyn,13,school organic,1,2017,0.0
+Brooklyn,14,school organic,1,2017,0.0
+Brooklyn,15,school organic,1,2017,0.0
+Brooklyn,16,school organic,1,2017,0.0
+Brooklyn,17,school organic,1,2017,0.0
+Brooklyn,18,school organic,1,2017,0.0
+Manhattan,1,school organic,1,2017,0.0
+Manhattan,2,school organic,1,2017,15.4
+Manhattan,3,school organic,1,2017,48.0
+Manhattan,4,school organic,1,2017,0.0
+Manhattan,5,school organic,1,2017,0.0
+Manhattan,6,school organic,1,2017,0.0
+Manhattan,7,school organic,1,2017,31.9
+Manhattan,8,school organic,1,2017,0.0
+Manhattan,9,school organic,1,2017,70.3
+Manhattan,10,school organic,1,2017,0.0
+Manhattan,11,school organic,1,2017,22.8
+Manhattan,12,school organic,1,2017,25.5
+Queens,1,school organic,1,2017,0.0
+Queens,2,school organic,1,2017,0.0
+Queens,3,school organic,1,2017,0.0
+Queens,4,school organic,1,2017,0.0
+Queens,5,school organic,1,2017,82.5
+Queens,6,school organic,1,2017,0.0
+Queens,7,school organic,1,2017,0.0
+Queens,8,school organic,1,2017,0.0
+Queens,9,school organic,1,2017,34.0
+Queens,10,school organic,1,2017,0.0
+Queens,11,school organic,1,2017,0.0
+Queens,12,school organic,1,2017,0.0
+Queens,13,school organic,1,2017,0.0
+Queens,14,school organic,1,2017,0.0
+Staten Island,1,school organic,1,2017,0.0
+Staten Island,2,school organic,1,2017,38.7
+Staten Island,3,school organic,1,2017,30.4
+Bronx,1,leaves organic,12,2017,0.0
+Bronx,2,leaves organic,12,2017,0.0
+Bronx,3,leaves organic,12,2017,0.0
+Bronx,4,leaves organic,12,2017,0.0
+Bronx,5,leaves organic,12,2017,0.0
+Bronx,6,leaves organic,12,2017,0.0
+Bronx,7,leaves organic,12,2017,0.0
+Bronx,8,leaves organic,12,2017,12.0
+Bronx,9,leaves organic,12,2017,0.0
+Bronx,10,leaves organic,12,2017,6.7
+Bronx,11,leaves organic,12,2017,21.7
+Bronx,12,leaves organic,12,2017,0.0
+Brooklyn,1,leaves organic,12,2017,0.0
+Brooklyn,2,leaves organic,12,2017,0.0
+Brooklyn,3,leaves organic,12,2017,0.0
+Brooklyn,4,leaves organic,12,2017,0.0
+Brooklyn,5,leaves organic,12,2017,0.0
+Brooklyn,6,leaves organic,12,2017,0.0
+Brooklyn,7,leaves organic,12,2017,0.0
+Brooklyn,8,leaves organic,12,2017,7.0
+Brooklyn,9,leaves organic,12,2017,0.0
+Brooklyn,10,leaves organic,12,2017,0.0
+Brooklyn,11,leaves organic,12,2017,0.0
+Brooklyn,12,leaves organic,12,2017,0.0
+Brooklyn,13,leaves organic,12,2017,0.0
+Brooklyn,14,leaves organic,12,2017,0.0
+Brooklyn,15,leaves organic,12,2017,0.0
+Brooklyn,16,leaves organic,12,2017,0.0
+Brooklyn,17,leaves organic,12,2017,0.0
+Brooklyn,18,leaves organic,12,2017,0.0
+Manhattan,1,leaves organic,12,2017,0.0
+Manhattan,2,leaves organic,12,2017,0.0
+Manhattan,3,leaves organic,12,2017,0.0
+Manhattan,4,leaves organic,12,2017,0.0
+Manhattan,5,leaves organic,12,2017,0.0
+Manhattan,6,leaves organic,12,2017,0.0
+Manhattan,7,leaves organic,12,2017,0.0
+Manhattan,8,leaves organic,12,2017,0.0
+Manhattan,9,leaves organic,12,2017,0.0
+Manhattan,10,leaves organic,12,2017,0.0
+Manhattan,11,leaves organic,12,2017,0.0
+Manhattan,12,leaves organic,12,2017,0.0
+Queens,1,leaves organic,12,2017,25.6
+Queens,2,leaves organic,12,2017,0.0
+Queens,3,leaves organic,12,2017,17.1
+Queens,4,leaves organic,12,2017,8.2
+Queens,5,leaves organic,12,2017,0.0
+Queens,6,leaves organic,12,2017,72.0
+Queens,7,leaves organic,12,2017,0.0
+Queens,8,leaves organic,12,2017,48.3
+Queens,9,leaves organic,12,2017,0.0
+Queens,10,leaves organic,12,2017,0.0
+Queens,11,leaves organic,12,2017,0.0
+Queens,12,leaves organic,12,2017,208.1
+Queens,13,leaves organic,12,2017,159.2
+Queens,14,leaves organic,12,2017,0.0
+Staten Island,1,leaves organic,12,2017,10.3
+Staten Island,2,leaves organic,12,2017,6.3
+Staten Island,3,leaves organic,12,2017,12.9
+Bronx,1,leaves organic,11,2017,0.0
+Bronx,2,leaves organic,11,2017,0.0
+Bronx,3,leaves organic,11,2017,0.0
+Bronx,4,leaves organic,11,2017,0.0
+Bronx,5,leaves organic,11,2017,2.8
+Bronx,6,leaves organic,11,2017,0.0
+Bronx,7,leaves organic,11,2017,13.3
+Bronx,8,leaves organic,11,2017,31.9
+Bronx,9,leaves organic,11,2017,5.0
+Bronx,10,leaves organic,11,2017,18.7
+Bronx,11,leaves organic,11,2017,64.5
+Bronx,12,leaves organic,11,2017,0.0
+Brooklyn,1,leaves organic,11,2017,0.0
+Brooklyn,2,leaves organic,11,2017,0.0
+Brooklyn,3,leaves organic,11,2017,0.0
+Brooklyn,4,leaves organic,11,2017,0.0
+Brooklyn,5,leaves organic,11,2017,12.6
+Brooklyn,6,leaves organic,11,2017,0.0
+Brooklyn,7,leaves organic,11,2017,0.0
+Brooklyn,8,leaves organic,11,2017,5.0
+Brooklyn,9,leaves organic,11,2017,8.4
+Brooklyn,10,leaves organic,11,2017,0.0
+Brooklyn,11,leaves organic,11,2017,0.0
+Brooklyn,12,leaves organic,11,2017,0.0
+Brooklyn,13,leaves organic,11,2017,0.0
+Brooklyn,14,leaves organic,11,2017,63.8
+Brooklyn,15,leaves organic,11,2017,0.0
+Brooklyn,16,leaves organic,11,2017,0.0
+Brooklyn,17,leaves organic,11,2017,39.4
+Brooklyn,18,leaves organic,11,2017,152.1
+Manhattan,1,leaves organic,11,2017,0.0
+Manhattan,2,leaves organic,11,2017,0.0
+Manhattan,3,leaves organic,11,2017,0.0
+Manhattan,4,leaves organic,11,2017,0.0
+Manhattan,5,leaves organic,11,2017,0.0
+Manhattan,6,leaves organic,11,2017,0.0
+Manhattan,7,leaves organic,11,2017,0.0
+Manhattan,8,leaves organic,11,2017,0.0
+Manhattan,9,leaves organic,11,2017,0.0
+Manhattan,10,leaves organic,11,2017,0.0
+Manhattan,11,leaves organic,11,2017,0.0
+Manhattan,12,leaves organic,11,2017,0.0
+Queens,1,leaves organic,11,2017,13.3
+Queens,2,leaves organic,11,2017,0.0
+Queens,3,leaves organic,11,2017,11.1
+Queens,4,leaves organic,11,2017,5.1
+Queens,5,leaves organic,11,2017,0.0
+Queens,6,leaves organic,11,2017,62.7
+Queens,7,leaves organic,11,2017,0.0
+Queens,8,leaves organic,11,2017,82.4
+Queens,9,leaves organic,11,2017,0.0
+Queens,10,leaves organic,11,2017,0.0
+Queens,11,leaves organic,11,2017,0.0
+Queens,12,leaves organic,11,2017,155.3
+Queens,13,leaves organic,11,2017,105.9
+Queens,14,leaves organic,11,2017,0.0
+Staten Island,1,leaves organic,11,2017,161.2
+Staten Island,2,leaves organic,11,2017,203.6
+Staten Island,3,leaves organic,11,2017,431.9
+Bronx,1,leaves organic,10,2017,0.0
+Bronx,2,leaves organic,10,2017,0.0
+Bronx,3,leaves organic,10,2017,0.0
+Bronx,4,leaves organic,10,2017,0.0
+Bronx,5,leaves organic,10,2017,0.0
+Bronx,6,leaves organic,10,2017,0.0
+Bronx,7,leaves organic,10,2017,0.0
+Bronx,8,leaves organic,10,2017,9.8
+Bronx,9,leaves organic,10,2017,0.0
+Bronx,10,leaves organic,10,2017,5.7
+Bronx,11,leaves organic,10,2017,11.5
+Bronx,12,leaves organic,10,2017,0.0
+Brooklyn,1,leaves organic,10,2017,0.0
+Brooklyn,2,leaves organic,10,2017,0.0
+Brooklyn,3,leaves organic,10,2017,0.0
+Brooklyn,4,leaves organic,10,2017,0.0
+Brooklyn,5,leaves organic,10,2017,0.0
+Brooklyn,6,leaves organic,10,2017,0.0
+Brooklyn,7,leaves organic,10,2017,0.0
+Brooklyn,8,leaves organic,10,2017,8.5
+Brooklyn,9,leaves organic,10,2017,0.0
+Brooklyn,10,leaves organic,10,2017,0.0
+Brooklyn,11,leaves organic,10,2017,0.0
+Brooklyn,12,leaves organic,10,2017,0.0
+Brooklyn,13,leaves organic,10,2017,0.0
+Brooklyn,14,leaves organic,10,2017,0.0
+Brooklyn,15,leaves organic,10,2017,0.0
+Brooklyn,16,leaves organic,10,2017,0.0
+Brooklyn,17,leaves organic,10,2017,0.0
+Brooklyn,18,leaves organic,10,2017,0.0
+Manhattan,1,leaves organic,10,2017,0.0
+Manhattan,2,leaves organic,10,2017,0.0
+Manhattan,3,leaves organic,10,2017,0.0
+Manhattan,4,leaves organic,10,2017,0.0
+Manhattan,5,leaves organic,10,2017,0.0
+Manhattan,6,leaves organic,10,2017,0.0
+Manhattan,7,leaves organic,10,2017,0.0
+Manhattan,8,leaves organic,10,2017,0.0
+Manhattan,9,leaves organic,10,2017,0.0
+Manhattan,10,leaves organic,10,2017,0.0
+Manhattan,11,leaves organic,10,2017,0.0
+Manhattan,12,leaves organic,10,2017,0.0
+Queens,1,leaves organic,10,2017,0.0
+Queens,2,leaves organic,10,2017,0.0
+Queens,3,leaves organic,10,2017,0.0
+Queens,4,leaves organic,10,2017,0.0
+Queens,5,leaves organic,10,2017,0.0
+Queens,6,leaves organic,10,2017,0.0
+Queens,7,leaves organic,10,2017,0.0
+Queens,8,leaves organic,10,2017,0.0
+Queens,9,leaves organic,10,2017,0.0
+Queens,10,leaves organic,10,2017,0.0
+Queens,11,leaves organic,10,2017,0.0
+Queens,12,leaves organic,10,2017,0.0
+Queens,13,leaves organic,10,2017,0.0
+Queens,14,leaves organic,10,2017,0.0
+Staten Island,1,leaves organic,10,2017,6.8
+Staten Island,2,leaves organic,10,2017,19.0
+Staten Island,3,leaves organic,10,2017,18.9
+Bronx,1,leaves organic,9,2017,0.0
+Bronx,2,leaves organic,9,2017,0.0
+Bronx,3,leaves organic,9,2017,0.0
+Bronx,4,leaves organic,9,2017,0.0
+Bronx,5,leaves organic,9,2017,0.0
+Bronx,6,leaves organic,9,2017,0.0
+Bronx,7,leaves organic,9,2017,0.0
+Bronx,8,leaves organic,9,2017,0.0
+Bronx,9,leaves organic,9,2017,0.0
+Bronx,10,leaves organic,9,2017,0.0
+Bronx,11,leaves organic,9,2017,0.0
+Bronx,12,leaves organic,9,2017,0.0
+Brooklyn,1,leaves organic,9,2017,0.0
+Brooklyn,2,leaves organic,9,2017,0.0
+Brooklyn,3,leaves organic,9,2017,0.0
+Brooklyn,4,leaves organic,9,2017,0.0
+Brooklyn,5,leaves organic,9,2017,0.0
+Brooklyn,6,leaves organic,9,2017,0.0
+Brooklyn,7,leaves organic,9,2017,0.0
+Brooklyn,8,leaves organic,9,2017,0.0
+Brooklyn,9,leaves organic,9,2017,0.0
+Brooklyn,10,leaves organic,9,2017,0.0
+Brooklyn,11,leaves organic,9,2017,0.0
+Brooklyn,12,leaves organic,9,2017,0.0
+Brooklyn,13,leaves organic,9,2017,0.0
+Brooklyn,14,leaves organic,9,2017,0.0
+Brooklyn,15,leaves organic,9,2017,0.0
+Brooklyn,16,leaves organic,9,2017,0.0
+Brooklyn,17,leaves organic,9,2017,0.0
+Brooklyn,18,leaves organic,9,2017,0.0
+Manhattan,1,leaves organic,9,2017,0.0
+Manhattan,2,leaves organic,9,2017,0.0
+Manhattan,3,leaves organic,9,2017,0.0
+Manhattan,4,leaves organic,9,2017,0.0
+Manhattan,5,leaves organic,9,2017,0.0
+Manhattan,6,leaves organic,9,2017,0.0
+Manhattan,7,leaves organic,9,2017,0.0
+Manhattan,8,leaves organic,9,2017,0.0
+Manhattan,9,leaves organic,9,2017,0.0
+Manhattan,10,leaves organic,9,2017,0.0
+Manhattan,11,leaves organic,9,2017,0.0
+Manhattan,12,leaves organic,9,2017,0.0
+Queens,1,leaves organic,9,2017,0.0
+Queens,2,leaves organic,9,2017,0.0
+Queens,3,leaves organic,9,2017,0.0
+Queens,4,leaves organic,9,2017,0.0
+Queens,5,leaves organic,9,2017,0.0
+Queens,6,leaves organic,9,2017,0.0
+Queens,7,leaves organic,9,2017,0.0
+Queens,8,leaves organic,9,2017,0.0
+Queens,9,leaves organic,9,2017,0.0
+Queens,10,leaves organic,9,2017,0.0
+Queens,11,leaves organic,9,2017,0.0
+Queens,12,leaves organic,9,2017,0.0
+Queens,13,leaves organic,9,2017,0.0
+Queens,14,leaves organic,9,2017,0.0
+Staten Island,1,leaves organic,9,2017,0.0
+Staten Island,2,leaves organic,9,2017,0.0
+Staten Island,3,leaves organic,9,2017,0.0
+Bronx,1,leaves organic,8,2017,0.0
+Bronx,2,leaves organic,8,2017,0.0
+Bronx,3,leaves organic,8,2017,0.0
+Bronx,4,leaves organic,8,2017,0.0
+Bronx,5,leaves organic,8,2017,0.0
+Bronx,6,leaves organic,8,2017,0.0
+Bronx,7,leaves organic,8,2017,0.0
+Bronx,8,leaves organic,8,2017,0.0
+Bronx,9,leaves organic,8,2017,0.0
+Bronx,10,leaves organic,8,2017,0.0
+Bronx,11,leaves organic,8,2017,0.0
+Bronx,12,leaves organic,8,2017,0.0
+Brooklyn,1,leaves organic,8,2017,0.0
+Brooklyn,2,leaves organic,8,2017,0.0
+Brooklyn,3,leaves organic,8,2017,0.0
+Brooklyn,4,leaves organic,8,2017,0.0
+Brooklyn,5,leaves organic,8,2017,0.0
+Brooklyn,6,leaves organic,8,2017,0.0
+Brooklyn,7,leaves organic,8,2017,0.0
+Brooklyn,8,leaves organic,8,2017,0.0
+Brooklyn,9,leaves organic,8,2017,0.0
+Brooklyn,10,leaves organic,8,2017,0.0
+Brooklyn,11,leaves organic,8,2017,0.0
+Brooklyn,12,leaves organic,8,2017,0.0
+Brooklyn,13,leaves organic,8,2017,0.0
+Brooklyn,14,leaves organic,8,2017,0.0
+Brooklyn,15,leaves organic,8,2017,0.0
+Brooklyn,16,leaves organic,8,2017,0.0
+Brooklyn,17,leaves organic,8,2017,0.0
+Brooklyn,18,leaves organic,8,2017,0.0
+Manhattan,1,leaves organic,8,2017,0.0
+Manhattan,2,leaves organic,8,2017,0.0
+Manhattan,3,leaves organic,8,2017,0.0
+Manhattan,4,leaves organic,8,2017,0.0
+Manhattan,5,leaves organic,8,2017,0.0
+Manhattan,6,leaves organic,8,2017,0.0
+Manhattan,7,leaves organic,8,2017,0.0
+Manhattan,8,leaves organic,8,2017,0.0
+Manhattan,9,leaves organic,8,2017,0.0
+Manhattan,10,leaves organic,8,2017,0.0
+Manhattan,11,leaves organic,8,2017,0.0
+Manhattan,12,leaves organic,8,2017,0.0
+Queens,1,leaves organic,8,2017,0.0
+Queens,2,leaves organic,8,2017,0.0
+Queens,3,leaves organic,8,2017,0.0
+Queens,4,leaves organic,8,2017,0.0
+Queens,5,leaves organic,8,2017,0.0
+Queens,6,leaves organic,8,2017,0.0
+Queens,7,leaves organic,8,2017,0.0
+Queens,8,leaves organic,8,2017,0.0
+Queens,9,leaves organic,8,2017,0.0
+Queens,10,leaves organic,8,2017,0.0
+Queens,11,leaves organic,8,2017,0.0
+Queens,12,leaves organic,8,2017,0.0
+Queens,13,leaves organic,8,2017,0.0
+Queens,14,leaves organic,8,2017,0.0
+Staten Island,1,leaves organic,8,2017,0.0
+Staten Island,2,leaves organic,8,2017,0.0
+Staten Island,3,leaves organic,8,2017,0.0
+Bronx,1,leaves organic,7,2017,0.0
+Bronx,2,leaves organic,7,2017,0.0
+Bronx,3,leaves organic,7,2017,0.0
+Bronx,4,leaves organic,7,2017,0.0
+Bronx,5,leaves organic,7,2017,0.0
+Bronx,6,leaves organic,7,2017,0.0
+Bronx,7,leaves organic,7,2017,0.0
+Bronx,8,leaves organic,7,2017,0.0
+Bronx,9,leaves organic,7,2017,0.0
+Bronx,10,leaves organic,7,2017,0.0
+Bronx,11,leaves organic,7,2017,0.0
+Bronx,12,leaves organic,7,2017,0.0
+Brooklyn,1,leaves organic,7,2017,0.0
+Brooklyn,2,leaves organic,7,2017,0.0
+Brooklyn,3,leaves organic,7,2017,0.0
+Brooklyn,4,leaves organic,7,2017,0.0
+Brooklyn,5,leaves organic,7,2017,0.0
+Brooklyn,6,leaves organic,7,2017,0.0
+Brooklyn,7,leaves organic,7,2017,0.0
+Brooklyn,8,leaves organic,7,2017,0.0
+Brooklyn,9,leaves organic,7,2017,0.0
+Brooklyn,10,leaves organic,7,2017,0.0
+Brooklyn,11,leaves organic,7,2017,0.0
+Brooklyn,12,leaves organic,7,2017,0.0
+Brooklyn,13,leaves organic,7,2017,0.0
+Brooklyn,14,leaves organic,7,2017,0.0
+Brooklyn,15,leaves organic,7,2017,0.0
+Brooklyn,16,leaves organic,7,2017,0.0
+Brooklyn,17,leaves organic,7,2017,0.0
+Brooklyn,18,leaves organic,7,2017,0.0
+Manhattan,1,leaves organic,7,2017,0.0
+Manhattan,2,leaves organic,7,2017,0.0
+Manhattan,3,leaves organic,7,2017,0.0
+Manhattan,4,leaves organic,7,2017,0.0
+Manhattan,5,leaves organic,7,2017,0.0
+Manhattan,6,leaves organic,7,2017,0.0
+Manhattan,7,leaves organic,7,2017,0.0
+Manhattan,8,leaves organic,7,2017,0.0
+Manhattan,9,leaves organic,7,2017,0.0
+Manhattan,10,leaves organic,7,2017,0.0
+Manhattan,11,leaves organic,7,2017,0.0
+Manhattan,12,leaves organic,7,2017,0.0
+Queens,1,leaves organic,7,2017,0.0
+Queens,2,leaves organic,7,2017,0.0
+Queens,3,leaves organic,7,2017,0.0
+Queens,4,leaves organic,7,2017,0.0
+Queens,5,leaves organic,7,2017,0.0
+Queens,6,leaves organic,7,2017,0.0
+Queens,7,leaves organic,7,2017,0.0
+Queens,8,leaves organic,7,2017,0.0
+Queens,9,leaves organic,7,2017,0.0
+Queens,10,leaves organic,7,2017,0.0
+Queens,11,leaves organic,7,2017,0.0
+Queens,12,leaves organic,7,2017,0.0
+Queens,13,leaves organic,7,2017,0.0
+Queens,14,leaves organic,7,2017,0.0
+Staten Island,1,leaves organic,7,2017,0.0
+Staten Island,2,leaves organic,7,2017,0.0
+Staten Island,3,leaves organic,7,2017,0.0
+Bronx,1,leaves organic,6,2017,0.0
+Bronx,2,leaves organic,6,2017,0.0
+Bronx,3,leaves organic,6,2017,0.0
+Bronx,4,leaves organic,6,2017,0.0
+Bronx,5,leaves organic,6,2017,0.0
+Bronx,6,leaves organic,6,2017,0.0
+Bronx,7,leaves organic,6,2017,0.0
+Bronx,8,leaves organic,6,2017,0.0
+Bronx,9,leaves organic,6,2017,0.0
+Bronx,10,leaves organic,6,2017,0.0
+Bronx,11,leaves organic,6,2017,0.0
+Bronx,12,leaves organic,6,2017,0.0
+Brooklyn,1,leaves organic,6,2017,0.0
+Brooklyn,2,leaves organic,6,2017,0.0
+Brooklyn,3,leaves organic,6,2017,0.0
+Brooklyn,4,leaves organic,6,2017,0.0
+Brooklyn,5,leaves organic,6,2017,0.0
+Brooklyn,6,leaves organic,6,2017,0.0
+Brooklyn,7,leaves organic,6,2017,0.0
+Brooklyn,8,leaves organic,6,2017,0.0
+Brooklyn,9,leaves organic,6,2017,0.0
+Brooklyn,10,leaves organic,6,2017,0.0
+Brooklyn,11,leaves organic,6,2017,0.0
+Brooklyn,12,leaves organic,6,2017,0.0
+Brooklyn,13,leaves organic,6,2017,0.0
+Brooklyn,14,leaves organic,6,2017,0.0
+Brooklyn,15,leaves organic,6,2017,0.0
+Brooklyn,16,leaves organic,6,2017,0.0
+Brooklyn,17,leaves organic,6,2017,0.0
+Brooklyn,18,leaves organic,6,2017,0.0
+Manhattan,1,leaves organic,6,2017,0.0
+Manhattan,2,leaves organic,6,2017,0.0
+Manhattan,3,leaves organic,6,2017,0.0
+Manhattan,4,leaves organic,6,2017,0.0
+Manhattan,5,leaves organic,6,2017,0.0
+Manhattan,6,leaves organic,6,2017,0.0
+Manhattan,7,leaves organic,6,2017,0.0
+Manhattan,8,leaves organic,6,2017,0.0
+Manhattan,9,leaves organic,6,2017,0.0
+Manhattan,10,leaves organic,6,2017,0.0
+Manhattan,11,leaves organic,6,2017,0.0
+Manhattan,12,leaves organic,6,2017,0.0
+Queens,1,leaves organic,6,2017,0.0
+Queens,2,leaves organic,6,2017,0.0
+Queens,3,leaves organic,6,2017,0.0
+Queens,4,leaves organic,6,2017,0.0
+Queens,5,leaves organic,6,2017,0.0
+Queens,6,leaves organic,6,2017,0.0
+Queens,7,leaves organic,6,2017,0.0
+Queens,8,leaves organic,6,2017,0.0
+Queens,9,leaves organic,6,2017,0.0
+Queens,10,leaves organic,6,2017,0.0
+Queens,11,leaves organic,6,2017,0.0
+Queens,12,leaves organic,6,2017,0.0
+Queens,13,leaves organic,6,2017,0.0
+Queens,14,leaves organic,6,2017,0.0
+Staten Island,1,leaves organic,6,2017,0.0
+Staten Island,2,leaves organic,6,2017,0.0
+Staten Island,3,leaves organic,6,2017,0.0
+Bronx,1,leaves organic,5,2017,0.0
+Bronx,2,leaves organic,5,2017,0.0
+Bronx,3,leaves organic,5,2017,0.0
+Bronx,4,leaves organic,5,2017,0.0
+Bronx,5,leaves organic,5,2017,0.0
+Bronx,6,leaves organic,5,2017,0.0
+Bronx,7,leaves organic,5,2017,0.0
+Bronx,8,leaves organic,5,2017,0.0
+Bronx,9,leaves organic,5,2017,0.0
+Bronx,10,leaves organic,5,2017,0.0
+Bronx,11,leaves organic,5,2017,0.0
+Bronx,12,leaves organic,5,2017,0.0
+Brooklyn,1,leaves organic,5,2017,0.0
+Brooklyn,2,leaves organic,5,2017,0.0
+Brooklyn,3,leaves organic,5,2017,0.0
+Brooklyn,4,leaves organic,5,2017,0.0
+Brooklyn,5,leaves organic,5,2017,0.0
+Brooklyn,6,leaves organic,5,2017,0.0
+Brooklyn,7,leaves organic,5,2017,0.0
+Brooklyn,8,leaves organic,5,2017,0.0
+Brooklyn,9,leaves organic,5,2017,0.0
+Brooklyn,10,leaves organic,5,2017,0.0
+Brooklyn,11,leaves organic,5,2017,0.0
+Brooklyn,12,leaves organic,5,2017,0.0
+Brooklyn,13,leaves organic,5,2017,0.0
+Brooklyn,14,leaves organic,5,2017,0.0
+Brooklyn,15,leaves organic,5,2017,0.0
+Brooklyn,16,leaves organic,5,2017,0.0
+Brooklyn,17,leaves organic,5,2017,0.0
+Brooklyn,18,leaves organic,5,2017,0.0
+Manhattan,1,leaves organic,5,2017,0.0
+Manhattan,2,leaves organic,5,2017,0.0
+Manhattan,3,leaves organic,5,2017,0.0
+Manhattan,4,leaves organic,5,2017,0.0
+Manhattan,5,leaves organic,5,2017,0.0
+Manhattan,6,leaves organic,5,2017,0.0
+Manhattan,7,leaves organic,5,2017,0.0
+Manhattan,8,leaves organic,5,2017,0.0
+Manhattan,9,leaves organic,5,2017,0.0
+Manhattan,10,leaves organic,5,2017,0.0
+Manhattan,11,leaves organic,5,2017,0.0
+Manhattan,12,leaves organic,5,2017,0.0
+Queens,1,leaves organic,5,2017,0.0
+Queens,2,leaves organic,5,2017,0.0
+Queens,3,leaves organic,5,2017,0.0
+Queens,4,leaves organic,5,2017,0.0
+Queens,5,leaves organic,5,2017,0.0
+Queens,6,leaves organic,5,2017,0.0
+Queens,7,leaves organic,5,2017,0.0
+Queens,8,leaves organic,5,2017,0.0
+Queens,9,leaves organic,5,2017,0.0
+Queens,10,leaves organic,5,2017,0.0
+Queens,11,leaves organic,5,2017,0.0
+Queens,12,leaves organic,5,2017,0.0
+Queens,13,leaves organic,5,2017,0.0
+Queens,14,leaves organic,5,2017,0.0
+Staten Island,1,leaves organic,5,2017,0.0
+Staten Island,2,leaves organic,5,2017,0.0
+Staten Island,3,leaves organic,5,2017,0.0
+Bronx,1,leaves organic,4,2017,0.0
+Bronx,2,leaves organic,4,2017,0.0
+Bronx,3,leaves organic,4,2017,0.0
+Bronx,4,leaves organic,4,2017,0.0
+Bronx,5,leaves organic,4,2017,0.0
+Bronx,6,leaves organic,4,2017,0.0
+Bronx,7,leaves organic,4,2017,0.0
+Bronx,8,leaves organic,4,2017,0.0
+Bronx,9,leaves organic,4,2017,0.0
+Bronx,10,leaves organic,4,2017,0.0
+Bronx,11,leaves organic,4,2017,0.0
+Bronx,12,leaves organic,4,2017,0.0
+Brooklyn,1,leaves organic,4,2017,0.0
+Brooklyn,2,leaves organic,4,2017,0.0
+Brooklyn,3,leaves organic,4,2017,0.0
+Brooklyn,4,leaves organic,4,2017,0.0
+Brooklyn,5,leaves organic,4,2017,0.0
+Brooklyn,6,leaves organic,4,2017,0.0
+Brooklyn,7,leaves organic,4,2017,0.0
+Brooklyn,8,leaves organic,4,2017,0.0
+Brooklyn,9,leaves organic,4,2017,0.0
+Brooklyn,10,leaves organic,4,2017,0.0
+Brooklyn,11,leaves organic,4,2017,0.0
+Brooklyn,12,leaves organic,4,2017,0.0
+Brooklyn,13,leaves organic,4,2017,0.0
+Brooklyn,14,leaves organic,4,2017,0.0
+Brooklyn,15,leaves organic,4,2017,0.0
+Brooklyn,16,leaves organic,4,2017,0.0
+Brooklyn,17,leaves organic,4,2017,0.0
+Brooklyn,18,leaves organic,4,2017,0.0
+Manhattan,1,leaves organic,4,2017,0.0
+Manhattan,2,leaves organic,4,2017,0.0
+Manhattan,3,leaves organic,4,2017,0.0
+Manhattan,4,leaves organic,4,2017,0.0
+Manhattan,5,leaves organic,4,2017,0.0
+Manhattan,6,leaves organic,4,2017,0.0
+Manhattan,7,leaves organic,4,2017,0.0
+Manhattan,8,leaves organic,4,2017,0.0
+Manhattan,9,leaves organic,4,2017,0.0
+Manhattan,10,leaves organic,4,2017,0.0
+Manhattan,11,leaves organic,4,2017,0.0
+Manhattan,12,leaves organic,4,2017,0.0
+Queens,1,leaves organic,4,2017,0.0
+Queens,2,leaves organic,4,2017,0.0
+Queens,3,leaves organic,4,2017,0.0
+Queens,4,leaves organic,4,2017,0.0
+Queens,5,leaves organic,4,2017,0.0
+Queens,6,leaves organic,4,2017,0.0
+Queens,7,leaves organic,4,2017,0.0
+Queens,8,leaves organic,4,2017,0.0
+Queens,9,leaves organic,4,2017,0.0
+Queens,10,leaves organic,4,2017,0.0
+Queens,11,leaves organic,4,2017,0.0
+Queens,12,leaves organic,4,2017,0.0
+Queens,13,leaves organic,4,2017,0.0
+Queens,14,leaves organic,4,2017,0.0
+Staten Island,1,leaves organic,4,2017,0.0
+Staten Island,2,leaves organic,4,2017,0.0
+Staten Island,3,leaves organic,4,2017,0.0
+Bronx,1,leaves organic,3,2017,0.0
+Bronx,2,leaves organic,3,2017,0.0
+Bronx,3,leaves organic,3,2017,0.0
+Bronx,4,leaves organic,3,2017,0.0
+Bronx,5,leaves organic,3,2017,0.0
+Bronx,6,leaves organic,3,2017,0.0
+Bronx,7,leaves organic,3,2017,0.0
+Bronx,8,leaves organic,3,2017,0.0
+Bronx,9,leaves organic,3,2017,0.0
+Bronx,10,leaves organic,3,2017,0.0
+Bronx,11,leaves organic,3,2017,0.0
+Bronx,12,leaves organic,3,2017,0.0
+Brooklyn,1,leaves organic,3,2017,0.0
+Brooklyn,2,leaves organic,3,2017,0.0
+Brooklyn,3,leaves organic,3,2017,0.0
+Brooklyn,4,leaves organic,3,2017,0.0
+Brooklyn,5,leaves organic,3,2017,0.0
+Brooklyn,6,leaves organic,3,2017,0.0
+Brooklyn,7,leaves organic,3,2017,0.0
+Brooklyn,8,leaves organic,3,2017,0.0
+Brooklyn,9,leaves organic,3,2017,0.0
+Brooklyn,10,leaves organic,3,2017,0.0
+Brooklyn,11,leaves organic,3,2017,0.0
+Brooklyn,12,leaves organic,3,2017,0.0
+Brooklyn,13,leaves organic,3,2017,0.0
+Brooklyn,14,leaves organic,3,2017,0.0
+Brooklyn,15,leaves organic,3,2017,0.0
+Brooklyn,16,leaves organic,3,2017,0.0
+Brooklyn,17,leaves organic,3,2017,0.0
+Brooklyn,18,leaves organic,3,2017,0.0
+Manhattan,1,leaves organic,3,2017,0.0
+Manhattan,2,leaves organic,3,2017,0.0
+Manhattan,3,leaves organic,3,2017,0.0
+Manhattan,4,leaves organic,3,2017,0.0
+Manhattan,5,leaves organic,3,2017,0.0
+Manhattan,6,leaves organic,3,2017,0.0
+Manhattan,7,leaves organic,3,2017,0.0
+Manhattan,8,leaves organic,3,2017,0.0
+Manhattan,9,leaves organic,3,2017,0.0
+Manhattan,10,leaves organic,3,2017,0.0
+Manhattan,11,leaves organic,3,2017,0.0
+Manhattan,12,leaves organic,3,2017,0.0
+Queens,1,leaves organic,3,2017,0.0
+Queens,2,leaves organic,3,2017,0.0
+Queens,3,leaves organic,3,2017,0.0
+Queens,4,leaves organic,3,2017,0.0
+Queens,5,leaves organic,3,2017,0.0
+Queens,6,leaves organic,3,2017,0.0
+Queens,7,leaves organic,3,2017,0.0
+Queens,8,leaves organic,3,2017,0.0
+Queens,9,leaves organic,3,2017,0.0
+Queens,10,leaves organic,3,2017,0.0
+Queens,11,leaves organic,3,2017,0.0
+Queens,12,leaves organic,3,2017,0.0
+Queens,13,leaves organic,3,2017,0.0
+Queens,14,leaves organic,3,2017,0.0
+Staten Island,1,leaves organic,3,2017,0.0
+Staten Island,2,leaves organic,3,2017,0.0
+Staten Island,3,leaves organic,3,2017,0.0
+Bronx,1,leaves organic,2,2017,0.0
+Bronx,2,leaves organic,2,2017,0.0
+Bronx,3,leaves organic,2,2017,0.0
+Bronx,4,leaves organic,2,2017,0.0
+Bronx,5,leaves organic,2,2017,0.0
+Bronx,6,leaves organic,2,2017,0.0
+Bronx,7,leaves organic,2,2017,0.0
+Bronx,8,leaves organic,2,2017,0.0
+Bronx,9,leaves organic,2,2017,0.0
+Bronx,10,leaves organic,2,2017,0.0
+Bronx,11,leaves organic,2,2017,0.0
+Bronx,12,leaves organic,2,2017,0.0
+Brooklyn,1,leaves organic,2,2017,0.0
+Brooklyn,2,leaves organic,2,2017,0.0
+Brooklyn,3,leaves organic,2,2017,0.0
+Brooklyn,4,leaves organic,2,2017,0.0
+Brooklyn,5,leaves organic,2,2017,0.0
+Brooklyn,6,leaves organic,2,2017,0.0
+Brooklyn,7,leaves organic,2,2017,0.0
+Brooklyn,8,leaves organic,2,2017,0.0
+Brooklyn,9,leaves organic,2,2017,0.0
+Brooklyn,10,leaves organic,2,2017,0.0
+Brooklyn,11,leaves organic,2,2017,0.0
+Brooklyn,12,leaves organic,2,2017,0.0
+Brooklyn,13,leaves organic,2,2017,0.0
+Brooklyn,14,leaves organic,2,2017,0.0
+Brooklyn,15,leaves organic,2,2017,0.0
+Brooklyn,16,leaves organic,2,2017,0.0
+Brooklyn,17,leaves organic,2,2017,0.0
+Brooklyn,18,leaves organic,2,2017,0.0
+Manhattan,1,leaves organic,2,2017,0.0
+Manhattan,2,leaves organic,2,2017,0.0
+Manhattan,3,leaves organic,2,2017,0.0
+Manhattan,4,leaves organic,2,2017,0.0
+Manhattan,5,leaves organic,2,2017,0.0
+Manhattan,6,leaves organic,2,2017,0.0
+Manhattan,7,leaves organic,2,2017,0.0
+Manhattan,8,leaves organic,2,2017,0.0
+Manhattan,9,leaves organic,2,2017,0.0
+Manhattan,10,leaves organic,2,2017,0.0
+Manhattan,11,leaves organic,2,2017,0.0
+Manhattan,12,leaves organic,2,2017,0.0
+Queens,1,leaves organic,2,2017,0.0
+Queens,2,leaves organic,2,2017,0.0
+Queens,3,leaves organic,2,2017,0.0
+Queens,4,leaves organic,2,2017,0.0
+Queens,5,leaves organic,2,2017,0.0
+Queens,6,leaves organic,2,2017,0.0
+Queens,7,leaves organic,2,2017,0.0
+Queens,8,leaves organic,2,2017,0.0
+Queens,9,leaves organic,2,2017,0.0
+Queens,10,leaves organic,2,2017,0.0
+Queens,11,leaves organic,2,2017,0.0
+Queens,12,leaves organic,2,2017,0.0
+Queens,13,leaves organic,2,2017,0.0
+Queens,14,leaves organic,2,2017,0.0
+Staten Island,1,leaves organic,2,2017,0.0
+Staten Island,2,leaves organic,2,2017,0.0
+Staten Island,3,leaves organic,2,2017,0.0
+Bronx,1,leaves organic,1,2017,0.0
+Bronx,2,leaves organic,1,2017,0.0
+Bronx,3,leaves organic,1,2017,0.0
+Bronx,4,leaves organic,1,2017,0.0
+Bronx,5,leaves organic,1,2017,0.0
+Bronx,6,leaves organic,1,2017,0.0
+Bronx,7,leaves organic,1,2017,0.0
+Bronx,8,leaves organic,1,2017,0.0
+Bronx,9,leaves organic,1,2017,0.0
+Bronx,10,leaves organic,1,2017,0.0
+Bronx,11,leaves organic,1,2017,0.0
+Bronx,12,leaves organic,1,2017,0.0
+Brooklyn,1,leaves organic,1,2017,0.0
+Brooklyn,2,leaves organic,1,2017,0.0
+Brooklyn,3,leaves organic,1,2017,0.0
+Brooklyn,4,leaves organic,1,2017,0.0
+Brooklyn,5,leaves organic,1,2017,0.0
+Brooklyn,6,leaves organic,1,2017,0.0
+Brooklyn,7,leaves organic,1,2017,0.0
+Brooklyn,8,leaves organic,1,2017,1.9
+Brooklyn,9,leaves organic,1,2017,0.0
+Brooklyn,10,leaves organic,1,2017,0.0
+Brooklyn,11,leaves organic,1,2017,11.4
+Brooklyn,12,leaves organic,1,2017,0.0
+Brooklyn,13,leaves organic,1,2017,0.0
+Brooklyn,14,leaves organic,1,2017,0.0
+Brooklyn,15,leaves organic,1,2017,0.0
+Brooklyn,16,leaves organic,1,2017,0.0
+Brooklyn,17,leaves organic,1,2017,0.0
+Brooklyn,18,leaves organic,1,2017,0.0
+Manhattan,1,leaves organic,1,2017,0.0
+Manhattan,2,leaves organic,1,2017,0.0
+Manhattan,3,leaves organic,1,2017,0.0
+Manhattan,4,leaves organic,1,2017,0.0
+Manhattan,5,leaves organic,1,2017,0.0
+Manhattan,6,leaves organic,1,2017,0.0
+Manhattan,7,leaves organic,1,2017,0.0
+Manhattan,8,leaves organic,1,2017,0.0
+Manhattan,9,leaves organic,1,2017,0.0
+Manhattan,10,leaves organic,1,2017,0.0
+Manhattan,11,leaves organic,1,2017,0.0
+Manhattan,12,leaves organic,1,2017,0.0
+Queens,1,leaves organic,1,2017,0.0
+Queens,2,leaves organic,1,2017,0.0
+Queens,3,leaves organic,1,2017,0.0
+Queens,4,leaves organic,1,2017,0.0
+Queens,5,leaves organic,1,2017,0.0
+Queens,6,leaves organic,1,2017,0.0
+Queens,7,leaves organic,1,2017,0.0
+Queens,8,leaves organic,1,2017,0.0
+Queens,9,leaves organic,1,2017,0.0
+Queens,10,leaves organic,1,2017,0.0
+Queens,11,leaves organic,1,2017,0.0
+Queens,12,leaves organic,1,2017,0.0
+Queens,13,leaves organic,1,2017,0.0
+Queens,14,leaves organic,1,2017,0.0
+Staten Island,1,leaves organic,1,2017,0.0
+Staten Island,2,leaves organic,1,2017,5.7
+Staten Island,3,leaves organic,1,2017,0.0
+Bronx,1,xmastree,12,2017,0.0
+Bronx,2,xmastree,12,2017,0.0
+Bronx,3,xmastree,12,2017,0.0
+Bronx,4,xmastree,12,2017,0.0
+Bronx,5,xmastree,12,2017,0.0
+Bronx,6,xmastree,12,2017,0.0
+Bronx,7,xmastree,12,2017,0.0
+Bronx,8,xmastree,12,2017,0.0
+Bronx,9,xmastree,12,2017,0.0
+Bronx,10,xmastree,12,2017,0.0
+Bronx,11,xmastree,12,2017,0.0
+Bronx,12,xmastree,12,2017,0.0
+Brooklyn,1,xmastree,12,2017,0.0
+Brooklyn,2,xmastree,12,2017,0.0
+Brooklyn,3,xmastree,12,2017,0.0
+Brooklyn,4,xmastree,12,2017,0.0
+Brooklyn,5,xmastree,12,2017,0.0
+Brooklyn,6,xmastree,12,2017,0.0
+Brooklyn,7,xmastree,12,2017,0.0
+Brooklyn,8,xmastree,12,2017,0.0
+Brooklyn,9,xmastree,12,2017,0.0
+Brooklyn,10,xmastree,12,2017,0.0
+Brooklyn,11,xmastree,12,2017,0.0
+Brooklyn,12,xmastree,12,2017,0.0
+Brooklyn,13,xmastree,12,2017,0.0
+Brooklyn,14,xmastree,12,2017,0.0
+Brooklyn,15,xmastree,12,2017,0.0
+Brooklyn,16,xmastree,12,2017,0.0
+Brooklyn,17,xmastree,12,2017,0.0
+Brooklyn,18,xmastree,12,2017,0.0
+Manhattan,1,xmastree,12,2017,0.0
+Manhattan,2,xmastree,12,2017,0.0
+Manhattan,3,xmastree,12,2017,0.0
+Manhattan,4,xmastree,12,2017,0.0
+Manhattan,5,xmastree,12,2017,0.0
+Manhattan,6,xmastree,12,2017,0.0
+Manhattan,7,xmastree,12,2017,0.0
+Manhattan,8,xmastree,12,2017,0.0
+Manhattan,9,xmastree,12,2017,0.0
+Manhattan,10,xmastree,12,2017,0.0
+Manhattan,11,xmastree,12,2017,0.0
+Manhattan,12,xmastree,12,2017,0.0
+Queens,1,xmastree,12,2017,0.0
+Queens,2,xmastree,12,2017,0.0
+Queens,3,xmastree,12,2017,0.0
+Queens,4,xmastree,12,2017,0.0
+Queens,5,xmastree,12,2017,0.0
+Queens,6,xmastree,12,2017,0.0
+Queens,7,xmastree,12,2017,0.0
+Queens,8,xmastree,12,2017,0.0
+Queens,9,xmastree,12,2017,0.0
+Queens,10,xmastree,12,2017,0.0
+Queens,11,xmastree,12,2017,0.0
+Queens,12,xmastree,12,2017,0.0
+Queens,13,xmastree,12,2017,0.0
+Queens,14,xmastree,12,2017,0.0
+Staten Island,1,xmastree,12,2017,0.0
+Staten Island,2,xmastree,12,2017,0.0
+Staten Island,3,xmastree,12,2017,0.0
+Bronx,1,xmastree,11,2017,0.0
+Bronx,2,xmastree,11,2017,0.0
+Bronx,3,xmastree,11,2017,0.0
+Bronx,4,xmastree,11,2017,0.0
+Bronx,5,xmastree,11,2017,0.0
+Bronx,6,xmastree,11,2017,0.0
+Bronx,7,xmastree,11,2017,0.0
+Bronx,8,xmastree,11,2017,0.0
+Bronx,9,xmastree,11,2017,0.0
+Bronx,10,xmastree,11,2017,0.0
+Bronx,11,xmastree,11,2017,0.0
+Bronx,12,xmastree,11,2017,0.0
+Brooklyn,1,xmastree,11,2017,0.0
+Brooklyn,2,xmastree,11,2017,0.0
+Brooklyn,3,xmastree,11,2017,0.0
+Brooklyn,4,xmastree,11,2017,0.0
+Brooklyn,5,xmastree,11,2017,0.0
+Brooklyn,6,xmastree,11,2017,0.0
+Brooklyn,7,xmastree,11,2017,0.0
+Brooklyn,8,xmastree,11,2017,0.0
+Brooklyn,9,xmastree,11,2017,0.0
+Brooklyn,10,xmastree,11,2017,0.0
+Brooklyn,11,xmastree,11,2017,0.0
+Brooklyn,12,xmastree,11,2017,0.0
+Brooklyn,13,xmastree,11,2017,0.0
+Brooklyn,14,xmastree,11,2017,0.0
+Brooklyn,15,xmastree,11,2017,0.0
+Brooklyn,16,xmastree,11,2017,0.0
+Brooklyn,17,xmastree,11,2017,0.0
+Brooklyn,18,xmastree,11,2017,0.0
+Manhattan,1,xmastree,11,2017,0.0
+Manhattan,2,xmastree,11,2017,0.0
+Manhattan,3,xmastree,11,2017,0.0
+Manhattan,4,xmastree,11,2017,0.0
+Manhattan,5,xmastree,11,2017,0.0
+Manhattan,6,xmastree,11,2017,0.0
+Manhattan,7,xmastree,11,2017,0.0
+Manhattan,8,xmastree,11,2017,0.0
+Manhattan,9,xmastree,11,2017,0.0
+Manhattan,10,xmastree,11,2017,0.0
+Manhattan,11,xmastree,11,2017,0.0
+Manhattan,12,xmastree,11,2017,0.0
+Queens,1,xmastree,11,2017,0.0
+Queens,2,xmastree,11,2017,0.0
+Queens,3,xmastree,11,2017,0.0
+Queens,4,xmastree,11,2017,0.0
+Queens,5,xmastree,11,2017,0.0
+Queens,6,xmastree,11,2017,0.0
+Queens,7,xmastree,11,2017,0.0
+Queens,8,xmastree,11,2017,0.0
+Queens,9,xmastree,11,2017,0.0
+Queens,10,xmastree,11,2017,0.0
+Queens,11,xmastree,11,2017,0.0
+Queens,12,xmastree,11,2017,0.0
+Queens,13,xmastree,11,2017,0.0
+Queens,14,xmastree,11,2017,0.0
+Staten Island,1,xmastree,11,2017,0.0
+Staten Island,2,xmastree,11,2017,0.0
+Staten Island,3,xmastree,11,2017,0.0
+Bronx,1,xmastree,10,2017,0.0
+Bronx,2,xmastree,10,2017,0.0
+Bronx,3,xmastree,10,2017,0.0
+Bronx,4,xmastree,10,2017,0.0
+Bronx,5,xmastree,10,2017,0.0
+Bronx,6,xmastree,10,2017,0.0
+Bronx,7,xmastree,10,2017,0.0
+Bronx,8,xmastree,10,2017,0.0
+Bronx,9,xmastree,10,2017,0.0
+Bronx,10,xmastree,10,2017,0.0
+Bronx,11,xmastree,10,2017,0.0
+Bronx,12,xmastree,10,2017,0.0
+Brooklyn,1,xmastree,10,2017,0.0
+Brooklyn,2,xmastree,10,2017,0.0
+Brooklyn,3,xmastree,10,2017,0.0
+Brooklyn,4,xmastree,10,2017,0.0
+Brooklyn,5,xmastree,10,2017,0.0
+Brooklyn,6,xmastree,10,2017,0.0
+Brooklyn,7,xmastree,10,2017,0.0
+Brooklyn,8,xmastree,10,2017,0.0
+Brooklyn,9,xmastree,10,2017,0.0
+Brooklyn,10,xmastree,10,2017,0.0
+Brooklyn,11,xmastree,10,2017,0.0
+Brooklyn,12,xmastree,10,2017,0.0
+Brooklyn,13,xmastree,10,2017,0.0
+Brooklyn,14,xmastree,10,2017,0.0
+Brooklyn,15,xmastree,10,2017,0.0
+Brooklyn,16,xmastree,10,2017,0.0
+Brooklyn,17,xmastree,10,2017,0.0
+Brooklyn,18,xmastree,10,2017,0.0
+Manhattan,1,xmastree,10,2017,0.0
+Manhattan,2,xmastree,10,2017,0.0
+Manhattan,3,xmastree,10,2017,0.0
+Manhattan,4,xmastree,10,2017,0.0
+Manhattan,5,xmastree,10,2017,0.0
+Manhattan,6,xmastree,10,2017,0.0
+Manhattan,7,xmastree,10,2017,0.0
+Manhattan,8,xmastree,10,2017,0.0
+Manhattan,9,xmastree,10,2017,0.0
+Manhattan,10,xmastree,10,2017,0.0
+Manhattan,11,xmastree,10,2017,0.0
+Manhattan,12,xmastree,10,2017,0.0
+Queens,1,xmastree,10,2017,0.0
+Queens,2,xmastree,10,2017,0.0
+Queens,3,xmastree,10,2017,0.0
+Queens,4,xmastree,10,2017,0.0
+Queens,5,xmastree,10,2017,0.0
+Queens,6,xmastree,10,2017,0.0
+Queens,7,xmastree,10,2017,0.0
+Queens,8,xmastree,10,2017,0.0
+Queens,9,xmastree,10,2017,0.0
+Queens,10,xmastree,10,2017,0.0
+Queens,11,xmastree,10,2017,0.0
+Queens,12,xmastree,10,2017,0.0
+Queens,13,xmastree,10,2017,0.0
+Queens,14,xmastree,10,2017,0.0
+Staten Island,1,xmastree,10,2017,0.0
+Staten Island,2,xmastree,10,2017,0.0
+Staten Island,3,xmastree,10,2017,0.0
+Bronx,1,xmastree,9,2017,0.0
+Bronx,2,xmastree,9,2017,0.0
+Bronx,3,xmastree,9,2017,0.0
+Bronx,4,xmastree,9,2017,0.0
+Bronx,5,xmastree,9,2017,0.0
+Bronx,6,xmastree,9,2017,0.0
+Bronx,7,xmastree,9,2017,0.0
+Bronx,8,xmastree,9,2017,0.0
+Bronx,9,xmastree,9,2017,0.0
+Bronx,10,xmastree,9,2017,0.0
+Bronx,11,xmastree,9,2017,0.0
+Bronx,12,xmastree,9,2017,0.0
+Brooklyn,1,xmastree,9,2017,0.0
+Brooklyn,2,xmastree,9,2017,0.0
+Brooklyn,3,xmastree,9,2017,0.0
+Brooklyn,4,xmastree,9,2017,0.0
+Brooklyn,5,xmastree,9,2017,0.0
+Brooklyn,6,xmastree,9,2017,0.0
+Brooklyn,7,xmastree,9,2017,0.0
+Brooklyn,8,xmastree,9,2017,0.0
+Brooklyn,9,xmastree,9,2017,0.0
+Brooklyn,10,xmastree,9,2017,0.0
+Brooklyn,11,xmastree,9,2017,0.0
+Brooklyn,12,xmastree,9,2017,0.0
+Brooklyn,13,xmastree,9,2017,0.0
+Brooklyn,14,xmastree,9,2017,0.0
+Brooklyn,15,xmastree,9,2017,0.0
+Brooklyn,16,xmastree,9,2017,0.0
+Brooklyn,17,xmastree,9,2017,0.0
+Brooklyn,18,xmastree,9,2017,0.0
+Manhattan,1,xmastree,9,2017,0.0
+Manhattan,2,xmastree,9,2017,0.0
+Manhattan,3,xmastree,9,2017,0.0
+Manhattan,4,xmastree,9,2017,0.0
+Manhattan,5,xmastree,9,2017,0.0
+Manhattan,6,xmastree,9,2017,0.0
+Manhattan,7,xmastree,9,2017,0.0
+Manhattan,8,xmastree,9,2017,0.0
+Manhattan,9,xmastree,9,2017,0.0
+Manhattan,10,xmastree,9,2017,0.0
+Manhattan,11,xmastree,9,2017,0.0
+Manhattan,12,xmastree,9,2017,0.0
+Queens,1,xmastree,9,2017,0.0
+Queens,2,xmastree,9,2017,0.0
+Queens,3,xmastree,9,2017,0.0
+Queens,4,xmastree,9,2017,0.0
+Queens,5,xmastree,9,2017,0.0
+Queens,6,xmastree,9,2017,0.0
+Queens,7,xmastree,9,2017,0.0
+Queens,8,xmastree,9,2017,0.0
+Queens,9,xmastree,9,2017,0.0
+Queens,10,xmastree,9,2017,0.0
+Queens,11,xmastree,9,2017,0.0
+Queens,12,xmastree,9,2017,0.0
+Queens,13,xmastree,9,2017,0.0
+Queens,14,xmastree,9,2017,0.0
+Staten Island,1,xmastree,9,2017,0.0
+Staten Island,2,xmastree,9,2017,0.0
+Staten Island,3,xmastree,9,2017,0.0
+Bronx,1,xmastree,8,2017,0.0
+Bronx,2,xmastree,8,2017,0.0
+Bronx,3,xmastree,8,2017,0.0
+Bronx,4,xmastree,8,2017,0.0
+Bronx,5,xmastree,8,2017,0.0
+Bronx,6,xmastree,8,2017,0.0
+Bronx,7,xmastree,8,2017,0.0
+Bronx,8,xmastree,8,2017,0.0
+Bronx,9,xmastree,8,2017,0.0
+Bronx,10,xmastree,8,2017,0.0
+Bronx,11,xmastree,8,2017,0.0
+Bronx,12,xmastree,8,2017,0.0
+Brooklyn,1,xmastree,8,2017,0.0
+Brooklyn,2,xmastree,8,2017,0.0
+Brooklyn,3,xmastree,8,2017,0.0
+Brooklyn,4,xmastree,8,2017,0.0
+Brooklyn,5,xmastree,8,2017,0.0
+Brooklyn,6,xmastree,8,2017,0.0
+Brooklyn,7,xmastree,8,2017,0.0
+Brooklyn,8,xmastree,8,2017,0.0
+Brooklyn,9,xmastree,8,2017,0.0
+Brooklyn,10,xmastree,8,2017,0.0
+Brooklyn,11,xmastree,8,2017,0.0
+Brooklyn,12,xmastree,8,2017,0.0
+Brooklyn,13,xmastree,8,2017,0.0
+Brooklyn,14,xmastree,8,2017,0.0
+Brooklyn,15,xmastree,8,2017,0.0
+Brooklyn,16,xmastree,8,2017,0.0
+Brooklyn,17,xmastree,8,2017,0.0
+Brooklyn,18,xmastree,8,2017,0.0
+Manhattan,1,xmastree,8,2017,0.0
+Manhattan,2,xmastree,8,2017,0.0
+Manhattan,3,xmastree,8,2017,0.0
+Manhattan,4,xmastree,8,2017,0.0
+Manhattan,5,xmastree,8,2017,0.0
+Manhattan,6,xmastree,8,2017,0.0
+Manhattan,7,xmastree,8,2017,0.0
+Manhattan,8,xmastree,8,2017,0.0
+Manhattan,9,xmastree,8,2017,0.0
+Manhattan,10,xmastree,8,2017,0.0
+Manhattan,11,xmastree,8,2017,0.0
+Manhattan,12,xmastree,8,2017,0.0
+Queens,1,xmastree,8,2017,0.0
+Queens,2,xmastree,8,2017,0.0
+Queens,3,xmastree,8,2017,0.0
+Queens,4,xmastree,8,2017,0.0
+Queens,5,xmastree,8,2017,0.0
+Queens,6,xmastree,8,2017,0.0
+Queens,7,xmastree,8,2017,0.0
+Queens,8,xmastree,8,2017,0.0
+Queens,9,xmastree,8,2017,0.0
+Queens,10,xmastree,8,2017,0.0
+Queens,11,xmastree,8,2017,0.0
+Queens,12,xmastree,8,2017,0.0
+Queens,13,xmastree,8,2017,0.0
+Queens,14,xmastree,8,2017,0.0
+Staten Island,1,xmastree,8,2017,0.0
+Staten Island,2,xmastree,8,2017,0.0
+Staten Island,3,xmastree,8,2017,0.0
+Bronx,1,xmastree,7,2017,0.0
+Bronx,2,xmastree,7,2017,0.0
+Bronx,3,xmastree,7,2017,0.0
+Bronx,4,xmastree,7,2017,0.0
+Bronx,5,xmastree,7,2017,0.0
+Bronx,6,xmastree,7,2017,0.0
+Bronx,7,xmastree,7,2017,0.0
+Bronx,8,xmastree,7,2017,0.0
+Bronx,9,xmastree,7,2017,0.0
+Bronx,10,xmastree,7,2017,0.0
+Bronx,11,xmastree,7,2017,0.0
+Bronx,12,xmastree,7,2017,0.0
+Brooklyn,1,xmastree,7,2017,0.0
+Brooklyn,2,xmastree,7,2017,0.0
+Brooklyn,3,xmastree,7,2017,0.0
+Brooklyn,4,xmastree,7,2017,0.0
+Brooklyn,5,xmastree,7,2017,0.0
+Brooklyn,6,xmastree,7,2017,0.0
+Brooklyn,7,xmastree,7,2017,0.0
+Brooklyn,8,xmastree,7,2017,0.0
+Brooklyn,9,xmastree,7,2017,0.0
+Brooklyn,10,xmastree,7,2017,0.0
+Brooklyn,11,xmastree,7,2017,0.0
+Brooklyn,12,xmastree,7,2017,0.0
+Brooklyn,13,xmastree,7,2017,0.0
+Brooklyn,14,xmastree,7,2017,0.0
+Brooklyn,15,xmastree,7,2017,0.0
+Brooklyn,16,xmastree,7,2017,0.0
+Brooklyn,17,xmastree,7,2017,0.0
+Brooklyn,18,xmastree,7,2017,0.0
+Manhattan,1,xmastree,7,2017,0.0
+Manhattan,2,xmastree,7,2017,0.0
+Manhattan,3,xmastree,7,2017,0.0
+Manhattan,4,xmastree,7,2017,0.0
+Manhattan,5,xmastree,7,2017,0.0
+Manhattan,6,xmastree,7,2017,0.0
+Manhattan,7,xmastree,7,2017,0.0
+Manhattan,8,xmastree,7,2017,0.0
+Manhattan,9,xmastree,7,2017,0.0
+Manhattan,10,xmastree,7,2017,0.0
+Manhattan,11,xmastree,7,2017,0.0
+Manhattan,12,xmastree,7,2017,0.0
+Queens,1,xmastree,7,2017,0.0
+Queens,2,xmastree,7,2017,0.0
+Queens,3,xmastree,7,2017,0.0
+Queens,4,xmastree,7,2017,0.0
+Queens,5,xmastree,7,2017,0.0
+Queens,6,xmastree,7,2017,0.0
+Queens,7,xmastree,7,2017,0.0
+Queens,8,xmastree,7,2017,0.0
+Queens,9,xmastree,7,2017,0.0
+Queens,10,xmastree,7,2017,0.0
+Queens,11,xmastree,7,2017,0.0
+Queens,12,xmastree,7,2017,0.0
+Queens,13,xmastree,7,2017,0.0
+Queens,14,xmastree,7,2017,0.0
+Staten Island,1,xmastree,7,2017,0.0
+Staten Island,2,xmastree,7,2017,0.0
+Staten Island,3,xmastree,7,2017,0.0
+Bronx,1,xmastree,6,2017,0.0
+Bronx,2,xmastree,6,2017,0.0
+Bronx,3,xmastree,6,2017,0.0
+Bronx,4,xmastree,6,2017,0.0
+Bronx,5,xmastree,6,2017,0.0
+Bronx,6,xmastree,6,2017,0.0
+Bronx,7,xmastree,6,2017,0.0
+Bronx,8,xmastree,6,2017,0.0
+Bronx,9,xmastree,6,2017,0.0
+Bronx,10,xmastree,6,2017,0.0
+Bronx,11,xmastree,6,2017,0.0
+Bronx,12,xmastree,6,2017,0.0
+Brooklyn,1,xmastree,6,2017,0.0
+Brooklyn,2,xmastree,6,2017,0.0
+Brooklyn,3,xmastree,6,2017,0.0
+Brooklyn,4,xmastree,6,2017,0.0
+Brooklyn,5,xmastree,6,2017,0.0
+Brooklyn,6,xmastree,6,2017,0.0
+Brooklyn,7,xmastree,6,2017,0.0
+Brooklyn,8,xmastree,6,2017,0.0
+Brooklyn,9,xmastree,6,2017,0.0
+Brooklyn,10,xmastree,6,2017,0.0
+Brooklyn,11,xmastree,6,2017,0.0
+Brooklyn,12,xmastree,6,2017,0.0
+Brooklyn,13,xmastree,6,2017,0.0
+Brooklyn,14,xmastree,6,2017,0.0
+Brooklyn,15,xmastree,6,2017,0.0
+Brooklyn,16,xmastree,6,2017,0.0
+Brooklyn,17,xmastree,6,2017,0.0
+Brooklyn,18,xmastree,6,2017,0.0
+Manhattan,1,xmastree,6,2017,0.0
+Manhattan,2,xmastree,6,2017,0.0
+Manhattan,3,xmastree,6,2017,0.0
+Manhattan,4,xmastree,6,2017,0.0
+Manhattan,5,xmastree,6,2017,0.0
+Manhattan,6,xmastree,6,2017,0.0
+Manhattan,7,xmastree,6,2017,0.0
+Manhattan,8,xmastree,6,2017,0.0
+Manhattan,9,xmastree,6,2017,0.0
+Manhattan,10,xmastree,6,2017,0.0
+Manhattan,11,xmastree,6,2017,0.0
+Manhattan,12,xmastree,6,2017,0.0
+Queens,1,xmastree,6,2017,0.0
+Queens,2,xmastree,6,2017,0.0
+Queens,3,xmastree,6,2017,0.0
+Queens,4,xmastree,6,2017,0.0
+Queens,5,xmastree,6,2017,0.0
+Queens,6,xmastree,6,2017,0.0
+Queens,7,xmastree,6,2017,0.0
+Queens,8,xmastree,6,2017,0.0
+Queens,9,xmastree,6,2017,0.0
+Queens,10,xmastree,6,2017,0.0
+Queens,11,xmastree,6,2017,0.0
+Queens,12,xmastree,6,2017,0.0
+Queens,13,xmastree,6,2017,0.0
+Queens,14,xmastree,6,2017,0.0
+Staten Island,1,xmastree,6,2017,0.0
+Staten Island,2,xmastree,6,2017,0.0
+Staten Island,3,xmastree,6,2017,0.0
+Bronx,1,xmastree,5,2017,0.0
+Bronx,2,xmastree,5,2017,0.0
+Bronx,3,xmastree,5,2017,0.0
+Bronx,4,xmastree,5,2017,0.0
+Bronx,5,xmastree,5,2017,0.0
+Bronx,6,xmastree,5,2017,0.0
+Bronx,7,xmastree,5,2017,0.0
+Bronx,8,xmastree,5,2017,0.0
+Bronx,9,xmastree,5,2017,0.0
+Bronx,10,xmastree,5,2017,0.0
+Bronx,11,xmastree,5,2017,0.0
+Bronx,12,xmastree,5,2017,0.0
+Brooklyn,1,xmastree,5,2017,0.0
+Brooklyn,2,xmastree,5,2017,0.0
+Brooklyn,3,xmastree,5,2017,0.0
+Brooklyn,4,xmastree,5,2017,0.0
+Brooklyn,5,xmastree,5,2017,0.0
+Brooklyn,6,xmastree,5,2017,0.0
+Brooklyn,7,xmastree,5,2017,0.0
+Brooklyn,8,xmastree,5,2017,0.0
+Brooklyn,9,xmastree,5,2017,0.0
+Brooklyn,10,xmastree,5,2017,0.0
+Brooklyn,11,xmastree,5,2017,0.0
+Brooklyn,12,xmastree,5,2017,0.0
+Brooklyn,13,xmastree,5,2017,0.0
+Brooklyn,14,xmastree,5,2017,0.0
+Brooklyn,15,xmastree,5,2017,0.0
+Brooklyn,16,xmastree,5,2017,0.0
+Brooklyn,17,xmastree,5,2017,0.0
+Brooklyn,18,xmastree,5,2017,0.0
+Manhattan,1,xmastree,5,2017,0.0
+Manhattan,2,xmastree,5,2017,0.0
+Manhattan,3,xmastree,5,2017,0.0
+Manhattan,4,xmastree,5,2017,0.0
+Manhattan,5,xmastree,5,2017,0.0
+Manhattan,6,xmastree,5,2017,0.0
+Manhattan,7,xmastree,5,2017,0.0
+Manhattan,8,xmastree,5,2017,0.0
+Manhattan,9,xmastree,5,2017,0.0
+Manhattan,10,xmastree,5,2017,0.0
+Manhattan,11,xmastree,5,2017,0.0
+Manhattan,12,xmastree,5,2017,0.0
+Queens,1,xmastree,5,2017,0.0
+Queens,2,xmastree,5,2017,0.0
+Queens,3,xmastree,5,2017,0.0
+Queens,4,xmastree,5,2017,0.0
+Queens,5,xmastree,5,2017,0.0
+Queens,6,xmastree,5,2017,0.0
+Queens,7,xmastree,5,2017,0.0
+Queens,8,xmastree,5,2017,0.0
+Queens,9,xmastree,5,2017,0.0
+Queens,10,xmastree,5,2017,0.0
+Queens,11,xmastree,5,2017,0.0
+Queens,12,xmastree,5,2017,0.0
+Queens,13,xmastree,5,2017,0.0
+Queens,14,xmastree,5,2017,0.0
+Staten Island,1,xmastree,5,2017,0.0
+Staten Island,2,xmastree,5,2017,0.0
+Staten Island,3,xmastree,5,2017,0.0
+Bronx,1,xmastree,4,2017,0.0
+Bronx,2,xmastree,4,2017,0.0
+Bronx,3,xmastree,4,2017,0.0
+Bronx,4,xmastree,4,2017,0.0
+Bronx,5,xmastree,4,2017,0.0
+Bronx,6,xmastree,4,2017,0.0
+Bronx,7,xmastree,4,2017,0.0
+Bronx,8,xmastree,4,2017,0.0
+Bronx,9,xmastree,4,2017,0.0
+Bronx,10,xmastree,4,2017,0.0
+Bronx,11,xmastree,4,2017,0.0
+Bronx,12,xmastree,4,2017,0.0
+Brooklyn,1,xmastree,4,2017,0.0
+Brooklyn,2,xmastree,4,2017,0.0
+Brooklyn,3,xmastree,4,2017,0.0
+Brooklyn,4,xmastree,4,2017,0.0
+Brooklyn,5,xmastree,4,2017,0.0
+Brooklyn,6,xmastree,4,2017,0.0
+Brooklyn,7,xmastree,4,2017,0.0
+Brooklyn,8,xmastree,4,2017,0.0
+Brooklyn,9,xmastree,4,2017,0.0
+Brooklyn,10,xmastree,4,2017,0.0
+Brooklyn,11,xmastree,4,2017,0.0
+Brooklyn,12,xmastree,4,2017,0.0
+Brooklyn,13,xmastree,4,2017,0.0
+Brooklyn,14,xmastree,4,2017,0.0
+Brooklyn,15,xmastree,4,2017,0.0
+Brooklyn,16,xmastree,4,2017,0.0
+Brooklyn,17,xmastree,4,2017,0.0
+Brooklyn,18,xmastree,4,2017,0.0
+Manhattan,1,xmastree,4,2017,0.0
+Manhattan,2,xmastree,4,2017,0.0
+Manhattan,3,xmastree,4,2017,0.0
+Manhattan,4,xmastree,4,2017,0.0
+Manhattan,5,xmastree,4,2017,0.0
+Manhattan,6,xmastree,4,2017,0.0
+Manhattan,7,xmastree,4,2017,0.0
+Manhattan,8,xmastree,4,2017,0.0
+Manhattan,9,xmastree,4,2017,0.0
+Manhattan,10,xmastree,4,2017,0.0
+Manhattan,11,xmastree,4,2017,0.0
+Manhattan,12,xmastree,4,2017,0.0
+Queens,1,xmastree,4,2017,0.0
+Queens,2,xmastree,4,2017,0.0
+Queens,3,xmastree,4,2017,0.0
+Queens,4,xmastree,4,2017,0.0
+Queens,5,xmastree,4,2017,0.0
+Queens,6,xmastree,4,2017,0.0
+Queens,7,xmastree,4,2017,0.0
+Queens,8,xmastree,4,2017,0.0
+Queens,9,xmastree,4,2017,0.0
+Queens,10,xmastree,4,2017,0.0
+Queens,11,xmastree,4,2017,0.0
+Queens,12,xmastree,4,2017,0.0
+Queens,13,xmastree,4,2017,0.0
+Queens,14,xmastree,4,2017,0.0
+Staten Island,1,xmastree,4,2017,0.0
+Staten Island,2,xmastree,4,2017,0.0
+Staten Island,3,xmastree,4,2017,0.0
+Bronx,1,xmastree,3,2017,0.0
+Bronx,2,xmastree,3,2017,0.0
+Bronx,3,xmastree,3,2017,0.0
+Bronx,4,xmastree,3,2017,0.0
+Bronx,5,xmastree,3,2017,0.0
+Bronx,6,xmastree,3,2017,0.0
+Bronx,7,xmastree,3,2017,0.0
+Bronx,8,xmastree,3,2017,0.0
+Bronx,9,xmastree,3,2017,0.0
+Bronx,10,xmastree,3,2017,0.0
+Bronx,11,xmastree,3,2017,0.0
+Bronx,12,xmastree,3,2017,0.0
+Brooklyn,1,xmastree,3,2017,0.0
+Brooklyn,2,xmastree,3,2017,0.0
+Brooklyn,3,xmastree,3,2017,0.0
+Brooklyn,4,xmastree,3,2017,0.0
+Brooklyn,5,xmastree,3,2017,0.0
+Brooklyn,6,xmastree,3,2017,0.0
+Brooklyn,7,xmastree,3,2017,0.0
+Brooklyn,8,xmastree,3,2017,0.0
+Brooklyn,9,xmastree,3,2017,0.0
+Brooklyn,10,xmastree,3,2017,0.0
+Brooklyn,11,xmastree,3,2017,0.0
+Brooklyn,12,xmastree,3,2017,0.0
+Brooklyn,13,xmastree,3,2017,0.0
+Brooklyn,14,xmastree,3,2017,0.0
+Brooklyn,15,xmastree,3,2017,0.0
+Brooklyn,16,xmastree,3,2017,0.0
+Brooklyn,17,xmastree,3,2017,0.0
+Brooklyn,18,xmastree,3,2017,0.0
+Manhattan,1,xmastree,3,2017,0.0
+Manhattan,2,xmastree,3,2017,0.0
+Manhattan,3,xmastree,3,2017,0.0
+Manhattan,4,xmastree,3,2017,0.0
+Manhattan,5,xmastree,3,2017,0.0
+Manhattan,6,xmastree,3,2017,0.0
+Manhattan,7,xmastree,3,2017,0.0
+Manhattan,8,xmastree,3,2017,0.0
+Manhattan,9,xmastree,3,2017,0.0
+Manhattan,10,xmastree,3,2017,0.0
+Manhattan,11,xmastree,3,2017,0.0
+Manhattan,12,xmastree,3,2017,0.0
+Queens,1,xmastree,3,2017,0.0
+Queens,2,xmastree,3,2017,0.0
+Queens,3,xmastree,3,2017,0.0
+Queens,4,xmastree,3,2017,0.0
+Queens,5,xmastree,3,2017,0.0
+Queens,6,xmastree,3,2017,0.0
+Queens,7,xmastree,3,2017,0.0
+Queens,8,xmastree,3,2017,0.0
+Queens,9,xmastree,3,2017,0.0
+Queens,10,xmastree,3,2017,0.0
+Queens,11,xmastree,3,2017,0.0
+Queens,12,xmastree,3,2017,0.0
+Queens,13,xmastree,3,2017,0.0
+Queens,14,xmastree,3,2017,0.0
+Staten Island,1,xmastree,3,2017,0.0
+Staten Island,2,xmastree,3,2017,0.0
+Staten Island,3,xmastree,3,2017,0.0
+Bronx,1,xmastree,2,2017,0.0
+Bronx,2,xmastree,2,2017,0.0
+Bronx,3,xmastree,2,2017,0.0
+Bronx,4,xmastree,2,2017,0.0
+Bronx,5,xmastree,2,2017,0.0
+Bronx,6,xmastree,2,2017,0.0
+Bronx,7,xmastree,2,2017,0.0
+Bronx,8,xmastree,2,2017,0.0
+Bronx,9,xmastree,2,2017,0.0
+Bronx,10,xmastree,2,2017,0.0
+Bronx,11,xmastree,2,2017,0.0
+Bronx,12,xmastree,2,2017,0.0
+Brooklyn,1,xmastree,2,2017,0.0
+Brooklyn,2,xmastree,2,2017,0.0
+Brooklyn,3,xmastree,2,2017,0.0
+Brooklyn,4,xmastree,2,2017,0.0
+Brooklyn,5,xmastree,2,2017,0.0
+Brooklyn,6,xmastree,2,2017,0.0
+Brooklyn,7,xmastree,2,2017,0.0
+Brooklyn,8,xmastree,2,2017,0.0
+Brooklyn,9,xmastree,2,2017,0.0
+Brooklyn,10,xmastree,2,2017,0.0
+Brooklyn,11,xmastree,2,2017,0.0
+Brooklyn,12,xmastree,2,2017,0.0
+Brooklyn,13,xmastree,2,2017,0.0
+Brooklyn,14,xmastree,2,2017,0.0
+Brooklyn,15,xmastree,2,2017,0.0
+Brooklyn,16,xmastree,2,2017,0.0
+Brooklyn,17,xmastree,2,2017,0.0
+Brooklyn,18,xmastree,2,2017,0.0
+Manhattan,1,xmastree,2,2017,0.0
+Manhattan,2,xmastree,2,2017,0.0
+Manhattan,3,xmastree,2,2017,0.0
+Manhattan,4,xmastree,2,2017,0.0
+Manhattan,5,xmastree,2,2017,0.0
+Manhattan,6,xmastree,2,2017,0.0
+Manhattan,7,xmastree,2,2017,0.0
+Manhattan,8,xmastree,2,2017,0.0
+Manhattan,9,xmastree,2,2017,0.0
+Manhattan,10,xmastree,2,2017,0.0
+Manhattan,11,xmastree,2,2017,0.0
+Manhattan,12,xmastree,2,2017,0.0
+Queens,1,xmastree,2,2017,0.0
+Queens,2,xmastree,2,2017,0.0
+Queens,3,xmastree,2,2017,0.0
+Queens,4,xmastree,2,2017,0.0
+Queens,5,xmastree,2,2017,0.0
+Queens,6,xmastree,2,2017,0.0
+Queens,7,xmastree,2,2017,0.0
+Queens,8,xmastree,2,2017,0.0
+Queens,9,xmastree,2,2017,0.0
+Queens,10,xmastree,2,2017,0.0
+Queens,11,xmastree,2,2017,0.0
+Queens,12,xmastree,2,2017,0.0
+Queens,13,xmastree,2,2017,0.0
+Queens,14,xmastree,2,2017,0.0
+Staten Island,1,xmastree,2,2017,0.0
+Staten Island,2,xmastree,2,2017,0.0
+Staten Island,3,xmastree,2,2017,0.0
+Bronx,1,xmastree,1,2017,6.8
+Bronx,2,xmastree,1,2017,13.5
+Bronx,3,xmastree,1,2017,6.3
+Bronx,4,xmastree,1,2017,12.4
+Bronx,5,xmastree,1,2017,11.4
+Bronx,6,xmastree,1,2017,9.2
+Bronx,7,xmastree,1,2017,19.5
+Bronx,8,xmastree,1,2017,32.4
+Bronx,9,xmastree,1,2017,34.3
+Bronx,10,xmastree,1,2017,22.4
+Bronx,11,xmastree,1,2017,21.5
+Bronx,12,xmastree,1,2017,13.5
+Brooklyn,1,xmastree,1,2017,51.7
+Brooklyn,2,xmastree,1,2017,63.2
+Brooklyn,3,xmastree,1,2017,24.5
+Brooklyn,4,xmastree,1,2017,12.2
+Brooklyn,5,xmastree,1,2017,9.4
+Brooklyn,6,xmastree,1,2017,89.0
+Brooklyn,7,xmastree,1,2017,34.4
+Brooklyn,8,xmastree,1,2017,28.5
+Brooklyn,9,xmastree,1,2017,12.0
+Brooklyn,10,xmastree,1,2017,65.5
+Brooklyn,11,xmastree,1,2017,33.4
+Brooklyn,12,xmastree,1,2017,12.6
+Brooklyn,13,xmastree,1,2017,16.7
+Brooklyn,14,xmastree,1,2017,19.7
+Brooklyn,15,xmastree,1,2017,22.3
+Brooklyn,16,xmastree,1,2017,4.1
+Brooklyn,17,xmastree,1,2017,10.8
+Brooklyn,18,xmastree,1,2017,35.6
+Manhattan,1,xmastree,1,2017,16.0
+Manhattan,2,xmastree,1,2017,54.6
+Manhattan,3,xmastree,1,2017,41.4
+Manhattan,4,xmastree,1,2017,40.5
+Manhattan,5,xmastree,1,2017,28.0
+Manhattan,6,xmastree,1,2017,39.5
+Manhattan,7,xmastree,1,2017,93.9
+Manhattan,8,xmastree,1,2017,185.0
+Manhattan,9,xmastree,1,2017,28.7
+Manhattan,10,xmastree,1,2017,37.8
+Manhattan,11,xmastree,1,2017,15.0
+Manhattan,12,xmastree,1,2017,44.8
+Queens,1,xmastree,1,2017,46.8
+Queens,2,xmastree,1,2017,45.6
+Queens,3,xmastree,1,2017,22.0
+Queens,4,xmastree,1,2017,16.5
+Queens,5,xmastree,1,2017,75.0
+Queens,6,xmastree,1,2017,20.4
+Queens,7,xmastree,1,2017,46.8
+Queens,8,xmastree,1,2017,18.0
+Queens,9,xmastree,1,2017,36.0
+Queens,10,xmastree,1,2017,41.3
+Queens,11,xmastree,1,2017,51.0
+Queens,12,xmastree,1,2017,21.6
+Queens,13,xmastree,1,2017,35.0
+Queens,14,xmastree,1,2017,39.4
+Staten Island,1,xmastree,1,2017,65.9
+Staten Island,2,xmastree,1,2017,49.4
+Staten Island,3,xmastree,1,2017,72.2
+Bronx,1,other organics,12,2017,0.0
+Bronx,2,other organics,12,2017,0.0
+Bronx,3,other organics,12,2017,0.0
+Bronx,4,other organics,12,2017,0.0
+Bronx,5,other organics,12,2017,0.0
+Bronx,6,other organics,12,2017,0.0
+Bronx,7,other organics,12,2017,0.0
+Bronx,8,other organics,12,2017,0.0
+Bronx,9,other organics,12,2017,0.0
+Bronx,10,other organics,12,2017,0.0
+Bronx,11,other organics,12,2017,0.0
+Bronx,12,other organics,12,2017,0.0
+Brooklyn,1,other organics,12,2017,0.0
+Brooklyn,2,other organics,12,2017,0.0
+Brooklyn,3,other organics,12,2017,0.0
+Brooklyn,4,other organics,12,2017,0.0
+Brooklyn,5,other organics,12,2017,0.0
+Brooklyn,6,other organics,12,2017,10.1
+Brooklyn,7,other organics,12,2017,0.0
+Brooklyn,8,other organics,12,2017,0.0
+Brooklyn,9,other organics,12,2017,0.0
+Brooklyn,10,other organics,12,2017,0.0
+Brooklyn,11,other organics,12,2017,0.0
+Brooklyn,12,other organics,12,2017,0.0
+Brooklyn,13,other organics,12,2017,0.0
+Brooklyn,14,other organics,12,2017,0.0
+Brooklyn,15,other organics,12,2017,0.0
+Brooklyn,16,other organics,12,2017,0.0
+Brooklyn,17,other organics,12,2017,0.0
+Brooklyn,18,other organics,12,2017,0.0
+Manhattan,1,other organics,12,2017,0.0
+Manhattan,2,other organics,12,2017,0.0
+Manhattan,3,other organics,12,2017,7.8
+Manhattan,4,other organics,12,2017,0.0
+Manhattan,5,other organics,12,2017,0.0
+Manhattan,6,other organics,12,2017,0.0
+Manhattan,7,other organics,12,2017,6.9
+Manhattan,8,other organics,12,2017,0.0
+Manhattan,9,other organics,12,2017,0.0
+Manhattan,10,other organics,12,2017,11.4
+Manhattan,11,other organics,12,2017,0.0
+Manhattan,12,other organics,12,2017,0.0
+Queens,1,other organics,12,2017,0.0
+Queens,2,other organics,12,2017,0.0
+Queens,3,other organics,12,2017,0.0
+Queens,4,other organics,12,2017,0.0
+Queens,5,other organics,12,2017,0.0
+Queens,6,other organics,12,2017,0.0
+Queens,7,other organics,12,2017,0.0
+Queens,8,other organics,12,2017,0.0
+Queens,9,other organics,12,2017,0.0
+Queens,10,other organics,12,2017,0.0
+Queens,11,other organics,12,2017,0.0
+Queens,12,other organics,12,2017,0.0
+Queens,13,other organics,12,2017,0.0
+Queens,14,other organics,12,2017,0.0
+Staten Island,1,other organics,12,2017,0.0
+Staten Island,2,other organics,12,2017,14.6
+Staten Island,3,other organics,12,2017,0.0
+Bronx,1,other organics,11,2017,0.0
+Bronx,2,other organics,11,2017,0.0
+Bronx,3,other organics,11,2017,0.0
+Bronx,4,other organics,11,2017,0.0
+Bronx,5,other organics,11,2017,0.0
+Bronx,6,other organics,11,2017,0.0
+Bronx,7,other organics,11,2017,0.0
+Bronx,8,other organics,11,2017,0.0
+Bronx,9,other organics,11,2017,0.0
+Bronx,10,other organics,11,2017,0.0
+Bronx,11,other organics,11,2017,0.0
+Bronx,12,other organics,11,2017,0.0
+Brooklyn,1,other organics,11,2017,0.0
+Brooklyn,2,other organics,11,2017,0.0
+Brooklyn,3,other organics,11,2017,0.0
+Brooklyn,4,other organics,11,2017,0.0
+Brooklyn,5,other organics,11,2017,0.0
+Brooklyn,6,other organics,11,2017,10.9
+Brooklyn,7,other organics,11,2017,0.0
+Brooklyn,8,other organics,11,2017,0.0
+Brooklyn,9,other organics,11,2017,0.0
+Brooklyn,10,other organics,11,2017,0.5
+Brooklyn,11,other organics,11,2017,0.0
+Brooklyn,12,other organics,11,2017,0.0
+Brooklyn,13,other organics,11,2017,0.0
+Brooklyn,14,other organics,11,2017,0.0
+Brooklyn,15,other organics,11,2017,0.0
+Brooklyn,16,other organics,11,2017,0.0
+Brooklyn,17,other organics,11,2017,0.0
+Brooklyn,18,other organics,11,2017,0.0
+Manhattan,1,other organics,11,2017,0.0
+Manhattan,2,other organics,11,2017,0.0
+Manhattan,3,other organics,11,2017,9.1
+Manhattan,4,other organics,11,2017,0.0
+Manhattan,5,other organics,11,2017,0.0
+Manhattan,6,other organics,11,2017,0.0
+Manhattan,7,other organics,11,2017,6.9
+Manhattan,8,other organics,11,2017,0.0
+Manhattan,9,other organics,11,2017,0.0
+Manhattan,10,other organics,11,2017,13.6
+Manhattan,11,other organics,11,2017,0.0
+Manhattan,12,other organics,11,2017,0.0
+Queens,1,other organics,11,2017,0.0
+Queens,2,other organics,11,2017,0.0
+Queens,3,other organics,11,2017,0.0
+Queens,4,other organics,11,2017,0.0
+Queens,5,other organics,11,2017,0.0
+Queens,6,other organics,11,2017,0.0
+Queens,7,other organics,11,2017,0.0
+Queens,8,other organics,11,2017,0.0
+Queens,9,other organics,11,2017,0.0
+Queens,10,other organics,11,2017,0.0
+Queens,11,other organics,11,2017,0.0
+Queens,12,other organics,11,2017,0.0
+Queens,13,other organics,11,2017,0.0
+Queens,14,other organics,11,2017,0.0
+Staten Island,1,other organics,11,2017,0.0
+Staten Island,2,other organics,11,2017,1.8
+Staten Island,3,other organics,11,2017,0.0
+Bronx,1,other organics,10,2017,0.0
+Bronx,2,other organics,10,2017,0.0
+Bronx,3,other organics,10,2017,0.0
+Bronx,4,other organics,10,2017,0.0
+Bronx,5,other organics,10,2017,0.0
+Bronx,6,other organics,10,2017,0.0
+Bronx,7,other organics,10,2017,0.0
+Bronx,8,other organics,10,2017,0.0
+Bronx,9,other organics,10,2017,0.0
+Bronx,10,other organics,10,2017,0.0
+Bronx,11,other organics,10,2017,0.0
+Bronx,12,other organics,10,2017,0.0
+Brooklyn,1,other organics,10,2017,0.0
+Brooklyn,2,other organics,10,2017,0.0
+Brooklyn,3,other organics,10,2017,0.0
+Brooklyn,4,other organics,10,2017,0.0
+Brooklyn,5,other organics,10,2017,0.0
+Brooklyn,6,other organics,10,2017,12.9
+Brooklyn,7,other organics,10,2017,0.0
+Brooklyn,8,other organics,10,2017,0.0
+Brooklyn,9,other organics,10,2017,0.0
+Brooklyn,10,other organics,10,2017,1.1
+Brooklyn,11,other organics,10,2017,0.0
+Brooklyn,12,other organics,10,2017,0.0
+Brooklyn,13,other organics,10,2017,0.0
+Brooklyn,14,other organics,10,2017,0.0
+Brooklyn,15,other organics,10,2017,0.0
+Brooklyn,16,other organics,10,2017,0.0
+Brooklyn,17,other organics,10,2017,0.0
+Brooklyn,18,other organics,10,2017,0.0
+Manhattan,1,other organics,10,2017,0.0
+Manhattan,2,other organics,10,2017,0.0
+Manhattan,3,other organics,10,2017,9.4
+Manhattan,4,other organics,10,2017,0.0
+Manhattan,5,other organics,10,2017,0.0
+Manhattan,6,other organics,10,2017,0.0
+Manhattan,7,other organics,10,2017,6.6
+Manhattan,8,other organics,10,2017,0.0
+Manhattan,9,other organics,10,2017,0.0
+Manhattan,10,other organics,10,2017,14.2
+Manhattan,11,other organics,10,2017,0.0
+Manhattan,12,other organics,10,2017,0.0
+Queens,1,other organics,10,2017,0.0
+Queens,2,other organics,10,2017,0.0
+Queens,3,other organics,10,2017,0.0
+Queens,4,other organics,10,2017,0.0
+Queens,5,other organics,10,2017,0.0
+Queens,6,other organics,10,2017,0.0
+Queens,7,other organics,10,2017,0.0
+Queens,8,other organics,10,2017,0.0
+Queens,9,other organics,10,2017,0.0
+Queens,10,other organics,10,2017,0.0
+Queens,11,other organics,10,2017,0.0
+Queens,12,other organics,10,2017,0.0
+Queens,13,other organics,10,2017,0.0
+Queens,14,other organics,10,2017,0.0
+Staten Island,1,other organics,10,2017,0.0
+Staten Island,2,other organics,10,2017,2.6
+Staten Island,3,other organics,10,2017,0.0
+Bronx,1,other organics,9,2017,0.0
+Bronx,2,other organics,9,2017,0.0
+Bronx,3,other organics,9,2017,0.0
+Bronx,4,other organics,9,2017,0.0
+Bronx,5,other organics,9,2017,0.0
+Bronx,6,other organics,9,2017,0.0
+Bronx,7,other organics,9,2017,0.0
+Bronx,8,other organics,9,2017,0.0
+Bronx,9,other organics,9,2017,0.0
+Bronx,10,other organics,9,2017,0.0
+Bronx,11,other organics,9,2017,0.0
+Bronx,12,other organics,9,2017,0.0
+Brooklyn,1,other organics,9,2017,0.0
+Brooklyn,2,other organics,9,2017,0.0
+Brooklyn,3,other organics,9,2017,0.0
+Brooklyn,4,other organics,9,2017,0.0
+Brooklyn,5,other organics,9,2017,0.0
+Brooklyn,6,other organics,9,2017,10.6
+Brooklyn,7,other organics,9,2017,0.0
+Brooklyn,8,other organics,9,2017,0.0
+Brooklyn,9,other organics,9,2017,0.0
+Brooklyn,10,other organics,9,2017,2.1
+Brooklyn,11,other organics,9,2017,0.0
+Brooklyn,12,other organics,9,2017,0.0
+Brooklyn,13,other organics,9,2017,0.0
+Brooklyn,14,other organics,9,2017,0.0
+Brooklyn,15,other organics,9,2017,0.0
+Brooklyn,16,other organics,9,2017,0.0
+Brooklyn,17,other organics,9,2017,0.0
+Brooklyn,18,other organics,9,2017,0.0
+Manhattan,1,other organics,9,2017,0.0
+Manhattan,2,other organics,9,2017,0.0
+Manhattan,3,other organics,9,2017,8.9
+Manhattan,4,other organics,9,2017,0.0
+Manhattan,5,other organics,9,2017,0.0
+Manhattan,6,other organics,9,2017,0.0
+Manhattan,7,other organics,9,2017,8.6
+Manhattan,8,other organics,9,2017,0.0
+Manhattan,9,other organics,9,2017,0.0
+Manhattan,10,other organics,9,2017,11.8
+Manhattan,11,other organics,9,2017,0.0
+Manhattan,12,other organics,9,2017,0.0
+Queens,1,other organics,9,2017,0.0
+Queens,2,other organics,9,2017,0.0
+Queens,3,other organics,9,2017,0.0
+Queens,4,other organics,9,2017,0.0
+Queens,5,other organics,9,2017,0.0
+Queens,6,other organics,9,2017,0.0
+Queens,7,other organics,9,2017,0.0
+Queens,8,other organics,9,2017,0.0
+Queens,9,other organics,9,2017,0.0
+Queens,10,other organics,9,2017,0.0
+Queens,11,other organics,9,2017,0.0
+Queens,12,other organics,9,2017,0.0
+Queens,13,other organics,9,2017,0.0
+Queens,14,other organics,9,2017,0.0
+Staten Island,1,other organics,9,2017,0.0
+Staten Island,2,other organics,9,2017,3.8
+Staten Island,3,other organics,9,2017,0.0
+Bronx,1,other organics,8,2017,0.0
+Bronx,2,other organics,8,2017,0.0
+Bronx,3,other organics,8,2017,0.0
+Bronx,4,other organics,8,2017,0.0
+Bronx,5,other organics,8,2017,0.0
+Bronx,6,other organics,8,2017,0.0
+Bronx,7,other organics,8,2017,0.0
+Bronx,8,other organics,8,2017,0.0
+Bronx,9,other organics,8,2017,0.0
+Bronx,10,other organics,8,2017,0.0
+Bronx,11,other organics,8,2017,0.0
+Bronx,12,other organics,8,2017,0.0
+Brooklyn,1,other organics,8,2017,0.0
+Brooklyn,2,other organics,8,2017,0.0
+Brooklyn,3,other organics,8,2017,0.0
+Brooklyn,4,other organics,8,2017,0.0
+Brooklyn,5,other organics,8,2017,0.0
+Brooklyn,6,other organics,8,2017,9.7
+Brooklyn,7,other organics,8,2017,0.0
+Brooklyn,8,other organics,8,2017,0.0
+Brooklyn,9,other organics,8,2017,0.0
+Brooklyn,10,other organics,8,2017,1.8
+Brooklyn,11,other organics,8,2017,0.0
+Brooklyn,12,other organics,8,2017,0.0
+Brooklyn,13,other organics,8,2017,0.0
+Brooklyn,14,other organics,8,2017,0.0
+Brooklyn,15,other organics,8,2017,0.0
+Brooklyn,16,other organics,8,2017,0.0
+Brooklyn,17,other organics,8,2017,0.0
+Brooklyn,18,other organics,8,2017,0.0
+Manhattan,1,other organics,8,2017,0.0
+Manhattan,2,other organics,8,2017,0.2
+Manhattan,3,other organics,8,2017,7.3
+Manhattan,4,other organics,8,2017,0.0
+Manhattan,5,other organics,8,2017,0.0
+Manhattan,6,other organics,8,2017,0.0
+Manhattan,7,other organics,8,2017,6.5
+Manhattan,8,other organics,8,2017,0.0
+Manhattan,9,other organics,8,2017,0.0
+Manhattan,10,other organics,8,2017,9.8
+Manhattan,11,other organics,8,2017,0.0
+Manhattan,12,other organics,8,2017,0.0
+Queens,1,other organics,8,2017,0.0
+Queens,2,other organics,8,2017,0.0
+Queens,3,other organics,8,2017,0.0
+Queens,4,other organics,8,2017,0.0
+Queens,5,other organics,8,2017,0.0
+Queens,6,other organics,8,2017,0.0
+Queens,7,other organics,8,2017,0.0
+Queens,8,other organics,8,2017,0.0
+Queens,9,other organics,8,2017,0.0
+Queens,10,other organics,8,2017,0.0
+Queens,11,other organics,8,2017,0.0
+Queens,12,other organics,8,2017,0.0
+Queens,13,other organics,8,2017,0.0
+Queens,14,other organics,8,2017,0.0
+Staten Island,1,other organics,8,2017,0.0
+Staten Island,2,other organics,8,2017,3.1
+Staten Island,3,other organics,8,2017,0.0
+Bronx,1,other organics,7,2017,0.0
+Bronx,2,other organics,7,2017,0.0
+Bronx,3,other organics,7,2017,0.0
+Bronx,4,other organics,7,2017,0.0
+Bronx,5,other organics,7,2017,0.0
+Bronx,6,other organics,7,2017,0.0
+Bronx,7,other organics,7,2017,0.0
+Bronx,8,other organics,7,2017,0.0
+Bronx,9,other organics,7,2017,0.0
+Bronx,10,other organics,7,2017,0.0
+Bronx,11,other organics,7,2017,0.0
+Bronx,12,other organics,7,2017,0.0
+Brooklyn,1,other organics,7,2017,0.0
+Brooklyn,2,other organics,7,2017,0.0
+Brooklyn,3,other organics,7,2017,0.0
+Brooklyn,4,other organics,7,2017,0.0
+Brooklyn,5,other organics,7,2017,0.0
+Brooklyn,6,other organics,7,2017,11.2
+Brooklyn,7,other organics,7,2017,0.0
+Brooklyn,8,other organics,7,2017,0.0
+Brooklyn,9,other organics,7,2017,0.0
+Brooklyn,10,other organics,7,2017,1.1
+Brooklyn,11,other organics,7,2017,0.0
+Brooklyn,12,other organics,7,2017,0.0
+Brooklyn,13,other organics,7,2017,0.0
+Brooklyn,14,other organics,7,2017,0.0
+Brooklyn,15,other organics,7,2017,0.0
+Brooklyn,16,other organics,7,2017,0.0
+Brooklyn,17,other organics,7,2017,0.0
+Brooklyn,18,other organics,7,2017,0.0
+Manhattan,1,other organics,7,2017,0.0
+Manhattan,2,other organics,7,2017,0.0
+Manhattan,3,other organics,7,2017,9.4
+Manhattan,4,other organics,7,2017,0.0
+Manhattan,5,other organics,7,2017,0.0
+Manhattan,6,other organics,7,2017,0.0
+Manhattan,7,other organics,7,2017,8.0
+Manhattan,8,other organics,7,2017,0.0
+Manhattan,9,other organics,7,2017,0.0
+Manhattan,10,other organics,7,2017,12.6
+Manhattan,11,other organics,7,2017,0.0
+Manhattan,12,other organics,7,2017,0.0
+Queens,1,other organics,7,2017,0.0
+Queens,2,other organics,7,2017,0.0
+Queens,3,other organics,7,2017,0.0
+Queens,4,other organics,7,2017,0.0
+Queens,5,other organics,7,2017,0.0
+Queens,6,other organics,7,2017,0.0
+Queens,7,other organics,7,2017,0.0
+Queens,8,other organics,7,2017,0.0
+Queens,9,other organics,7,2017,0.0
+Queens,10,other organics,7,2017,0.0
+Queens,11,other organics,7,2017,0.0
+Queens,12,other organics,7,2017,0.0
+Queens,13,other organics,7,2017,0.0
+Queens,14,other organics,7,2017,0.0
+Staten Island,1,other organics,7,2017,0.0
+Staten Island,2,other organics,7,2017,3.7
+Staten Island,3,other organics,7,2017,0.0
+Bronx,1,other organics,6,2017,0.0
+Bronx,2,other organics,6,2017,0.0
+Bronx,3,other organics,6,2017,0.0
+Bronx,4,other organics,6,2017,0.0
+Bronx,5,other organics,6,2017,0.0
+Bronx,6,other organics,6,2017,0.0
+Bronx,7,other organics,6,2017,0.0
+Bronx,8,other organics,6,2017,0.0
+Bronx,9,other organics,6,2017,0.0
+Bronx,10,other organics,6,2017,0.0
+Bronx,11,other organics,6,2017,0.0
+Bronx,12,other organics,6,2017,0.0
+Brooklyn,1,other organics,6,2017,0.0
+Brooklyn,2,other organics,6,2017,0.0
+Brooklyn,3,other organics,6,2017,0.0
+Brooklyn,4,other organics,6,2017,0.0
+Brooklyn,5,other organics,6,2017,0.0
+Brooklyn,6,other organics,6,2017,9.4
+Brooklyn,7,other organics,6,2017,0.0
+Brooklyn,8,other organics,6,2017,0.0
+Brooklyn,9,other organics,6,2017,0.0
+Brooklyn,10,other organics,6,2017,0.6
+Brooklyn,11,other organics,6,2017,0.0
+Brooklyn,12,other organics,6,2017,0.0
+Brooklyn,13,other organics,6,2017,0.0
+Brooklyn,14,other organics,6,2017,0.0
+Brooklyn,15,other organics,6,2017,0.0
+Brooklyn,16,other organics,6,2017,0.0
+Brooklyn,17,other organics,6,2017,0.0
+Brooklyn,18,other organics,6,2017,0.0
+Manhattan,1,other organics,6,2017,0.0
+Manhattan,2,other organics,6,2017,0.0
+Manhattan,3,other organics,6,2017,6.9
+Manhattan,4,other organics,6,2017,0.0
+Manhattan,5,other organics,6,2017,0.0
+Manhattan,6,other organics,6,2017,0.0
+Manhattan,7,other organics,6,2017,6.8
+Manhattan,8,other organics,6,2017,0.0
+Manhattan,9,other organics,6,2017,0.0
+Manhattan,10,other organics,6,2017,11.3
+Manhattan,11,other organics,6,2017,0.0
+Manhattan,12,other organics,6,2017,0.0
+Queens,1,other organics,6,2017,0.0
+Queens,2,other organics,6,2017,0.0
+Queens,3,other organics,6,2017,0.0
+Queens,4,other organics,6,2017,0.0
+Queens,5,other organics,6,2017,0.0
+Queens,6,other organics,6,2017,0.0
+Queens,7,other organics,6,2017,0.0
+Queens,8,other organics,6,2017,0.0
+Queens,9,other organics,6,2017,0.0
+Queens,10,other organics,6,2017,0.0
+Queens,11,other organics,6,2017,0.0
+Queens,12,other organics,6,2017,0.0
+Queens,13,other organics,6,2017,0.0
+Queens,14,other organics,6,2017,0.0
+Staten Island,1,other organics,6,2017,0.0
+Staten Island,2,other organics,6,2017,1.5
+Staten Island,3,other organics,6,2017,0.0
+Bronx,1,other organics,5,2017,0.0
+Bronx,2,other organics,5,2017,0.0
+Bronx,3,other organics,5,2017,0.0
+Bronx,4,other organics,5,2017,0.0
+Bronx,5,other organics,5,2017,0.0
+Bronx,6,other organics,5,2017,0.0
+Bronx,7,other organics,5,2017,0.0
+Bronx,8,other organics,5,2017,0.0
+Bronx,9,other organics,5,2017,0.0
+Bronx,10,other organics,5,2017,0.0
+Bronx,11,other organics,5,2017,0.0
+Bronx,12,other organics,5,2017,0.0
+Brooklyn,1,other organics,5,2017,0.0
+Brooklyn,2,other organics,5,2017,0.0
+Brooklyn,3,other organics,5,2017,0.0
+Brooklyn,4,other organics,5,2017,0.0
+Brooklyn,5,other organics,5,2017,0.0
+Brooklyn,6,other organics,5,2017,8.9
+Brooklyn,7,other organics,5,2017,0.0
+Brooklyn,8,other organics,5,2017,0.0
+Brooklyn,9,other organics,5,2017,0.0
+Brooklyn,10,other organics,5,2017,0.3
+Brooklyn,11,other organics,5,2017,0.0
+Brooklyn,12,other organics,5,2017,0.0
+Brooklyn,13,other organics,5,2017,0.0
+Brooklyn,14,other organics,5,2017,0.0
+Brooklyn,15,other organics,5,2017,0.0
+Brooklyn,16,other organics,5,2017,0.0
+Brooklyn,17,other organics,5,2017,0.0
+Brooklyn,18,other organics,5,2017,0.0
+Manhattan,1,other organics,5,2017,0.0
+Manhattan,2,other organics,5,2017,0.0
+Manhattan,3,other organics,5,2017,6.3
+Manhattan,4,other organics,5,2017,0.0
+Manhattan,5,other organics,5,2017,0.0
+Manhattan,6,other organics,5,2017,0.0
+Manhattan,7,other organics,5,2017,5.9
+Manhattan,8,other organics,5,2017,0.0
+Manhattan,9,other organics,5,2017,0.0
+Manhattan,10,other organics,5,2017,11.4
+Manhattan,11,other organics,5,2017,0.0
+Manhattan,12,other organics,5,2017,0.0
+Queens,1,other organics,5,2017,0.0
+Queens,2,other organics,5,2017,0.0
+Queens,3,other organics,5,2017,0.0
+Queens,4,other organics,5,2017,0.0
+Queens,5,other organics,5,2017,0.0
+Queens,6,other organics,5,2017,0.0
+Queens,7,other organics,5,2017,0.0
+Queens,8,other organics,5,2017,0.0
+Queens,9,other organics,5,2017,0.0
+Queens,10,other organics,5,2017,0.0
+Queens,11,other organics,5,2017,0.0
+Queens,12,other organics,5,2017,0.0
+Queens,13,other organics,5,2017,0.0
+Queens,14,other organics,5,2017,0.0
+Staten Island,1,other organics,5,2017,0.0
+Staten Island,2,other organics,5,2017,1.1
+Staten Island,3,other organics,5,2017,0.0
+Bronx,1,other organics,4,2017,0.0
+Bronx,2,other organics,4,2017,0.0
+Bronx,3,other organics,4,2017,0.0
+Bronx,4,other organics,4,2017,0.0
+Bronx,5,other organics,4,2017,0.0
+Bronx,6,other organics,4,2017,0.0
+Bronx,7,other organics,4,2017,0.0
+Bronx,8,other organics,4,2017,0.0
+Bronx,9,other organics,4,2017,0.0
+Bronx,10,other organics,4,2017,0.0
+Bronx,11,other organics,4,2017,0.0
+Bronx,12,other organics,4,2017,0.0
+Brooklyn,1,other organics,4,2017,0.0
+Brooklyn,2,other organics,4,2017,0.0
+Brooklyn,3,other organics,4,2017,0.0
+Brooklyn,4,other organics,4,2017,0.0
+Brooklyn,5,other organics,4,2017,0.0
+Brooklyn,6,other organics,4,2017,11.8
+Brooklyn,7,other organics,4,2017,0.0
+Brooklyn,8,other organics,4,2017,0.0
+Brooklyn,9,other organics,4,2017,0.0
+Brooklyn,10,other organics,4,2017,0.0
+Brooklyn,11,other organics,4,2017,0.0
+Brooklyn,12,other organics,4,2017,0.0
+Brooklyn,13,other organics,4,2017,0.0
+Brooklyn,14,other organics,4,2017,0.0
+Brooklyn,15,other organics,4,2017,0.0
+Brooklyn,16,other organics,4,2017,0.0
+Brooklyn,17,other organics,4,2017,0.0
+Brooklyn,18,other organics,4,2017,0.0
+Manhattan,1,other organics,4,2017,0.0
+Manhattan,2,other organics,4,2017,0.0
+Manhattan,3,other organics,4,2017,8.2
+Manhattan,4,other organics,4,2017,0.0
+Manhattan,5,other organics,4,2017,0.0
+Manhattan,6,other organics,4,2017,0.0
+Manhattan,7,other organics,4,2017,7.3
+Manhattan,8,other organics,4,2017,0.0
+Manhattan,9,other organics,4,2017,0.0
+Manhattan,10,other organics,4,2017,13.4
+Manhattan,11,other organics,4,2017,0.0
+Manhattan,12,other organics,4,2017,0.0
+Queens,1,other organics,4,2017,0.0
+Queens,2,other organics,4,2017,0.0
+Queens,3,other organics,4,2017,0.0
+Queens,4,other organics,4,2017,0.0
+Queens,5,other organics,4,2017,0.0
+Queens,6,other organics,4,2017,0.0
+Queens,7,other organics,4,2017,0.0
+Queens,8,other organics,4,2017,0.0
+Queens,9,other organics,4,2017,0.0
+Queens,10,other organics,4,2017,0.0
+Queens,11,other organics,4,2017,0.0
+Queens,12,other organics,4,2017,0.0
+Queens,13,other organics,4,2017,0.0
+Queens,14,other organics,4,2017,0.0
+Staten Island,1,other organics,4,2017,0.0
+Staten Island,2,other organics,4,2017,1.0
+Staten Island,3,other organics,4,2017,0.0
+Bronx,1,other organics,3,2017,0.0
+Bronx,2,other organics,3,2017,0.0
+Bronx,3,other organics,3,2017,0.0
+Bronx,4,other organics,3,2017,0.0
+Bronx,5,other organics,3,2017,0.0
+Bronx,6,other organics,3,2017,0.0
+Bronx,7,other organics,3,2017,0.0
+Bronx,8,other organics,3,2017,0.0
+Bronx,9,other organics,3,2017,0.0
+Bronx,10,other organics,3,2017,0.0
+Bronx,11,other organics,3,2017,0.0
+Bronx,12,other organics,3,2017,0.0
+Brooklyn,1,other organics,3,2017,0.0
+Brooklyn,2,other organics,3,2017,0.0
+Brooklyn,3,other organics,3,2017,0.0
+Brooklyn,4,other organics,3,2017,0.0
+Brooklyn,5,other organics,3,2017,0.0
+Brooklyn,6,other organics,3,2017,7.4
+Brooklyn,7,other organics,3,2017,0.0
+Brooklyn,8,other organics,3,2017,0.0
+Brooklyn,9,other organics,3,2017,0.0
+Brooklyn,10,other organics,3,2017,0.0
+Brooklyn,11,other organics,3,2017,0.0
+Brooklyn,12,other organics,3,2017,0.0
+Brooklyn,13,other organics,3,2017,0.0
+Brooklyn,14,other organics,3,2017,0.0
+Brooklyn,15,other organics,3,2017,0.0
+Brooklyn,16,other organics,3,2017,0.0
+Brooklyn,17,other organics,3,2017,0.0
+Brooklyn,18,other organics,3,2017,0.0
+Manhattan,1,other organics,3,2017,0.0
+Manhattan,2,other organics,3,2017,0.0
+Manhattan,3,other organics,3,2017,6.7
+Manhattan,4,other organics,3,2017,0.0
+Manhattan,5,other organics,3,2017,0.0
+Manhattan,6,other organics,3,2017,0.0
+Manhattan,7,other organics,3,2017,5.4
+Manhattan,8,other organics,3,2017,0.0
+Manhattan,9,other organics,3,2017,0.0
+Manhattan,10,other organics,3,2017,9.7
+Manhattan,11,other organics,3,2017,0.0
+Manhattan,12,other organics,3,2017,0.0
+Queens,1,other organics,3,2017,0.0
+Queens,2,other organics,3,2017,0.0
+Queens,3,other organics,3,2017,0.0
+Queens,4,other organics,3,2017,0.0
+Queens,5,other organics,3,2017,0.0
+Queens,6,other organics,3,2017,0.0
+Queens,7,other organics,3,2017,0.0
+Queens,8,other organics,3,2017,0.0
+Queens,9,other organics,3,2017,0.0
+Queens,10,other organics,3,2017,0.0
+Queens,11,other organics,3,2017,0.0
+Queens,12,other organics,3,2017,0.0
+Queens,13,other organics,3,2017,0.0
+Queens,14,other organics,3,2017,0.0
+Staten Island,1,other organics,3,2017,0.0
+Staten Island,2,other organics,3,2017,0.6
+Staten Island,3,other organics,3,2017,0.0
+Bronx,1,other organics,2,2017,0.0
+Bronx,2,other organics,2,2017,0.0
+Bronx,3,other organics,2,2017,0.0
+Bronx,4,other organics,2,2017,0.0
+Bronx,5,other organics,2,2017,0.0
+Bronx,6,other organics,2,2017,0.0
+Bronx,7,other organics,2,2017,0.0
+Bronx,8,other organics,2,2017,0.0
+Bronx,9,other organics,2,2017,0.0
+Bronx,10,other organics,2,2017,0.0
+Bronx,11,other organics,2,2017,0.0
+Bronx,12,other organics,2,2017,0.0
+Brooklyn,1,other organics,2,2017,0.0
+Brooklyn,2,other organics,2,2017,0.0
+Brooklyn,3,other organics,2,2017,0.0
+Brooklyn,4,other organics,2,2017,0.0
+Brooklyn,5,other organics,2,2017,0.0
+Brooklyn,6,other organics,2,2017,7.4
+Brooklyn,7,other organics,2,2017,0.0
+Brooklyn,8,other organics,2,2017,0.0
+Brooklyn,9,other organics,2,2017,0.0
+Brooklyn,10,other organics,2,2017,0.0
+Brooklyn,11,other organics,2,2017,0.0
+Brooklyn,12,other organics,2,2017,0.0
+Brooklyn,13,other organics,2,2017,0.0
+Brooklyn,14,other organics,2,2017,0.0
+Brooklyn,15,other organics,2,2017,0.0
+Brooklyn,16,other organics,2,2017,0.0
+Brooklyn,17,other organics,2,2017,0.0
+Brooklyn,18,other organics,2,2017,0.0
+Manhattan,1,other organics,2,2017,0.0
+Manhattan,2,other organics,2,2017,0.0
+Manhattan,3,other organics,2,2017,6.4
+Manhattan,4,other organics,2,2017,0.0
+Manhattan,5,other organics,2,2017,0.0
+Manhattan,6,other organics,2,2017,0.0
+Manhattan,7,other organics,2,2017,5.6
+Manhattan,8,other organics,2,2017,0.0
+Manhattan,9,other organics,2,2017,0.0
+Manhattan,10,other organics,2,2017,10.7
+Manhattan,11,other organics,2,2017,0.0
+Manhattan,12,other organics,2,2017,0.0
+Queens,1,other organics,2,2017,0.0
+Queens,2,other organics,2,2017,0.0
+Queens,3,other organics,2,2017,0.0
+Queens,4,other organics,2,2017,0.0
+Queens,5,other organics,2,2017,0.0
+Queens,6,other organics,2,2017,0.0
+Queens,7,other organics,2,2017,0.0
+Queens,8,other organics,2,2017,0.0
+Queens,9,other organics,2,2017,0.0
+Queens,10,other organics,2,2017,0.0
+Queens,11,other organics,2,2017,0.0
+Queens,12,other organics,2,2017,0.0
+Queens,13,other organics,2,2017,0.0
+Queens,14,other organics,2,2017,0.0
+Staten Island,1,other organics,2,2017,0.0
+Staten Island,2,other organics,2,2017,0.8
+Staten Island,3,other organics,2,2017,0.0
+Bronx,1,other organics,1,2017,0.0
+Bronx,2,other organics,1,2017,0.0
+Bronx,3,other organics,1,2017,0.0
+Bronx,4,other organics,1,2017,0.0
+Bronx,5,other organics,1,2017,0.0
+Bronx,6,other organics,1,2017,0.0
+Bronx,7,other organics,1,2017,0.0
+Bronx,8,other organics,1,2017,0.0
+Bronx,9,other organics,1,2017,0.0
+Bronx,10,other organics,1,2017,0.0
+Bronx,11,other organics,1,2017,0.0
+Bronx,12,other organics,1,2017,0.0
+Brooklyn,1,other organics,1,2017,0.0
+Brooklyn,2,other organics,1,2017,0.0
+Brooklyn,3,other organics,1,2017,0.0
+Brooklyn,4,other organics,1,2017,0.0
+Brooklyn,5,other organics,1,2017,0.0
+Brooklyn,6,other organics,1,2017,9.5
+Brooklyn,7,other organics,1,2017,0.0
+Brooklyn,8,other organics,1,2017,0.0
+Brooklyn,9,other organics,1,2017,0.0
+Brooklyn,10,other organics,1,2017,0.0
+Brooklyn,11,other organics,1,2017,0.0
+Brooklyn,12,other organics,1,2017,0.0
+Brooklyn,13,other organics,1,2017,0.0
+Brooklyn,14,other organics,1,2017,0.0
+Brooklyn,15,other organics,1,2017,0.0
+Brooklyn,16,other organics,1,2017,0.0
+Brooklyn,17,other organics,1,2017,0.0
+Brooklyn,18,other organics,1,2017,0.0
+Manhattan,1,other organics,1,2017,0.0
+Manhattan,2,other organics,1,2017,0.0
+Manhattan,3,other organics,1,2017,6.8
+Manhattan,4,other organics,1,2017,0.0
+Manhattan,5,other organics,1,2017,0.0
+Manhattan,6,other organics,1,2017,0.0
+Manhattan,7,other organics,1,2017,5.3
+Manhattan,8,other organics,1,2017,0.0
+Manhattan,9,other organics,1,2017,0.0
+Manhattan,10,other organics,1,2017,10.2
+Manhattan,11,other organics,1,2017,0.0
+Manhattan,12,other organics,1,2017,0.0
+Queens,1,other organics,1,2017,0.0
+Queens,2,other organics,1,2017,0.0
+Queens,3,other organics,1,2017,0.0
+Queens,4,other organics,1,2017,0.0
+Queens,5,other organics,1,2017,0.0
+Queens,6,other organics,1,2017,0.0
+Queens,7,other organics,1,2017,0.0
+Queens,8,other organics,1,2017,0.0
+Queens,9,other organics,1,2017,0.0
+Queens,10,other organics,1,2017,0.0
+Queens,11,other organics,1,2017,0.0
+Queens,12,other organics,1,2017,0.0
+Queens,13,other organics,1,2017,0.0
+Queens,14,other organics,1,2017,0.0
+Staten Island,1,other organics,1,2017,0.0
+Staten Island,2,other organics,1,2017,0.7
+Staten Island,3,other organics,1,2017,0.0
